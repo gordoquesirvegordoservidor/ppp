@@ -83,3 +83,68 @@
 [15:28:32] [Server thread/INFO]: [qSeren: Summoned new Lightning Bolt]
 [15:28:32] [Server thread/INFO]: qSeren issued server command: /summon minecraft:lightning_bolt
 [15:28:32] [Server thread/INFO]: [qSeren: Summoned new Lightning Bolt]
+[15:29:33] [Server thread/INFO]: qSeren issued server command: /time set 0
+[15:29:33] [Server thread/INFO]: [qSeren: Set the time to 0]
+[15:30:01] [Server thread/INFO]: qSeren issued server command: /kill @e[type=minecraft:creeper ]
+[15:30:01] [Server thread/INFO]: [qSeren: Killed 48 entities]
+[15:31:54] [User Authenticator #1/INFO]: UUID of player SimonAbadXD is fa4f7c7f-97ce-3b01-8842-a006a2536ea7
+[15:31:55] [Server thread/INFO]: SimonAbadXD joined the game
+[15:31:55] [Server thread/INFO]: SimonAbadXD[/100.123.173.102:55354] logged in with entity id 2478 at ([world]218.5, 72.0, -266.5)
+[15:32:02] [Server thread/INFO]: qSeren issued server command: /tp SimonAbadXD
+[15:32:02] [Server thread/INFO]: [qSeren: Teleported qSeren to SimonAbadXD]
+[15:32:02] [Async Chat Thread - #0/INFO]: [Not Secure] <SimonAbadXD> server
+[15:32:05] [Server thread/INFO]: qSeren issued server command: /gamemode creative SimonAbadXD
+[15:32:05] [Server thread/INFO]: [qSeren: Set SimonAbadXD's game mode to Creative Mode]
+[15:32:08] [Server thread/INFO]: qSeren issued server command: /op SimonAbadXD
+[15:32:08] [Server thread/INFO]: [qSeren: Made SimonAbadXD a server operator]
+[15:33:03] [Server thread/INFO]: qSeren issued server command: /fill 246 70 -222
+[15:33:17] [Server thread/INFO]: qSeren issued server command: /fill 246 70 -222 ~ ~ ~ bedrock
+[15:33:17] [Server thread/INFO]: [qSeren: Successfully filled 720 block(s)]
+[15:33:29] [Server thread/INFO]: qSeren issued server command: /time set night
+[15:33:29] [Server thread/INFO]: [qSeren: Set the time to 13000]
+[15:35:48] [Server thread/INFO]: qSeren lost connection: Timed out
+[15:35:48] [Server thread/INFO]: qSeren left the game
+[15:35:56] [Server thread/INFO]: SimonAbadXD lost connection: Timed out
+[15:35:56] [Server thread/INFO]: SimonAbadXD left the game
+[15:36:16] [User Authenticator #2/INFO]: UUID of player SimonAbadXD is fa4f7c7f-97ce-3b01-8842-a006a2536ea7
+[15:36:17] [User Authenticator #2/INFO]: UUID of player qSeren is 60f425a3-b4ca-31c1-a532-8475c0b676c0
+[15:36:17] [Server thread/INFO]: SimonAbadXD joined the game
+[15:36:17] [Server thread/INFO]: SimonAbadXD[/100.123.173.102:55560] logged in with entity id 4725 at ([world]232.7594060922483, 72.85525303422831, -215.31663332770822)
+[15:36:18] [Server thread/INFO]: qSeren joined the game
+[15:36:18] [Server thread/INFO]: qSeren[/100.110.74.102:65299] logged in with entity id 4726 at ([world]235.30000001192093, 73.50525945024931, -214.36981951043228)
+[15:36:50] [Server thread/INFO]: qSeren issued server command: /kill @e
+[15:36:50] [Server thread/INFO]: qSeren was killed
+[15:36:50] [Server thread/INFO]: SimonAbadXD was killed
+[15:36:50] [Server thread/INFO]: [qSeren: Killed 641 entities]
+[15:37:12] [Server thread/INFO]: SimonAbadXD issued server command: /ban qSeren
+[15:37:12] [Server thread/INFO]: [SimonAbadXD: Banned qSeren: Banned by an operator.]
+[15:37:12] [Server thread/INFO]: qSeren lost connection: You are banned from this server
+[15:37:12] [Server thread/INFO]: qSeren left the game
+[15:37:17] [Server thread/INFO]: Banned SimonAbadXD: Banned by an operator.
+[15:37:17] [Server thread/INFO]: SimonAbadXD lost connection: You are banned from this server
+[15:37:17] [Server thread/INFO]: SimonAbadXD left the game
+[15:37:20] [Server thread/INFO]: Unbanned qSeren
+[15:37:22] [Server thread/INFO]: Unbanned SimonAbadXD
+[15:37:26] [User Authenticator #3/INFO]: UUID of player SimonAbadXD is fa4f7c7f-97ce-3b01-8842-a006a2536ea7
+[15:37:26] [Server thread/INFO]: SimonAbadXD joined the game
+[15:37:26] [Server thread/INFO]: SimonAbadXD[/100.123.173.102:55611] logged in with entity id 6779 at ([world]268.0497679939408, 74.17691517795393, -212.65653133472705)
+[15:37:27] [User Authenticator #3/INFO]: UUID of player qSeren is 60f425a3-b4ca-31c1-a532-8475c0b676c0
+[15:37:27] [Server thread/INFO]: qSeren joined the game
+[15:37:27] [Server thread/INFO]: qSeren[/100.110.74.102:65325] logged in with entity id 6790 at ([world]222.61470936997185, 71.30540119786556, -203.36342742261846)
+[15:37:33] [Server thread/INFO]: qSeren issued server command: /clear @a
+[15:37:33] [Server thread/INFO]: [qSeren: Removed 134 item(s) from 2 players]
+[15:37:42] [Server thread/INFO]: SimonAbadXD issued server command: /cojer burro
+[15:37:45] [Server thread/INFO]: qSeren issued server command: /kill @e[type=item ]
+[15:37:45] [Server thread/INFO]: [qSeren: Killed 348 entities]
+[15:37:51] [Server thread/INFO]: qSeren has made the advancement [Cover Me with Diamonds]
+[15:37:55] [Async Chat Thread - #1/INFO]: [Not Secure] <SimonAbadXD> de marca verga mejor
+[15:37:58] [Server thread/INFO]: qSeren issued server command: /tp SimonAbadXD qSeren
+[15:37:58] [Server thread/INFO]: [qSeren: Teleported SimonAbadXD to qSeren]
+[15:38:03] [Server thread/INFO]: SimonAbadXD has made the advancement [Cover Me with Diamonds]
+[15:38:12] [Server thread/INFO]: qSeren issued server command: /gamemode survival
+[15:38:12] [Server thread/INFO]: [qSeren: Set own game mode to Survival Mode]
+[15:38:14] [Server thread/INFO]: qSeren issued server command: /time set 0
+[15:38:14] [Server thread/INFO]: [qSeren: Set the time to 0]
+[15:38:24] [Server thread/INFO]: qSeren issued server command: /gamemode survival SimonAbadXD
+[15:38:24] [Server thread/INFO]: [qSeren: Set SimonAbadXD's game mode to Survival Mode]
+[15:38:28] [Server thread/INFO]: SimonAbadXD issued server command: /gmamamade croantrsadnasodqelwoandflaw
