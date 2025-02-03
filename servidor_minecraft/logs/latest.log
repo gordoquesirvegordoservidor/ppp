@@ -1,150 +1,237 @@
-[15:18:46] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
-[15:18:46] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
-[15:18:46] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[15:18:46] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
-[15:18:47] [Paper Plugin Remapper Thread - 0/INFO]: [ReobfServer] Remapping server...
-[15:18:52] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[15:18:52] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
-[15:18:52] [ServerMain/INFO]: Found new data pack paper, loading it automatically
-[15:18:54] [ServerMain/INFO]: No existing world data, creating new world
-[15:18:55] [ServerMain/INFO]: Loaded 1290 recipes
-[15:18:55] [ServerMain/INFO]: Loaded 1399 advancements
-[15:18:56] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[15:18:56] [Server thread/INFO]: Loading properties
-[15:18:56] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
-[15:18:56] [Paper Plugin Remapper Thread - 0/INFO]: [ReobfServer] Done remapping server in 9069ms.
-[15:18:57] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[15:18:57] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[15:18:57] [Server thread/INFO]: Using 4 threads for Netty based IO
-[15:18:57] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[15:18:58] [Server thread/INFO]: Default game type: SURVIVAL
-[15:18:58] [Server thread/INFO]: Generating keypair
-[15:18:58] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:18:58] [Server thread/INFO]: Using epoll channel type
-[15:18:58] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[15:18:58] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[15:18:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15:18:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[15:18:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15:18:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[15:18:58] [Server thread/INFO]: Preparing level "world"
-[15:19:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:19:15] [Server thread/INFO]: Time elapsed: 5923 ms
-[15:19:15] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[15:19:17] [Server thread/INFO]: Time elapsed: 2110 ms
-[15:19:17] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[15:19:17] [Server thread/INFO]: Time elapsed: 481 ms
-[15:19:18] [Server thread/INFO]: [spark] Starting background profiler...
-[15:19:18] [Server thread/INFO]: Done preparing level "world" (19.691s)
-[15:19:18] [Server thread/INFO]: Running delayed init tasks
-[15:19:18] [Server thread/INFO]: Done (33.150s)! For help, type "help"
-[15:19:18] [Server thread/INFO]: *************************************************************************************
-[15:19:18] [Server thread/INFO]: This is the first time you're starting this server.
-[15:19:18] [Server thread/INFO]: It's recommended you read our 'Getting Started' documentation for guidance.
-[15:19:18] [Server thread/INFO]: View this and more helpful information here: https://docs.papermc.io/paper/next-steps
-[15:19:18] [Server thread/INFO]: *************************************************************************************
-[15:19:18] [Server thread/INFO]: Timings Reset
-[15:25:28] [User Authenticator #0/INFO]: UUID of player qSeren is 60f425a3-b4ca-31c1-a532-8475c0b676c0
-[15:25:29] [Server thread/INFO]: qSeren joined the game
-[15:25:29] [Server thread/INFO]: qSeren[/100.110.74.102:64986] logged in with entity id 43 at ([world]203.5, 71.0, -264.5)
-[15:25:36] [Server thread/INFO]: Made qSeren a server operator
-[15:25:48] [Server thread/INFO]: qSeren issued server command: /gamemode creative
-[15:25:48] [Server thread/INFO]: [qSeren: Set own game mode to Creative Mode]
-[15:27:17] [Server thread/INFO]: qSeren has made the advancement [Monster Hunter]
-[15:28:22] [Server thread/INFO]: qSeren issued server command: /summon minecraft:lightning_bolt
-[15:28:22] [Server thread/INFO]: [qSeren: Summoned new Lightning Bolt]
-[15:28:28] [Server thread/INFO]: qSeren issued server command: /summon minecraft:lightning_bolt
-[15:28:28] [Server thread/INFO]: [qSeren: Summoned new Lightning Bolt]
-[15:28:29] [Server thread/INFO]: qSeren issued server command: /summon minecraft:lightning_bolt
-[15:28:29] [Server thread/INFO]: [qSeren: Summoned new Lightning Bolt]
-[15:28:29] [Server thread/INFO]: qSeren issued server command: /summon minecraft:lightning_bolt
-[15:28:29] [Server thread/INFO]: [qSeren: Summoned new Lightning Bolt]
-[15:28:30] [Server thread/INFO]: qSeren issued server command: /summon minecraft:lightning_bolt
-[15:28:30] [Server thread/INFO]: [qSeren: Summoned new Lightning Bolt]
-[15:28:30] [Server thread/INFO]: qSeren issued server command: /summon minecraft:lightning_bolt
-[15:28:30] [Server thread/INFO]: [qSeren: Summoned new Lightning Bolt]
-[15:28:30] [Server thread/INFO]: qSeren issued server command: /summon minecraft:lightning_bolt
-[15:28:30] [Server thread/INFO]: [qSeren: Summoned new Lightning Bolt]
-[15:28:30] [Server thread/INFO]: qSeren issued server command: /summon minecraft:lightning_bolt
-[15:28:30] [Server thread/INFO]: [qSeren: Summoned new Lightning Bolt]
-[15:28:31] [Server thread/INFO]: qSeren issued server command: /summon minecraft:lightning_bolt
-[15:28:31] [Server thread/INFO]: [qSeren: Summoned new Lightning Bolt]
-[15:28:31] [Server thread/INFO]: qSeren issued server command: /summon minecraft:lightning_bolt
-[15:28:31] [Server thread/INFO]: [qSeren: Summoned new Lightning Bolt]
-[15:28:31] [Server thread/INFO]: qSeren issued server command: /summon minecraft:lightning_bolt
-[15:28:31] [Server thread/INFO]: [qSeren: Summoned new Lightning Bolt]
-[15:28:31] [Server thread/INFO]: qSeren issued server command: /summon minecraft:lightning_bolt
-[15:28:31] [Server thread/INFO]: [qSeren: Summoned new Lightning Bolt]
-[15:28:31] [Server thread/INFO]: qSeren issued server command: /summon minecraft:lightning_bolt
-[15:28:31] [Server thread/INFO]: [qSeren: Summoned new Lightning Bolt]
-[15:28:32] [Server thread/INFO]: qSeren issued server command: /summon minecraft:lightning_bolt
-[15:28:32] [Server thread/INFO]: [qSeren: Summoned new Lightning Bolt]
-[15:28:32] [Server thread/INFO]: qSeren issued server command: /summon minecraft:lightning_bolt
-[15:28:32] [Server thread/INFO]: [qSeren: Summoned new Lightning Bolt]
-[15:28:32] [Server thread/INFO]: qSeren issued server command: /summon minecraft:lightning_bolt
-[15:28:32] [Server thread/INFO]: [qSeren: Summoned new Lightning Bolt]
-[15:29:33] [Server thread/INFO]: qSeren issued server command: /time set 0
-[15:29:33] [Server thread/INFO]: [qSeren: Set the time to 0]
-[15:30:01] [Server thread/INFO]: qSeren issued server command: /kill @e[type=minecraft:creeper ]
-[15:30:01] [Server thread/INFO]: [qSeren: Killed 48 entities]
-[15:31:54] [User Authenticator #1/INFO]: UUID of player SimonAbadXD is fa4f7c7f-97ce-3b01-8842-a006a2536ea7
-[15:31:55] [Server thread/INFO]: SimonAbadXD joined the game
-[15:31:55] [Server thread/INFO]: SimonAbadXD[/100.123.173.102:55354] logged in with entity id 2478 at ([world]218.5, 72.0, -266.5)
-[15:32:02] [Server thread/INFO]: qSeren issued server command: /tp SimonAbadXD
-[15:32:02] [Server thread/INFO]: [qSeren: Teleported qSeren to SimonAbadXD]
-[15:32:02] [Async Chat Thread - #0/INFO]: [Not Secure] <SimonAbadXD> server
-[15:32:05] [Server thread/INFO]: qSeren issued server command: /gamemode creative SimonAbadXD
-[15:32:05] [Server thread/INFO]: [qSeren: Set SimonAbadXD's game mode to Creative Mode]
-[15:32:08] [Server thread/INFO]: qSeren issued server command: /op SimonAbadXD
-[15:32:08] [Server thread/INFO]: [qSeren: Made SimonAbadXD a server operator]
-[15:33:03] [Server thread/INFO]: qSeren issued server command: /fill 246 70 -222
-[15:33:17] [Server thread/INFO]: qSeren issued server command: /fill 246 70 -222 ~ ~ ~ bedrock
-[15:33:17] [Server thread/INFO]: [qSeren: Successfully filled 720 block(s)]
-[15:33:29] [Server thread/INFO]: qSeren issued server command: /time set night
-[15:33:29] [Server thread/INFO]: [qSeren: Set the time to 13000]
-[15:35:48] [Server thread/INFO]: qSeren lost connection: Timed out
-[15:35:48] [Server thread/INFO]: qSeren left the game
-[15:35:56] [Server thread/INFO]: SimonAbadXD lost connection: Timed out
-[15:35:56] [Server thread/INFO]: SimonAbadXD left the game
-[15:36:16] [User Authenticator #2/INFO]: UUID of player SimonAbadXD is fa4f7c7f-97ce-3b01-8842-a006a2536ea7
-[15:36:17] [User Authenticator #2/INFO]: UUID of player qSeren is 60f425a3-b4ca-31c1-a532-8475c0b676c0
-[15:36:17] [Server thread/INFO]: SimonAbadXD joined the game
-[15:36:17] [Server thread/INFO]: SimonAbadXD[/100.123.173.102:55560] logged in with entity id 4725 at ([world]232.7594060922483, 72.85525303422831, -215.31663332770822)
-[15:36:18] [Server thread/INFO]: qSeren joined the game
-[15:36:18] [Server thread/INFO]: qSeren[/100.110.74.102:65299] logged in with entity id 4726 at ([world]235.30000001192093, 73.50525945024931, -214.36981951043228)
-[15:36:50] [Server thread/INFO]: qSeren issued server command: /kill @e
-[15:36:50] [Server thread/INFO]: qSeren was killed
-[15:36:50] [Server thread/INFO]: SimonAbadXD was killed
-[15:36:50] [Server thread/INFO]: [qSeren: Killed 641 entities]
-[15:37:12] [Server thread/INFO]: SimonAbadXD issued server command: /ban qSeren
-[15:37:12] [Server thread/INFO]: [SimonAbadXD: Banned qSeren: Banned by an operator.]
-[15:37:12] [Server thread/INFO]: qSeren lost connection: You are banned from this server
-[15:37:12] [Server thread/INFO]: qSeren left the game
-[15:37:17] [Server thread/INFO]: Banned SimonAbadXD: Banned by an operator.
-[15:37:17] [Server thread/INFO]: SimonAbadXD lost connection: You are banned from this server
-[15:37:17] [Server thread/INFO]: SimonAbadXD left the game
-[15:37:20] [Server thread/INFO]: Unbanned qSeren
-[15:37:22] [Server thread/INFO]: Unbanned SimonAbadXD
-[15:37:26] [User Authenticator #3/INFO]: UUID of player SimonAbadXD is fa4f7c7f-97ce-3b01-8842-a006a2536ea7
-[15:37:26] [Server thread/INFO]: SimonAbadXD joined the game
-[15:37:26] [Server thread/INFO]: SimonAbadXD[/100.123.173.102:55611] logged in with entity id 6779 at ([world]268.0497679939408, 74.17691517795393, -212.65653133472705)
-[15:37:27] [User Authenticator #3/INFO]: UUID of player qSeren is 60f425a3-b4ca-31c1-a532-8475c0b676c0
-[15:37:27] [Server thread/INFO]: qSeren joined the game
-[15:37:27] [Server thread/INFO]: qSeren[/100.110.74.102:65325] logged in with entity id 6790 at ([world]222.61470936997185, 71.30540119786556, -203.36342742261846)
-[15:37:33] [Server thread/INFO]: qSeren issued server command: /clear @a
-[15:37:33] [Server thread/INFO]: [qSeren: Removed 134 item(s) from 2 players]
-[15:37:42] [Server thread/INFO]: SimonAbadXD issued server command: /cojer burro
-[15:37:45] [Server thread/INFO]: qSeren issued server command: /kill @e[type=item ]
-[15:37:45] [Server thread/INFO]: [qSeren: Killed 348 entities]
-[15:37:51] [Server thread/INFO]: qSeren has made the advancement [Cover Me with Diamonds]
-[15:37:55] [Async Chat Thread - #1/INFO]: [Not Secure] <SimonAbadXD> de marca verga mejor
-[15:37:58] [Server thread/INFO]: qSeren issued server command: /tp SimonAbadXD qSeren
-[15:37:58] [Server thread/INFO]: [qSeren: Teleported SimonAbadXD to qSeren]
-[15:38:03] [Server thread/INFO]: SimonAbadXD has made the advancement [Cover Me with Diamonds]
-[15:38:12] [Server thread/INFO]: qSeren issued server command: /gamemode survival
-[15:38:12] [Server thread/INFO]: [qSeren: Set own game mode to Survival Mode]
-[15:38:14] [Server thread/INFO]: qSeren issued server command: /time set 0
-[15:38:14] [Server thread/INFO]: [qSeren: Set the time to 0]
-[15:38:24] [Server thread/INFO]: qSeren issued server command: /gamemode survival SimonAbadXD
-[15:38:24] [Server thread/INFO]: [qSeren: Set SimonAbadXD's game mode to Survival Mode]
-[15:38:28] [Server thread/INFO]: SimonAbadXD issued server command: /gmamamade croantrsadnasodqelwoandflaw
+[17:42:18] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[17:42:18] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
+[17:42:18] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[17:42:18] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
+[17:42:22] [ServerMain/WARN]: resource-pack-id missing, using default of 6f59d313-4428-3f47-a0ea-0fb58f402849
+[17:42:22] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:42:22] [ServerMain/INFO]: Found new data pack file/1.21.x Withering Heights v1.0.zip, loading it automatically
+[17:42:22] [ServerMain/INFO]: Found new data pack file/Dungeons and Taverns v4.4.4 (1).zip, loading it automatically
+[17:42:22] [ServerMain/INFO]: Found new data pack file/Ender-Dragon-Fight-Remastered-5.0beta.4 (1).zip, loading it automatically
+[17:42:22] [ServerMain/INFO]: Found new data pack file/Explorify v1.6.2 f10-48.zip, loading it automatically
+[17:42:22] [ServerMain/INFO]: Found new data pack file/Incendium_1.21_UNSUPPORTED_PORT_v5.4.4 (1).zip, loading it automatically
+[17:42:22] [ServerMain/INFO]: Found new data pack file/Stellarity-3-0-5 (1).zip, loading it automatically
+[17:42:22] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[17:42:22] [ServerMain/INFO]: Found new data pack file/lukis-crazy-chambers-v1.0 (1).zip, loading it automatically
+[17:42:22] [ServerMain/INFO]: Found new data pack file/tectonic-datapack-2.4.2 (1).zip, loading it automatically
+[17:42:22] [ServerMain/INFO]: Found new data pack file/tool-trims-DP-v2-2-2a (2).zip, loading it automatically
+[17:42:22] [ServerMain/INFO]: Found new data pack paper, loading it automatically
+[17:42:24] [ServerMain/INFO]: No existing world data, creating new world
+[17:42:26] [ServerMain/INFO]: Loaded 1311 recipes
+[17:42:27] [ServerMain/ERROR]: Couldn't load advancements: [minecraft:wander_add_map, minecraft:give_quest_trader_trade]
+[17:42:27] [ServerMain/INFO]: Loaded 1631 advancements
+[17:42:27] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[17:42:27] [Server thread/INFO]: Loading properties
+[17:42:27] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[17:42:27] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[17:42:28] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:42:28] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:42:28] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[17:42:28] [Server thread/INFO]: Default game type: SURVIVAL
+[17:42:28] [Server thread/INFO]: Generating keypair
+[17:42:28] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:42:28] [Server thread/INFO]: Using epoll channel type
+[17:42:28] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[17:42:28] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[17:42:29] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:42:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:42:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:42:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:42:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:42:29] [Server thread/INFO]: Preparing level "world"
+[17:43:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:43:12] [Server thread/INFO]: Time elapsed: 7478 ms
+[17:43:12] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[17:43:25] [Server thread/INFO]: Time elapsed: 12831 ms
+[17:43:25] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[17:43:27] [Server thread/INFO]: Time elapsed: 1980 ms
+[17:43:27] [Server thread/INFO]: [spark] Starting background profiler...
+[17:43:27] [Server thread/INFO]: Done preparing level "world" (58.814s)
+[17:43:27] [Server thread/INFO]: Running delayed init tasks
+[17:43:27] [Server thread/INFO]: Done (70.779s)! For help, type "help"
+[17:43:27] [Server thread/INFO]: Timings Reset
+[17:45:42] [User Authenticator #0/INFO]: UUID of player qSeren is 60f425a3-b4ca-31c1-a532-8475c0b676c0
+[17:46:09] [Server thread/INFO]: qSeren joined the game
+[17:46:09] [Server thread/INFO]: qSeren[/100.110.74.102:60956] logged in with entity id 67 at ([world]-7.5, 79.0, -0.5)
+[17:46:22] [Server thread/INFO]: qSeren issued server command: /gamemode creative
+[17:46:22] [Server thread/INFO]: [qSeren: Set own game mode to Creative Mode]
+[17:46:36] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=203, y=48, z=159}
+[17:47:12] [User Authenticator #1/INFO]: UUID of player wolftho is f2a8b90a-419e-3129-9a21-c5acf9c4bff1
+[17:47:24] [Server thread/INFO]: wolftho joined the game
+[17:47:24] [Server thread/INFO]: wolftho[/100.124.35.104:50083] logged in with entity id 507 at ([world]-3.5, 80.0, -0.5)
+[17:47:32] [Async Chat Thread - #0/INFO]: [Not Secure] <qSeren> hola
+[17:47:42] [Async Chat Thread - #0/INFO]: [Not Secure] <qSeren> puedes irme diciendo como se siente el sv
+[17:47:44] [Async Chat Thread - #0/INFO]: [Not Secure] <qSeren> en terminos de fluidez
+[17:47:56] [Async Chat Thread - #0/INFO]: [Not Secure] <qSeren> alla arriba hay una estructura de hecho
+[17:48:09] [Async Chat Thread - #0/INFO]: [Not Secure] <wolftho> se siente fluido
+[17:48:15] [Async Chat Thread - #0/INFO]: [Not Secure] <wolftho> respecto a el ping xd
+[17:48:17] [Async Chat Thread - #0/INFO]: [Not Secure] <qSeren> subes?
+[17:48:38] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=203, y=48, z=159}
+[17:48:55] [Async Chat Thread - #0/INFO]: [Not Secure] <qSeren> esto es del explorify ahora q veo
+[17:49:24] [Async Chat Thread - #0/INFO]: [Not Secure] <qSeren> XDDD las alfombras de mierda
+[17:49:49] [Async Chat Thread - #0/INFO]: [Not Secure] <qSeren> ah si
+[17:49:50] [Async Chat Thread - #0/INFO]: [Not Secure] <qSeren> ando bastante lag
+[17:49:52] [Async Chat Thread - #0/INFO]: [Not Secure] <qSeren> aviso
+[17:49:59] [Async Chat Thread - #0/INFO]: [Not Secure] <qSeren> el internet de aqui es horrible basicamente
+[17:50:24] [Async Chat Thread - #0/INFO]: [Not Secure] <qSeren> que mas querrias probar
+[17:50:30] [Async Chat Thread - #1/INFO]: [Not Secure] <wolftho> el dragon
+[17:50:43] [Server thread/INFO]: [Not Secure] [Server] vale tengo el lag gigante
+[17:50:46] [Server thread/INFO]: qSeren lost connection: Timed out
+[17:50:46] [Server thread/INFO]: qSeren left the game
+[17:50:52] [Server thread/INFO]: [Not Secure] [Server] si quieres usar 16 chunks de render porcierto puedes
+[17:50:53] [Async Chat Thread - #1/INFO]: [Not Secure] <wolftho> amigo la hermana se alsur se va a papear otra vez a torre
+[17:50:58] [Server thread/INFO]: [Not Secure] [Server] esta configurado para que se pueda
+[17:51:01] [Server thread/INFO]: [Not Secure] [Server] XDDDDDDDDDDDDDDDDDDDDD
+[17:51:13] [User Authenticator #2/INFO]: UUID of player qSeren is 60f425a3-b4ca-31c1-a532-8475c0b676c0
+[17:51:25] [Server thread/INFO]: qSeren joined the game
+[17:51:25] [Server thread/INFO]: qSeren[/100.110.74.102:61057] logged in with entity id 2243 at ([world]150.24919069451337, 190.44796863089542, 98.85896252966567)
+[17:51:32] [Async Chat Thread - #1/INFO]: [Not Secure] <qSeren> el dragon seguro?
+[17:51:36] [Async Chat Thread - #1/INFO]: [Not Secure] <wolftho> si
+[17:51:40] [Async Chat Thread - #1/INFO]: [Not Secure] <qSeren> vale
+[17:51:46] [Server thread/INFO]: qSeren has reached the goal [Strengthened by Fire]
+[17:52:08] [Server thread/INFO]: wolftho has reached the goal [Journey's End]
+[17:52:08] [Server thread/INFO]: qSeren has reached the goal [Journey's End]
+[17:52:08] [Async Chat Thread - #1/INFO]: [Not Secure] <wolftho> UFFF
+[17:52:12] [Async Chat Thread - #1/INFO]: [Not Secure] <qSeren> te gusta
+[17:52:14] [Async Chat Thread - #1/INFO]: [Not Secure] <qSeren> XDDD
+[17:52:18] [Async Chat Thread - #1/INFO]: [Not Secure] <wolftho> si amgio
+[17:52:20] [Async Chat Thread - #1/INFO]: [Not Secure] <qSeren> esta bien currado eso
+[17:52:20] [Async Chat Thread - #1/INFO]: [Not Secure] <wolftho> esta re god
+[17:52:23] [Async Chat Thread - #1/INFO]: [Not Secure] <qSeren> a ver
+[17:52:24] [Async Chat Thread - #1/INFO]: [Not Secure] <qSeren> te doy gear
+[17:52:28] [Server thread/INFO]: qSeren has made the advancement [Cover Me with Diamonds]
+[17:52:33] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:protection 4
+[17:52:33] [Server thread/INFO]: [qSeren: Applied enchantment Protection IV to qSeren's item]
+[17:52:34] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:protection 4
+[17:52:34] [Server thread/INFO]: [qSeren: Applied enchantment Protection IV to qSeren's item]
+[17:52:34] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:protection 4
+[17:52:34] [Server thread/INFO]: [qSeren: Applied enchantment Protection IV to qSeren's item]
+[17:52:35] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:protection 4
+[17:52:35] [Server thread/INFO]: [qSeren: Applied enchantment Protection IV to qSeren's item]
+[17:52:39] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:unbreaking
+[17:52:39] [Server thread/INFO]: [qSeren: Applied enchantment Unbreaking I to qSeren's item]
+[17:52:43] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:unbreaking 3
+[17:52:43] [Server thread/INFO]: [qSeren: Applied enchantment Unbreaking III to qSeren's item]
+[17:52:43] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:unbreaking 3
+[17:52:43] [Server thread/INFO]: [qSeren: Applied enchantment Unbreaking III to qSeren's item]
+[17:52:44] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:unbreaking 3
+[17:52:44] [Server thread/INFO]: [qSeren: Applied enchantment Unbreaking III to qSeren's item]
+[17:52:45] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:unbreaking 3
+[17:52:45] [Server thread/INFO]: [qSeren: Applied enchantment Unbreaking III to qSeren's item]
+[17:52:45] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:unbreaking 3
+[17:52:45] [Server thread/INFO]: [qSeren: Applied enchantment Unbreaking III to qSeren's item]
+[17:52:47] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:protection 4
+[17:52:47] [Server thread/INFO]: [qSeren: Applied enchantment Protection IV to qSeren's item]
+[17:52:51] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:sharpness 5
+[17:52:51] [Server thread/INFO]: [qSeren: Applied enchantment Sharpness V to qSeren's item]
+[17:52:54] [Async Chat Thread - #1/INFO]: [Not Secure] <qSeren> toma
+[17:52:58] [Server thread/INFO]: wolftho has made the advancement [Cover Me with Diamonds]
+[17:53:24] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:power 5
+[17:53:24] [Server thread/INFO]: [qSeren: Applied enchantment Power V to qSeren's item]
+[17:53:26] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:infinity
+[17:53:26] [Server thread/INFO]: [qSeren: Applied enchantment Infinity to qSeren's item]
+[17:53:30] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:unbreaking 3
+[17:53:30] [Server thread/INFO]: [qSeren: Applied enchantment Unbreaking III to qSeren's item]
+[17:53:40] [Async Chat Thread - #1/INFO]: [Not Secure] <qSeren> ahi
+[17:53:43] [Server thread/INFO]: wolftho has made the advancement [The End?]
+[17:53:43] [Server thread/INFO]: qSeren has made the advancement [The End?]
+[17:53:52] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[17:53:52] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[17:53:53] [Server thread/WARN]: wolftho moved too quickly! -10.975709759568687,1.1767592750642422,-0.6227519731414475
+[17:53:57] [Async Chat Thread - #1/INFO]: [Not Secure] <qSeren> esto con shaders se debe ver god
+[17:54:03] [Async Chat Thread - #1/INFO]: [Not Secure] <qSeren> te cargan las texturas nuevas no?
+[17:54:05] [Async Chat Thread - #1/INFO]: [Not Secure] <qSeren> los enderman
+[17:54:06] [Async Chat Thread - #1/INFO]: [Not Secure] <qSeren> la skybox
+[17:54:06] [Async Chat Thread - #1/INFO]: [Not Secure] <wolftho> si
+[17:54:12] [Async Chat Thread - #1/INFO]: [Not Secure] <qSeren> bueno
+[17:54:14] [Async Chat Thread - #1/INFO]: [Not Secure] <qSeren> vamos
+[17:54:37] [Server thread/INFO]: wolftho has reached the goal [Sacrificial Ritual]
+[17:54:53] [Async Chat Thread - #1/INFO]: [Not Secure] <qSeren> te recomiendo mirar arriba
+[17:54:55] [Async Chat Thread - #1/INFO]: [Not Secure] <qSeren> del medio
+[17:55:03] [Server thread/INFO]: wolftho has made the advancement [Final Showdown]
+[17:55:03] [Server thread/INFO]: qSeren has made the advancement [Final Showdown]
+[17:55:07] [Async Chat Thread - #1/INFO]: [Not Secure] <qSeren> XDDDDDDDDDD
+[17:55:08] [Async Chat Thread - #1/INFO]: [Not Secure] <wolftho> AMIGO
+[17:55:10] [Async Chat Thread - #1/INFO]: [Not Secure] <qSeren> esta god
+[17:55:11] [Async Chat Thread - #1/INFO]: [Not Secure] <wolftho> ESTA BUENISIMO
+[17:55:19] [Async Chat Thread - #1/INFO]: [Not Secure] <qSeren> bueno aqui empieza la pelea brot
+[17:55:20] [Async Chat Thread - #1/INFO]: [Not Secure] <qSeren> suerte
+[17:55:38] [Server thread/INFO]: qSeren issued server command: /give wolftho minecraft:wind_charge 64
+[17:55:38] [Server thread/INFO]: [qSeren: Gave 64 [Wind Charge] to wolftho]
+[17:55:40] [Async Chat Thread - #1/INFO]: [Not Secure] <qSeren> eso me falto
+[17:55:48] [Async Chat Thread - #1/INFO]: [Not Secure] <qSeren> las wind charges andan bien encima
+[17:56:02] [Server thread/INFO]: qSeren issued server command: /give wolftho ender_pearl 4
+[17:56:02] [Server thread/INFO]: wolftho has reached the goal [Eye of Darkness]
+[17:56:02] [Server thread/INFO]: [qSeren: Gave 4 [Ender Pearl] to wolftho]
+[17:56:11] [Async Chat Thread - #1/INFO]: [Not Secure] <qSeren> cuidado que directamente carga hacia el jugador a veces
+[17:56:22] [Server thread/INFO]: qSeren issued server command: /give wolftho diamond_pickaxe
+[17:56:22] [Server thread/INFO]: [qSeren: Gave 1 [Diamond Pickaxe] to wolftho]
+[17:56:28] [Server thread/INFO]: qSeren issued server command: /give wolftho iron_axe
+[17:56:28] [Server thread/INFO]: [qSeren: Gave 1 [Iron Axe] to wolftho]
+[17:56:29] [Server thread/INFO]: wolftho has made the advancement [It's Rude to Stare!]
+[17:56:34] [Server thread/INFO]: qSeren has made the advancement [It's Rude to Stare!]
+[17:56:35] [Server thread/INFO]: wolftho has made the advancement [Monster Hunter]
+[17:56:41] [Server thread/INFO]: qSeren issued server command: /scoreboard objectives add Vida health
+[17:56:41] [Server thread/INFO]: [qSeren: Created new objective [Vida]]
+[17:56:46] [Server thread/INFO]: qSeren issued server command: /scoreboard objectives setdisplay list Vida
+[17:56:46] [Server thread/INFO]: [qSeren: Set display slot list to show objective Vida]
+[17:57:40] [Server thread/INFO]: qSeren issued server command: /give wolftho ender_pearl 4
+[17:57:40] [Server thread/INFO]: [qSeren: Gave 4 [Ender Pearl] to wolftho]
+[17:57:41] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> ahi mas
+[17:58:06] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> casi te matas solo pendejo
+[17:58:09] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> XDD
+[17:58:22] [Async Chat Thread - #2/INFO]: [Not Secure] <wolftho> bro que facil bro
+[17:58:43] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> este es solo 1 datapack bro
+[17:58:46] [Server thread/INFO]: wolftho has made the advancement [Take Aim]
+[17:58:56] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> casi se muere pendejo
+[17:59:12] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> facil
+[17:59:14] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> bro a 2,5 coras
+[17:59:25] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> ahora toca que le saques su gran y hermosa barra de vida
+[17:59:27] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> 600 corazones
+[17:59:46] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
+[17:59:46] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
+[17:59:46] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
+[17:59:46] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
+[17:59:46] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
+[17:59:46] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
+[17:59:46] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
+[17:59:46] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
+[17:59:56] [Server thread/INFO]: Named entity Zombie['End Zombie'/3855, uuid='a1f30542-c9f6-4e52-a590-e07eab5410a0', l='ServerLevel[world_the_end]', x=2.04, y=60.00, z=10.26, cpos=[0, 0], tl=197, v=true] died: End Zombie fell from a high place
+[18:00:07] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> la cabeza bro
+[18:00:11] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> no le haces nada
+[18:00:12] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> XDD
+[18:00:23] [Server thread/INFO]: Named entity Zombie['End Zombie'/3853, uuid='f73b75ee-7a72-4cbd-8018-ede0963c9f26', l='ServerLevel[world_the_end]', x=20.73, y=59.00, z=13.99, cpos=[1, 0], tl=741, v=true] died: End Zombie was doomed to fall by Ender Dragon
+[18:00:31] [Async Chat Thread - #3/INFO]: [Not Secure] <wolftho> le bajo de 2 en 2
+[18:00:32] [Async Chat Thread - #2/INFO]: [Not Secure] <wolftho> XD
+[18:00:34] [Server thread/INFO]: wolftho has made the advancement [This Block Moves!]
+[18:00:40] [Server thread/INFO]: wolftho has reached the goal [Strengthened by Fire]
+[18:00:44] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> bro
+[18:00:45] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> no se muere
+[18:00:54] [Server thread/INFO]: qSeren issued server command: /effect give qSeren minecraft:strength infinite 100
+[18:00:54] [Server thread/INFO]: [qSeren: Applied effect Strength to qSeren]
+[18:00:56] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> a ver
+[18:00:57] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> con fuerza 100
+[18:01:06] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
+[18:01:06] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
+[18:01:06] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
+[18:01:06] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
+[18:01:06] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
+[18:01:06] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
+[18:01:06] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
+[18:01:06] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
+[18:01:08] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> vale
+[18:01:10] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> si puede morir
+[18:01:12] [Server thread/INFO]: qSeren issued server command: /effect clear
+[18:01:12] [Server thread/INFO]: [qSeren: Removed every effect from qSeren]
+[18:01:14] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> pero tiene
+[18:01:15] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> MUCHA
+[18:01:16] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> MUCHA
+[18:01:17] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> vida
+[18:01:22] [Server thread/INFO]: qSeren has made the advancement [Monster Hunter]
+[18:01:22] [Server thread/INFO]: Named entity Zombie['End Zombie'/4386, uuid='129d9414-0a7c-41bf-8f8d-61d153ef065c', l='ServerLevel[world_the_end]', x=3.73, y=62.00, z=1.39, cpos=[0, 0], tl=318, v=true] died: End Zombie was doomed to fall by qSeren
+[18:01:24] [Server thread/INFO]: Named entity Zombie['End Zombie'/4389, uuid='95e02596-18b9-4439-aa89-b22d8824be9f', l='ServerLevel[world_the_end]', x=3.00, y=61.50, z=-2.77, cpos=[0, -1], tl=358, v=true] died: End Zombie was doomed to fall by qSeren
+[18:01:27] [Server thread/INFO]: wolftho has reached the goal [Postmortal]
+[18:01:33] [Server thread/INFO]: Named entity Zombie['End Zombie'/4388, uuid='cece4d88-ffc2-46ba-9824-0323afa01216', l='ServerLevel[world_the_end]', x=2.05, y=62.96, z=4.97, cpos=[0, 0], tl=543, v=true] died: End Zombie was slain by qSeren
+[18:01:37] [Server thread/INFO]: Named entity Zombie['End Zombie'/4387, uuid='f7192703-075e-4536-863c-9831d931e44b', l='ServerLevel[world_the_end]', x=-4.49, y=62.00, z=0.80, cpos=[-1, 0], tl=634, v=true] died: End Zombie was slain by qSeren
+[18:01:53] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> a ver te rompo los cristales para hacerlo mas facil
+[18:02:04] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> cuidado
+[18:02:05] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> con esa bola
