@@ -711,3 +711,92 @@
 [22:51:21] [Server thread/INFO]: Named entity Evoker['Sanctum Ritualist'/19191, uuid='b16c7549-9336-449b-94f3-5d17262b7149', l='ServerLevel[world_nether]', x=-1778.30, y=32.00, z=129.70, cpos=[-112, 8], tl=24252, v=true] died: Sanctum Ritualist was slain by qSeren
 [22:51:21] [Server thread/INFO]: qSeren has made the advancement [The Floor is Tears]
 [22:51:27] [Server thread/INFO]: Named entity Vindicator['Sanctum Inquisitor'/19164, uuid='39b61c44-43b6-4be9-80e4-85e0465119a5', l='ServerLevel[world_nether]', x=-1780.87, y=30.00, z=103.69, cpos=[-112, 6], tl=24374, v=true] died: Sanctum Inquisitor was slain by iRagc
+[22:54:37] [Server thread/INFO]: Command execution stopped due to limit (executed 65536 commands)
+[22:56:32] [Server thread/INFO]: Named entity Pillager['Sanctum Guardian'/19372, uuid='0cb5f513-f395-408f-bec8-c91d90aef943', l='ServerLevel[world_nether]', x=-1809.70, y=29.00, z=82.70, cpos=[-114, 5], tl=30243, v=true] died: Sanctum Guardian was slain by iRagc
+[22:56:43] [Server thread/INFO]: Named entity Pillager['Sanctum Guardian'/19374, uuid='a4f5b2d3-b324-4cdd-b52b-318890b89950', l='ServerLevel[world_nether]', x=-1820.64, y=29.06, z=75.70, cpos=[-114, 4], tl=30451, v=true] died: Sanctum Guardian was slain by qSeren
+[22:56:55] [Server thread/INFO]: iRagc has made the advancement [Ol' Betsy]
+[22:57:05] [Server thread/INFO]: Named entity Pillager['Sanctum Guardian'/19373, uuid='5f3ba5ff-0897-4f01-ae03-26f2087ef765', l='ServerLevel[world_nether]', x=-1812.45, y=31.05, z=81.68, cpos=[-114, 5], tl=30909, v=true] died: Sanctum Guardian was slain by qSeren
+[22:57:39] [Server thread/INFO]: Command execution stopped due to limit (executed 65536 commands)
+[22:58:07] [Server thread/INFO]: qSeren issued server command: /loot give qSeren loot incendium:artifact/weapon/blazing_hatchet
+[22:59:16] [Server thread/INFO]: qSeren issued server command: /enchant iRagc minecraft:sharpness 5
+[22:59:16] [Server thread/INFO]: [qSeren: Applied enchantment Sharpness V to iRagc's item]
+[22:59:22] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:sharpness 5
+[22:59:22] [Server thread/INFO]: [qSeren: Applied enchantment Sharpness V to qSeren's item]
+[23:00:43] [Server thread/INFO]: qSeren issued server command: /kill @e[type=zombie ]
+[23:00:43] [Server thread/INFO]: [qSeren: Killed 49 entities]
+[23:01:02] [Server thread/INFO]: qSeren issued server command: /loot give qSeren loot incendium:artifact/weapon/multiplex_crossbow
+[23:02:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2566ms or 51 ticks behind
+[23:02:42] [Server thread/INFO]: qSeren issued server command: /locate structure minecraft:trial_chambers
+[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: crazy_chambers:spawner/breeze_spawner
+[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: crazy_chambers:spawner/breeze_spawner
+[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: crazy_chambers:melee_spawner
+[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[23:02:42] [Server thread/INFO]: Locating element minecraft:trial_chambers took 251 ms
+[23:02:45] [Server thread/INFO]: qSeren issued server command: /tp @s -15120 ~ 592
+[23:02:45] [Server thread/INFO]: [qSeren: Teleported qSeren to -15119.500000, 66.539373, 592.500000]
+[23:02:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6249ms or 124 ticks behind
+[23:02:51] [Server thread/WARN]: iRagc moved too quickly! 24.78735770065032,-28.50000113248825,23.74829992345758
+[23:02:51] [Server thread/INFO]: qSeren issued server command: /gamemode spectator
+[23:02:51] [Server thread/INFO]: [qSeren: Set own game mode to Spectator Mode]
+[23:02:53] [Server thread/INFO]: qSeren issued server command: /gamemode spectator iragc
+[23:02:53] [Server thread/INFO]: [qSeren: Set iRagc's game mode to Spectator Mode]
+[23:02:56] [Server thread/INFO]: qSeren issued server command: /tp iRagc qSeren
+[23:02:56] [Server thread/INFO]: [qSeren: Teleported iRagc to qSeren]
+[23:03:17] [Server thread/INFO]: qSeren has made the advancement [Minecraft: Trial(s) Edition]
