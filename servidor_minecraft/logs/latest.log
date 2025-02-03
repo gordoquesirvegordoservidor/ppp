@@ -376,3 +376,161 @@
 [22:02:14] [Server thread/INFO]: Named entity Zombie['End Zombie'/8059, uuid='6546be40-2aa6-4ff0-8cae-7cf002c9c0fb', l='ServerLevel[world_the_end]', x=16.77, y=55.00, z=5.04, cpos=[1, 0], tl=4198, v=true] died: End Zombie fell from a high place
 [22:02:38] [Server thread/INFO]: qSeren issued server command: /give iRagc minecraft:golden_apple 20
 [22:02:38] [Server thread/INFO]: [qSeren: Gave 20 [Golden Apple] to iRagc]
+[22:02:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
+[22:02:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
+[22:02:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
+[22:02:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
+[22:02:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
+[22:02:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
+[22:02:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
+[22:02:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
+[22:02:57] [Server thread/INFO]: Named entity Zombie['End Zombie'/9296, uuid='518646b9-7d74-4b59-87a1-ce08ff026c6f', l='ServerLevel[world_the_end]', x=-7.94, y=60.00, z=2.06, cpos=[-1, 0], tl=62, v=true] died: End Zombie was slain by Shulker
+[22:03:01] [Server thread/INFO]: Named entity Zombie['End Zombie'/9298, uuid='29bae1ba-56e4-4855-b843-9fce8f6d9938', l='ServerLevel[world_the_end]', x=-3.05, y=61.50, z=-2.11, cpos=[-1, -1], tl=142, v=true] died: End Zombie was slain by iRagc
+[22:03:03] [Server thread/INFO]: Named entity Zombie['End Zombie'/9297, uuid='a708df26-08ab-419f-ba3a-01d1800749f3', l='ServerLevel[world_the_end]', x=-3.14, y=61.73, z=2.64, cpos=[-1, 0], tl=177, v=true] died: End Zombie was slain by iRagc
+[22:03:06] [Server thread/INFO]: Named entity Zombie['End Zombie'/9295, uuid='56d80528-225f-45c8-a5f9-add42bf41e2b', l='ServerLevel[world_the_end]', x=2.69, y=62.58, z=4.35, cpos=[0, 0], tl=239, v=true] died: End Zombie was slain by iRagc
+[22:03:17] [Server thread/INFO]: Named entity Skeleton['Warrior of Years Past'/9088, uuid='7e723705-0f10-48ee-a19e-378b4840e499', l='ServerLevel[world_the_end]', x=12.14, y=60.00, z=0.45, cpos=[0, 0], tl=861, v=true] died: Warrior of Years Past was doomed to fall by Shulker
+[22:04:14] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
+[22:04:14] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
+[22:04:14] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
+[22:04:14] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
+[22:04:14] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
+[22:04:14] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
+[22:04:14] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
+[22:04:14] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
+[22:04:20] [Server thread/INFO]: Named entity Zombie['End Zombie'/9742, uuid='3996dfaf-3d78-4615-8240-6e47b1ba1d8d', l='ServerLevel[world_the_end]', x=-35.88, y=50.00, z=-4.22, cpos=[-3, -1], tl=125, v=true] died: End Zombie was doomed to fall by Ender Dragon
+[22:04:27] [Server thread/INFO]: Named entity Zombie['End Zombie'/9739, uuid='53d97164-b0c8-4483-a738-0aa68114fe1d', l='ServerLevel[world_the_end]', x=0.91, y=60.00, z=11.54, cpos=[0, 0], tl=267, v=true] died: End Zombie was slain by iRagc
+[22:04:31] [Server thread/INFO]: qSeren has made the advancement [This Block Moves!]
+[22:04:50] [Server thread/INFO]: Named entity Zombie['End Zombie'/9740, uuid='a43c4c72-c371-41a5-82aa-bc20320f4397', l='ServerLevel[world_the_end]', x=-10.06, y=60.00, z=5.62, cpos=[-1, 0], tl=725, v=true] died: End Zombie was doomed to fall
+[22:05:17] [Server thread/INFO]: Named entity Zombie['End Zombie'/9741, uuid='fe361f90-fef7-447c-a4c6-b94e9a5833ea', l='ServerLevel[world_the_end]', x=13.78, y=54.00, z=11.79, cpos=[0, 0], tl=1262, v=true] died: End Zombie fell from a high place
+[22:05:34] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
+[22:05:34] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
+[22:05:34] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
+[22:05:34] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
+[22:05:34] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
+[22:05:34] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
+[22:05:34] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
+[22:05:34] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
+[22:05:43] [Server thread/INFO]: Named entity Zombie['End Zombie'/10478, uuid='ed187f24-d3eb-4cb0-bc9a-8eef55d07838', l='ServerLevel[world_the_end]', x=4.95, y=62.42, z=-1.48, cpos=[0, -1], tl=186, v=true] died: End Zombie was slain by iRagc
+[22:05:47] [Server thread/INFO]: Named entity Zombie['End Zombie'/10479, uuid='d4f23754-2064-4f71-992e-2675a18e477d', l='ServerLevel[world_the_end]', x=2.79, y=62.50, z=4.72, cpos=[0, 0], tl=256, v=true] died: End Zombie was slain by iRagc
+[22:06:08] [Server thread/INFO]: Named entity Zombie['End Zombie'/10480, uuid='f9308f78-1d4c-43b7-ab74-bbc1955c07ad', l='ServerLevel[world_the_end]', x=5.81, y=61.00, z=-2.05, cpos=[0, -1], tl=687, v=true] died: End Zombie was slain by iRagc
+[22:06:51] [Server thread/INFO]: Named entity Zombie['End Zombie'/10477, uuid='a13a7626-d24e-42d1-989a-1087b7e22dfd', l='ServerLevel[world_the_end]', x=28.70, y=57.00, z=-9.71, cpos=[1, -1], tl=1542, v=true] died: End Zombie fell from a high place
+[22:06:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
+[22:06:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
+[22:06:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
+[22:06:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
+[22:06:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
+[22:06:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
+[22:06:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
+[22:06:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
+[22:06:57] [Server thread/INFO]: Named entity Zombie['End Zombie'/11337, uuid='52421bfa-54c9-4eb4-8f19-2bdbafb13b0f', l='ServerLevel[world_the_end]', x=-4.76, y=60.00, z=-6.19, cpos=[-1, -1], tl=65, v=true] died: End Zombie was slain by iRagc
+[22:07:04] [Server thread/INFO]: iRagc has reached the goal [Postmortal]
+[22:07:10] [Server thread/INFO]: Named entity Zombie['End Zombie'/11336, uuid='9d812fe2-cbce-44ca-aacb-0ffe1ffd15f5', l='ServerLevel[world_the_end]', x=7.76, y=62.45, z=3.67, cpos=[0, 0], tl=316, v=true] died: End Zombie was slain by qSeren
+[22:08:14] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
+[22:08:14] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
+[22:08:14] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
+[22:08:14] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
+[22:08:14] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
+[22:08:14] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
+[22:08:14] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
+[22:08:14] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
+[22:08:39] [Server thread/INFO]: Named entity Zombie['End Zombie'/11335, uuid='7a2e328f-d58b-4d5e-af8a-677c85bf35df', l='ServerLevel[world_the_end]', x=-16.54, y=51.00, z=-1.26, cpos=[-2, -1], tl=2096, v=true] died: End Zombie fell from a high place
+[22:08:50] [Server thread/INFO]: Named entity Zombie['End Zombie'/11814, uuid='3cdd1513-d865-48f2-b4e4-17dc6bc19dfd', l='ServerLevel[world_the_end]', x=9.92, y=60.00, z=-4.43, cpos=[0, -1], tl=723, v=true] died: End Zombie was doomed to fall by Shulker
+[22:08:56] [Server thread/INFO]: Named entity Zombie['End Zombie'/11815, uuid='e784af42-eb2a-47df-a3fb-01d7d00bf3bd', l='ServerLevel[world_the_end]', x=14.83, y=55.00, z=-31.08, cpos=[0, -2], tl=846, v=true] died: End Zombie was doomed to fall by Ender Dragon
+[22:08:56] [Server thread/INFO]: Named entity Zombie['End Zombie'/11813, uuid='c92c42ca-ea90-4894-92b6-418001845393', l='ServerLevel[world_the_end]', x=-7.75, y=52.00, z=-19.76, cpos=[-1, -2], tl=849, v=true] died: End Zombie was doomed to fall by Shulker
+[22:09:00] [Server thread/INFO]: Named entity Zombie['End Zombie'/11812, uuid='7d366010-e720-4c21-9800-dceae90757ea', l='ServerLevel[world_the_end]', x=11.85, y=70.44, z=2.82, cpos=[0, 0], tl=922, v=true] died: End Zombie was slain by Shulker
+[22:09:03] [Server thread/INFO]: Named entity Zombie['End Zombie'/11334, uuid='6b7cdf2b-0d9e-4e7c-9ce1-0eb359dacf20', l='ServerLevel[world_the_end]', x=6.42, y=60.00, z=-4.73, cpos=[0, -1], tl=2572, v=true] died: End Zombie was slain by iRagc
+[22:09:22] [Server thread/INFO]: qSeren lost connection: Timed out
+[22:09:22] [Server thread/INFO]: qSeren left the game
+[22:09:34] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
+[22:09:34] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
+[22:09:34] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
+[22:09:34] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
+[22:09:34] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
+[22:09:34] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
+[22:09:34] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
+[22:09:34] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
+[22:10:11] [User Authenticator #2/INFO]: UUID of player qSeren is 60f425a3-b4ca-31c1-a532-8475c0b676c0
+[22:10:19] [Server thread/INFO]: Named entity Zombie['End Zombie'/8576, uuid='67646b92-fe74-4444-8293-a786981150e8', l='ServerLevel[world_the_end]', x=-33.83, y=50.00, z=3.65, cpos=[-3, 0], tl=10691, v=true] died: End Zombie fell from a high place
+[22:10:20] [Server thread/INFO]: Named entity Zombie['End Zombie'/8575, uuid='4d079aa6-4878-4b5a-b69f-7ea5ff864513', l='ServerLevel[world_the_end]', x=-28.93, y=52.00, z=23.29, cpos=[-2, 1], tl=10726, v=true] died: End Zombie fell from a high place
+[22:10:28] [Server thread/INFO]: qSeren joined the game
+[22:10:28] [Server thread/INFO]: qSeren[/100.110.74.102:52763] logged in with entity id 12729 at ([world_the_end]6.72960965335905, 69.86248956352786, -0.9603942717759086)
+[22:10:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
+[22:10:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
+[22:10:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
+[22:10:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
+[22:10:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
+[22:10:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
+[22:10:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
+[22:10:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
+[22:11:13] [Async Chat Thread - #14/INFO]: [Not Secure] <iRagc> asd
+[22:11:26] [Server thread/INFO]: Named entity Zombie['End Zombie'/12487, uuid='9d9acb8c-f518-4408-8fc9-a69f0497c38a', l='ServerLevel[world_the_end]', x=27.17, y=56.00, z=-25.87, cpos=[1, -2], tl=2232, v=true] died: End Zombie fell from a high place
+[22:11:27] [Server thread/INFO]: Named entity Zombie['End Zombie'/12983, uuid='aadfd16d-03af-44e9-b0d3-6d299faf3dda', l='ServerLevel[world_the_end]', x=9.04, y=60.00, z=-1.19, cpos=[0, -1], tl=661, v=true] died: End Zombie was doomed to fall by Shulker
+[22:11:53] [Server thread/INFO]: Named entity Zombie['End Zombie'/12985, uuid='3155d7d5-edbd-4a72-8d46-a94f1560d248', l='ServerLevel[world_the_end]', x=-1.61, y=81.69, z=-4.43, cpos=[-1, -1], tl=1174, v=true] died: End Zombie was slain by Ender Dragon
+[22:12:14] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
+[22:12:14] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
+[22:12:14] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
+[22:12:14] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
+[22:12:14] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
+[22:12:14] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
+[22:12:14] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
+[22:12:14] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
+[22:12:15] [Async Chat Thread - #16/INFO]: [Not Secure] <iRagc> asd
+[22:12:27] [Server thread/INFO]: Named entity Zombie['End Zombie'/12986, uuid='099f33c5-069a-499f-a540-ef8a1d196706', l='ServerLevel[world_the_end]', x=-8.23, y=74.19, z=1.29, cpos=[-1, 0], tl=1855, v=true] died: End Zombie was slain by Shulker
+[22:13:02] [Server thread/INFO]: Named entity Zombie['End Zombie'/12984, uuid='00aab3fc-bf6a-4cc7-996e-c04934ef743a', l='ServerLevel[world_the_end]', x=-21.88, y=52.00, z=10.89, cpos=[-2, 0], tl=2555, v=true] died: End Zombie fell from a high place
+[22:13:34] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
+[22:13:34] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
+[22:13:34] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
+[22:13:34] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
+[22:13:34] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
+[22:13:34] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
+[22:13:34] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
+[22:13:34] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
+[22:13:51] [Server thread/INFO]: Named entity Zombie['End Zombie'/13704, uuid='22b1fb0e-3cc2-4212-8ef9-630e411f9945', l='ServerLevel[world_the_end]', x=-32.16, y=51.00, z=-21.95, cpos=[-3, -2], tl=349, v=true] died: End Zombie fell from a high place
+[22:14:24] [Server thread/INFO]: Named entity Zombie['End Zombie'/13702, uuid='1c3672f5-e5bb-4026-9f51-56f5a52e6285', l='ServerLevel[world_the_end]', x=-41.91, y=50.00, z=-12.29, cpos=[-3, -1], tl=1003, v=true] died: End Zombie fell from a high place
+[22:14:41] [Server thread/INFO]: Named entity Zombie['End Zombie'/13263, uuid='133ee187-e58c-4299-b850-da243e4bb4ec', l='ServerLevel[world_the_end]', x=18.42, y=57.00, z=19.16, cpos=[1, 1], tl=2942, v=true] died: End Zombie fell from a high place
+[22:14:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
+[22:14:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
+[22:14:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
+[22:14:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
+[22:14:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
+[22:14:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
+[22:14:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
+[22:14:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
+[22:15:07] [Server thread/INFO]: iRagc has completed the challenge [Free the End]
+[22:15:07] [Server thread/INFO]: qSeren has completed the challenge [Free the End]
+[22:15:35] [Server thread/INFO]: qSeren issued server command: /tp iRagc qSeren
+[22:15:35] [Server thread/INFO]: [qSeren: Teleported iRagc to qSeren]
+[22:15:41] [Server thread/INFO]: Named entity Zombie['End Zombie'/14139, uuid='7537df1b-ec78-497b-a503-bbe0025dc340', l='ServerLevel[world_the_end]', x=0.43, y=62.77, z=-1.30, cpos=[0, -1], tl=945, v=true] died: End Zombie was slain by qSeren
+[22:15:48] [Server thread/INFO]: Named entity Zombie['End Zombie'/13703, uuid='3fcafddc-0087-44f9-8d62-d6cacb5fd2a2', l='ServerLevel[world_the_end]', x=-15.98, y=52.00, z=-8.44, cpos=[-1, -1], tl=2686, v=true] died: End Zombie fell from a high place
+[22:15:55] [Server thread/INFO]: Named entity Zombie['End Zombie'/14138, uuid='274beb27-9125-4118-82af-e081bb58feeb', l='ServerLevel[world_the_end]', x=0.01, y=66.70, z=15.51, cpos=[0, 0], tl=1227, v=true] died: End Zombie was slain by Shulker
+[22:15:57] [Server thread/INFO]: Named entity Zombie['End Zombie'/14136, uuid='7f360003-2edb-475b-a63f-e6a2a1527b5b', l='ServerLevel[world_the_end]', x=18.35, y=58.00, z=15.21, cpos=[1, 0], tl=1256, v=true] died: End Zombie fell from a high place
+[22:15:58] [Server thread/INFO]: iRagc has made the advancement [Stone Age]
+[22:16:01] [Server thread/INFO]: qSeren issued server command: /kill @e[type=shulker ]
+[22:16:01] [Server thread/INFO]: [qSeren: Killed 2 entities]
+[22:16:14] [Server thread/INFO]: Named entity Zombie['End Zombie'/14137, uuid='c11d3eb1-bb9d-411c-8dd6-45ca5beacf9d', l='ServerLevel[world_the_end]', x=-1.14, y=50.00, z=36.00, cpos=[-1, 2], tl=1594, v=true] died: End Zombie was doomed to fall
+[22:16:21] [Server thread/INFO]: qSeren issued server command: /kill @e[type=minecraft:enderman ]
+[22:16:21] [Server thread/INFO]: [qSeren: Killed 71 entities]
+[22:17:08] [Server thread/INFO]: iRagc has reached the goal [Dragonborn]
+[22:17:46] [Server thread/INFO]: qSeren issued server command: /kill @e[type=minecraft:enderman ]
+[22:17:46] [Server thread/INFO]: [qSeren: Killed 70 entities]
+[22:17:55] [Server thread/INFO]: qSeren has reached the goal [An Introduction to Dark Magic]
+[22:18:40] [Server thread/INFO]: qSeren issued server command: /give qSeren minecraft:dragon_egg
+[22:18:40] [Server thread/INFO]: qSeren has reached the goal [The Next Generation]
+[22:18:40] [Server thread/INFO]: [qSeren: Gave 1 [Dragon Egg] to qSeren]
+[22:18:40] [Server thread/ERROR]: Tried to load invalid item: 'Invalid color name: 9F00BF; Invalid color name: 9F00BF missed input: {"minecraft:lore":['{"text":" "}','{"translate":"stellarity.dragon_egg.description.1","fallback":"It is dormant, yet you","italic":false,"color":"9F00BF"}','{"translate":"stellarity.dragon_egg.description.2","fallback":"can feel it silently beating...","italic":false,"color":"9F00BF"}']}'
+[22:20:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3323ms or 66 ticks behind
+[22:20:21] [Server thread/WARN]: iRagc moved too quickly! 4.234474006098562,-0.2468000194787976,10.7172640871118
+[22:21:01] [Server thread/INFO]: qSeren has made the advancement [We Need to Go Deeper]
+[22:21:01] [Server thread/INFO]: qSeren has made the advancement [Incendium]
+[22:21:06] [Server thread/INFO]: iRagc has made the advancement [We Need to Go Deeper]
+[22:21:06] [Server thread/INFO]: iRagc has made the advancement [Incendium]
+[22:21:25] [Server thread/INFO]: qSeren has reached the goal [Sky's the Limit]
+[22:21:31] [Server thread/INFO]: iRagc has reached the goal [Sky's the Limit]
+[22:21:39] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:unbreaking
+[22:21:39] [Server thread/INFO]: [qSeren: Applied enchantment Unbreaking I to qSeren's item]
+[22:21:46] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:unbreaking 3
+[22:21:46] [Server thread/INFO]: [qSeren: Applied enchantment Unbreaking III to qSeren's item]
+[22:21:47] [Server thread/INFO]: qSeren issued server command: /enchant qSeren mending
+[22:21:47] [Server thread/INFO]: [qSeren: Applied enchantment Mending to qSeren's item]
+[22:22:21] [Server thread/INFO]: qSeren has made the advancement [Strange Biomes]
+[22:22:23] [Server thread/INFO]: iRagc has made the advancement [Strange Biomes]
