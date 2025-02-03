@@ -5,6 +5,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-02-03 18:24:37 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:end/find_end_lighthouse": {
+    "criteria": {
+      "end_lighthouse": "2025-02-03 18:24:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-02-03 18:24:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/kill_dragon": {
     "criteria": {
       "kill_dragon": "2025-02-03 18:16:36 +0000"
@@ -13,7 +31,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-03 18:21:27 +0000"
+      "log_spam_fixer": "2025-02-03 18:31:27 +0000"
     },
     "done": false
   },
@@ -25,7 +43,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-03 18:21:27 +0000"
+      "log_spam_fixer": "2025-02-03 18:31:27 +0000"
     },
     "done": false
   },
@@ -85,7 +103,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-02-03 18:21:27 +0000"
+      "log_spam_fixer": "2025-02-03 18:31:27 +0000"
     },
     "done": false
   },
@@ -109,8 +127,20 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-02-03 18:21:39 +0000",
-      "log_spam_fixer": "2025-02-03 18:21:27 +0000"
+      "requirement": "2025-02-03 18:31:46 +0000",
+      "log_spam_fixer": "2025-02-03 18:31:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/charge_respawn_anchor": {
+    "criteria": {
+      "charge_respawn_anchor": "2025-02-03 18:31:24 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:end/find_end_castle": {
+    "criteria": {
+      "end_castle": "2025-02-03 18:30:57 +0000"
     },
     "done": true
   },
@@ -160,6 +190,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-02-03 18:24:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-02-03 18:02:29 +0000"
@@ -174,13 +210,19 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-02-03 18:21:27 +0000"
+      "log_spam_fixer": "2025-02-03 18:31:27 +0000"
     },
     "done": false
   },
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
       "in_water": "2025-02-03 17:55:57 +0000"
+    },
+    "done": true
+  },
+  "stellarity:nether/charge_anchor_end": {
+    "criteria": {
+      "charge_respawn_anchor": "2025-02-03 18:31:24 +0000"
     },
     "done": true
   },
@@ -204,7 +246,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-02-03 18:21:27 +0000"
+      "log_spam_fixer": "2025-02-03 18:31:27 +0000"
     },
     "done": false
   },
@@ -228,13 +270,13 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-02-03 18:21:27 +0000"
+      "log_spam_fixer": "2025-02-03 18:31:27 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-02-03 18:21:27 +0000"
+      "log_spam_fixer": "2025-02-03 18:31:27 +0000"
     },
     "done": false
   },
@@ -280,6 +322,12 @@
     },
     "done": true
   },
+  "stellarity:exploration/discover_all_biomes": {
+    "criteria": {
+      "endless_dunes": "2025-02-03 18:22:19 +0000"
+    },
+    "done": false
+  },
   "stellarity:recipes/chorus_plant_from_fruit": {
     "criteria": {
       "has_item": "2025-02-03 18:07:44 +0000"
@@ -288,7 +336,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-02-03 18:21:27 +0000"
+      "log_spam_fixer": "2025-02-03 18:31:27 +0000"
     },
     "done": false
   },
@@ -304,6 +352,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-02-03 18:24:37 +0000"
+    },
+    "done": true
+  },
   "stellarity:recipes/sugar_from_chorus_fruit": {
     "criteria": {
       "has_item": "2025-02-03 18:07:44 +0000"
@@ -313,6 +367,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2025-02-03 18:10:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-02-03 18:24:37 +0000"
     },
     "done": true
   },
@@ -336,7 +396,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-02-03 18:21:27 +0000"
+      "log_spam_fixer": "2025-02-03 18:31:27 +0000"
     },
     "done": false
   },
@@ -376,6 +436,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-02-03 18:30:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-02-03 17:53:32 +0000"
@@ -403,6 +469,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-02-03 17:53:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-02-03 18:24:37 +0000"
     },
     "done": true
   },
@@ -451,13 +523,13 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-03 18:21:27 +0000"
+      "log_spam_fixer": "2025-02-03 18:31:27 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-02-03 18:21:27 +0000"
+      "log_spam_fixer": "2025-02-03 18:31:27 +0000"
     },
     "done": false
   },
@@ -483,6 +555,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-02-03 18:09:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone": "2025-02-03 18:30:57 +0000"
     },
     "done": true
   },
