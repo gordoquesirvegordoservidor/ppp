@@ -1,704 +1,268 @@
-[17:42:18] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
-[17:42:18] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
-[17:42:18] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[17:42:18] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
-[17:42:22] [ServerMain/WARN]: resource-pack-id missing, using default of 6f59d313-4428-3f47-a0ea-0fb58f402849
-[17:42:22] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:42:22] [ServerMain/INFO]: Found new data pack file/1.21.x Withering Heights v1.0.zip, loading it automatically
-[17:42:22] [ServerMain/INFO]: Found new data pack file/Dungeons and Taverns v4.4.4 (1).zip, loading it automatically
-[17:42:22] [ServerMain/INFO]: Found new data pack file/Ender-Dragon-Fight-Remastered-5.0beta.4 (1).zip, loading it automatically
-[17:42:22] [ServerMain/INFO]: Found new data pack file/Explorify v1.6.2 f10-48.zip, loading it automatically
-[17:42:22] [ServerMain/INFO]: Found new data pack file/Incendium_1.21_UNSUPPORTED_PORT_v5.4.4 (1).zip, loading it automatically
-[17:42:22] [ServerMain/INFO]: Found new data pack file/Stellarity-3-0-5 (1).zip, loading it automatically
-[17:42:22] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
-[17:42:22] [ServerMain/INFO]: Found new data pack file/lukis-crazy-chambers-v1.0 (1).zip, loading it automatically
-[17:42:22] [ServerMain/INFO]: Found new data pack file/tectonic-datapack-2.4.2 (1).zip, loading it automatically
-[17:42:22] [ServerMain/INFO]: Found new data pack file/tool-trims-DP-v2-2-2a (2).zip, loading it automatically
-[17:42:22] [ServerMain/INFO]: Found new data pack paper, loading it automatically
-[17:42:24] [ServerMain/INFO]: No existing world data, creating new world
-[17:42:26] [ServerMain/INFO]: Loaded 1311 recipes
-[17:42:27] [ServerMain/ERROR]: Couldn't load advancements: [minecraft:wander_add_map, minecraft:give_quest_trader_trade]
-[17:42:27] [ServerMain/INFO]: Loaded 1631 advancements
-[17:42:27] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[17:42:27] [Server thread/INFO]: Loading properties
-[17:42:27] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
-[17:42:27] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[17:42:28] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[17:42:28] [Server thread/INFO]: Using 4 threads for Netty based IO
-[17:42:28] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[17:42:28] [Server thread/INFO]: Default game type: SURVIVAL
-[17:42:28] [Server thread/INFO]: Generating keypair
-[17:42:28] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:42:28] [Server thread/INFO]: Using epoll channel type
-[17:42:28] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[17:42:28] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[17:42:29] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[17:42:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:42:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:42:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:42:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:42:29] [Server thread/INFO]: Preparing level "world"
-[17:43:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:43:12] [Server thread/INFO]: Time elapsed: 7478 ms
-[17:43:12] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[17:43:25] [Server thread/INFO]: Time elapsed: 12831 ms
-[17:43:25] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[17:43:27] [Server thread/INFO]: Time elapsed: 1980 ms
-[17:43:27] [Server thread/INFO]: [spark] Starting background profiler...
-[17:43:27] [Server thread/INFO]: Done preparing level "world" (58.814s)
-[17:43:27] [Server thread/INFO]: Running delayed init tasks
-[17:43:27] [Server thread/INFO]: Done (70.779s)! For help, type "help"
-[17:43:27] [Server thread/INFO]: Timings Reset
-[17:45:42] [User Authenticator #0/INFO]: UUID of player qSeren is 60f425a3-b4ca-31c1-a532-8475c0b676c0
-[17:46:09] [Server thread/INFO]: qSeren joined the game
-[17:46:09] [Server thread/INFO]: qSeren[/100.110.74.102:60956] logged in with entity id 67 at ([world]-7.5, 79.0, -0.5)
-[17:46:22] [Server thread/INFO]: qSeren issued server command: /gamemode creative
-[17:46:22] [Server thread/INFO]: [qSeren: Set own game mode to Creative Mode]
-[17:46:36] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=203, y=48, z=159}
-[17:47:12] [User Authenticator #1/INFO]: UUID of player wolftho is f2a8b90a-419e-3129-9a21-c5acf9c4bff1
-[17:47:24] [Server thread/INFO]: wolftho joined the game
-[17:47:24] [Server thread/INFO]: wolftho[/100.124.35.104:50083] logged in with entity id 507 at ([world]-3.5, 80.0, -0.5)
-[17:47:32] [Async Chat Thread - #0/INFO]: [Not Secure] <qSeren> hola
-[17:47:42] [Async Chat Thread - #0/INFO]: [Not Secure] <qSeren> puedes irme diciendo como se siente el sv
-[17:47:44] [Async Chat Thread - #0/INFO]: [Not Secure] <qSeren> en terminos de fluidez
-[17:47:56] [Async Chat Thread - #0/INFO]: [Not Secure] <qSeren> alla arriba hay una estructura de hecho
-[17:48:09] [Async Chat Thread - #0/INFO]: [Not Secure] <wolftho> se siente fluido
-[17:48:15] [Async Chat Thread - #0/INFO]: [Not Secure] <wolftho> respecto a el ping xd
-[17:48:17] [Async Chat Thread - #0/INFO]: [Not Secure] <qSeren> subes?
-[17:48:38] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=203, y=48, z=159}
-[17:48:55] [Async Chat Thread - #0/INFO]: [Not Secure] <qSeren> esto es del explorify ahora q veo
-[17:49:24] [Async Chat Thread - #0/INFO]: [Not Secure] <qSeren> XDDD las alfombras de mierda
-[17:49:49] [Async Chat Thread - #0/INFO]: [Not Secure] <qSeren> ah si
-[17:49:50] [Async Chat Thread - #0/INFO]: [Not Secure] <qSeren> ando bastante lag
-[17:49:52] [Async Chat Thread - #0/INFO]: [Not Secure] <qSeren> aviso
-[17:49:59] [Async Chat Thread - #0/INFO]: [Not Secure] <qSeren> el internet de aqui es horrible basicamente
-[17:50:24] [Async Chat Thread - #0/INFO]: [Not Secure] <qSeren> que mas querrias probar
-[17:50:30] [Async Chat Thread - #1/INFO]: [Not Secure] <wolftho> el dragon
-[17:50:43] [Server thread/INFO]: [Not Secure] [Server] vale tengo el lag gigante
-[17:50:46] [Server thread/INFO]: qSeren lost connection: Timed out
-[17:50:46] [Server thread/INFO]: qSeren left the game
-[17:50:52] [Server thread/INFO]: [Not Secure] [Server] si quieres usar 16 chunks de render porcierto puedes
-[17:50:53] [Async Chat Thread - #1/INFO]: [Not Secure] <wolftho> amigo la hermana se alsur se va a papear otra vez a torre
-[17:50:58] [Server thread/INFO]: [Not Secure] [Server] esta configurado para que se pueda
-[17:51:01] [Server thread/INFO]: [Not Secure] [Server] XDDDDDDDDDDDDDDDDDDDDD
-[17:51:13] [User Authenticator #2/INFO]: UUID of player qSeren is 60f425a3-b4ca-31c1-a532-8475c0b676c0
-[17:51:25] [Server thread/INFO]: qSeren joined the game
-[17:51:25] [Server thread/INFO]: qSeren[/100.110.74.102:61057] logged in with entity id 2243 at ([world]150.24919069451337, 190.44796863089542, 98.85896252966567)
-[17:51:32] [Async Chat Thread - #1/INFO]: [Not Secure] <qSeren> el dragon seguro?
-[17:51:36] [Async Chat Thread - #1/INFO]: [Not Secure] <wolftho> si
-[17:51:40] [Async Chat Thread - #1/INFO]: [Not Secure] <qSeren> vale
-[17:51:46] [Server thread/INFO]: qSeren has reached the goal [Strengthened by Fire]
-[17:52:08] [Server thread/INFO]: wolftho has reached the goal [Journey's End]
-[17:52:08] [Server thread/INFO]: qSeren has reached the goal [Journey's End]
-[17:52:08] [Async Chat Thread - #1/INFO]: [Not Secure] <wolftho> UFFF
-[17:52:12] [Async Chat Thread - #1/INFO]: [Not Secure] <qSeren> te gusta
-[17:52:14] [Async Chat Thread - #1/INFO]: [Not Secure] <qSeren> XDDD
-[17:52:18] [Async Chat Thread - #1/INFO]: [Not Secure] <wolftho> si amgio
-[17:52:20] [Async Chat Thread - #1/INFO]: [Not Secure] <qSeren> esta bien currado eso
-[17:52:20] [Async Chat Thread - #1/INFO]: [Not Secure] <wolftho> esta re god
-[17:52:23] [Async Chat Thread - #1/INFO]: [Not Secure] <qSeren> a ver
-[17:52:24] [Async Chat Thread - #1/INFO]: [Not Secure] <qSeren> te doy gear
-[17:52:28] [Server thread/INFO]: qSeren has made the advancement [Cover Me with Diamonds]
-[17:52:33] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:protection 4
-[17:52:33] [Server thread/INFO]: [qSeren: Applied enchantment Protection IV to qSeren's item]
-[17:52:34] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:protection 4
-[17:52:34] [Server thread/INFO]: [qSeren: Applied enchantment Protection IV to qSeren's item]
-[17:52:34] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:protection 4
-[17:52:34] [Server thread/INFO]: [qSeren: Applied enchantment Protection IV to qSeren's item]
-[17:52:35] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:protection 4
-[17:52:35] [Server thread/INFO]: [qSeren: Applied enchantment Protection IV to qSeren's item]
-[17:52:39] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:unbreaking
-[17:52:39] [Server thread/INFO]: [qSeren: Applied enchantment Unbreaking I to qSeren's item]
-[17:52:43] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:unbreaking 3
-[17:52:43] [Server thread/INFO]: [qSeren: Applied enchantment Unbreaking III to qSeren's item]
-[17:52:43] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:unbreaking 3
-[17:52:43] [Server thread/INFO]: [qSeren: Applied enchantment Unbreaking III to qSeren's item]
-[17:52:44] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:unbreaking 3
-[17:52:44] [Server thread/INFO]: [qSeren: Applied enchantment Unbreaking III to qSeren's item]
-[17:52:45] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:unbreaking 3
-[17:52:45] [Server thread/INFO]: [qSeren: Applied enchantment Unbreaking III to qSeren's item]
-[17:52:45] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:unbreaking 3
-[17:52:45] [Server thread/INFO]: [qSeren: Applied enchantment Unbreaking III to qSeren's item]
-[17:52:47] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:protection 4
-[17:52:47] [Server thread/INFO]: [qSeren: Applied enchantment Protection IV to qSeren's item]
-[17:52:51] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:sharpness 5
-[17:52:51] [Server thread/INFO]: [qSeren: Applied enchantment Sharpness V to qSeren's item]
-[17:52:54] [Async Chat Thread - #1/INFO]: [Not Secure] <qSeren> toma
-[17:52:58] [Server thread/INFO]: wolftho has made the advancement [Cover Me with Diamonds]
-[17:53:24] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:power 5
-[17:53:24] [Server thread/INFO]: [qSeren: Applied enchantment Power V to qSeren's item]
-[17:53:26] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:infinity
-[17:53:26] [Server thread/INFO]: [qSeren: Applied enchantment Infinity to qSeren's item]
-[17:53:30] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:unbreaking 3
-[17:53:30] [Server thread/INFO]: [qSeren: Applied enchantment Unbreaking III to qSeren's item]
-[17:53:40] [Async Chat Thread - #1/INFO]: [Not Secure] <qSeren> ahi
-[17:53:43] [Server thread/INFO]: wolftho has made the advancement [The End?]
-[17:53:43] [Server thread/INFO]: qSeren has made the advancement [The End?]
-[17:53:52] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[17:53:52] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
-[17:53:53] [Server thread/WARN]: wolftho moved too quickly! -10.975709759568687,1.1767592750642422,-0.6227519731414475
-[17:53:57] [Async Chat Thread - #1/INFO]: [Not Secure] <qSeren> esto con shaders se debe ver god
-[17:54:03] [Async Chat Thread - #1/INFO]: [Not Secure] <qSeren> te cargan las texturas nuevas no?
-[17:54:05] [Async Chat Thread - #1/INFO]: [Not Secure] <qSeren> los enderman
-[17:54:06] [Async Chat Thread - #1/INFO]: [Not Secure] <qSeren> la skybox
-[17:54:06] [Async Chat Thread - #1/INFO]: [Not Secure] <wolftho> si
-[17:54:12] [Async Chat Thread - #1/INFO]: [Not Secure] <qSeren> bueno
-[17:54:14] [Async Chat Thread - #1/INFO]: [Not Secure] <qSeren> vamos
-[17:54:37] [Server thread/INFO]: wolftho has reached the goal [Sacrificial Ritual]
-[17:54:53] [Async Chat Thread - #1/INFO]: [Not Secure] <qSeren> te recomiendo mirar arriba
-[17:54:55] [Async Chat Thread - #1/INFO]: [Not Secure] <qSeren> del medio
-[17:55:03] [Server thread/INFO]: wolftho has made the advancement [Final Showdown]
-[17:55:03] [Server thread/INFO]: qSeren has made the advancement [Final Showdown]
-[17:55:07] [Async Chat Thread - #1/INFO]: [Not Secure] <qSeren> XDDDDDDDDDD
-[17:55:08] [Async Chat Thread - #1/INFO]: [Not Secure] <wolftho> AMIGO
-[17:55:10] [Async Chat Thread - #1/INFO]: [Not Secure] <qSeren> esta god
-[17:55:11] [Async Chat Thread - #1/INFO]: [Not Secure] <wolftho> ESTA BUENISIMO
-[17:55:19] [Async Chat Thread - #1/INFO]: [Not Secure] <qSeren> bueno aqui empieza la pelea brot
-[17:55:20] [Async Chat Thread - #1/INFO]: [Not Secure] <qSeren> suerte
-[17:55:38] [Server thread/INFO]: qSeren issued server command: /give wolftho minecraft:wind_charge 64
-[17:55:38] [Server thread/INFO]: [qSeren: Gave 64 [Wind Charge] to wolftho]
-[17:55:40] [Async Chat Thread - #1/INFO]: [Not Secure] <qSeren> eso me falto
-[17:55:48] [Async Chat Thread - #1/INFO]: [Not Secure] <qSeren> las wind charges andan bien encima
-[17:56:02] [Server thread/INFO]: qSeren issued server command: /give wolftho ender_pearl 4
-[17:56:02] [Server thread/INFO]: wolftho has reached the goal [Eye of Darkness]
-[17:56:02] [Server thread/INFO]: [qSeren: Gave 4 [Ender Pearl] to wolftho]
-[17:56:11] [Async Chat Thread - #1/INFO]: [Not Secure] <qSeren> cuidado que directamente carga hacia el jugador a veces
-[17:56:22] [Server thread/INFO]: qSeren issued server command: /give wolftho diamond_pickaxe
-[17:56:22] [Server thread/INFO]: [qSeren: Gave 1 [Diamond Pickaxe] to wolftho]
-[17:56:28] [Server thread/INFO]: qSeren issued server command: /give wolftho iron_axe
-[17:56:28] [Server thread/INFO]: [qSeren: Gave 1 [Iron Axe] to wolftho]
-[17:56:29] [Server thread/INFO]: wolftho has made the advancement [It's Rude to Stare!]
-[17:56:34] [Server thread/INFO]: qSeren has made the advancement [It's Rude to Stare!]
-[17:56:35] [Server thread/INFO]: wolftho has made the advancement [Monster Hunter]
-[17:56:41] [Server thread/INFO]: qSeren issued server command: /scoreboard objectives add Vida health
-[17:56:41] [Server thread/INFO]: [qSeren: Created new objective [Vida]]
-[17:56:46] [Server thread/INFO]: qSeren issued server command: /scoreboard objectives setdisplay list Vida
-[17:56:46] [Server thread/INFO]: [qSeren: Set display slot list to show objective Vida]
-[17:57:40] [Server thread/INFO]: qSeren issued server command: /give wolftho ender_pearl 4
-[17:57:40] [Server thread/INFO]: [qSeren: Gave 4 [Ender Pearl] to wolftho]
-[17:57:41] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> ahi mas
-[17:58:06] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> casi te matas solo pendejo
-[17:58:09] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> XDD
-[17:58:22] [Async Chat Thread - #2/INFO]: [Not Secure] <wolftho> bro que facil bro
-[17:58:43] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> este es solo 1 datapack bro
-[17:58:46] [Server thread/INFO]: wolftho has made the advancement [Take Aim]
-[17:58:56] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> casi se muere pendejo
-[17:59:12] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> facil
-[17:59:14] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> bro a 2,5 coras
-[17:59:25] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> ahora toca que le saques su gran y hermosa barra de vida
-[17:59:27] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> 600 corazones
-[17:59:46] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[17:59:46] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[17:59:46] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[17:59:46] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[17:59:46] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[17:59:46] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[17:59:46] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[17:59:46] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[17:59:56] [Server thread/INFO]: Named entity Zombie['End Zombie'/3855, uuid='a1f30542-c9f6-4e52-a590-e07eab5410a0', l='ServerLevel[world_the_end]', x=2.04, y=60.00, z=10.26, cpos=[0, 0], tl=197, v=true] died: End Zombie fell from a high place
-[18:00:07] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> la cabeza bro
-[18:00:11] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> no le haces nada
-[18:00:12] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> XDD
-[18:00:23] [Server thread/INFO]: Named entity Zombie['End Zombie'/3853, uuid='f73b75ee-7a72-4cbd-8018-ede0963c9f26', l='ServerLevel[world_the_end]', x=20.73, y=59.00, z=13.99, cpos=[1, 0], tl=741, v=true] died: End Zombie was doomed to fall by Ender Dragon
-[18:00:31] [Async Chat Thread - #3/INFO]: [Not Secure] <wolftho> le bajo de 2 en 2
-[18:00:32] [Async Chat Thread - #2/INFO]: [Not Secure] <wolftho> XD
-[18:00:34] [Server thread/INFO]: wolftho has made the advancement [This Block Moves!]
-[18:00:40] [Server thread/INFO]: wolftho has reached the goal [Strengthened by Fire]
-[18:00:44] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> bro
-[18:00:45] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> no se muere
-[18:00:54] [Server thread/INFO]: qSeren issued server command: /effect give qSeren minecraft:strength infinite 100
-[18:00:54] [Server thread/INFO]: [qSeren: Applied effect Strength to qSeren]
-[18:00:56] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> a ver
-[18:00:57] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> con fuerza 100
-[18:01:06] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[18:01:06] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[18:01:06] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[18:01:06] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[18:01:06] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[18:01:06] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[18:01:06] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[18:01:06] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[18:01:08] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> vale
-[18:01:10] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> si puede morir
-[18:01:12] [Server thread/INFO]: qSeren issued server command: /effect clear
-[18:01:12] [Server thread/INFO]: [qSeren: Removed every effect from qSeren]
-[18:01:14] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> pero tiene
-[18:01:15] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> MUCHA
-[18:01:16] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> MUCHA
-[18:01:17] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> vida
-[18:01:22] [Server thread/INFO]: qSeren has made the advancement [Monster Hunter]
-[18:01:22] [Server thread/INFO]: Named entity Zombie['End Zombie'/4386, uuid='129d9414-0a7c-41bf-8f8d-61d153ef065c', l='ServerLevel[world_the_end]', x=3.73, y=62.00, z=1.39, cpos=[0, 0], tl=318, v=true] died: End Zombie was doomed to fall by qSeren
-[18:01:24] [Server thread/INFO]: Named entity Zombie['End Zombie'/4389, uuid='95e02596-18b9-4439-aa89-b22d8824be9f', l='ServerLevel[world_the_end]', x=3.00, y=61.50, z=-2.77, cpos=[0, -1], tl=358, v=true] died: End Zombie was doomed to fall by qSeren
-[18:01:27] [Server thread/INFO]: wolftho has reached the goal [Postmortal]
-[18:01:33] [Server thread/INFO]: Named entity Zombie['End Zombie'/4388, uuid='cece4d88-ffc2-46ba-9824-0323afa01216', l='ServerLevel[world_the_end]', x=2.05, y=62.96, z=4.97, cpos=[0, 0], tl=543, v=true] died: End Zombie was slain by qSeren
-[18:01:37] [Server thread/INFO]: Named entity Zombie['End Zombie'/4387, uuid='f7192703-075e-4536-863c-9831d931e44b', l='ServerLevel[world_the_end]', x=-4.49, y=62.00, z=0.80, cpos=[-1, 0], tl=634, v=true] died: End Zombie was slain by qSeren
-[18:01:53] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> a ver te rompo los cristales para hacerlo mas facil
-[18:02:04] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> cuidado
-[18:02:05] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> con esa bola
-[18:02:24] [Server thread/INFO]: wolftho has made the advancement [Not Today, Thank You]
-[18:02:27] [Server thread/INFO]: Named entity Skeleton['Warrior of Years Past'/5023, uuid='3a82882d-c3a4-437a-a169-49388831d163', l='ServerLevel[world_the_end]', x=-2.30, y=60.00, z=5.30, cpos=[-1, 0], tl=235, v=true] died: Warrior of Years Past was slain by wolftho
-[18:02:29] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> XDDDDDDDD
-[18:02:31] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> a la verga
-[18:02:36] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[18:02:36] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[18:02:36] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[18:02:36] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[18:02:36] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[18:02:36] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[18:02:36] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[18:02:36] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[18:02:50] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> ahi le baja
-[18:02:52] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> ahora si
-[18:03:13] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> detras tuyo hermano
-[18:03:14] [Server thread/INFO]: Named entity Zombie['End Zombie'/3854, uuid='6b89567b-9edd-435a-bce4-4b9abf9f61af', l='ServerLevel[world_the_end]', x=-20.18, y=55.00, z=-20.82, cpos=[-2, -2], tl=4171, v=true] died: End Zombie fell from a high place
-[18:03:16] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> hay un bola flotante
-[18:03:32] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> XDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD TIRA YUNQUES
-[18:03:33] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> A LA MIERDA
-[18:03:35] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> ESO SI QUE NO LO VI
-[18:03:37] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> WOLF ATRAS
-[18:03:52] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> ok te voy a dar otro totem
-[18:03:56] [Server thread/INFO]: qSeren issued server command: /give wolftho minecraft:totem_of_undying
-[18:03:56] [Server thread/INFO]: [qSeren: Gave 1 [Totem of Undying] to wolftho]
-[18:03:56] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[18:03:56] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[18:03:56] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[18:03:56] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[18:03:56] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[18:03:56] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[18:03:56] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[18:03:56] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[18:04:06] [Server thread/INFO]: wolftho has made the advancement [Who Needs Rockets?]
-[18:04:14] [Server thread/INFO]: Named entity Zombie['End Zombie'/5678, uuid='62717187-08cd-4b9a-a31e-a9feea990ec3', l='ServerLevel[world_the_end]', x=-3.25, y=60.00, z=-5.09, cpos=[-1, -1], tl=364, v=true] died: End Zombie was slain by wolftho
-[18:04:17] [Server thread/INFO]: Named entity Zombie['End Zombie'/5676, uuid='e3bd89b0-2f95-44fc-a0db-928ca9e99d42', l='ServerLevel[world_the_end]', x=-2.66, y=61.04, z=-1.66, cpos=[-1, -1], tl=435, v=true] died: End Zombie was slain by wolftho
-[18:04:20] [Server thread/INFO]: Named entity Zombie['End Zombie'/5677, uuid='8434ca4f-2c31-4502-b1ee-6aeeecda6858', l='ServerLevel[world_the_end]', x=-1.70, y=60.00, z=-2.34, cpos=[-1, -1], tl=484, v=true] died: End Zombie was slain by wolftho
-[18:04:44] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> porcierot mira
-[18:04:49] [Server thread/INFO]: qSeren issued server command: /give wolftho minecraft:black_bed
-[18:04:49] [Server thread/INFO]: [qSeren: Gave 1 [Black Bed] to wolftho]
-[18:04:53] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> usa la cama
-[18:04:57] [Server thread/INFO]: Named entity Zombie['End Zombie'/5475, uuid='200fa865-a1e6-47f3-9c42-74585bee9ea8', l='ServerLevel[world_the_end]', x=-2.65, y=54.00, z=25.82, cpos=[-1, 1], tl=2822, v=true] died: End Zombie fell from a high place
-[18:05:00] [Server thread/INFO]: wolftho was doomed to fall by Ender Dragon
-[18:05:02] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> uh
-[18:05:04] [Async Chat Thread - #2/INFO]: [Not Secure] <wolftho> XD
-[18:05:07] [Server thread/INFO]: qSeren issued server command: /tp wolftho qSeren
-[18:05:07] [Server thread/INFO]: [qSeren: Teleported wolftho to qSeren]
-[18:05:13] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> rapido XDDDDDDD
-[18:05:16] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[18:05:16] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[18:05:16] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[18:05:16] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[18:05:16] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[18:05:16] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[18:05:16] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[18:05:16] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[18:05:17] [Server thread/INFO]: Named entity Zombie['End Zombie'/5478, uuid='f9c7d291-ba9c-4b64-b0b3-30f20a68c80f', l='ServerLevel[world_the_end]', x=-21.44, y=56.80, z=20.54, cpos=[-2, 1], tl=3217, v=true] died: End Zombie was slain by qSeren
-[18:05:19] [Server thread/INFO]: Named entity Zombie['End Zombie'/5476, uuid='8c7a409b-df42-40fc-9aec-d881b1d4af49', l='ServerLevel[world_the_end]', x=-32.17, y=54.80, z=28.34, cpos=[-3, 1], tl=3260, v=true] died: End Zombie was slain by qSeren
-[18:05:29] [Async Chat Thread - #3/INFO]: [Not Secure] <qSeren> Y TU PECHERA
-[18:05:39] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:protection 4
-[18:05:39] [Server thread/INFO]: [qSeren: Applied enchantment Protection IV to qSeren's item]
-[18:05:41] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:unbreaking 3
-[18:05:41] [Server thread/INFO]: [qSeren: Applied enchantment Unbreaking III to qSeren's item]
-[18:05:52] [Async Chat Thread - #3/INFO]: [Not Secure] <qSeren> disparales
-[18:05:53] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> pendej
-[18:06:02] [Server thread/INFO]: Named entity Zombie['End Zombie'/6207, uuid='1ab21c4d-89a5-445c-ac36-05a04867bbff', l='ServerLevel[world_the_end]', x=-15.18, y=53.00, z=-38.91, cpos=[-1, -3], tl=930, v=true] died: End Zombie fell from a high place
-[18:06:06] [Server thread/INFO]: qSeren has made the advancement [This Block Moves!]
-[18:06:12] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> recuerda esto es todo parte del datapack
-[18:06:20] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> yo voy a hacer mis propias modificaciones al end con trial spawners
-[18:06:25] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> y va a ser mas dificil
-[18:06:35] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> van a haber witherboss
-[18:06:36] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[18:06:36] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[18:06:36] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[18:06:36] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[18:06:36] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[18:06:36] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[18:06:36] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[18:06:36] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[18:06:36] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> toda esa mierda
-[18:06:42] [Async Chat Thread - #2/INFO]: [Not Secure] <wolftho> NAH
-[18:06:44] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> XDDD
-[18:06:50] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> el witherboss esta mejorado*
-[18:07:03] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> y las camas ya no funcionan aqui
-[18:07:42] [Server thread/INFO]: qSeren issued server command: /give wolftho minecraft:totem_of_undying
-[18:07:42] [Server thread/INFO]: [qSeren: Gave 1 [Totem of Undying] to wolftho]
-[18:07:56] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[18:07:56] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[18:07:56] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[18:07:56] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[18:07:56] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[18:07:56] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[18:07:56] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[18:07:56] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[18:08:17] [Async Chat Thread - #4/INFO]: [Not Secure] <qSeren> que no funcionan dije
-[18:08:18] [Async Chat Thread - #4/INFO]: [Not Secure] <qSeren> XDDDDDDD
-[18:08:34] [Async Chat Thread - #4/INFO]: [Not Secure] <qSeren> entre 1 es muy dficil bajarle vida
-[18:08:38] [Async Chat Thread - #4/INFO]: [Not Secure] <qSeren> pero entre muchos ya es algo mas normal
-[18:09:16] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[18:09:16] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[18:09:16] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[18:09:16] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[18:09:16] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[18:09:16] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[18:09:16] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[18:09:16] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[18:09:37] [Server thread/INFO]: Named entity Zombie['End Zombie'/6945, uuid='ea5a9803-e551-4351-adb6-df902abc8e7f', l='ServerLevel[world_the_end]', x=-15.03, y=55.00, z=7.91, cpos=[-1, 0], tl=2020, v=true] died: End Zombie fell from a high place
-[18:09:38] [Async Chat Thread - #4/INFO]: [Not Secure] <qSeren> rapido
-[18:09:40] [Async Chat Thread - #4/INFO]: [Not Secure] <qSeren> los cristales
-[18:09:50] [Server thread/INFO]: wolftho has made the advancement [Stone Age]
-[18:09:53] [Server thread/INFO]: Named entity Zombie['End Zombie'/7149, uuid='c8a068e4-10d0-4d3d-8f89-00daf116b847', l='ServerLevel[world_the_end]', x=25.00, y=57.00, z=25.78, cpos=[1, 1], tl=747, v=true] died: End Zombie fell from a high place
-[18:09:54] [Server thread/INFO]: qSeren issued server command: /give wolftho minecraft:ender_pearl 12
-[18:09:54] [Server thread/INFO]: [qSeren: Gave 12 [Ender Pearl] to wolftho]
-[18:10:08] [Server thread/INFO]: qSeren issued server command: /gamemode spectator
-[18:10:08] [Server thread/INFO]: [qSeren: Set own game mode to Spectator Mode]
-[18:10:36] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[18:10:36] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[18:10:36] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[18:10:36] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[18:10:36] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[18:10:36] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[18:10:36] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[18:10:36] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[18:10:37] [Server thread/INFO]: wolftho has made the advancement [Who is Cutting Onions?]
-[18:10:38] [Server thread/INFO]: wolftho has made the advancement [Ice Bucket Challenge]
-[18:10:42] [Server thread/INFO]: qSeren issued server command: /gamemode creative
-[18:10:42] [Server thread/INFO]: [qSeren: Set own game mode to Creative Mode]
-[18:10:56] [Async Chat Thread - #6/INFO]: [Not Secure] <qSeren> obviamente en este punto tendrias cosas custom
-[18:10:58] [Async Chat Thread - #6/INFO]: [Not Secure] <qSeren> no cosas vanilla
-[18:11:03] [Async Chat Thread - #6/INFO]: [Not Secure] <qSeren> esto seria mas facil
-[18:11:56] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[18:11:56] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[18:11:56] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[18:11:56] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[18:11:56] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[18:11:56] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[18:11:56] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[18:11:56] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[18:11:56] [Server thread/INFO]: qSeren issued server command: /loot give wolftho loot stellarity:items/spellbooks/light
-[18:11:56] [Server thread/INFO]: wolftho has made the advancement [Robbing the Fortress]
-[18:11:59] [Async Chat Thread - #6/INFO]: [Not Secure] <qSeren> ahi tenes uno
-[18:12:08] [Async Chat Thread - #6/INFO]: [Not Secure] <qSeren> es util ese libro
-[18:12:15] [Async Chat Thread - #6/INFO]: [Not Secure] <qSeren> si vas a regenerar vida
-[18:12:28] [Async Chat Thread - #6/INFO]: [Not Secure] <qSeren> cuidado
-[18:12:29] [Async Chat Thread - #7/INFO]: [Not Secure] <qSeren> atras
-[18:12:37] [Server thread/INFO]: qSeren has made the advancement [Surge Protector]
-[18:12:37] [Server thread/INFO]: wolftho has made the advancement [Surge Protector]
-[18:12:54] [Async Chat Thread - #7/INFO]: [Not Secure] <qSeren> BRO
-[18:12:57] [Async Chat Thread - #7/INFO]: [Not Secure] <qSeren> LOS PROYECTILES ESTOS
-[18:13:00] [Async Chat Thread - #7/INFO]: [Not Secure] <qSeren> SON HUEVOS DE DRAGON
-[18:13:02] [Async Chat Thread - #7/INFO]: [Not Secure] <qSeren> XDDDDDDDDDDDDDDDDDDDDDDDDDDDD
-[18:13:04] [Async Chat Thread - #7/INFO]: [Not Secure] <qSeren> las fireballs
-[18:13:16] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[18:13:16] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[18:13:16] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[18:13:16] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[18:13:16] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[18:13:16] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[18:13:16] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[18:13:16] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[18:13:33] [Async Chat Thread - #7/INFO]: [Not Secure] <qSeren> mm
-[18:13:37] [Async Chat Thread - #6/INFO]: [Not Secure] <qSeren> todavia no podes usar el altar
-[18:13:43] [Async Chat Thread - #6/INFO]: [Not Secure] <qSeren> te voy a dar una mano
-[18:14:01] [Server thread/INFO]: qSeren has made the advancement [Ol' Betsy]
-[18:14:07] [Server thread/INFO]: Named entity Zombie['End Zombie'/8969, uuid='47b19da0-3ff6-4bd4-830d-3a54b64ed430', l='ServerLevel[world_the_end]', x=-0.12, y=60.00, z=-12.03, cpos=[-1, -1], tl=1031, v=true] died: End Zombie was slain by wolftho
-[18:14:09] [Server thread/INFO]: Named entity Zombie['End Zombie'/8966, uuid='a0157648-c7e7-4ae2-b8f5-b3d6bc9d1997', l='ServerLevel[world_the_end]', x=5.10, y=60.00, z=-12.89, cpos=[0, -1], tl=1070, v=true] died: End Zombie was slain by wolftho
-[18:14:20] [Server thread/INFO]: Named entity Zombie['End Zombie'/8968, uuid='0b69669f-1448-44c8-b711-d6a71f3d9212', l='ServerLevel[world_the_end]', x=12.07, y=55.00, z=-14.12, cpos=[0, -1], tl=1283, v=true] died: End Zombie was doomed to fall by Ender Dragon
-[18:14:36] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[18:14:36] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[18:14:36] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[18:14:36] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[18:14:36] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[18:14:36] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[18:14:36] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[18:14:36] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[18:14:59] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> UPA
-[18:15:04] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> ESA EXPLOSION
-[18:15:08] [Server thread/INFO]: Named entity Zombie['End Zombie'/9513, uuid='897c552d-b6e7-4358-844e-8d5618698141', l='ServerLevel[world_the_end]', x=0.41, y=61.00, z=-8.14, cpos=[0, -1], tl=646, v=true] died: End Zombie fell from a high place
-[18:15:25] [Server thread/INFO]: Named entity Zombie['End Zombie'/9511, uuid='4c2becf3-eb7f-4628-8575-526e6e9a00f3', l='ServerLevel[world_the_end]', x=-12.21, y=84.64, z=4.57, cpos=[-1, 0], tl=983, v=true] died: End Zombie was slain by Ender Dragon
-[18:15:50] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> ahi vaa
-[18:15:51] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> ojo
-[18:15:56] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[18:15:56] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[18:15:56] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[18:15:56] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[18:15:56] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[18:15:56] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[18:15:56] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[18:15:56] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[18:16:04] [Async Chat Thread - #9/INFO]: [Not Secure] <qSeren> DALE WOLF
-[18:16:05] [Async Chat Thread - #9/INFO]: [Not Secure] <qSeren> LO TIENES
-[18:16:20] [Async Chat Thread - #9/INFO]: [Not Secure] <qSeren> HAZLO WOLF
-[18:16:23] [Async Chat Thread - #9/INFO]: [Not Secure] <qSeren> ESOOOOOO
-[18:16:36] [Server thread/INFO]: qSeren has completed the challenge [Free the End]
-[18:16:36] [Server thread/INFO]: wolftho has completed the challenge [Free the End]
-[18:16:36] [Async Chat Thread - #9/INFO]: [Not Secure] <wolftho> tenia un totem en el culo
-[18:16:36] [Async Chat Thread - #9/INFO]: [Not Secure] <wolftho> que fue
-[18:16:40] [Server thread/INFO]: Named entity Zombie['End Zombie'/10072, uuid='cfb2b95c-7253-4de1-bbc9-68cc23cc1cfb', l='ServerLevel[world_the_end]', x=-0.15, y=60.00, z=-9.54, cpos=[-1, -1], tl=881, v=true] died: End Zombie was slain by wolftho
-[18:16:41] [Server thread/INFO]: Named entity Zombie['End Zombie'/10070, uuid='e967d197-594c-46eb-b389-fb8f69fb4e99', l='ServerLevel[world_the_end]', x=-18.88, y=55.00, z=-21.16, cpos=[-2, -2], tl=897, v=true] died: End Zombie fell from a high place
-[18:16:54] [Async Chat Thread - #9/INFO]: [Not Secure] <qSeren> conseguiste la Tamaris no?
-[18:17:05] [Async Chat Thread - #9/INFO]: [Not Secure] <wolftho> sii
-[18:17:06] [Server thread/INFO]: qSeren has reached the goal [Dragonborn]
-[18:17:07] [Server thread/INFO]: Named entity Zombie['End Zombie'/8967, uuid='accba5a2-f126-4b94-9ba3-005b9a8301d1', l='ServerLevel[world_the_end]', x=-18.38, y=78.82, z=6.12, cpos=[-2, 0], tl=4631, v=true] died: End Zombie was slain by Shulker
-[18:17:17] [Async Chat Thread - #9/INFO]: [Not Secure] <qSeren> es una espada custom mira prueba
-[18:17:22] [Server thread/INFO]: Named entity Zombie['End Zombie'/10071, uuid='19190c1e-a721-4644-af47-1bee914a49aa', l='ServerLevel[world_the_end]', x=-6.60, y=86.59, z=2.31, cpos=[-1, 0], tl=1721, v=true] died: End Zombie was slain by Shulker
-[18:17:24] [Server thread/INFO]: Named entity Zombie['End Zombie'/9512, uuid='92591c97-b59b-438e-9f11-1f2fa859958a', l='ServerLevel[world_the_end]', x=8.24, y=57.00, z=16.26, cpos=[0, 1], tl=3367, v=true] died: End Zombie fell from a high place
-[18:17:25] [Server thread/INFO]: Named entity Zombie['End Zombie'/10069, uuid='1c878ebe-2bad-4053-81a0-e5a9ab749488', l='ServerLevel[world_the_end]', x=19.67, y=57.00, z=3.40, cpos=[1, 0], tl=1794, v=true] died: End Zombie was slain by wolftho
-[18:17:27] [Async Chat Thread - #9/INFO]: [Not Secure] <qSeren> y te agachas
-[18:17:30] [Async Chat Thread - #9/INFO]: [Not Secure] <qSeren> cuando tengna poca vida
-[18:17:32] [Async Chat Thread - #9/INFO]: [Not Secure] <qSeren> y los ejecutas
-[18:17:40] [Async Chat Thread - #9/INFO]: [Not Secure] <qSeren> te agachas gord
-[18:17:46] [Async Chat Thread - #9/INFO]: [Not Secure] <qSeren> cuando tengan poca vida
-[18:17:50] [Async Chat Thread - #9/INFO]: [Not Secure] <qSeren> 3 hit y agachar al enderman
-[18:17:56] [Server thread/INFO]: wolftho has made the advancement [Disassembly]
-[18:17:59] [Async Chat Thread - #9/INFO]: [Not Secure] <wolftho> XD
-[18:18:07] [Async Chat Thread - #9/INFO]: [Not Secure] <qSeren> pero no le pegues agachado XDDDDDDDDDDDDDDDDDDDDDD
-[18:18:19] [Server thread/INFO]: qSeren issued server command: /loot give qSeren loot stellarity:items/tamaris
-[18:18:20] [Async Chat Thread - #9/INFO]: [Not Secure] <qSeren> mira
-[18:18:26] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> eso
-[18:18:27] [Async Chat Thread - #8/INFO]: [Not Secure] <wolftho> aa
-[18:18:31] [Server thread/INFO]: qSeren has made the advancement [Disassembly]
-[18:18:36] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> y despues
-[18:18:39] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> la dragon blade
-[18:18:59] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> la dragon blade es un tema
-[18:19:02] [Server thread/INFO]: wolftho has reached the goal [An Introduction to Dark Magic]
-[18:19:03] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> cuando matas al dragon aparece incrustada aqui
-[18:19:12] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> y es como el huevo
-[18:19:14] [Server thread/INFO]: wolftho has reached the goal [Dragonborn]
-[18:19:16] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> solo hay 1
-[18:19:22] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> entonces se van a pelear todos
-[18:19:35] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> con esa puedes hacer un ataque poderoso cuando pegas 3 hit y depsues te agachas
-[18:19:49] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> XDD
-[18:20:01] [Server thread/INFO]: qSeren issued server command: /loot give qSeren loot stellarity:items/dragonblade
-[18:20:05] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> mira ven
-[18:20:10] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> baja conmigo
-[18:20:27] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> te agachas al final
-[18:20:33] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> cuando tenga un coso purpura asi en la cabeza
-[18:21:03] [Server thread/INFO]: qSeren issued server command: /loot give qSeren loot incendium:artifact/weapon/blazing_hatchet
-[18:21:16] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> blazing hatchet
-[18:21:17] [Async Chat Thread - #8/INFO]: [Not Secure] <wolftho> y las end citys?
-[18:21:18] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> ah
-[18:21:21] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> vamos a ver lo demas
-[18:21:22] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> vamos
-[18:21:27] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> ven
-[18:21:48] [Server thread/INFO]: wolftho has reached the goal [Remote Getaway]
-[18:21:53] [Server thread/INFO]: qSeren has reached the goal [Eye of Darkness]
-[18:21:56] [Server thread/INFO]: qSeren has reached the goal [Remote Getaway]
-[18:22:01] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> uhh
-[18:22:04] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> XDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
-[18:22:07] [Server thread/INFO]: qSeren has made the advancement [Stone Age]
-[18:22:14] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> CASI
-[18:22:15] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> MUERES
-[18:22:16] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> PENDEJO DE MIERDA
-[18:22:38] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> porcierto
-[18:22:40] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> las ancient cities
-[18:22:43] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> tienen trial spawners
-[18:23:03] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> vamos a explorar
-[18:23:31] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> esto en el sv
-[18:23:33] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> le vamos a poner musica
-[18:23:37] [Async Chat Thread - #8/INFO]: [Not Secure] <wolftho> ufff
-[18:23:37] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> a la pelea y al ambiente
-[18:23:42] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> hay otor resource que no meti y es ese
-[18:24:18] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> eres al unico que le mostre esto
-[18:24:21] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> el end asi
-[18:24:30] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> esto no es end city porcierto
-[18:24:33] [Server thread/INFO]: wolftho has made the advancement [The Light at the End of the Game]
-[18:24:34] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> pero bueno puedes explorar
-[18:24:37] [Server thread/INFO]: qSeren has made the advancement [The Light at the End of the Game]
-[18:25:01] [Async Chat Thread - #8/INFO]: [Not Secure] <wolftho> son literalmente trials XD
-[18:25:03] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> si
-[18:25:06] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> exacto
-[18:25:09] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> trials en el end
-[18:25:13] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> es divertido por decirlo asi
-[18:25:24] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> y en las end citys no hay solo shulkers
-[18:25:24] [Async Chat Thread - #8/INFO]: [Not Secure] <wolftho> si xd
-[18:25:26] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> hay ghasts, etc
-[18:26:16] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> y eso?
-[18:26:17] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> para
-[18:26:21] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> eso si q no lo vi
-[18:26:22] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> la lalva
-[18:26:23] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> llave
-[18:26:28] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> ahhh
-[18:26:33] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> son trials del end literal
-[18:26:35] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> XDDDDDDDDDDDDDDDDDDDDDDDDD
-[18:26:56] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> POR QUE TANTAS SOPAS
-[18:27:08] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> ah
-[18:27:10] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> son shulkers
-[18:27:12] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> XDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
-[18:27:34] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> ya podrias irte si quieres
-[18:27:35] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> no hay mucho mas
-[18:27:47] [Async Chat Thread - #8/INFO]: [Not Secure] <wolftho> quiero ver lo del mapa
-[18:27:50] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> va
-[18:27:54] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> un segundo
-[18:28:00] [Server thread/INFO]: qSeren issued server command: /tp wolftho qSeren
-[18:28:00] [Server thread/INFO]: [qSeren: Teleported wolftho to qSeren]
-[18:28:04] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> ahi
-[18:28:15] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> a ver asi le saco una copia al mapa
-[18:28:33] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> sureste
-[18:28:38] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> que
-[18:28:40] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> muestra los 2 puntos
-[18:28:43] [Async Chat Thread - #8/INFO]: [Not Secure] <wolftho> XD
-[18:28:51] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> vamos a hacer algo epico
-[18:28:55] [Server thread/INFO]: qSeren issued server command: /give qSeren minecraft:trident
-[18:28:55] [Server thread/INFO]: [qSeren: Gave 1 [Trident] to qSeren]
-[18:28:59] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:riptide 3
-[18:28:59] [Server thread/INFO]: [qSeren: Applied enchantment Riptide III to qSeren's item]
-[18:29:01] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:unbreaking 3
-[18:29:01] [Server thread/INFO]: [qSeren: Applied enchantment Unbreaking III to qSeren's item]
-[18:29:04] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> si el server anda bien
-[18:29:06] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> la perla no se buguea
-[18:29:11] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> usas tridente y tiras perlas
-[18:29:20] [Async Chat Thread - #8/INFO]: [Not Secure] <wolftho> no puedo tirarlo
-[18:29:21] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> y se pega la velocidad del tridente a la perla
-[18:29:23] [Async Chat Thread - #8/INFO]: [Not Secure] <wolftho> tiene propulsion
-[18:29:23] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> el agua??
-[18:29:29] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> por eso
-[18:29:34] [Server thread/INFO]: qSeren issued server command: /give qSeren minecraft:trident
-[18:29:34] [Server thread/INFO]: [qSeren: Gave 1 [Trident] to qSeren]
-[18:29:36] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:riptide 3
-[18:29:36] [Server thread/INFO]: [qSeren: Applied enchantment Riptide III to qSeren's item]
-[18:29:38] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:unbreaking 3
-[18:29:38] [Server thread/INFO]: [qSeren: Applied enchantment Unbreaking III to qSeren's item]
-[18:29:46] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> asi
-[18:29:50] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> y la perla va velocidad dios
-[18:29:55] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> vale
-[18:29:59] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> alli esta
-[18:30:03] [Async Chat Thread - #8/INFO]: [Not Secure] <wolftho> a la mierda
-[18:30:03] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> XDDDDDDDDDDDDDDDDDDDDDDDDDDDD
-[18:30:05] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> ES GIGANTE
-[18:30:06] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> AMIGO
-[18:30:13] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> Y LITEARL ESTA FLOTANDO
-[18:30:24] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> ESTO SI ES UNA END CITY
-[18:30:34] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> te tiro agua
-[18:30:38] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> esta seria la entrada
-[18:30:48] [Server thread/INFO]: qSeren has made the advancement [Spied Eye]
-[18:30:57] [Server thread/INFO]: wolftho has made the advancement [Spied Eye]
-[18:30:59] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> pon respawn
-[18:31:01] [Server thread/INFO]: qSeren issued server command: /gamerule keepInventory true
-[18:31:01] [Server thread/INFO]: [qSeren: Gamerule keepInventory is now set to: true]
-[18:31:03] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> con las anchor
-[18:31:18] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> respawn
-[18:31:18] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> hola
-[18:31:23] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> con glowstone
-[18:31:23] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> nomas
-[18:31:24] [Server thread/INFO]: wolftho has made the advancement [Anchored]
-[18:31:24] [Server thread/INFO]: wolftho has made the advancement [Not Quite "Nine" Lives]
-[18:31:35] [Server thread/INFO]: qSeren issued server command: /gamemode spectator
-[18:31:35] [Server thread/INFO]: [qSeren: Set own game mode to Spectator Mode]
-[18:31:48] [Async Chat Thread - #8/INFO]: [Not Secure] <qSeren> ojo el rush
-[18:32:08] [Async Chat Thread - #10/INFO]: [Not Secure] <qSeren> uf
-[18:32:11] [Async Chat Thread - #10/INFO]: [Not Secure] <qSeren> la habitacion ENCIMA TUYO
-[18:32:13] [Async Chat Thread - #10/INFO]: [Not Secure] <qSeren> esta llena de
-[18:32:17] [Async Chat Thread - #10/INFO]: [Not Secure] <qSeren> trial
-[18:32:23] [Async Chat Thread - #10/INFO]: [Not Secure] <qSeren> mucha suerte wolf
-[18:33:27] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> como va el test
-[18:33:29] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> te va gustando?
-[18:33:31] [Async Chat Thread - #12/INFO]: [Not Secure] <wolftho> si amigo
-[18:33:34] [Server thread/INFO]: qSeren issued server command: /gamemode creative
-[18:33:34] [Server thread/INFO]: [qSeren: Set own game mode to Creative Mode]
-[18:33:34] [Async Chat Thread - #12/INFO]: [Not Secure] <wolftho> esta re god
-[18:33:46] [Server thread/INFO]: qSeren issued server command: /kill @e[type=minecraft:endermite ]
-[18:33:46] [Server thread/INFO]: [qSeren: Killed 49 entities]
-[18:33:48] [Async Chat Thread - #12/INFO]: [Not Secure] <qSeren> ya lo mate
-[18:33:49] [Async Chat Thread - #12/INFO]: [Not Secure] <qSeren> A LA MIERDA
-[18:33:52] [Async Chat Thread - #12/INFO]: [Not Secure] <qSeren> 49 ENDERMITES HABIAN
-[18:34:07] [Async Chat Thread - #12/INFO]: [Not Secure] <qSeren> mira quieres probar algo util
-[18:34:26] [Server thread/INFO]: qSeren issued server command: /loot give qSeren loot stellarity:items/trinkets/endermans_hand
-[18:34:31] [Async Chat Thread - #12/INFO]: [Not Secure] <qSeren> este es un drop raro de un enderman
-[18:34:37] [Async Chat Thread - #12/INFO]: [Not Secure] <qSeren> si lo tienes en la mano secundaria
-[18:34:40] [Async Chat Thread - #12/INFO]: [Not Secure] <qSeren> te aumenta el rango
-[18:34:44] [Async Chat Thread - #12/INFO]: [Not Secure] <qSeren> es muy bueno
-[18:34:51] [Async Chat Thread - #12/INFO]: [Not Secure] <wolftho> A LA VERGA
-[18:35:02] [Async Chat Thread - #12/INFO]: [Not Secure] <qSeren> me encanta esa animacion
-[18:35:03] [Async Chat Thread - #12/INFO]: [Not Secure] <wolftho> es esa cosa de los cangrejos pero mejor
-[18:35:04] [Async Chat Thread - #12/INFO]: [Not Secure] <wolftho> xddd
-[18:35:06] [Async Chat Thread - #12/INFO]: [Not Secure] <qSeren> claro
-[18:35:08] [Async Chat Thread - #12/INFO]: [Not Secure] <qSeren> de hecho
-[18:35:10] [Async Chat Thread - #12/INFO]: [Not Secure] <qSeren> tiene un texto citandolo
-[18:35:16] [Async Chat Thread - #12/INFO]: [Not Secure] <wolftho> a buneo
-[18:35:17] [Server thread/INFO]: qSeren issued server command: /tp wolftho
-[18:35:17] [Server thread/INFO]: [qSeren: Teleported qSeren to wolftho]
-[18:35:18] [Async Chat Thread - #12/INFO]: [Not Secure] <wolftho> aparesco
-[18:35:19] [Async Chat Thread - #12/INFO]: [Not Secure] <qSeren> ah si
-[18:35:21] [Async Chat Thread - #12/INFO]: [Not Secure] <qSeren> me olvide de decir
-[18:35:24] [Async Chat Thread - #12/INFO]: [Not Secure] <qSeren> estas medio atascado
-[18:35:38] [Async Chat Thread - #12/INFO]: [Not Secure] <qSeren> pruebas el nether? o relajas los spoilers
-[18:35:46] [Async Chat Thread - #12/INFO]: [Not Secure] <qSeren> eres el unico al que le mostre las end city
-[18:36:00] [Async Chat Thread - #12/INFO]: [Not Secure] <wolftho> ya relajo los spolers
-[18:36:02] [Async Chat Thread - #12/INFO]: [Not Secure] <qSeren> podrias probar
-[18:36:04] [Async Chat Thread - #12/INFO]: [Not Secure] <qSeren> el witherboss
-[18:36:06] [Async Chat Thread - #12/INFO]: [Not Secure] <qSeren> ultimamente
-[18:36:13] [Async Chat Thread - #12/INFO]: [Not Secure] <qSeren> ese si que te va a gustar
-[18:36:17] [Async Chat Thread - #12/INFO]: [Not Secure] <qSeren> y te va a hacer sufrir
-[18:36:29] [Server thread/INFO]: qSeren issued server command: /tp wolftho qSeren
-[18:36:29] [Server thread/INFO]: [qSeren: Teleported wolftho to qSeren]
-[18:36:37] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> el efecto tambien
-[18:36:38] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> es god
-[18:36:39] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> XDD
-[18:36:42] [Async Chat Thread - #11/INFO]: [Not Secure] <wolftho> si
-[18:36:43] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> bueno
-[18:36:45] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> para probar el wither
-[18:36:48] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> vamos a irnos
-[18:36:51] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> a otro lugar
-[18:36:52] [Async Chat Thread - #11/INFO]: [Not Secure] <wolftho> ya ya
-[18:36:53] [Server thread/INFO]: qSeren has made the advancement [Ice Bucket Challenge]
-[18:37:04] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> (hace mierda todo aviso)
-[18:37:07] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> nos vamos al techo
-[18:37:08] [Server thread/INFO]: qSeren has made the advancement [Incendium]
-[18:37:08] [Server thread/INFO]: qSeren has made the advancement [We Need to Go Deeper]
-[18:37:09] [Server thread/INFO]: qSeren has made the advancement [Radioactive]
-[18:37:15] [Server thread/INFO]: wolftho has made the advancement [Incendium]
-[18:37:15] [Server thread/INFO]: wolftho has made the advancement [We Need to Go Deeper]
-[18:37:15] [Server thread/INFO]: wolftho has made the advancement [Radioactive]
-[18:37:27] [Server thread/INFO]: qSeren issued server command: /tp wolftho qSeren
-[18:37:27] [Server thread/INFO]: [qSeren: Teleported wolftho to qSeren]
-[18:37:28] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> porcierto
-[18:37:30] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> revisa el f3
-[18:37:33] [Async Chat Thread - #11/INFO]: [Not Secure] <wolftho> el incendium
-[18:37:33] [Async Chat Thread - #11/INFO]: [Not Secure] <wolftho> uff
-[18:37:36] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> mira que ahora el techo esta en 192
-[18:37:37] [Async Chat Thread - #11/INFO]: [Not Secure] <wolftho> NAH
-[18:38:06] [Server thread/INFO]: qSeren has made the advancement [Spooky Scary Skeleton]
-[18:38:16] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> dame tu armor
-[18:38:20] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> a teerob se lo follo aviso
-[18:38:33] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> tirame tu armor y le pongo mend
-[18:38:37] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> hace mierda las armaduras este
-[18:38:42] [Server thread/INFO]: qSeren issued server command: /enchant qSeren mending
-[18:38:56] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> recien ves eso enserio
-[18:39:02] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> te lo di durante la pelea
-[18:39:06] [Async Chat Thread - #11/INFO]: [Not Secure] <wolftho> ya lo habia viso
-[18:39:10] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> pasame la armadura chav
-[18:39:12] [Async Chat Thread - #11/INFO]: [Not Secure] <wolftho> al final del fragon xd
-[18:39:17] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> fragon
-[18:39:19] [Server thread/INFO]: qSeren issued server command: /enchant qSeren mending
-[18:39:19] [Server thread/INFO]: [qSeren: Applied enchantment Mending to qSeren's item]
-[18:39:20] [Server thread/INFO]: qSeren issued server command: /enchant qSeren mending
-[18:39:20] [Server thread/INFO]: [qSeren: Applied enchantment Mending to qSeren's item]
-[18:39:20] [Server thread/INFO]: qSeren issued server command: /enchant qSeren mending
-[18:39:20] [Server thread/INFO]: [qSeren: Applied enchantment Mending to qSeren's item]
-[18:39:21] [Server thread/INFO]: qSeren issued server command: /enchant qSeren mending
-[18:39:21] [Server thread/INFO]: [qSeren: Applied enchantment Mending to qSeren's item]
-[18:39:21] [Async Chat Thread - #11/INFO]: [Not Secure] <wolftho> XD}
-[18:40:00] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> esto va a estar dificil aviso
-[18:40:15] [Server thread/INFO]: qSeren issued server command: /give qSeren minecraft:command_block
-[18:40:15] [Server thread/INFO]: [qSeren: Gave 1 [Command Block] to qSeren]
-[18:40:17] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> preparado?
-[18:40:25] [Async Chat Thread - #11/INFO]: [Not Secure] <wolftho> si
-[18:40:26] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> mentira
-[18:40:26] [Async Chat Thread - #11/INFO]: [Not Secure] <wolftho> que
-[18:40:28] [Server thread/INFO]: wolftho has made the advancement [Withering Heights]
-[18:40:28] [Server thread/INFO]: qSeren has made the advancement [Withering Heights]
-[18:40:29] [Async Chat Thread - #11/INFO]: [Not Secure] <wolftho> aya
-[18:40:31] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> XDD
-[18:40:32] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> es joda
-[18:40:36] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> bueno mucha suerte
-[18:40:47] [Server thread/INFO]: Named entity Slime['Toxic Slime'/14296, uuid='fcc54d6e-c29c-4343-bedf-6d1cc2297b78', l='ServerLevel[world_nether]', x=31.40, y=-20.00, z=-12.26, cpos=[1, -1], tl=2998, v=true] died: Toxic Slime was killed
-[18:40:57] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> XDDDDDDDDDDDDDDDDDDDD
-[18:41:03] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> ESE ATAQUE
-[18:41:04] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> DONDE SUBE
-[18:41:05] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> Y APLASTA
-[18:41:07] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> ese lo mato a teerob
-[18:41:13] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> 9 coras de daño
-[18:41:17] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> full p4 diamante
-[18:41:21] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> quiza deberia habrete dado netherite
-[18:41:31] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> curate hermano
-[18:41:32] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> HERMANO
-[18:41:39] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> uHH
-[18:41:40] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> XDDDDDDDDDDDD
+[21:32:34] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[21:32:34] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
+[21:32:34] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[21:32:34] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
+[21:32:39] [ServerMain/WARN]: resource-pack-id missing, using default of 6f59d313-4428-3f47-a0ea-0fb58f402849
+[21:32:39] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:32:43] [ServerMain/INFO]: Loaded 1311 recipes
+[21:32:43] [ServerMain/ERROR]: Couldn't load advancements: [minecraft:wander_add_map, minecraft:give_quest_trader_trade]
+[21:32:43] [ServerMain/INFO]: Loaded 1631 advancements
+[21:32:43] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[21:32:43] [Server thread/INFO]: Loading properties
+[21:32:43] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[21:32:44] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[21:32:44] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:32:44] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:32:45] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[21:32:45] [Server thread/INFO]: Default game type: SURVIVAL
+[21:32:45] [Server thread/INFO]: Generating keypair
+[21:32:45] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:32:45] [Server thread/INFO]: Using epoll channel type
+[21:32:45] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[21:32:45] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[21:32:45] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:32:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:32:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:32:45] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:32:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:32:45] [Server thread/INFO]: Preparing level "world"
+[21:32:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:32:47] [Server thread/INFO]: Time elapsed: 1522 ms
+[21:32:47] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[21:32:47] [Server thread/INFO]: Time elapsed: 295 ms
+[21:32:47] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[21:32:48] [Server thread/INFO]: Time elapsed: 200 ms
+[21:32:48] [Server thread/INFO]: [spark] Starting background profiler...
+[21:32:48] [Server thread/INFO]: Done preparing level "world" (2.789s)
+[21:32:48] [Server thread/INFO]: Running delayed init tasks
+[21:32:48] [Server thread/INFO]: Done (15.246s)! For help, type "help"
+[21:32:48] [Server thread/INFO]: Timings Reset
+[21:32:56] [User Authenticator #0/INFO]: UUID of player qSeren is 60f425a3-b4ca-31c1-a532-8475c0b676c0
+[21:33:06] [User Authenticator #0/INFO]: UUID of player iRagc is 67ea92e7-d0b5-38d9-9052-76eb288fcd52
+[21:33:19] [Server thread/INFO]: qSeren joined the game
+[21:33:20] [Server thread/INFO]: qSeren[/100.110.74.102:52122] logged in with entity id 35 at ([world]130.90255397641505, 131.90776664526197, 125.69999998807907)
+[21:33:26] [Server thread/INFO]: qSeren issued server command: /gamemode creative
+[21:33:52] [Server thread/INFO]: com.mojang.authlib.GameProfile@2cee9384[id=67ea92e7-d0b5-38d9-9052-76eb288fcd52,name=iRagc,properties={}] lost connection: Disconnected
+[21:34:55] [User Authenticator #1/INFO]: UUID of player iRagc is 67ea92e7-d0b5-38d9-9052-76eb288fcd52
+[21:35:01] [Server thread/INFO]: iRagc joined the game
+[21:35:01] [Server thread/INFO]: iRagc[/100.124.40.45:58673] logged in with entity id 749 at ([world]38.5, 120.0, 2.5)
+[21:35:05] [Server thread/INFO]: qSeren issued server command: /tp iRagc
+[21:35:05] [Server thread/INFO]: [qSeren: Teleported qSeren to iRagc]
+[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: crazy_chambers:melee_spawner
+[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: crazy_chambers:spawner/breeze_spawner
+[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: crazy_chambers:spawner/breeze_spawner
+[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: crazy_chambers:spawner/breeze_spawner
+[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:36:14] [Server thread/INFO]: iRagc has made the advancement [Monster Hunter]
+[21:36:18] [Server thread/INFO]: iRagc was slain by Husk
+[21:36:46] [Server thread/INFO]: qSeren has made the advancement [Stone Age]
+[21:37:06] [Server thread/INFO]: qSeren has made the advancement [Cover Me with Diamonds]
+[21:37:17] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:protection 4
+[21:37:17] [Server thread/INFO]: [qSeren: Applied enchantment Protection IV to qSeren's item]
+[21:37:18] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:protection 4
+[21:37:18] [Server thread/INFO]: [qSeren: Applied enchantment Protection IV to qSeren's item]
+[21:37:18] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:protection 4
+[21:37:18] [Server thread/INFO]: [qSeren: Applied enchantment Protection IV to qSeren's item]
+[21:37:19] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:protection 4
+[21:37:19] [Server thread/INFO]: [qSeren: Applied enchantment Protection IV to qSeren's item]
+[21:37:21] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:sharpness 5
+[21:37:21] [Server thread/INFO]: [qSeren: Applied enchantment Sharpness V to qSeren's item]
+[21:37:24] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:unbreaking 3
+[21:37:24] [Server thread/INFO]: [qSeren: Applied enchantment Unbreaking III to qSeren's item]
+[21:37:25] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:unbreaking 3
+[21:37:25] [Server thread/INFO]: [qSeren: Applied enchantment Unbreaking III to qSeren's item]
+[21:37:25] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:unbreaking 3
+[21:37:25] [Server thread/INFO]: [qSeren: Applied enchantment Unbreaking III to qSeren's item]
+[21:37:26] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:unbreaking 3
+[21:37:26] [Server thread/INFO]: [qSeren: Applied enchantment Unbreaking III to qSeren's item]
+[21:37:27] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:unbreaking 3
+[21:37:27] [Server thread/INFO]: [qSeren: Applied enchantment Unbreaking III to qSeren's item]
+[21:37:29] [Server thread/INFO]: qSeren issued server command: /enchant qSeren mending
+[21:37:29] [Server thread/INFO]: [qSeren: Applied enchantment Mending to qSeren's item]
+[21:37:30] [Server thread/INFO]: qSeren issued server command: /enchant qSeren mending
+[21:37:30] [Server thread/INFO]: [qSeren: Applied enchantment Mending to qSeren's item]
+[21:37:30] [Server thread/INFO]: qSeren issued server command: /enchant qSeren mending
+[21:37:30] [Server thread/INFO]: [qSeren: Applied enchantment Mending to qSeren's item]
+[21:37:31] [Server thread/INFO]: qSeren issued server command: /enchant qSeren mending
+[21:37:31] [Server thread/INFO]: [qSeren: Applied enchantment Mending to qSeren's item]
+[21:37:31] [Server thread/INFO]: qSeren issued server command: /enchant qSeren mending
+[21:37:31] [Server thread/INFO]: [qSeren: Applied enchantment Mending to qSeren's item]
+[21:37:51] [Server thread/INFO]: qSeren issued server command: /enchant qSeren power 5
+[21:37:51] [Server thread/INFO]: [qSeren: Applied enchantment Power V to qSeren's item]
+[21:37:53] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:unbreaking 3
+[21:37:53] [Server thread/INFO]: [qSeren: Applied enchantment Unbreaking III to qSeren's item]
+[21:37:55] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:mending
+[21:37:55] [Server thread/INFO]: [qSeren: Applied enchantment Mending to qSeren's item]
+[21:38:04] [Server thread/INFO]: qSeren issued server command: /enchant qSeren power 5
+[21:38:04] [Server thread/INFO]: [qSeren: Applied enchantment Power V to qSeren's item]
+[21:38:05] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:unbreaking 3
+[21:38:05] [Server thread/INFO]: [qSeren: Applied enchantment Unbreaking III to qSeren's item]
+[21:38:13] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:infinity
+[21:38:13] [Server thread/INFO]: [qSeren: Applied enchantment Infinity to qSeren's item]
+[21:38:21] [Server thread/INFO]: iRagc has made the advancement [Cover Me with Diamonds]
+[21:38:43] [Server thread/INFO]: qSeren has reached the goal [Eye of Darkness]
+[21:38:48] [Server thread/INFO]: iRagc has reached the goal [Eye of Darkness]
+[21:38:49] [Server thread/INFO]: qSeren has reached the goal [Strengthened by Fire]
+[21:38:55] [Server thread/INFO]: iRagc has reached the goal [Strengthened by Fire]
+[21:39:00] [Server thread/INFO]: qSeren issued server command: /locate structure minecraft:stronghold
+[21:39:00] [Server thread/INFO]: Locating element minecraft:stronghold took 815 ms
+[21:39:03] [Server thread/INFO]: qSeren issued server command: /tp @s -144 ~ -1552
+[21:39:03] [Server thread/INFO]: [qSeren: Teleported qSeren to -143.500000, 123.907797, -1551.500000]
+[21:39:05] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-158, y=-57, z=-42}
+[21:39:05] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-158, y=-57, z=-42}
+[21:39:08] [Async Chat Thread - #0/INFO]: [Not Secure] <iRagc> asd
+[21:39:13] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-158, y=-57, z=-42}
+[21:39:13] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-158, y=-57, z=-42}
+[21:39:15] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-129, y=-58, z=-61}
+[21:39:15] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-127, y=-58, z=-61}
+[21:39:15] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-161, y=-58, z=-83}
+[21:39:15] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-129, y=-58, z=-61}
+[21:39:15] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-127, y=-58, z=-61}
+[21:39:15] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-153, y=-58, z=-122}
+[21:39:15] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-161, y=-58, z=-83}
+[21:39:15] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-161, y=-58, z=-83}
+[21:39:16] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-158, y=-57, z=-42}
+[21:39:16] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-161, y=-58, z=-83}
+[21:39:16] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-153, y=-58, z=-122}
+[21:39:18] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-158, y=-57, z=-42}
+[21:39:18] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-153, y=-58, z=-122}
+[21:39:18] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-235, y=-58, z=-188}
+[21:39:21] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-158, y=-57, z=-42}
+[21:39:22] [Async Chat Thread - #0/INFO]: [Not Secure] <iRagc> se me laguea a mi por mi internet xd
+[21:39:23] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-136, y=-58, z=-70}
+[21:39:26] [Server thread/INFO]: qSeren issued server command: /tp iRagc
+[21:39:26] [Server thread/INFO]: [qSeren: Teleported qSeren to iRagc]
+[21:39:29] [Server thread/INFO]: qSeren issued server command: /tp @s -144 ~ -1552
+[21:39:29] [Server thread/INFO]: [qSeren: Teleported qSeren to -143.500000, 119.000000, -1551.500000]
+[21:39:38] [Server thread/INFO]: qSeren issued server command: /tp iRagc qSeren
+[21:39:38] [Server thread/INFO]: [qSeren: Teleported iRagc to qSeren]
+[21:39:41] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=216, y=47, z=211}
+[21:39:48] [Server thread/INFO]: qSeren issued server command: /give iRagc diamond_pickaxe
+[21:39:48] [Server thread/INFO]: [qSeren: Gave 1 [Diamond Pickaxe] to iRagc]
+[21:39:50] [Server thread/INFO]: qSeren issued server command: /give iRagc iron_axe
+[21:39:50] [Server thread/INFO]: [qSeren: Gave 1 [Iron Axe] to iRagc]
+[21:39:54] [Server thread/INFO]: qSeren issued server command: /gamemode spectator
+[21:39:54] [Server thread/INFO]: [qSeren: Set own game mode to Spectator Mode]
+[21:39:59] [Server thread/INFO]: qSeren has made the advancement [Eye Spy]
+[21:40:02] [Async Chat Thread - #0/INFO]: [Not Secure] <iRagc> asd
+[21:40:10] [Async Chat Thread - #0/INFO]: [Not Secure] <iRagc> bro voy muy lag ;c
+[21:40:13] [Async Chat Thread - #0/INFO]: [Not Secure] <iRagc> por mi internet
+[21:40:16] [Server thread/INFO]: qSeren issued server command: /gamemode creative
+[21:40:16] [Server thread/INFO]: [qSeren: Set own game mode to Creative Mode]
+[21:40:26] [Server thread/INFO]: qSeren issued server command: /tp iRagc qSeren
+[21:40:26] [Server thread/INFO]: [qSeren: Teleported iRagc to qSeren]
+[21:40:27] [Server thread/INFO]: iRagc has made the advancement [Eye Spy]
+[21:40:36] [Async Chat Thread - #0/INFO]: [Not Secure] <iRagc> asd
+[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: crazy_chambers:spawner/breeze_spawner
+[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: crazy_chambers:spawner/breeze_spawner
+[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: crazy_chambers:spawner/breeze_spawner
+[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
+[21:41:10] [Server thread/INFO]: iRagc has made the advancement [Take Aim]
+[21:42:21] [Server thread/INFO]: qSeren has reached the goal [Journey's End]
+[21:42:21] [Server thread/INFO]: iRagc has reached the goal [Journey's End]
