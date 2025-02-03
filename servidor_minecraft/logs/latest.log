@@ -677,3 +677,37 @@
 [22:36:47] [Server thread/INFO]: Named entity Vindicator['Sanctum Protector'/19414, uuid='e0d60e30-df97-4d55-adc5-0faaa767ab00', l='ServerLevel[world_nether]', x=-1850.30, y=56.00, z=96.30, cpos=[-116, 6], tl=6460, v=true] died: Sanctum Protector was slain by qSeren
 [22:42:21] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/19248, uuid='956a9f14-9fdd-4758-874c-2c602de5c4fb', l='ServerLevel[world_nether]', x=-1847.08, y=36.06, z=113.41, cpos=[-116, 7], tl=13214, v=true] died: Sanctum Cultist was slain by iRagc
 [22:42:47] [Server thread/INFO]: iRagc has made the advancement [Suit Up]
+[22:44:15] [Server thread/INFO]: Named entity Vindicator['Sanctum Inquisitor'/19324, uuid='fb37cce9-cda3-45d7-b0f3-a5a85d34463f', l='ServerLevel[world_nether]', x=-1845.81, y=36.00, z=94.68, cpos=[-116, 5], tl=15344, v=true] died: Sanctum Inquisitor was slain by qSeren
+[22:44:31] [Server thread/INFO]: Named entity Vindicator['Sanctum Inquisitor'/19419, uuid='a775a273-a4bb-46ac-8fef-016a06ac941c', l='ServerLevel[world_nether]', x=-1847.04, y=34.00, z=92.30, cpos=[-116, 5], tl=15737, v=true] died: Sanctum Inquisitor was slain by qSeren
+[22:44:33] [Server thread/INFO]: Named entity Vindicator['Sanctum Inquisitor'/19417, uuid='5c50d1de-9c59-435e-9542-44405c9dfa23', l='ServerLevel[world_nether]', x=-1847.83, y=34.00, z=92.30, cpos=[-116, 5], tl=15786, v=true] died: Sanctum Inquisitor was slain by qSeren
+[22:44:34] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/19329, uuid='c869923a-9292-4b5f-ae4e-e4a5d8c41168', l='ServerLevel[world_nether]', x=-1847.42, y=34.00, z=92.30, cpos=[-116, 5], tl=15878, v=true] died: Sanctum Cultist was slain by qSeren
+[22:44:35] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/19325, uuid='c2bb57d3-2413-4063-8357-731e0d55db21', l='ServerLevel[world_nether]', x=-1846.30, y=34.00, z=92.30, cpos=[-116, 5], tl=15846, v=true] died: Sanctum Cultist was slain by qSeren
+[22:45:29] [Server thread/INFO]: Named entity Ravager['Sanctum Ravager'/19478, uuid='387bec0e-f071-4afb-8b8f-85dfb0bb2f97', l='ServerLevel[world_nether]', x=-1863.02, y=36.06, z=62.68, cpos=[-117, 3], tl=16831, v=true] died: Sanctum Ravager was slain by qSeren using [Daybreaker]
+[22:45:30] [Server thread/INFO]: Named entity Ravager['Sanctum Ravager'/19479, uuid='1790d2a3-0f9c-43ab-a405-d4e082403e67', l='ServerLevel[world_nether]', x=-1863.02, y=36.06, z=64.78, cpos=[-117, 4], tl=16840, v=true] died: Sanctum Ravager was slain by qSeren using [Daybreaker]
+[22:46:01] [Server thread/INFO]: Named entity Ravager['Sanctum Ravager'/19461, uuid='ba92c8c7-4dac-4de1-a55f-deebb990b0fc', l='ServerLevel[world_nether]', x=-1858.73, y=36.34, z=55.02, cpos=[-117, 3], tl=17459, v=true] died: Sanctum Ravager was slain by qSeren using [Daybreaker]
+[22:46:12] [Server thread/INFO]: qSeren issued server command: /gamemode spectator
+[22:46:12] [Server thread/INFO]: [qSeren: Set own game mode to Spectator Mode]
+[22:46:17] [Server thread/INFO]: qSeren issued server command: /gamemode creative
+[22:46:17] [Server thread/INFO]: [qSeren: Set own game mode to Creative Mode]
+[22:46:19] [Server thread/INFO]: qSeren issued server command: /tp iRagc qSeren
+[22:46:19] [Server thread/INFO]: [qSeren: Teleported iRagc to qSeren]
+[22:46:54] [Server thread/INFO]: qSeren has completed the challenge [Subspace Bubble]
+[22:47:18] [Server thread/INFO]: qSeren issued server command: /tp ir
+[22:47:19] [Server thread/INFO]: qSeren issued server command: /tp iRagc
+[22:47:19] [Server thread/INFO]: [qSeren: Teleported qSeren to iRagc]
+[22:47:53] [Server thread/INFO]: Named entity Vindicator['Sanctum Protector'/19416, uuid='bc97effb-f3bb-4fe3-8adf-2aec9d5654dc', l='ServerLevel[world_nether]', x=-1837.98, y=36.00, z=93.31, cpos=[-115, 5], tl=19780, v=true] died: Sanctum Protector was slain by qSeren
+[22:48:08] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/19331, uuid='828724de-7301-4bba-bfde-59ab8ef2163d', l='ServerLevel[world_nether]', x=-1827.51, y=36.00, z=105.25, cpos=[-115, 6], tl=20158, v=true] died: Sanctum Cultist was slain by qSeren
+[22:48:10] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/19327, uuid='49f46736-8b9f-4e37-89bd-8399de95bbbc', l='ServerLevel[world_nether]', x=-1821.63, y=37.00, z=106.69, cpos=[-114, 6], tl=20192, v=true] died: Sanctum Cultist was slain by iRagc
+[22:48:44] [Server thread/INFO]: Named entity Vindicator['Sanctum Inquisitor'/19308, uuid='06ede3d1-7501-47c3-8bc8-1c02cae8878c', l='ServerLevel[world_nether]', x=-1815.47, y=36.00, z=88.26, cpos=[-114, 5], tl=20972, v=true] died: Sanctum Inquisitor was slain by qSeren
+[22:49:10] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:sharpness 5
+[22:49:10] [Server thread/INFO]: [qSeren: Applied enchantment Sharpness V to qSeren's item]
+[22:49:12] [Async Chat Thread - #26/INFO]: [Not Secure] <iRagc> qSeren esperame
+[22:49:15] [Async Chat Thread - #26/INFO]: [Not Secure] <iRagc> un ratito
+[22:49:16] [Async Chat Thread - #26/INFO]: [Not Secure] <qSeren> sisi
+[22:50:24] [Server thread/INFO]: Named entity Vindicator['Sanctum Inquisitor'/19242, uuid='ede52d87-6e91-484d-ac20-a27e4d1e6fdf', l='ServerLevel[world_nether]', x=-1781.93, y=36.00, z=103.30, cpos=[-112, 6], tl=22982, v=true] died: Sanctum Inquisitor was slain by qSeren
+[22:50:27] [Server thread/INFO]: Named entity Vindicator['Sanctum Inquisitor'/19167, uuid='0211ef18-0cd6-46c7-b785-9d645e03122e', l='ServerLevel[world_nether]', x=-1772.30, y=36.91, z=105.65, cpos=[-111, 6], tl=23183, v=true] died: Sanctum Inquisitor was slain by qSeren
+[22:50:53] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/19138, uuid='2d200bfa-605d-4e12-b87d-b2274593c53b', l='ServerLevel[world_nether]', x=-1774.30, y=37.00, z=117.70, cpos=[-111, 7], tl=23720, v=true] died: Sanctum Cultist was slain by qSeren
+[22:50:54] [Server thread/INFO]: Named entity Vindicator['Sanctum Inquisitor'/19017, uuid='c8de1d4c-41c8-45f2-8744-bd9051b10f9d', l='ServerLevel[world_nether]', x=-1773.43, y=36.00, z=113.08, cpos=[-111, 7], tl=23840, v=true] died: Sanctum Inquisitor was slain by qSeren
+[22:51:21] [Server thread/INFO]: Named entity Evoker['Sanctum Ritualist'/19191, uuid='b16c7549-9336-449b-94f3-5d17262b7149', l='ServerLevel[world_nether]', x=-1778.30, y=32.00, z=129.70, cpos=[-112, 8], tl=24252, v=true] died: Sanctum Ritualist was slain by qSeren
+[22:51:21] [Server thread/INFO]: qSeren has made the advancement [The Floor is Tears]
+[22:51:27] [Server thread/INFO]: Named entity Vindicator['Sanctum Inquisitor'/19164, uuid='39b61c44-43b6-4be9-80e4-85e0465119a5', l='ServerLevel[world_nether]', x=-1780.87, y=30.00, z=103.69, cpos=[-112, 6], tl=24374, v=true] died: Sanctum Inquisitor was slain by iRagc

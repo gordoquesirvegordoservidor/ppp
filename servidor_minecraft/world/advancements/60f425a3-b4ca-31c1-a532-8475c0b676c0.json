@@ -32,7 +32,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2025-02-03 21:40:46 +0000",
-      "minecraft:plains": "2025-02-03 18:57:03 +0000"
+      "minecraft:plains": "2025-02-03 18:57:03 +0000",
+      "minecraft:warm_ocean": "2025-02-03 22:46:54 +0000"
     },
     "done": false
   },
@@ -179,15 +180,16 @@
       "minecraft:pillager": "2025-02-03 22:32:29 +0000",
       "minecraft:skeleton": "2025-02-03 18:59:19 +0000",
       "minecraft:phantom": "2025-02-03 21:44:02 +0000",
+      "minecraft:witch": "2025-02-03 21:42:05 +0000",
+      "minecraft:ravager": "2025-02-03 22:45:29 +0000",
+      "minecraft:husk": "2025-02-03 21:36:27 +0000",
+      "minecraft:ender_dragon": "2025-02-03 22:14:58 +0000",
+      "minecraft:shulker": "2025-02-03 22:04:31 +0000",
       "minecraft:vindicator": "2025-02-03 21:40:37 +0000",
       "minecraft:enderman": "2025-02-03 21:47:23 +0000",
-      "minecraft:witch": "2025-02-03 21:42:05 +0000",
       "minecraft:vex": "2025-02-03 21:41:36 +0000",
       "minecraft:zombie": "2025-02-03 22:01:55 +0000",
-      "minecraft:husk": "2025-02-03 21:36:27 +0000",
-      "minecraft:evoker": "2025-02-03 21:40:58 +0000",
-      "minecraft:ender_dragon": "2025-02-03 22:14:58 +0000",
-      "minecraft:shulker": "2025-02-03 22:04:31 +0000"
+      "minecraft:evoker": "2025-02-03 21:40:58 +0000"
     },
     "done": false
   },
@@ -706,79 +708,97 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-03 22:38:04 +0000"
+      "log_spam_fixer": "2025-02-03 22:48:04 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-03 22:38:04 +0000"
+      "log_spam_fixer": "2025-02-03 22:48:04 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-02-03 22:38:04 +0000"
+      "log_spam_fixer": "2025-02-03 22:48:04 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-02-03 22:38:04 +0000"
+      "log_spam_fixer": "2025-02-03 22:48:04 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-02-03 22:38:04 +0000"
+      "log_spam_fixer": "2025-02-03 22:48:04 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-02-03 22:38:04 +0000"
+      "log_spam_fixer": "2025-02-03 22:48:04 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-02-03 22:38:04 +0000"
+      "log_spam_fixer": "2025-02-03 22:48:04 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-02-03 22:38:04 +0000"
+      "log_spam_fixer": "2025-02-03 22:48:04 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-02-03 22:38:04 +0000"
+      "log_spam_fixer": "2025-02-03 22:48:04 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-02-03 22:38:04 +0000"
+      "log_spam_fixer": "2025-02-03 22:48:04 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-03 22:38:04 +0000"
+      "log_spam_fixer": "2025-02-03 22:48:04 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-02-03 22:38:04 +0000"
+      "log_spam_fixer": "2025-02-03 22:48:04 +0000"
     },
     "done": false
   },
   "incendium:quartz_flats/sanctum/vault_hunter": {
     "criteria": {
       "requirement": "2025-02-03 22:32:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-02-03 22:41:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-03 22:45:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-03 22:45:32 +0000"
     },
     "done": true
   },
@@ -794,9 +814,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-02-03 22:47:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2025-02-03 22:46:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-02-03 22:47:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2025-02-03 22:30:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-02-03 22:46:54 +0000"
     },
     "done": true
   },
