@@ -310,3 +310,69 @@
 [21:50:54] [Server thread/INFO]: [qSeren: Applied enchantment Mending to qSeren's item]
 [21:51:45] [Server thread/INFO]: qSeren issued server command: /give iRagc minecraft:ender_pearl
 [21:51:45] [Server thread/INFO]: [qSeren: Gave 1 [Ender Pearl] to iRagc]
+[21:54:11] [Server thread/INFO]: qSeren issued server command: /give iRagc minecraft:water_bucket
+[21:54:11] [Server thread/INFO]: [qSeren: Gave 1 [Water Bucket] to iRagc]
+[21:54:12] [Server thread/INFO]: qSeren issued server command: /give iRagc minecraft:water_bucket
+[21:54:12] [Server thread/INFO]: [qSeren: Gave 1 [Water Bucket] to iRagc]
+[21:54:46] [Server thread/INFO]: qSeren issued server command: /tp iRagc
+[21:54:46] [Server thread/INFO]: [qSeren: Teleported qSeren to iRagc]
+[21:55:59] [Server thread/INFO]: iRagc has made the advancement [It's Rude to Stare!]
+[21:56:01] [Server thread/INFO]: qSeren has made the advancement [It's Rude to Stare!]
+[21:56:32] [Server thread/INFO]: qSeren issued server command: /loot give qSeren loot stellarity:items/spellbooks/light
+[21:56:32] [Server thread/INFO]: qSeren has made the advancement [Robbing the Fortress]
+[21:56:36] [Server thread/INFO]: iRagc has made the advancement [Robbing the Fortress]
+[21:56:41] [Async Chat Thread - #8/INFO]: [Not Secure] <iRagc> asd
+[21:56:49] [Server thread/INFO]: qSeren issued server command: /loot give qSeren loot stellarity:items/spellbooks/updraft
+[21:57:50] [Async Chat Thread - #10/INFO]: [Not Secure] <iRagc> asd
+[21:58:07] [Server thread/INFO]: iRagc has made the advancement [This Block Moves!]
+[21:58:07] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:sharpness 5
+[21:58:07] [Server thread/INFO]: [qSeren: Applied enchantment Sharpness V to qSeren's item]
+[21:58:44] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
+[21:58:44] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
+[21:58:44] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
+[21:58:44] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
+[21:58:44] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
+[21:58:44] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
+[21:58:44] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
+[21:58:44] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
+[21:59:43] [Server thread/INFO]: qSeren issued server command: /enchant qSeren power 5
+[21:59:43] [Server thread/INFO]: [qSeren: Applied enchantment Power V to qSeren's item]
+[21:59:52] [Server thread/INFO]: iRagc has made the advancement [Ice Bucket Challenge]
+[22:00:04] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
+[22:00:04] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
+[22:00:04] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
+[22:00:04] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
+[22:00:04] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
+[22:00:04] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
+[22:00:04] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
+[22:00:04] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
+[22:00:25] [Server thread/INFO]: Named entity Zombie['End Zombie'/8057, uuid='29f4870a-2b6c-4ec5-a690-78fb185e6746', l='ServerLevel[world_the_end]', x=24.03, y=58.00, z=17.91, cpos=[1, 1], tl=2016, v=true] died: End Zombie fell from a high place
+[22:00:30] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:density 5
+[22:00:30] [Server thread/INFO]: [qSeren: Applied enchantment Density V to qSeren's item]
+[22:00:36] [Server thread/INFO]: Named entity Zombie['End Zombie'/8307, uuid='d7b7e3c1-01d8-4f8a-8575-30dfb417d144', l='ServerLevel[world_the_end]', x=26.56, y=58.00, z=-9.78, cpos=[1, -1], tl=647, v=true] died: End Zombie fell from a high place
+[22:00:59] [Server thread/INFO]: Named entity Zombie['End Zombie'/8309, uuid='816ed28e-2221-467b-9978-4176f4b90fa2', l='ServerLevel[world_the_end]', x=29.16, y=59.00, z=0.92, cpos=[1, 0], tl=1106, v=true] died: End Zombie fell from a high place
+[22:01:12] [Async Chat Thread - #12/INFO]: [Not Secure] <iRagc> asd
+[22:01:24] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
+[22:01:24] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
+[22:01:24] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
+[22:01:24] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
+[22:01:24] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
+[22:01:24] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
+[22:01:24] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
+[22:01:24] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
+[22:01:41] [Server thread/INFO]: Named entity Zombie['End Zombie'/8573, uuid='85ff6c00-df31-4776-933d-65574aa3982a', l='ServerLevel[world_the_end]', x=-16.20, y=52.00, z=4.80, cpos=[-2, 0], tl=342, v=true] died: End Zombie fell from a high place
+[22:01:55] [Server thread/INFO]: Named entity Zombie['End Zombie'/8308, uuid='3435764c-278f-4cfe-88f7-6df1d27f511a', l='ServerLevel[world_the_end]', x=-2.14, y=61.00, z=3.48, cpos=[-1, 0], tl=2216, v=true] died: End Zombie was doomed to fall by qSeren
+[22:02:01] [Server thread/INFO]: qSeren issued server command: /give iRagc minecraft:water_bucket
+[22:02:01] [Server thread/INFO]: [qSeren: Gave 1 [Water Bucket] to iRagc]
+[22:02:02] [Server thread/INFO]: qSeren issued server command: /give iRagc minecraft:water_bucket
+[22:02:02] [Server thread/INFO]: [qSeren: Gave 1 [Water Bucket] to iRagc]
+[22:02:02] [Server thread/INFO]: qSeren issued server command: /give iRagc minecraft:water_bucket
+[22:02:02] [Server thread/INFO]: [qSeren: Gave 1 [Water Bucket] to iRagc]
+[22:02:03] [Server thread/INFO]: qSeren issued server command: /give iRagc minecraft:water_bucket
+[22:02:03] [Server thread/INFO]: [qSeren: Gave 1 [Water Bucket] to iRagc]
+[22:02:03] [Server thread/INFO]: qSeren issued server command: /give iRagc minecraft:water_bucket
+[22:02:03] [Server thread/INFO]: [qSeren: Gave 1 [Water Bucket] to iRagc]
+[22:02:06] [Async Chat Thread - #12/INFO]: [Not Secure] <iRagc> asad
+[22:02:14] [Server thread/INFO]: Named entity Zombie['End Zombie'/8059, uuid='6546be40-2aa6-4ff0-8cae-7cf002c9c0fb', l='ServerLevel[world_the_end]', x=16.77, y=55.00, z=5.04, cpos=[1, 0], tl=4198, v=true] died: End Zombie fell from a high place
+[22:02:38] [Server thread/INFO]: qSeren issued server command: /give iRagc minecraft:golden_apple 20
+[22:02:38] [Server thread/INFO]: [qSeren: Gave 20 [Golden Apple] to iRagc]
