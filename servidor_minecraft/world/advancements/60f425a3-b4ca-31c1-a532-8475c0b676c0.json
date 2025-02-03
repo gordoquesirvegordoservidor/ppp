@@ -44,75 +44,81 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-03 18:10:28 +0000"
+      "log_spam_fixer": "2025-02-03 18:20:28 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-03 18:10:28 +0000"
+      "log_spam_fixer": "2025-02-03 18:20:28 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-02-03 18:10:28 +0000"
+      "log_spam_fixer": "2025-02-03 18:20:28 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-02-03 18:10:28 +0000"
+      "log_spam_fixer": "2025-02-03 18:20:28 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-02-03 18:10:28 +0000"
+      "log_spam_fixer": "2025-02-03 18:20:28 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-02-03 18:10:28 +0000"
+      "log_spam_fixer": "2025-02-03 18:20:28 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-02-03 18:10:28 +0000"
+      "log_spam_fixer": "2025-02-03 18:20:28 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-02-03 18:10:28 +0000"
+      "log_spam_fixer": "2025-02-03 18:20:28 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-02-03 18:10:28 +0000"
+      "log_spam_fixer": "2025-02-03 18:20:28 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-02-03 18:10:28 +0000"
+      "log_spam_fixer": "2025-02-03 18:20:28 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-03 18:10:28 +0000"
+      "log_spam_fixer": "2025-02-03 18:20:28 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-02-03 18:10:28 +0000"
+      "log_spam_fixer": "2025-02-03 18:20:28 +0000"
     },
     "done": false
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "kill_dragon": "2025-02-03 18:16:36 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
@@ -158,9 +164,21 @@
     },
     "done": false
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-02-03 18:14:01 +0000"
+    },
+    "done": true
+  },
   "stellarity:recipes/slime_ball_from_ender_eye": {
     "criteria": {
       "has_item": "2025-02-03 17:51:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-02-03 18:12:37 +0000"
     },
     "done": true
   },
@@ -173,6 +191,12 @@
   "stellarity:adventure/anger_enderman": {
     "criteria": {
       "anger_enderman": "2025-02-03 17:56:34 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/disassembly": {
+    "criteria": {
+      "requirement": "2025-02-03 18:18:31 +0000"
     },
     "done": true
   },
@@ -215,6 +239,12 @@
   "stellarity:events/first_time_in_end": {
     "criteria": {
       "requirement": "2025-02-03 17:53:43 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/obtain_dragonblade": {
+    "criteria": {
+      "requirement": "2025-02-03 18:17:06 +0000"
     },
     "done": true
   },
