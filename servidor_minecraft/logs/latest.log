@@ -266,3 +266,47 @@
 [21:41:10] [Server thread/INFO]: iRagc has made the advancement [Take Aim]
 [21:42:21] [Server thread/INFO]: qSeren has reached the goal [Journey's End]
 [21:42:21] [Server thread/INFO]: iRagc has reached the goal [Journey's End]
+[21:42:47] [Server thread/INFO]: iRagc has made the advancement [The End?]
+[21:42:48] [Server thread/INFO]: qSeren has made the advancement [The End?]
+[21:42:53] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[21:42:53] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[21:43:31] [Async Chat Thread - #2/INFO]: [Not Secure] <iRagc> asd
+[21:44:01] [Server thread/INFO]: qSeren has made the advancement [Ol' Betsy]
+[21:44:01] [Server thread/INFO]: qSeren has made the advancement [Take Aim]
+[21:44:02] [Server thread/INFO]: qSeren has made the advancement [Night Sky Stalkers]
+[21:44:44] [Async Chat Thread - #4/INFO]: [Not Secure] <iRagc> asd
+[21:45:10] [Server thread/INFO]: qSeren has made the advancement [Ice Bucket Challenge]
+[21:45:31] [Server thread/INFO]: iRagc has reached the goal [Sacrificial Ritual]
+[21:45:31] [Server thread/INFO]: qSeren has reached the goal [Sacrificial Ritual]
+[21:45:57] [Server thread/INFO]: iRagc has made the advancement [Final Showdown]
+[21:45:57] [Server thread/INFO]: qSeren has made the advancement [Final Showdown]
+[21:46:24] [Async Chat Thread - #6/INFO]: [Not Secure] <qSeren> s
+[21:46:26] [Async Chat Thread - #6/INFO]: [Not Secure] <iRagc> asd
+[21:46:27] [Async Chat Thread - #6/INFO]: [Not Secure] <iRagc> gg
+[21:46:27] [Async Chat Thread - #6/INFO]: [Not Secure] <iRagc> tengo mucho lag
+[21:46:28] [Async Chat Thread - #6/INFO]: [Not Secure] <iRagc> XDDD
+[21:47:07] [Server thread/INFO]: qSeren issued server command: /give iRagc minecraft:wind_charge 64
+[21:47:07] [Server thread/INFO]: [qSeren: Gave 64 [Wind Charge] to iRagc]
+[21:47:47] [Server thread/INFO]: qSeren issued server command: /gamemode spectator
+[21:47:47] [Server thread/INFO]: [qSeren: Set own game mode to Spectator Mode]
+[21:47:58] [Server thread/INFO]: qSeren issued server command: /gamemode creative
+[21:47:58] [Server thread/INFO]: [qSeren: Set own game mode to Creative Mode]
+[21:49:18] [Server thread/INFO]: qSeren issued server command: /enchant iRagc minecraft:feather_falling 4
+[21:49:25] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:feather_falling 4
+[21:49:25] [Server thread/INFO]: [qSeren: Applied enchantment Feather Falling IV to qSeren's item]
+[21:49:52] [Server thread/INFO]: qSeren issued server command: /give qSeren trident
+[21:49:52] [Server thread/INFO]: [qSeren: Gave 1 [Trident] to qSeren]
+[21:50:02] [Server thread/INFO]: iRagc has made the advancement [Who Needs Rockets?]
+[21:50:10] [Server thread/INFO]: qSeren has made the advancement [Who Needs Rockets?]
+[21:50:43] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:riptide
+[21:50:43] [Server thread/INFO]: [qSeren: Applied enchantment Riptide I to qSeren's item]
+[21:50:47] [Server thread/INFO]: qSeren issued server command: /give qSeren trident
+[21:50:47] [Server thread/INFO]: [qSeren: Gave 1 [Trident] to qSeren]
+[21:50:50] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:riptide 3
+[21:50:50] [Server thread/INFO]: [qSeren: Applied enchantment Riptide III to qSeren's item]
+[21:50:52] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:unbreaking 3
+[21:50:52] [Server thread/INFO]: [qSeren: Applied enchantment Unbreaking III to qSeren's item]
+[21:50:54] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:mending
+[21:50:54] [Server thread/INFO]: [qSeren: Applied enchantment Mending to qSeren's item]
+[21:51:45] [Server thread/INFO]: qSeren issued server command: /give iRagc minecraft:ender_pearl
+[21:51:45] [Server thread/INFO]: [qSeren: Gave 1 [Ender Pearl] to iRagc]
