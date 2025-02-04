@@ -232,74 +232,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-04 02:02:59 +0000"
+      "log_spam_fixer": "2025-02-04 02:12:59 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-04 02:02:59 +0000"
+      "log_spam_fixer": "2025-02-04 02:12:59 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-02-04 02:02:59 +0000"
+      "log_spam_fixer": "2025-02-04 02:12:59 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-02-04 02:03:08 +0000",
-      "log_spam_fixer": "2025-02-04 02:02:59 +0000"
+      "log_spam_fixer": "2025-02-04 02:12:59 +0000"
     },
-    "done": true
+    "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-02-04 02:02:59 +0000"
+      "log_spam_fixer": "2025-02-04 02:12:59 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-02-04 02:02:59 +0000"
+      "log_spam_fixer": "2025-02-04 02:12:59 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-02-04 02:02:59 +0000"
+      "log_spam_fixer": "2025-02-04 02:12:59 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-02-04 02:02:59 +0000"
+      "log_spam_fixer": "2025-02-04 02:12:59 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-02-04 02:02:59 +0000"
+      "log_spam_fixer": "2025-02-04 02:12:59 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-02-04 02:02:59 +0000"
+      "log_spam_fixer": "2025-02-04 02:12:59 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-04 02:02:59 +0000"
+      "log_spam_fixer": "2025-02-04 02:12:59 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-02-04 02:02:59 +0000"
+      "log_spam_fixer": "2025-02-04 02:12:59 +0000"
     },
     "done": false
   },
@@ -375,6 +374,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-02-04 02:13:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-04 02:01:15 +0000"
@@ -396,6 +401,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2025-02-04 01:50:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "kill_dragon": "2025-02-04 02:10:11 +0000"
     },
     "done": true
   },
@@ -432,6 +443,12 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-02-04 02:01:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-02-04 02:13:43 +0000"
     },
     "done": true
   },
@@ -591,10 +608,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-02-04 02:13:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:enderman": "2025-02-04 01:59:00 +0000",
-      "minecraft:silverfish": "2025-02-04 01:53:37 +0000"
+      "minecraft:silverfish": "2025-02-04 01:53:37 +0000",
+      "minecraft:zombie": "2025-02-04 02:07:49 +0000"
     },
     "done": false
   },
@@ -622,6 +646,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-02-04 02:07:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-04 02:01:15 +0000"
@@ -634,6 +664,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-02-04 02:13:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-02-04 01:50:31 +0000"
@@ -643,6 +679,12 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-02-04 01:55:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-02-04 02:13:29 +0000"
     },
     "done": true
   },
@@ -712,6 +754,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-02-04 02:13:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-02-04 01:50:31 +0000"
@@ -733,6 +781,21 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-04 02:01:15 +0000"
+    },
+    "done": true
+  },
+  "stellarity:exploration/discover_all_biomes": {
+    "criteria": {
+      "end_midlands": "2025-02-04 02:12:02 +0000",
+      "amethyst_forest": "2025-02-04 02:12:01 +0000",
+      "end_shrubland": "2025-02-04 02:11:54 +0000",
+      "end_highlands": "2025-02-04 02:11:47 +0000"
+    },
+    "done": false
+  },
+  "wither_rework:nether/obtain_nether_star": {
+    "criteria": {
+      "requirement": "2025-02-04 02:13:29 +0000"
     },
     "done": true
   },
@@ -772,6 +835,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-02-04 02:07:14 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cauldron/balanced_diet_2": {
+    "criteria": {
+      "enderman_flesh": "2025-02-04 02:13:01 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-04 02:01:15 +0000"
@@ -796,6 +871,18 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-02-04 02:07:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-02-04 02:11:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-02-04 01:50:31 +0000"
@@ -805,6 +892,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-02-04 01:51:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-02-04 02:13:43 +0000"
     },
     "done": true
   },
@@ -829,6 +922,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2025-02-04 01:49:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-02-04 02:13:24 +0000"
     },
     "done": true
   },
@@ -886,6 +985,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-02-04 02:13:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-02-04 02:13:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-02-04 01:50:31 +0000"
@@ -901,9 +1012,16 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "golden_apple": "2025-02-04 01:58:11 +0000",
+      "rotten_flesh": "2025-02-04 02:13:01 +0000",
       "golden_carrot": "2025-02-04 01:53:34 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-02-04 02:13:43 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
@@ -914,6 +1032,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-02-04 01:55:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-02-04 02:07:14 +0000"
     },
     "done": true
   },
@@ -950,6 +1074,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-02-04 02:01:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-02-04 02:13:24 +0000"
     },
     "done": true
   },
