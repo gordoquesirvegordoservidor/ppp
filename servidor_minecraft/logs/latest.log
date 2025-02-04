@@ -1,802 +1,308 @@
-[21:32:34] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
-[21:32:34] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
-[21:32:34] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[21:32:34] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
-[21:32:39] [ServerMain/WARN]: resource-pack-id missing, using default of 6f59d313-4428-3f47-a0ea-0fb58f402849
-[21:32:39] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21:32:43] [ServerMain/INFO]: Loaded 1311 recipes
-[21:32:43] [ServerMain/ERROR]: Couldn't load advancements: [minecraft:wander_add_map, minecraft:give_quest_trader_trade]
-[21:32:43] [ServerMain/INFO]: Loaded 1631 advancements
-[21:32:43] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[21:32:43] [Server thread/INFO]: Loading properties
-[21:32:43] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
-[21:32:44] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[21:32:44] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[21:32:44] [Server thread/INFO]: Using 4 threads for Netty based IO
-[21:32:45] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[21:32:45] [Server thread/INFO]: Default game type: SURVIVAL
-[21:32:45] [Server thread/INFO]: Generating keypair
-[21:32:45] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:32:45] [Server thread/INFO]: Using epoll channel type
-[21:32:45] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[21:32:45] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[21:32:45] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[21:32:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:32:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:32:45] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:32:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:32:45] [Server thread/INFO]: Preparing level "world"
-[21:32:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:32:47] [Server thread/INFO]: Time elapsed: 1522 ms
-[21:32:47] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[21:32:47] [Server thread/INFO]: Time elapsed: 295 ms
-[21:32:47] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[21:32:48] [Server thread/INFO]: Time elapsed: 200 ms
-[21:32:48] [Server thread/INFO]: [spark] Starting background profiler...
-[21:32:48] [Server thread/INFO]: Done preparing level "world" (2.789s)
-[21:32:48] [Server thread/INFO]: Running delayed init tasks
-[21:32:48] [Server thread/INFO]: Done (15.246s)! For help, type "help"
-[21:32:48] [Server thread/INFO]: Timings Reset
-[21:32:56] [User Authenticator #0/INFO]: UUID of player qSeren is 60f425a3-b4ca-31c1-a532-8475c0b676c0
-[21:33:06] [User Authenticator #0/INFO]: UUID of player iRagc is 67ea92e7-d0b5-38d9-9052-76eb288fcd52
-[21:33:19] [Server thread/INFO]: qSeren joined the game
-[21:33:20] [Server thread/INFO]: qSeren[/100.110.74.102:52122] logged in with entity id 35 at ([world]130.90255397641505, 131.90776664526197, 125.69999998807907)
-[21:33:26] [Server thread/INFO]: qSeren issued server command: /gamemode creative
-[21:33:52] [Server thread/INFO]: com.mojang.authlib.GameProfile@2cee9384[id=67ea92e7-d0b5-38d9-9052-76eb288fcd52,name=iRagc,properties={}] lost connection: Disconnected
-[21:34:55] [User Authenticator #1/INFO]: UUID of player iRagc is 67ea92e7-d0b5-38d9-9052-76eb288fcd52
-[21:35:01] [Server thread/INFO]: iRagc joined the game
-[21:35:01] [Server thread/INFO]: iRagc[/100.124.40.45:58673] logged in with entity id 749 at ([world]38.5, 120.0, 2.5)
-[21:35:05] [Server thread/INFO]: qSeren issued server command: /tp iRagc
-[21:35:05] [Server thread/INFO]: [qSeren: Teleported qSeren to iRagc]
-[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: crazy_chambers:melee_spawner
-[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: crazy_chambers:spawner/breeze_spawner
-[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: crazy_chambers:spawner/breeze_spawner
-[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: crazy_chambers:spawner/breeze_spawner
-[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:35:11] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:36:14] [Server thread/INFO]: iRagc has made the advancement [Monster Hunter]
-[21:36:18] [Server thread/INFO]: iRagc was slain by Husk
-[21:36:46] [Server thread/INFO]: qSeren has made the advancement [Stone Age]
-[21:37:06] [Server thread/INFO]: qSeren has made the advancement [Cover Me with Diamonds]
-[21:37:17] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:protection 4
-[21:37:17] [Server thread/INFO]: [qSeren: Applied enchantment Protection IV to qSeren's item]
-[21:37:18] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:protection 4
-[21:37:18] [Server thread/INFO]: [qSeren: Applied enchantment Protection IV to qSeren's item]
-[21:37:18] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:protection 4
-[21:37:18] [Server thread/INFO]: [qSeren: Applied enchantment Protection IV to qSeren's item]
-[21:37:19] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:protection 4
-[21:37:19] [Server thread/INFO]: [qSeren: Applied enchantment Protection IV to qSeren's item]
-[21:37:21] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:sharpness 5
-[21:37:21] [Server thread/INFO]: [qSeren: Applied enchantment Sharpness V to qSeren's item]
-[21:37:24] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:unbreaking 3
-[21:37:24] [Server thread/INFO]: [qSeren: Applied enchantment Unbreaking III to qSeren's item]
-[21:37:25] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:unbreaking 3
-[21:37:25] [Server thread/INFO]: [qSeren: Applied enchantment Unbreaking III to qSeren's item]
-[21:37:25] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:unbreaking 3
-[21:37:25] [Server thread/INFO]: [qSeren: Applied enchantment Unbreaking III to qSeren's item]
-[21:37:26] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:unbreaking 3
-[21:37:26] [Server thread/INFO]: [qSeren: Applied enchantment Unbreaking III to qSeren's item]
-[21:37:27] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:unbreaking 3
-[21:37:27] [Server thread/INFO]: [qSeren: Applied enchantment Unbreaking III to qSeren's item]
-[21:37:29] [Server thread/INFO]: qSeren issued server command: /enchant qSeren mending
-[21:37:29] [Server thread/INFO]: [qSeren: Applied enchantment Mending to qSeren's item]
-[21:37:30] [Server thread/INFO]: qSeren issued server command: /enchant qSeren mending
-[21:37:30] [Server thread/INFO]: [qSeren: Applied enchantment Mending to qSeren's item]
-[21:37:30] [Server thread/INFO]: qSeren issued server command: /enchant qSeren mending
-[21:37:30] [Server thread/INFO]: [qSeren: Applied enchantment Mending to qSeren's item]
-[21:37:31] [Server thread/INFO]: qSeren issued server command: /enchant qSeren mending
-[21:37:31] [Server thread/INFO]: [qSeren: Applied enchantment Mending to qSeren's item]
-[21:37:31] [Server thread/INFO]: qSeren issued server command: /enchant qSeren mending
-[21:37:31] [Server thread/INFO]: [qSeren: Applied enchantment Mending to qSeren's item]
-[21:37:51] [Server thread/INFO]: qSeren issued server command: /enchant qSeren power 5
-[21:37:51] [Server thread/INFO]: [qSeren: Applied enchantment Power V to qSeren's item]
-[21:37:53] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:unbreaking 3
-[21:37:53] [Server thread/INFO]: [qSeren: Applied enchantment Unbreaking III to qSeren's item]
-[21:37:55] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:mending
-[21:37:55] [Server thread/INFO]: [qSeren: Applied enchantment Mending to qSeren's item]
-[21:38:04] [Server thread/INFO]: qSeren issued server command: /enchant qSeren power 5
-[21:38:04] [Server thread/INFO]: [qSeren: Applied enchantment Power V to qSeren's item]
-[21:38:05] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:unbreaking 3
-[21:38:05] [Server thread/INFO]: [qSeren: Applied enchantment Unbreaking III to qSeren's item]
-[21:38:13] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:infinity
-[21:38:13] [Server thread/INFO]: [qSeren: Applied enchantment Infinity to qSeren's item]
-[21:38:21] [Server thread/INFO]: iRagc has made the advancement [Cover Me with Diamonds]
-[21:38:43] [Server thread/INFO]: qSeren has reached the goal [Eye of Darkness]
-[21:38:48] [Server thread/INFO]: iRagc has reached the goal [Eye of Darkness]
-[21:38:49] [Server thread/INFO]: qSeren has reached the goal [Strengthened by Fire]
-[21:38:55] [Server thread/INFO]: iRagc has reached the goal [Strengthened by Fire]
-[21:39:00] [Server thread/INFO]: qSeren issued server command: /locate structure minecraft:stronghold
-[21:39:00] [Server thread/INFO]: Locating element minecraft:stronghold took 815 ms
-[21:39:03] [Server thread/INFO]: qSeren issued server command: /tp @s -144 ~ -1552
-[21:39:03] [Server thread/INFO]: [qSeren: Teleported qSeren to -143.500000, 123.907797, -1551.500000]
-[21:39:05] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-158, y=-57, z=-42}
-[21:39:05] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-158, y=-57, z=-42}
-[21:39:08] [Async Chat Thread - #0/INFO]: [Not Secure] <iRagc> asd
-[21:39:13] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-158, y=-57, z=-42}
-[21:39:13] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-158, y=-57, z=-42}
-[21:39:15] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-129, y=-58, z=-61}
-[21:39:15] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-127, y=-58, z=-61}
-[21:39:15] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-161, y=-58, z=-83}
-[21:39:15] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-129, y=-58, z=-61}
-[21:39:15] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-127, y=-58, z=-61}
-[21:39:15] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-153, y=-58, z=-122}
-[21:39:15] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-161, y=-58, z=-83}
-[21:39:15] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-161, y=-58, z=-83}
-[21:39:16] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-158, y=-57, z=-42}
-[21:39:16] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-161, y=-58, z=-83}
-[21:39:16] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-153, y=-58, z=-122}
-[21:39:18] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-158, y=-57, z=-42}
-[21:39:18] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-153, y=-58, z=-122}
-[21:39:18] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-235, y=-58, z=-188}
-[21:39:21] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-158, y=-57, z=-42}
-[21:39:22] [Async Chat Thread - #0/INFO]: [Not Secure] <iRagc> se me laguea a mi por mi internet xd
-[21:39:23] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-136, y=-58, z=-70}
-[21:39:26] [Server thread/INFO]: qSeren issued server command: /tp iRagc
-[21:39:26] [Server thread/INFO]: [qSeren: Teleported qSeren to iRagc]
-[21:39:29] [Server thread/INFO]: qSeren issued server command: /tp @s -144 ~ -1552
-[21:39:29] [Server thread/INFO]: [qSeren: Teleported qSeren to -143.500000, 119.000000, -1551.500000]
-[21:39:38] [Server thread/INFO]: qSeren issued server command: /tp iRagc qSeren
-[21:39:38] [Server thread/INFO]: [qSeren: Teleported iRagc to qSeren]
-[21:39:41] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=216, y=47, z=211}
-[21:39:48] [Server thread/INFO]: qSeren issued server command: /give iRagc diamond_pickaxe
-[21:39:48] [Server thread/INFO]: [qSeren: Gave 1 [Diamond Pickaxe] to iRagc]
-[21:39:50] [Server thread/INFO]: qSeren issued server command: /give iRagc iron_axe
-[21:39:50] [Server thread/INFO]: [qSeren: Gave 1 [Iron Axe] to iRagc]
-[21:39:54] [Server thread/INFO]: qSeren issued server command: /gamemode spectator
-[21:39:54] [Server thread/INFO]: [qSeren: Set own game mode to Spectator Mode]
-[21:39:59] [Server thread/INFO]: qSeren has made the advancement [Eye Spy]
-[21:40:02] [Async Chat Thread - #0/INFO]: [Not Secure] <iRagc> asd
-[21:40:10] [Async Chat Thread - #0/INFO]: [Not Secure] <iRagc> bro voy muy lag ;c
-[21:40:13] [Async Chat Thread - #0/INFO]: [Not Secure] <iRagc> por mi internet
-[21:40:16] [Server thread/INFO]: qSeren issued server command: /gamemode creative
-[21:40:16] [Server thread/INFO]: [qSeren: Set own game mode to Creative Mode]
-[21:40:26] [Server thread/INFO]: qSeren issued server command: /tp iRagc qSeren
-[21:40:26] [Server thread/INFO]: [qSeren: Teleported iRagc to qSeren]
-[21:40:27] [Server thread/INFO]: iRagc has made the advancement [Eye Spy]
-[21:40:36] [Async Chat Thread - #0/INFO]: [Not Secure] <iRagc> asd
-[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: crazy_chambers:spawner/breeze_spawner
-[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: crazy_chambers:spawner/breeze_spawner
-[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: crazy_chambers:spawner/breeze_spawner
-[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:40:53] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[21:41:10] [Server thread/INFO]: iRagc has made the advancement [Take Aim]
-[21:42:21] [Server thread/INFO]: qSeren has reached the goal [Journey's End]
-[21:42:21] [Server thread/INFO]: iRagc has reached the goal [Journey's End]
-[21:42:47] [Server thread/INFO]: iRagc has made the advancement [The End?]
-[21:42:48] [Server thread/INFO]: qSeren has made the advancement [The End?]
-[21:42:53] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[21:42:53] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
-[21:43:31] [Async Chat Thread - #2/INFO]: [Not Secure] <iRagc> asd
-[21:44:01] [Server thread/INFO]: qSeren has made the advancement [Ol' Betsy]
-[21:44:01] [Server thread/INFO]: qSeren has made the advancement [Take Aim]
-[21:44:02] [Server thread/INFO]: qSeren has made the advancement [Night Sky Stalkers]
-[21:44:44] [Async Chat Thread - #4/INFO]: [Not Secure] <iRagc> asd
-[21:45:10] [Server thread/INFO]: qSeren has made the advancement [Ice Bucket Challenge]
-[21:45:31] [Server thread/INFO]: iRagc has reached the goal [Sacrificial Ritual]
-[21:45:31] [Server thread/INFO]: qSeren has reached the goal [Sacrificial Ritual]
-[21:45:57] [Server thread/INFO]: iRagc has made the advancement [Final Showdown]
-[21:45:57] [Server thread/INFO]: qSeren has made the advancement [Final Showdown]
-[21:46:24] [Async Chat Thread - #6/INFO]: [Not Secure] <qSeren> s
-[21:46:26] [Async Chat Thread - #6/INFO]: [Not Secure] <iRagc> asd
-[21:46:27] [Async Chat Thread - #6/INFO]: [Not Secure] <iRagc> gg
-[21:46:27] [Async Chat Thread - #6/INFO]: [Not Secure] <iRagc> tengo mucho lag
-[21:46:28] [Async Chat Thread - #6/INFO]: [Not Secure] <iRagc> XDDD
-[21:47:07] [Server thread/INFO]: qSeren issued server command: /give iRagc minecraft:wind_charge 64
-[21:47:07] [Server thread/INFO]: [qSeren: Gave 64 [Wind Charge] to iRagc]
-[21:47:47] [Server thread/INFO]: qSeren issued server command: /gamemode spectator
-[21:47:47] [Server thread/INFO]: [qSeren: Set own game mode to Spectator Mode]
-[21:47:58] [Server thread/INFO]: qSeren issued server command: /gamemode creative
-[21:47:58] [Server thread/INFO]: [qSeren: Set own game mode to Creative Mode]
-[21:49:18] [Server thread/INFO]: qSeren issued server command: /enchant iRagc minecraft:feather_falling 4
-[21:49:25] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:feather_falling 4
-[21:49:25] [Server thread/INFO]: [qSeren: Applied enchantment Feather Falling IV to qSeren's item]
-[21:49:52] [Server thread/INFO]: qSeren issued server command: /give qSeren trident
-[21:49:52] [Server thread/INFO]: [qSeren: Gave 1 [Trident] to qSeren]
-[21:50:02] [Server thread/INFO]: iRagc has made the advancement [Who Needs Rockets?]
-[21:50:10] [Server thread/INFO]: qSeren has made the advancement [Who Needs Rockets?]
-[21:50:43] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:riptide
-[21:50:43] [Server thread/INFO]: [qSeren: Applied enchantment Riptide I to qSeren's item]
-[21:50:47] [Server thread/INFO]: qSeren issued server command: /give qSeren trident
-[21:50:47] [Server thread/INFO]: [qSeren: Gave 1 [Trident] to qSeren]
-[21:50:50] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:riptide 3
-[21:50:50] [Server thread/INFO]: [qSeren: Applied enchantment Riptide III to qSeren's item]
-[21:50:52] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:unbreaking 3
-[21:50:52] [Server thread/INFO]: [qSeren: Applied enchantment Unbreaking III to qSeren's item]
-[21:50:54] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:mending
-[21:50:54] [Server thread/INFO]: [qSeren: Applied enchantment Mending to qSeren's item]
-[21:51:45] [Server thread/INFO]: qSeren issued server command: /give iRagc minecraft:ender_pearl
-[21:51:45] [Server thread/INFO]: [qSeren: Gave 1 [Ender Pearl] to iRagc]
-[21:54:11] [Server thread/INFO]: qSeren issued server command: /give iRagc minecraft:water_bucket
-[21:54:11] [Server thread/INFO]: [qSeren: Gave 1 [Water Bucket] to iRagc]
-[21:54:12] [Server thread/INFO]: qSeren issued server command: /give iRagc minecraft:water_bucket
-[21:54:12] [Server thread/INFO]: [qSeren: Gave 1 [Water Bucket] to iRagc]
-[21:54:46] [Server thread/INFO]: qSeren issued server command: /tp iRagc
-[21:54:46] [Server thread/INFO]: [qSeren: Teleported qSeren to iRagc]
-[21:55:59] [Server thread/INFO]: iRagc has made the advancement [It's Rude to Stare!]
-[21:56:01] [Server thread/INFO]: qSeren has made the advancement [It's Rude to Stare!]
-[21:56:32] [Server thread/INFO]: qSeren issued server command: /loot give qSeren loot stellarity:items/spellbooks/light
-[21:56:32] [Server thread/INFO]: qSeren has made the advancement [Robbing the Fortress]
-[21:56:36] [Server thread/INFO]: iRagc has made the advancement [Robbing the Fortress]
-[21:56:41] [Async Chat Thread - #8/INFO]: [Not Secure] <iRagc> asd
-[21:56:49] [Server thread/INFO]: qSeren issued server command: /loot give qSeren loot stellarity:items/spellbooks/updraft
-[21:57:50] [Async Chat Thread - #10/INFO]: [Not Secure] <iRagc> asd
-[21:58:07] [Server thread/INFO]: iRagc has made the advancement [This Block Moves!]
-[21:58:07] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:sharpness 5
-[21:58:07] [Server thread/INFO]: [qSeren: Applied enchantment Sharpness V to qSeren's item]
-[21:58:44] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[21:58:44] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[21:58:44] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[21:58:44] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[21:58:44] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[21:58:44] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[21:58:44] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[21:58:44] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[21:59:43] [Server thread/INFO]: qSeren issued server command: /enchant qSeren power 5
-[21:59:43] [Server thread/INFO]: [qSeren: Applied enchantment Power V to qSeren's item]
-[21:59:52] [Server thread/INFO]: iRagc has made the advancement [Ice Bucket Challenge]
-[22:00:04] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[22:00:04] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[22:00:04] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[22:00:04] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[22:00:04] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[22:00:04] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[22:00:04] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[22:00:04] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[22:00:25] [Server thread/INFO]: Named entity Zombie['End Zombie'/8057, uuid='29f4870a-2b6c-4ec5-a690-78fb185e6746', l='ServerLevel[world_the_end]', x=24.03, y=58.00, z=17.91, cpos=[1, 1], tl=2016, v=true] died: End Zombie fell from a high place
-[22:00:30] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:density 5
-[22:00:30] [Server thread/INFO]: [qSeren: Applied enchantment Density V to qSeren's item]
-[22:00:36] [Server thread/INFO]: Named entity Zombie['End Zombie'/8307, uuid='d7b7e3c1-01d8-4f8a-8575-30dfb417d144', l='ServerLevel[world_the_end]', x=26.56, y=58.00, z=-9.78, cpos=[1, -1], tl=647, v=true] died: End Zombie fell from a high place
-[22:00:59] [Server thread/INFO]: Named entity Zombie['End Zombie'/8309, uuid='816ed28e-2221-467b-9978-4176f4b90fa2', l='ServerLevel[world_the_end]', x=29.16, y=59.00, z=0.92, cpos=[1, 0], tl=1106, v=true] died: End Zombie fell from a high place
-[22:01:12] [Async Chat Thread - #12/INFO]: [Not Secure] <iRagc> asd
-[22:01:24] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[22:01:24] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[22:01:24] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[22:01:24] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[22:01:24] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[22:01:24] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[22:01:24] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[22:01:24] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[22:01:41] [Server thread/INFO]: Named entity Zombie['End Zombie'/8573, uuid='85ff6c00-df31-4776-933d-65574aa3982a', l='ServerLevel[world_the_end]', x=-16.20, y=52.00, z=4.80, cpos=[-2, 0], tl=342, v=true] died: End Zombie fell from a high place
-[22:01:55] [Server thread/INFO]: Named entity Zombie['End Zombie'/8308, uuid='3435764c-278f-4cfe-88f7-6df1d27f511a', l='ServerLevel[world_the_end]', x=-2.14, y=61.00, z=3.48, cpos=[-1, 0], tl=2216, v=true] died: End Zombie was doomed to fall by qSeren
-[22:02:01] [Server thread/INFO]: qSeren issued server command: /give iRagc minecraft:water_bucket
-[22:02:01] [Server thread/INFO]: [qSeren: Gave 1 [Water Bucket] to iRagc]
-[22:02:02] [Server thread/INFO]: qSeren issued server command: /give iRagc minecraft:water_bucket
-[22:02:02] [Server thread/INFO]: [qSeren: Gave 1 [Water Bucket] to iRagc]
-[22:02:02] [Server thread/INFO]: qSeren issued server command: /give iRagc minecraft:water_bucket
-[22:02:02] [Server thread/INFO]: [qSeren: Gave 1 [Water Bucket] to iRagc]
-[22:02:03] [Server thread/INFO]: qSeren issued server command: /give iRagc minecraft:water_bucket
-[22:02:03] [Server thread/INFO]: [qSeren: Gave 1 [Water Bucket] to iRagc]
-[22:02:03] [Server thread/INFO]: qSeren issued server command: /give iRagc minecraft:water_bucket
-[22:02:03] [Server thread/INFO]: [qSeren: Gave 1 [Water Bucket] to iRagc]
-[22:02:06] [Async Chat Thread - #12/INFO]: [Not Secure] <iRagc> asad
-[22:02:14] [Server thread/INFO]: Named entity Zombie['End Zombie'/8059, uuid='6546be40-2aa6-4ff0-8cae-7cf002c9c0fb', l='ServerLevel[world_the_end]', x=16.77, y=55.00, z=5.04, cpos=[1, 0], tl=4198, v=true] died: End Zombie fell from a high place
-[22:02:38] [Server thread/INFO]: qSeren issued server command: /give iRagc minecraft:golden_apple 20
-[22:02:38] [Server thread/INFO]: [qSeren: Gave 20 [Golden Apple] to iRagc]
-[22:02:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[22:02:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[22:02:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[22:02:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[22:02:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[22:02:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[22:02:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[22:02:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[22:02:57] [Server thread/INFO]: Named entity Zombie['End Zombie'/9296, uuid='518646b9-7d74-4b59-87a1-ce08ff026c6f', l='ServerLevel[world_the_end]', x=-7.94, y=60.00, z=2.06, cpos=[-1, 0], tl=62, v=true] died: End Zombie was slain by Shulker
-[22:03:01] [Server thread/INFO]: Named entity Zombie['End Zombie'/9298, uuid='29bae1ba-56e4-4855-b843-9fce8f6d9938', l='ServerLevel[world_the_end]', x=-3.05, y=61.50, z=-2.11, cpos=[-1, -1], tl=142, v=true] died: End Zombie was slain by iRagc
-[22:03:03] [Server thread/INFO]: Named entity Zombie['End Zombie'/9297, uuid='a708df26-08ab-419f-ba3a-01d1800749f3', l='ServerLevel[world_the_end]', x=-3.14, y=61.73, z=2.64, cpos=[-1, 0], tl=177, v=true] died: End Zombie was slain by iRagc
-[22:03:06] [Server thread/INFO]: Named entity Zombie['End Zombie'/9295, uuid='56d80528-225f-45c8-a5f9-add42bf41e2b', l='ServerLevel[world_the_end]', x=2.69, y=62.58, z=4.35, cpos=[0, 0], tl=239, v=true] died: End Zombie was slain by iRagc
-[22:03:17] [Server thread/INFO]: Named entity Skeleton['Warrior of Years Past'/9088, uuid='7e723705-0f10-48ee-a19e-378b4840e499', l='ServerLevel[world_the_end]', x=12.14, y=60.00, z=0.45, cpos=[0, 0], tl=861, v=true] died: Warrior of Years Past was doomed to fall by Shulker
-[22:04:14] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[22:04:14] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[22:04:14] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[22:04:14] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[22:04:14] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[22:04:14] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[22:04:14] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[22:04:14] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[22:04:20] [Server thread/INFO]: Named entity Zombie['End Zombie'/9742, uuid='3996dfaf-3d78-4615-8240-6e47b1ba1d8d', l='ServerLevel[world_the_end]', x=-35.88, y=50.00, z=-4.22, cpos=[-3, -1], tl=125, v=true] died: End Zombie was doomed to fall by Ender Dragon
-[22:04:27] [Server thread/INFO]: Named entity Zombie['End Zombie'/9739, uuid='53d97164-b0c8-4483-a738-0aa68114fe1d', l='ServerLevel[world_the_end]', x=0.91, y=60.00, z=11.54, cpos=[0, 0], tl=267, v=true] died: End Zombie was slain by iRagc
-[22:04:31] [Server thread/INFO]: qSeren has made the advancement [This Block Moves!]
-[22:04:50] [Server thread/INFO]: Named entity Zombie['End Zombie'/9740, uuid='a43c4c72-c371-41a5-82aa-bc20320f4397', l='ServerLevel[world_the_end]', x=-10.06, y=60.00, z=5.62, cpos=[-1, 0], tl=725, v=true] died: End Zombie was doomed to fall
-[22:05:17] [Server thread/INFO]: Named entity Zombie['End Zombie'/9741, uuid='fe361f90-fef7-447c-a4c6-b94e9a5833ea', l='ServerLevel[world_the_end]', x=13.78, y=54.00, z=11.79, cpos=[0, 0], tl=1262, v=true] died: End Zombie fell from a high place
-[22:05:34] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[22:05:34] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[22:05:34] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[22:05:34] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[22:05:34] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[22:05:34] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[22:05:34] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[22:05:34] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[22:05:43] [Server thread/INFO]: Named entity Zombie['End Zombie'/10478, uuid='ed187f24-d3eb-4cb0-bc9a-8eef55d07838', l='ServerLevel[world_the_end]', x=4.95, y=62.42, z=-1.48, cpos=[0, -1], tl=186, v=true] died: End Zombie was slain by iRagc
-[22:05:47] [Server thread/INFO]: Named entity Zombie['End Zombie'/10479, uuid='d4f23754-2064-4f71-992e-2675a18e477d', l='ServerLevel[world_the_end]', x=2.79, y=62.50, z=4.72, cpos=[0, 0], tl=256, v=true] died: End Zombie was slain by iRagc
-[22:06:08] [Server thread/INFO]: Named entity Zombie['End Zombie'/10480, uuid='f9308f78-1d4c-43b7-ab74-bbc1955c07ad', l='ServerLevel[world_the_end]', x=5.81, y=61.00, z=-2.05, cpos=[0, -1], tl=687, v=true] died: End Zombie was slain by iRagc
-[22:06:51] [Server thread/INFO]: Named entity Zombie['End Zombie'/10477, uuid='a13a7626-d24e-42d1-989a-1087b7e22dfd', l='ServerLevel[world_the_end]', x=28.70, y=57.00, z=-9.71, cpos=[1, -1], tl=1542, v=true] died: End Zombie fell from a high place
-[22:06:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[22:06:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[22:06:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[22:06:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[22:06:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[22:06:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[22:06:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[22:06:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[22:06:57] [Server thread/INFO]: Named entity Zombie['End Zombie'/11337, uuid='52421bfa-54c9-4eb4-8f19-2bdbafb13b0f', l='ServerLevel[world_the_end]', x=-4.76, y=60.00, z=-6.19, cpos=[-1, -1], tl=65, v=true] died: End Zombie was slain by iRagc
-[22:07:04] [Server thread/INFO]: iRagc has reached the goal [Postmortal]
-[22:07:10] [Server thread/INFO]: Named entity Zombie['End Zombie'/11336, uuid='9d812fe2-cbce-44ca-aacb-0ffe1ffd15f5', l='ServerLevel[world_the_end]', x=7.76, y=62.45, z=3.67, cpos=[0, 0], tl=316, v=true] died: End Zombie was slain by qSeren
-[22:08:14] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[22:08:14] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[22:08:14] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[22:08:14] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[22:08:14] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[22:08:14] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[22:08:14] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[22:08:14] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[22:08:39] [Server thread/INFO]: Named entity Zombie['End Zombie'/11335, uuid='7a2e328f-d58b-4d5e-af8a-677c85bf35df', l='ServerLevel[world_the_end]', x=-16.54, y=51.00, z=-1.26, cpos=[-2, -1], tl=2096, v=true] died: End Zombie fell from a high place
-[22:08:50] [Server thread/INFO]: Named entity Zombie['End Zombie'/11814, uuid='3cdd1513-d865-48f2-b4e4-17dc6bc19dfd', l='ServerLevel[world_the_end]', x=9.92, y=60.00, z=-4.43, cpos=[0, -1], tl=723, v=true] died: End Zombie was doomed to fall by Shulker
-[22:08:56] [Server thread/INFO]: Named entity Zombie['End Zombie'/11815, uuid='e784af42-eb2a-47df-a3fb-01d7d00bf3bd', l='ServerLevel[world_the_end]', x=14.83, y=55.00, z=-31.08, cpos=[0, -2], tl=846, v=true] died: End Zombie was doomed to fall by Ender Dragon
-[22:08:56] [Server thread/INFO]: Named entity Zombie['End Zombie'/11813, uuid='c92c42ca-ea90-4894-92b6-418001845393', l='ServerLevel[world_the_end]', x=-7.75, y=52.00, z=-19.76, cpos=[-1, -2], tl=849, v=true] died: End Zombie was doomed to fall by Shulker
-[22:09:00] [Server thread/INFO]: Named entity Zombie['End Zombie'/11812, uuid='7d366010-e720-4c21-9800-dceae90757ea', l='ServerLevel[world_the_end]', x=11.85, y=70.44, z=2.82, cpos=[0, 0], tl=922, v=true] died: End Zombie was slain by Shulker
-[22:09:03] [Server thread/INFO]: Named entity Zombie['End Zombie'/11334, uuid='6b7cdf2b-0d9e-4e7c-9ce1-0eb359dacf20', l='ServerLevel[world_the_end]', x=6.42, y=60.00, z=-4.73, cpos=[0, -1], tl=2572, v=true] died: End Zombie was slain by iRagc
-[22:09:22] [Server thread/INFO]: qSeren lost connection: Timed out
-[22:09:22] [Server thread/INFO]: qSeren left the game
-[22:09:34] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[22:09:34] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[22:09:34] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[22:09:34] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[22:09:34] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[22:09:34] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[22:09:34] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[22:09:34] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[22:10:11] [User Authenticator #2/INFO]: UUID of player qSeren is 60f425a3-b4ca-31c1-a532-8475c0b676c0
-[22:10:19] [Server thread/INFO]: Named entity Zombie['End Zombie'/8576, uuid='67646b92-fe74-4444-8293-a786981150e8', l='ServerLevel[world_the_end]', x=-33.83, y=50.00, z=3.65, cpos=[-3, 0], tl=10691, v=true] died: End Zombie fell from a high place
-[22:10:20] [Server thread/INFO]: Named entity Zombie['End Zombie'/8575, uuid='4d079aa6-4878-4b5a-b69f-7ea5ff864513', l='ServerLevel[world_the_end]', x=-28.93, y=52.00, z=23.29, cpos=[-2, 1], tl=10726, v=true] died: End Zombie fell from a high place
-[22:10:28] [Server thread/INFO]: qSeren joined the game
-[22:10:28] [Server thread/INFO]: qSeren[/100.110.74.102:52763] logged in with entity id 12729 at ([world_the_end]6.72960965335905, 69.86248956352786, -0.9603942717759086)
-[22:10:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[22:10:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[22:10:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[22:10:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[22:10:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[22:10:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[22:10:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[22:10:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[22:11:13] [Async Chat Thread - #14/INFO]: [Not Secure] <iRagc> asd
-[22:11:26] [Server thread/INFO]: Named entity Zombie['End Zombie'/12487, uuid='9d9acb8c-f518-4408-8fc9-a69f0497c38a', l='ServerLevel[world_the_end]', x=27.17, y=56.00, z=-25.87, cpos=[1, -2], tl=2232, v=true] died: End Zombie fell from a high place
-[22:11:27] [Server thread/INFO]: Named entity Zombie['End Zombie'/12983, uuid='aadfd16d-03af-44e9-b0d3-6d299faf3dda', l='ServerLevel[world_the_end]', x=9.04, y=60.00, z=-1.19, cpos=[0, -1], tl=661, v=true] died: End Zombie was doomed to fall by Shulker
-[22:11:53] [Server thread/INFO]: Named entity Zombie['End Zombie'/12985, uuid='3155d7d5-edbd-4a72-8d46-a94f1560d248', l='ServerLevel[world_the_end]', x=-1.61, y=81.69, z=-4.43, cpos=[-1, -1], tl=1174, v=true] died: End Zombie was slain by Ender Dragon
-[22:12:14] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[22:12:14] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[22:12:14] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[22:12:14] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[22:12:14] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[22:12:14] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[22:12:14] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[22:12:14] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[22:12:15] [Async Chat Thread - #16/INFO]: [Not Secure] <iRagc> asd
-[22:12:27] [Server thread/INFO]: Named entity Zombie['End Zombie'/12986, uuid='099f33c5-069a-499f-a540-ef8a1d196706', l='ServerLevel[world_the_end]', x=-8.23, y=74.19, z=1.29, cpos=[-1, 0], tl=1855, v=true] died: End Zombie was slain by Shulker
-[22:13:02] [Server thread/INFO]: Named entity Zombie['End Zombie'/12984, uuid='00aab3fc-bf6a-4cc7-996e-c04934ef743a', l='ServerLevel[world_the_end]', x=-21.88, y=52.00, z=10.89, cpos=[-2, 0], tl=2555, v=true] died: End Zombie fell from a high place
-[22:13:34] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[22:13:34] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[22:13:34] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[22:13:34] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[22:13:34] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[22:13:34] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[22:13:34] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[22:13:34] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[22:13:51] [Server thread/INFO]: Named entity Zombie['End Zombie'/13704, uuid='22b1fb0e-3cc2-4212-8ef9-630e411f9945', l='ServerLevel[world_the_end]', x=-32.16, y=51.00, z=-21.95, cpos=[-3, -2], tl=349, v=true] died: End Zombie fell from a high place
-[22:14:24] [Server thread/INFO]: Named entity Zombie['End Zombie'/13702, uuid='1c3672f5-e5bb-4026-9f51-56f5a52e6285', l='ServerLevel[world_the_end]', x=-41.91, y=50.00, z=-12.29, cpos=[-3, -1], tl=1003, v=true] died: End Zombie fell from a high place
-[22:14:41] [Server thread/INFO]: Named entity Zombie['End Zombie'/13263, uuid='133ee187-e58c-4299-b850-da243e4bb4ec', l='ServerLevel[world_the_end]', x=18.42, y=57.00, z=19.16, cpos=[1, 1], tl=2942, v=true] died: End Zombie fell from a high place
-[22:14:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[22:14:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[22:14:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[22:14:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[22:14:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[22:14:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[22:14:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[22:14:54] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[22:15:07] [Server thread/INFO]: iRagc has completed the challenge [Free the End]
-[22:15:07] [Server thread/INFO]: qSeren has completed the challenge [Free the End]
-[22:15:35] [Server thread/INFO]: qSeren issued server command: /tp iRagc qSeren
-[22:15:35] [Server thread/INFO]: [qSeren: Teleported iRagc to qSeren]
-[22:15:41] [Server thread/INFO]: Named entity Zombie['End Zombie'/14139, uuid='7537df1b-ec78-497b-a503-bbe0025dc340', l='ServerLevel[world_the_end]', x=0.43, y=62.77, z=-1.30, cpos=[0, -1], tl=945, v=true] died: End Zombie was slain by qSeren
-[22:15:48] [Server thread/INFO]: Named entity Zombie['End Zombie'/13703, uuid='3fcafddc-0087-44f9-8d62-d6cacb5fd2a2', l='ServerLevel[world_the_end]', x=-15.98, y=52.00, z=-8.44, cpos=[-1, -1], tl=2686, v=true] died: End Zombie fell from a high place
-[22:15:55] [Server thread/INFO]: Named entity Zombie['End Zombie'/14138, uuid='274beb27-9125-4118-82af-e081bb58feeb', l='ServerLevel[world_the_end]', x=0.01, y=66.70, z=15.51, cpos=[0, 0], tl=1227, v=true] died: End Zombie was slain by Shulker
-[22:15:57] [Server thread/INFO]: Named entity Zombie['End Zombie'/14136, uuid='7f360003-2edb-475b-a63f-e6a2a1527b5b', l='ServerLevel[world_the_end]', x=18.35, y=58.00, z=15.21, cpos=[1, 0], tl=1256, v=true] died: End Zombie fell from a high place
-[22:15:58] [Server thread/INFO]: iRagc has made the advancement [Stone Age]
-[22:16:01] [Server thread/INFO]: qSeren issued server command: /kill @e[type=shulker ]
-[22:16:01] [Server thread/INFO]: [qSeren: Killed 2 entities]
-[22:16:14] [Server thread/INFO]: Named entity Zombie['End Zombie'/14137, uuid='c11d3eb1-bb9d-411c-8dd6-45ca5beacf9d', l='ServerLevel[world_the_end]', x=-1.14, y=50.00, z=36.00, cpos=[-1, 2], tl=1594, v=true] died: End Zombie was doomed to fall
-[22:16:21] [Server thread/INFO]: qSeren issued server command: /kill @e[type=minecraft:enderman ]
-[22:16:21] [Server thread/INFO]: [qSeren: Killed 71 entities]
-[22:17:08] [Server thread/INFO]: iRagc has reached the goal [Dragonborn]
-[22:17:46] [Server thread/INFO]: qSeren issued server command: /kill @e[type=minecraft:enderman ]
-[22:17:46] [Server thread/INFO]: [qSeren: Killed 70 entities]
-[22:17:55] [Server thread/INFO]: qSeren has reached the goal [An Introduction to Dark Magic]
-[22:18:40] [Server thread/INFO]: qSeren issued server command: /give qSeren minecraft:dragon_egg
-[22:18:40] [Server thread/INFO]: qSeren has reached the goal [The Next Generation]
-[22:18:40] [Server thread/INFO]: [qSeren: Gave 1 [Dragon Egg] to qSeren]
-[22:18:40] [Server thread/ERROR]: Tried to load invalid item: 'Invalid color name: 9F00BF; Invalid color name: 9F00BF missed input: {"minecraft:lore":['{"text":" "}','{"translate":"stellarity.dragon_egg.description.1","fallback":"It is dormant, yet you","italic":false,"color":"9F00BF"}','{"translate":"stellarity.dragon_egg.description.2","fallback":"can feel it silently beating...","italic":false,"color":"9F00BF"}']}'
-[22:20:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3323ms or 66 ticks behind
-[22:20:21] [Server thread/WARN]: iRagc moved too quickly! 4.234474006098562,-0.2468000194787976,10.7172640871118
-[22:21:01] [Server thread/INFO]: qSeren has made the advancement [We Need to Go Deeper]
-[22:21:01] [Server thread/INFO]: qSeren has made the advancement [Incendium]
-[22:21:06] [Server thread/INFO]: iRagc has made the advancement [We Need to Go Deeper]
-[22:21:06] [Server thread/INFO]: iRagc has made the advancement [Incendium]
-[22:21:25] [Server thread/INFO]: qSeren has reached the goal [Sky's the Limit]
-[22:21:31] [Server thread/INFO]: iRagc has reached the goal [Sky's the Limit]
-[22:21:39] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:unbreaking
-[22:21:39] [Server thread/INFO]: [qSeren: Applied enchantment Unbreaking I to qSeren's item]
-[22:21:46] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:unbreaking 3
-[22:21:46] [Server thread/INFO]: [qSeren: Applied enchantment Unbreaking III to qSeren's item]
-[22:21:47] [Server thread/INFO]: qSeren issued server command: /enchant qSeren mending
-[22:21:47] [Server thread/INFO]: [qSeren: Applied enchantment Mending to qSeren's item]
-[22:22:21] [Server thread/INFO]: qSeren has made the advancement [Strange Biomes]
-[22:22:23] [Server thread/INFO]: iRagc has made the advancement [Strange Biomes]
-[22:23:01] [Server thread/INFO]: qSeren issued server command: /locate biome incendium:quartz_flats
-[22:23:01] [Server thread/INFO]: Locating element incendium:quartz_flats took 55 ms
-[22:23:02] [Server thread/INFO]: qSeren issued server command: /tp @s -955 71 -159
-[22:23:02] [Server thread/INFO]: [qSeren: Teleported qSeren to -954.500000, 71.000000, -158.500000]
-[22:23:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4870ms or 97 ticks behind
-[22:23:07] [Server thread/WARN]: iRagc moved too quickly! -9.338605312632268,-10.16500755691446,11.360120941137296
-[22:23:07] [Async Chat Thread - #18/INFO]: [Not Secure] <iRagc> asd
-[22:23:08] [Server thread/INFO]: qSeren has made the advancement [Hellish Paradise]
-[22:23:26] [Server thread/INFO]: iRagc has made the advancement [A Terrible Fortress]
-[22:23:47] [Server thread/INFO]: qSeren has made the advancement [Darude - Firestorm]
-[22:23:58] [Server thread/INFO]: iRagc tried to swim in lava
-[22:23:58] [Server thread/INFO]: qSeren issued server command: /tp iRagc qSeren
-[22:23:58] [Server thread/INFO]: [qSeren: Teleported iRagc to qSeren]
-[22:24:52] [Server thread/INFO]: iRagc was blown up by Creeper
-[22:25:22] [Server thread/INFO]: qSeren issued server command: /tp iRagc qSeren
-[22:25:22] [Server thread/INFO]: [qSeren: Teleported iRagc to qSeren]
-[22:25:23] [Server thread/INFO]: iRagc has made the advancement [Hellish Paradise]
-[22:25:32] [Server thread/INFO]: Set iRagc's game mode to Creative Mode
-[22:25:36] [Server thread/INFO]: qSeren lost connection: Disconnected
-[22:25:36] [Server thread/INFO]: qSeren left the game
-[22:25:48] [Server thread/INFO]: iRagc has made the advancement [Those Were the Days]
-[22:25:53] [User Authenticator #3/INFO]: UUID of player qSeren is 60f425a3-b4ca-31c1-a532-8475c0b676c0
-[22:25:55] [Server thread/INFO]: iRagc has made the advancement [Darude - Firestorm]
-[22:26:07] [Server thread/INFO]: qSeren joined the game
-[22:26:07] [Server thread/INFO]: qSeren[/100.110.74.102:53079] logged in with entity id 17778 at ([world_nether]-955.1684868005739, 73.02784265838645, -158.45308422499363)
-[22:26:57] [Async Chat Thread - #20/INFO]: [Not Secure] <iRagc> asd
-[22:27:14] [Server thread/INFO]: iRagc has made the advancement [The Floor is Tears]
-[22:28:02] [Server thread/INFO]: qSeren lost connection: Timed out
-[22:28:02] [Server thread/INFO]: qSeren left the game
-[22:28:24] [Async Chat Thread - #22/INFO]: [Not Secure] <iRagc> ASD
-[22:28:55] [User Authenticator #4/INFO]: UUID of player qSeren is 60f425a3-b4ca-31c1-a532-8475c0b676c0
-[22:29:37] [Server thread/INFO]: qSeren joined the game
-[22:29:37] [Server thread/INFO]: qSeren[/100.110.74.102:53189] logged in with entity id 18620 at ([world_nether]-1114.8408621936705, 66.08639997415543, -186.88670817183117)
-[22:29:51] [Async Chat Thread - #24/INFO]: [Not Secure] <iRagc> asd
-[22:30:06] [Server thread/INFO]: qSeren issued server command: /locate structure incendium:sanctum
-[22:30:06] [Server thread/INFO]: Locating element incendium:sanctum took 148 ms
-[22:30:13] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=303, y=98, z=248}
-[22:30:16] [Server thread/INFO]: qSeren issued server command: /tp @s -1760 ~ 144
-[22:30:16] [Server thread/INFO]: [qSeren: Teleported qSeren to -1759.500000, 87.663526, 144.500000]
-[22:30:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2801ms or 56 ticks behind
-[22:30:19] [Server thread/INFO]: iRagc has made the advancement [War Pigs]
-[22:30:20] [Server thread/INFO]: qSeren has reached the goal [An Illager Refuge?]
-[22:30:20] [Paper Common Worker #0/WARN]: Skipping Entity with id 
-[22:30:21] [Server thread/INFO]: iRagc has made the advancement [Hidden in the Depths]
-[22:30:22] [Server thread/INFO]: qSeren issued server command: /tp iRagc
-[22:30:22] [Server thread/INFO]: [qSeren: Teleported qSeren to iRagc]
-[22:30:22] [Server thread/INFO]: qSeren has made the advancement [Those Were the Days]
-[22:30:31] [Server thread/INFO]: qSeren issued server command: /tp @s -1760 ~ 144
-[22:30:31] [Server thread/INFO]: [qSeren: Teleported qSeren to -1759.500000, 77.617507, 144.500000]
-[22:30:35] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-229, y=-45, z=70}
-[22:30:35] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-227, y=-45, z=71}
-[22:30:35] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-228, y=-45, z=72}
-[22:30:35] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-228, y=-45, z=69}
-[22:30:35] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-68, y=-51, z=53}
-[22:30:37] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-68, y=-51, z=70}
-[22:30:41] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-187, y=-54, z=56}
-[22:30:47] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-197, y=-53, z=89}
-[22:30:47] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-48, y=-51, z=112}
-[22:30:48] [Server thread/INFO]: qSeren issued server command: /tp iRagc qSeren
-[22:30:48] [Server thread/INFO]: [qSeren: Teleported iRagc to qSeren]
-[22:30:49] [Server thread/INFO]: iRagc has reached the goal [An Illager Refuge?]
-[22:30:52] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-44, y=-51, z=112}
-[22:30:52] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-40, y=-51, z=112}
-[22:30:54] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-195, y=-53, z=95}
-[22:30:54] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-48, y=-51, z=121}
-[22:30:57] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-44, y=-51, z=121}
-[22:30:57] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-40, y=-51, z=121}
-[22:31:17] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/19291, uuid='2d4e06ac-8d28-4f21-8297-48583eb7a118', l='ServerLevel[world_nether]', x=-1807.30, y=30.40, z=99.30, cpos=[-113, 6], tl=67, v=true] died: Sanctum Cultist tried to swim in lava
-[22:31:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5311ms or 106 ticks behind
-[22:31:28] [Server thread/WARN]: iRagc moved too quickly! -60.07564286047182,22.32634596718158,3.05922454436201
-[22:31:28] [Server thread/WARN]: qSeren moved too quickly! -40.491197308231676,14.350073144890871,10.714459119222113
-[22:31:37] [Server thread/INFO]: qSeren issued server command: /tp iRagc qSeren
-[22:31:37] [Server thread/INFO]: [qSeren: Teleported iRagc to qSeren]
-[22:31:48] [Server thread/INFO]: Named entity Vindicator['Sanctum Protector'/19469, uuid='c10885c4-b941-49f3-aad4-2b74505d694f', l='ServerLevel[world_nether]', x=-1870.48, y=36.29, z=85.16, cpos=[-117, 5], tl=403, v=true] died: Sanctum Protector was slain by iRagc
-[22:31:52] [Server thread/INFO]: Named entity Vindicator['Sanctum Protector'/19476, uuid='95921e8a-ed57-4b51-a673-e670165ad3df', l='ServerLevel[world_nether]', x=-1874.04, y=40.75, z=73.30, cpos=[-118, 4], tl=481, v=true] died: Sanctum Protector was slain by iRagc
-[22:32:03] [Server thread/INFO]: Named entity Vindicator['Sanctum Protector'/19451, uuid='9434b617-6c57-4db9-a586-d52794baffd8', l='ServerLevel[world_nether]', x=-1864.30, y=43.00, z=106.70, cpos=[-117, 6], tl=714, v=true] died: Sanctum Protector was slain by qSeren
-[22:32:04] [Server thread/INFO]: Named entity Vindicator['Sanctum Protector'/19467, uuid='745494d5-064c-4e00-af69-02d499af746c', l='ServerLevel[world_nether]', x=-1863.30, y=42.00, z=103.70, cpos=[-117, 6], tl=716, v=true] died: Sanctum Protector was slain by iRagc
-[22:32:09] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=372, y=120, z=-264}
-[22:32:11] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/19423, uuid='a93bbbaa-a812-45eb-b7f0-27cfe16eb3b7', l='ServerLevel[world_nether]', x=-1824.42, y=37.00, z=79.78, cpos=[-115, 4], tl=946, v=true] died: Sanctum Cultist went up in flames
-[22:32:14] [Server thread/INFO]: Named entity Illusioner['Sanctum Illusionist'/19455, uuid='4840c55a-3f1b-4de4-8f16-22560dbaa3fe', l='ServerLevel[world_nether]', x=-1852.25, y=43.00, z=92.64, cpos=[-116, 5], tl=923, v=true] died: Sanctum Illusionist was slain by qSeren
-[22:32:18] [Server thread/INFO]: Named entity Vindicator['Sanctum Protector'/19464, uuid='4b36e931-0f6a-440d-b9e5-fe48cf3360e7', l='ServerLevel[world_nether]', x=-1854.30, y=43.00, z=73.30, cpos=[-116, 4], tl=997, v=true] died: Sanctum Protector was slain by iRagc
-[22:32:20] [Server thread/INFO]: iRagc has completed the challenge [Vault Hunter]
-[22:32:20] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/19465, uuid='730ace8b-937f-4520-a2f2-09964b53f0c4', l='ServerLevel[world_nether]', x=-1851.30, y=44.00, z=70.56, cpos=[-116, 4], tl=1044, v=true] died: Sanctum Cultist was slain by iRagc
-[22:32:29] [Server thread/INFO]: qSeren has completed the challenge [Vault Hunter]
-[22:32:29] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/19285, uuid='9249012d-76f3-4f9c-8ba9-d2bab3ca5025', l='ServerLevel[world_nether]', x=-1837.90, y=43.00, z=89.92, cpos=[-115, 5], tl=1387, v=true] died: Sanctum Cultist was slain by qSeren
-[22:32:36] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/19458, uuid='f4770f62-c6b6-4674-809a-672f934eabd9', l='ServerLevel[world_nether]', x=-1827.30, y=44.18, z=74.47, cpos=[-115, 4], tl=1375, v=true] died: Sanctum Cultist was slain by iRagc
-[22:32:36] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/19425, uuid='066b7044-f65c-443f-9d1a-02668fb01f53', l='ServerLevel[world_nether]', x=-1827.84, y=43.00, z=101.70, cpos=[-115, 6], tl=1448, v=true] died: Sanctum Cultist was slain by qSeren
-[22:32:37] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/19409, uuid='e983bfdd-0aa3-4e5e-8b0f-98f33ca653ee', l='ServerLevel[world_nether]', x=-1823.41, y=43.00, z=76.30, cpos=[-114, 4], tl=1462, v=true] died: Sanctum Cultist was slain by iRagc
-[22:32:40] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/19336, uuid='6e602c3e-1a0f-4c19-8182-fe9ec0f15438', l='ServerLevel[world_nether]', x=-1825.98, y=43.00, z=83.55, cpos=[-115, 5], tl=1591, v=true] died: Sanctum Cultist was slain by iRagc
-[22:32:44] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/19342, uuid='fc5252ce-ce45-413a-ba6e-204b768b2206', l='ServerLevel[world_nether]', x=-1833.43, y=43.00, z=90.07, cpos=[-115, 5], tl=1596, v=true] died: Sanctum Cultist was slain by iRagc
-[22:32:46] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/19211, uuid='7edad37c-4039-46b1-b6b8-f2bb98a3960b', l='ServerLevel[world_nether]', x=-1827.26, y=43.06, z=91.76, cpos=[-115, 5], tl=1762, v=true] died: Sanctum Cultist was slain by iRagc
-[22:32:47] [Server thread/INFO]: qSeren has made the advancement [Voluntary Exile]
-[22:32:47] [Server thread/INFO]: Named entity Pillager['Sanctum Apostle'/19212, uuid='95cc1a2b-2b28-45a2-881a-8e5e8738722e', l='ServerLevel[world_nether]', x=-1822.49, y=43.00, z=101.11, cpos=[-114, 6], tl=1771, v=true] died: Sanctum Apostle was slain by qSeren
-[22:32:49] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/19292, uuid='3a6af71b-3ce4-4943-8a78-43c183f7395b', l='ServerLevel[world_nether]', x=-1817.18, y=43.06, z=91.62, cpos=[-114, 5], tl=1801, v=true] died: Sanctum Cultist was slain by iRagc
-[22:32:50] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/19429, uuid='612fe45b-fa88-4ab6-9403-40fc6c537275', l='ServerLevel[world_nether]', x=-1816.57, y=37.00, z=83.80, cpos=[-114, 5], tl=1713, v=true] died: Sanctum Cultist went up in flames
-[22:32:52] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/19459, uuid='a6be07f8-6941-4a94-89fe-eed9a5931b52', l='ServerLevel[world_nether]', x=-1815.79, y=43.00, z=77.22, cpos=[-114, 4], tl=1705, v=true] died: Sanctum Cultist was slain by iRagc
-[22:32:52] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/19332, uuid='18b0e844-3c23-4230-9a53-fea3c9e7c61e', l='ServerLevel[world_nether]', x=-1810.64, y=43.00, z=101.65, cpos=[-114, 6], tl=1847, v=true] died: Sanctum Cultist was slain by qSeren
-[22:32:55] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/19309, uuid='733ef395-4eb8-4619-a134-79d5b47f274c', l='ServerLevel[world_nether]', x=-1810.49, y=43.00, z=76.33, cpos=[-114, 4], tl=1918, v=true] died: Sanctum Cultist was slain by iRagc
-[22:32:55] [Server thread/INFO]: Named entity Vindicator['Sanctum Inquisitor'/19326, uuid='991eb2f1-e266-418d-b57a-9ebc73a62773', l='ServerLevel[world_nether]', x=-1844.05, y=36.00, z=90.54, cpos=[-116, 5], tl=1909, v=true] died: Sanctum Inquisitor went up in flames
-[22:32:59] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/19337, uuid='ff0bf4a4-be2b-4ec7-a20c-b90cf1414cec', l='ServerLevel[world_nether]', x=-1809.34, y=43.00, z=97.76, cpos=[-114, 6], tl=1904, v=true] died: Sanctum Cultist was slain by iRagc
-[22:33:02] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/19289, uuid='7fd4aa9d-507a-480f-8603-96a1931013bb', l='ServerLevel[world_nether]', x=-1821.41, y=43.00, z=97.65, cpos=[-114, 6], tl=2061, v=true] died: Sanctum Cultist was slain by iRagc
-[22:33:03] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/19344, uuid='aa99430d-7016-4319-97ae-9581a4b63031', l='ServerLevel[world_nether]', x=-1800.70, y=43.00, z=100.85, cpos=[-113, 6], tl=2055, v=true] died: Sanctum Cultist was slain by qSeren
-[22:33:05] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/19421, uuid='03d409d1-6290-4e9b-966d-41a659727b09', l='ServerLevel[world_nether]', x=-1818.36, y=43.06, z=91.45, cpos=[-114, 5], tl=2019, v=true] died: Sanctum Cultist was slain by iRagc
-[22:33:07] [Server thread/INFO]: Named entity Vindicator['Sanctum Protector'/19240, uuid='b265ed58-ccb2-469f-b9d8-d1add25a0050', l='ServerLevel[world_nether]', x=-1798.73, y=43.00, z=93.88, cpos=[-113, 5], tl=2229, v=true] died: Sanctum Protector was slain by qSeren
-[22:33:09] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/19286, uuid='b8c6d812-3498-49a6-a22b-a694d343f0f1', l='ServerLevel[world_nether]', x=-1805.85, y=44.00, z=77.15, cpos=[-113, 4], tl=2205, v=true] died: Sanctum Cultist was slain by iRagc
-[22:33:11] [Server thread/INFO]: Named entity Evoker['Sanctum Ritualist'/19312, uuid='cf99165f-cffe-4e7b-af15-39074b52dba7', l='ServerLevel[world_nether]', x=-1789.27, y=45.00, z=97.49, cpos=[-112, 6], tl=2301, v=true] died: Sanctum Ritualist was slain by qSeren
-[22:33:14] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/19371, uuid='6c8a4ee0-04b1-45d9-af4c-8625cc4b5ba4', l='ServerLevel[world_nether]', x=-1794.70, y=44.00, z=93.29, cpos=[-113, 5], tl=2271, v=true] died: Sanctum Cultist was slain by qSeren
-[22:33:15] [Server thread/INFO]: Named entity Illusioner['Sanctum Illusionist'/19244, uuid='553a5685-5dc6-42a2-9407-6c19fa880f35', l='ServerLevel[world_nether]', x=-1803.54, y=43.54, z=78.62, cpos=[-113, 4], tl=2390, v=true] died: Sanctum Illusionist was slain by iRagc
-[22:33:19] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/19338, uuid='9c2c2d6e-475e-43cd-af56-b30bf5c43a02', l='ServerLevel[world_nether]', x=-1794.34, y=45.00, z=81.61, cpos=[-113, 5], tl=2372, v=true] died: Sanctum Cultist was slain by qSeren
-[22:33:21] [Server thread/INFO]: Named entity Vindicator['Sanctum Inquisitor'/19343, uuid='07f15b88-fe60-4100-9464-0b768be6e275', l='ServerLevel[world_nether]', x=-1816.83, y=37.00, z=84.50, cpos=[-114, 5], tl=2419, v=true] died: Sanctum Inquisitor went up in flames
-[22:33:22] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/19330, uuid='0dfb02ab-44cc-4970-80a0-b4bead163717', l='ServerLevel[world_nether]', x=-1794.18, y=45.00, z=77.30, cpos=[-113, 4], tl=2431, v=true] died: Sanctum Cultist was slain by qSeren
-[22:33:22] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/19426, uuid='bb3015af-4b30-426b-9a69-0c6b2f2f9c33', l='ServerLevel[world_nether]', x=-1795.93, y=43.50, z=85.70, cpos=[-113, 5], tl=2355, v=true] died: Sanctum Cultist was slain by iRagc
-[22:33:24] [Server thread/INFO]: Named entity Pillager['Sanctum Apostle'/19310, uuid='41e99de1-2509-4b2a-b3bf-947dfa911ece', l='ServerLevel[world_nether]', x=-1794.30, y=43.00, z=74.30, cpos=[-113, 4], tl=2564, v=true] died: Sanctum Apostle was slain by qSeren
-[22:33:28] [Server thread/INFO]: Named entity Vindicator['Sanctum Protector'/19241, uuid='937ef9eb-0d52-483b-8b7d-7f69365781eb', l='ServerLevel[world_nether]', x=-1807.84, y=43.00, z=93.31, cpos=[-113, 5], tl=2662, v=true] died: Sanctum Protector was slain by qSeren
-[22:33:30] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/19290, uuid='c4aed5bf-2054-45cd-b12f-470bdb98f987', l='ServerLevel[world_nether]', x=-1789.56, y=45.00, z=84.21, cpos=[-112, 5], tl=2623, v=true] died: Sanctum Cultist was slain by iRagc
-[22:33:32] [Server thread/INFO]: Named entity Vindicator['Sanctum Inquisitor'/19428, uuid='6ab93378-250f-4c53-9b50-f75c8c6c2be9', l='ServerLevel[world_nether]', x=-1817.07, y=37.00, z=84.10, cpos=[-114, 5], tl=2563, v=true] died: Sanctum Inquisitor went up in flames
-[22:33:32] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/19210, uuid='e4cf0935-a115-42cb-9bd0-b5d4217e2fa5', l='ServerLevel[world_nether]', x=-1819.18, y=43.00, z=89.82, cpos=[-114, 5], tl=2687, v=true] died: Sanctum Cultist was slain by qSeren
-[22:33:36] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/19406, uuid='d075cff0-1bfc-4d62-b7ca-38d48d238b5f', l='ServerLevel[world_nether]', x=-1827.68, y=43.50, z=81.66, cpos=[-115, 5], tl=2641, v=true] died: Sanctum Cultist was slain by qSeren
-[22:33:39] [Server thread/INFO]: Named entity Vindicator['Sanctum Protector'/19239, uuid='5ad9217a-143c-42e4-8b93-537b28a9343d', l='ServerLevel[world_nether]', x=-1777.49, y=45.00, z=88.68, cpos=[-112, 5], tl=2879, v=true] died: Sanctum Protector was slain by iRagc
-[22:33:45] [Server thread/INFO]: Named entity Vindicator['Sanctum Protector'/19243, uuid='4ec3e0c4-f849-4ff8-9719-093db4d50c40', l='ServerLevel[world_nether]', x=-1776.27, y=45.00, z=79.60, cpos=[-112, 4], tl=3004, v=true] died: Sanctum Protector was slain by qSeren
-[22:33:49] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/19272, uuid='8bb3d62f-bd3b-4c82-9ced-9cfc473077a2', l='ServerLevel[world_nether]', x=-1782.70, y=45.00, z=77.01, cpos=[-112, 4], tl=3053, v=true] died: Sanctum Cultist was slain by iRagc
-[22:33:54] [Server thread/INFO]: Named entity Vindicator['Sanctum Protector'/19165, uuid='2806cf95-91a3-49f7-b6bf-0012cba24e9e', l='ServerLevel[world_nether]', x=-1780.32, y=45.00, z=99.70, cpos=[-112, 6], tl=3320, v=true] died: Sanctum Protector was slain by qSeren
-[22:33:57] [Server thread/INFO]: Named entity Vindicator['Sanctum Protector'/19161, uuid='f46a8588-311f-4b62-a3f7-7aa2396e9ccd', l='ServerLevel[world_nether]', x=-1775.49, y=45.00, z=102.12, cpos=[-111, 6], tl=3375, v=true] died: Sanctum Protector was slain by qSeren
-[22:34:08] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/19427, uuid='ff7b3845-b04d-445b-ae5c-420a993741ef', l='ServerLevel[world_nether]', x=-1817.53, y=36.00, z=91.24, cpos=[-114, 5], tl=3277, v=true] died: Sanctum Cultist burned to death
-[22:34:19] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/19328, uuid='99a17733-e99a-4945-81c9-1a6b4d9f287d', l='ServerLevel[world_nether]', x=-1838.03, y=43.00, z=92.37, cpos=[-115, 5], tl=3507, v=true] died: Sanctum Cultist was slain by qSeren
-[22:34:22] [Server thread/INFO]: iRagc has made the advancement [Voluntary Exile]
-[22:34:22] [Server thread/INFO]: Named entity Pillager['Sanctum Apostle'/19284, uuid='6b84728d-41e9-484c-a43f-cb6e03336faf', l='ServerLevel[world_nether]', x=-1824.23, y=43.00, z=89.11, cpos=[-115, 5], tl=3656, v=true] died: Sanctum Apostle was slain by iRagc
-[22:34:30] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/19453, uuid='4550a5a4-7d55-4b3f-9674-4753faff7866', l='ServerLevel[world_nether]', x=-1849.34, y=45.50, z=104.70, cpos=[-116, 6], tl=3641, v=true] died: Sanctum Cultist was slain by qSeren
-[22:34:41] [Server thread/INFO]: Named entity Vindicator['Sanctum Protector'/19452, uuid='151166a6-6082-400a-94f5-a12672546c64', l='ServerLevel[world_nether]', x=-1849.30, y=56.00, z=91.25, cpos=[-116, 5], tl=3867, v=true] died: Sanctum Protector was slain by iRagc
-[22:34:45] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/19468, uuid='cca13b12-1c4c-45a9-857b-9c0b966f9259', l='ServerLevel[world_nether]', x=-1861.70, y=56.00, z=89.36, cpos=[-117, 5], tl=3939, v=true] died: Sanctum Cultist was slain by qSeren
-[22:34:46] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/19473, uuid='5d7d5966-6836-46c3-98e5-0543a072cea3', l='ServerLevel[world_nether]', x=-1858.08, y=55.00, z=73.40, cpos=[-117, 4], tl=3970, v=true] died: Sanctum Cultist was slain by iRagc
-[22:34:48] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/19454, uuid='8deb3f64-c630-4819-a740-a248378cdef2', l='ServerLevel[world_nether]', x=-1862.14, y=56.00, z=72.30, cpos=[-117, 4], tl=4017, v=true] died: Sanctum Cultist was slain by iRagc
-[22:35:05] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/19466, uuid='162bb3bf-025a-4d2f-9f8e-874826e0a4af', l='ServerLevel[world_nether]', x=-1849.30, y=67.00, z=80.70, cpos=[-116, 5], tl=4340, v=true] died: Sanctum Cultist was slain by qSeren
-[22:35:10] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/19463, uuid='9e673e52-14f9-4965-93ba-5fb221ea3255', l='ServerLevel[world_nether]', x=-1858.94, y=66.83, z=75.30, cpos=[-117, 4], tl=4436, v=true] died: Sanctum Cultist was slain by iRagc
-[22:35:11] [Server thread/INFO]: Named entity Vindicator['Sanctum Protector'/19474, uuid='3c441e1b-269c-4b99-aa04-5d3e261b590b', l='ServerLevel[world_nether]', x=-1859.77, y=66.00, z=75.46, cpos=[-117, 4], tl=4459, v=true] died: Sanctum Protector was slain by iRagc
-[22:35:13] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/19477, uuid='1afa1ce7-47e3-4857-9879-336854ce4918', l='ServerLevel[world_nether]', x=-1859.70, y=69.50, z=81.00, cpos=[-117, 5], tl=4515, v=true] died: Sanctum Cultist was slain by iRagc
-[22:35:20] [Server thread/INFO]: Named entity Vindicator['Sanctum Protector'/19462, uuid='a25a8d84-2aa9-4866-9b1e-1128389f1126', l='ServerLevel[world_nether]', x=-1856.30, y=74.00, z=70.30, cpos=[-117, 4], tl=4637, v=true] died: Sanctum Protector was slain by iRagc
-[22:35:59] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/19418, uuid='6cf9317c-bde3-403b-9137-83b73e1fe218', l='ServerLevel[world_nether]', x=-1854.25, y=43.00, z=88.81, cpos=[-116, 5], tl=5499, v=true] died: Sanctum Cultist was slain by qSeren
-[22:36:21] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/19450, uuid='0546a341-c754-48d7-9bb1-9c269e6ea614', l='ServerLevel[world_nether]', x=-1853.39, y=67.50, z=99.00, cpos=[-116, 6], tl=5868, v=true] died: Sanctum Cultist was slain by iRagc
-[22:36:26] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/19415, uuid='9f286143-02c7-412d-8049-7c24768aba06', l='ServerLevel[world_nether]', x=-1849.30, y=74.00, z=99.70, cpos=[-116, 6], tl=6048, v=true] died: Sanctum Cultist was slain by qSeren
-[22:36:47] [Server thread/INFO]: Named entity Vindicator['Sanctum Protector'/19414, uuid='e0d60e30-df97-4d55-adc5-0faaa767ab00', l='ServerLevel[world_nether]', x=-1850.30, y=56.00, z=96.30, cpos=[-116, 6], tl=6460, v=true] died: Sanctum Protector was slain by qSeren
-[22:42:21] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/19248, uuid='956a9f14-9fdd-4758-874c-2c602de5c4fb', l='ServerLevel[world_nether]', x=-1847.08, y=36.06, z=113.41, cpos=[-116, 7], tl=13214, v=true] died: Sanctum Cultist was slain by iRagc
-[22:42:47] [Server thread/INFO]: iRagc has made the advancement [Suit Up]
-[22:44:15] [Server thread/INFO]: Named entity Vindicator['Sanctum Inquisitor'/19324, uuid='fb37cce9-cda3-45d7-b0f3-a5a85d34463f', l='ServerLevel[world_nether]', x=-1845.81, y=36.00, z=94.68, cpos=[-116, 5], tl=15344, v=true] died: Sanctum Inquisitor was slain by qSeren
-[22:44:31] [Server thread/INFO]: Named entity Vindicator['Sanctum Inquisitor'/19419, uuid='a775a273-a4bb-46ac-8fef-016a06ac941c', l='ServerLevel[world_nether]', x=-1847.04, y=34.00, z=92.30, cpos=[-116, 5], tl=15737, v=true] died: Sanctum Inquisitor was slain by qSeren
-[22:44:33] [Server thread/INFO]: Named entity Vindicator['Sanctum Inquisitor'/19417, uuid='5c50d1de-9c59-435e-9542-44405c9dfa23', l='ServerLevel[world_nether]', x=-1847.83, y=34.00, z=92.30, cpos=[-116, 5], tl=15786, v=true] died: Sanctum Inquisitor was slain by qSeren
-[22:44:34] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/19329, uuid='c869923a-9292-4b5f-ae4e-e4a5d8c41168', l='ServerLevel[world_nether]', x=-1847.42, y=34.00, z=92.30, cpos=[-116, 5], tl=15878, v=true] died: Sanctum Cultist was slain by qSeren
-[22:44:35] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/19325, uuid='c2bb57d3-2413-4063-8357-731e0d55db21', l='ServerLevel[world_nether]', x=-1846.30, y=34.00, z=92.30, cpos=[-116, 5], tl=15846, v=true] died: Sanctum Cultist was slain by qSeren
-[22:45:29] [Server thread/INFO]: Named entity Ravager['Sanctum Ravager'/19478, uuid='387bec0e-f071-4afb-8b8f-85dfb0bb2f97', l='ServerLevel[world_nether]', x=-1863.02, y=36.06, z=62.68, cpos=[-117, 3], tl=16831, v=true] died: Sanctum Ravager was slain by qSeren using [Daybreaker]
-[22:45:30] [Server thread/INFO]: Named entity Ravager['Sanctum Ravager'/19479, uuid='1790d2a3-0f9c-43ab-a405-d4e082403e67', l='ServerLevel[world_nether]', x=-1863.02, y=36.06, z=64.78, cpos=[-117, 4], tl=16840, v=true] died: Sanctum Ravager was slain by qSeren using [Daybreaker]
-[22:46:01] [Server thread/INFO]: Named entity Ravager['Sanctum Ravager'/19461, uuid='ba92c8c7-4dac-4de1-a55f-deebb990b0fc', l='ServerLevel[world_nether]', x=-1858.73, y=36.34, z=55.02, cpos=[-117, 3], tl=17459, v=true] died: Sanctum Ravager was slain by qSeren using [Daybreaker]
-[22:46:12] [Server thread/INFO]: qSeren issued server command: /gamemode spectator
-[22:46:12] [Server thread/INFO]: [qSeren: Set own game mode to Spectator Mode]
-[22:46:17] [Server thread/INFO]: qSeren issued server command: /gamemode creative
-[22:46:17] [Server thread/INFO]: [qSeren: Set own game mode to Creative Mode]
-[22:46:19] [Server thread/INFO]: qSeren issued server command: /tp iRagc qSeren
-[22:46:19] [Server thread/INFO]: [qSeren: Teleported iRagc to qSeren]
-[22:46:54] [Server thread/INFO]: qSeren has completed the challenge [Subspace Bubble]
-[22:47:18] [Server thread/INFO]: qSeren issued server command: /tp ir
-[22:47:19] [Server thread/INFO]: qSeren issued server command: /tp iRagc
-[22:47:19] [Server thread/INFO]: [qSeren: Teleported qSeren to iRagc]
-[22:47:53] [Server thread/INFO]: Named entity Vindicator['Sanctum Protector'/19416, uuid='bc97effb-f3bb-4fe3-8adf-2aec9d5654dc', l='ServerLevel[world_nether]', x=-1837.98, y=36.00, z=93.31, cpos=[-115, 5], tl=19780, v=true] died: Sanctum Protector was slain by qSeren
-[22:48:08] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/19331, uuid='828724de-7301-4bba-bfde-59ab8ef2163d', l='ServerLevel[world_nether]', x=-1827.51, y=36.00, z=105.25, cpos=[-115, 6], tl=20158, v=true] died: Sanctum Cultist was slain by qSeren
-[22:48:10] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/19327, uuid='49f46736-8b9f-4e37-89bd-8399de95bbbc', l='ServerLevel[world_nether]', x=-1821.63, y=37.00, z=106.69, cpos=[-114, 6], tl=20192, v=true] died: Sanctum Cultist was slain by iRagc
-[22:48:44] [Server thread/INFO]: Named entity Vindicator['Sanctum Inquisitor'/19308, uuid='06ede3d1-7501-47c3-8bc8-1c02cae8878c', l='ServerLevel[world_nether]', x=-1815.47, y=36.00, z=88.26, cpos=[-114, 5], tl=20972, v=true] died: Sanctum Inquisitor was slain by qSeren
-[22:49:10] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:sharpness 5
-[22:49:10] [Server thread/INFO]: [qSeren: Applied enchantment Sharpness V to qSeren's item]
-[22:49:12] [Async Chat Thread - #26/INFO]: [Not Secure] <iRagc> qSeren esperame
-[22:49:15] [Async Chat Thread - #26/INFO]: [Not Secure] <iRagc> un ratito
-[22:49:16] [Async Chat Thread - #26/INFO]: [Not Secure] <qSeren> sisi
-[22:50:24] [Server thread/INFO]: Named entity Vindicator['Sanctum Inquisitor'/19242, uuid='ede52d87-6e91-484d-ac20-a27e4d1e6fdf', l='ServerLevel[world_nether]', x=-1781.93, y=36.00, z=103.30, cpos=[-112, 6], tl=22982, v=true] died: Sanctum Inquisitor was slain by qSeren
-[22:50:27] [Server thread/INFO]: Named entity Vindicator['Sanctum Inquisitor'/19167, uuid='0211ef18-0cd6-46c7-b785-9d645e03122e', l='ServerLevel[world_nether]', x=-1772.30, y=36.91, z=105.65, cpos=[-111, 6], tl=23183, v=true] died: Sanctum Inquisitor was slain by qSeren
-[22:50:53] [Server thread/INFO]: Named entity Pillager['Sanctum Cultist'/19138, uuid='2d200bfa-605d-4e12-b87d-b2274593c53b', l='ServerLevel[world_nether]', x=-1774.30, y=37.00, z=117.70, cpos=[-111, 7], tl=23720, v=true] died: Sanctum Cultist was slain by qSeren
-[22:50:54] [Server thread/INFO]: Named entity Vindicator['Sanctum Inquisitor'/19017, uuid='c8de1d4c-41c8-45f2-8744-bd9051b10f9d', l='ServerLevel[world_nether]', x=-1773.43, y=36.00, z=113.08, cpos=[-111, 7], tl=23840, v=true] died: Sanctum Inquisitor was slain by qSeren
-[22:51:21] [Server thread/INFO]: Named entity Evoker['Sanctum Ritualist'/19191, uuid='b16c7549-9336-449b-94f3-5d17262b7149', l='ServerLevel[world_nether]', x=-1778.30, y=32.00, z=129.70, cpos=[-112, 8], tl=24252, v=true] died: Sanctum Ritualist was slain by qSeren
-[22:51:21] [Server thread/INFO]: qSeren has made the advancement [The Floor is Tears]
-[22:51:27] [Server thread/INFO]: Named entity Vindicator['Sanctum Inquisitor'/19164, uuid='39b61c44-43b6-4be9-80e4-85e0465119a5', l='ServerLevel[world_nether]', x=-1780.87, y=30.00, z=103.69, cpos=[-112, 6], tl=24374, v=true] died: Sanctum Inquisitor was slain by iRagc
-[22:54:37] [Server thread/INFO]: Command execution stopped due to limit (executed 65536 commands)
-[22:56:32] [Server thread/INFO]: Named entity Pillager['Sanctum Guardian'/19372, uuid='0cb5f513-f395-408f-bec8-c91d90aef943', l='ServerLevel[world_nether]', x=-1809.70, y=29.00, z=82.70, cpos=[-114, 5], tl=30243, v=true] died: Sanctum Guardian was slain by iRagc
-[22:56:43] [Server thread/INFO]: Named entity Pillager['Sanctum Guardian'/19374, uuid='a4f5b2d3-b324-4cdd-b52b-318890b89950', l='ServerLevel[world_nether]', x=-1820.64, y=29.06, z=75.70, cpos=[-114, 4], tl=30451, v=true] died: Sanctum Guardian was slain by qSeren
-[22:56:55] [Server thread/INFO]: iRagc has made the advancement [Ol' Betsy]
-[22:57:05] [Server thread/INFO]: Named entity Pillager['Sanctum Guardian'/19373, uuid='5f3ba5ff-0897-4f01-ae03-26f2087ef765', l='ServerLevel[world_nether]', x=-1812.45, y=31.05, z=81.68, cpos=[-114, 5], tl=30909, v=true] died: Sanctum Guardian was slain by qSeren
-[22:57:39] [Server thread/INFO]: Command execution stopped due to limit (executed 65536 commands)
-[22:58:07] [Server thread/INFO]: qSeren issued server command: /loot give qSeren loot incendium:artifact/weapon/blazing_hatchet
-[22:59:16] [Server thread/INFO]: qSeren issued server command: /enchant iRagc minecraft:sharpness 5
-[22:59:16] [Server thread/INFO]: [qSeren: Applied enchantment Sharpness V to iRagc's item]
-[22:59:22] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:sharpness 5
-[22:59:22] [Server thread/INFO]: [qSeren: Applied enchantment Sharpness V to qSeren's item]
-[23:00:43] [Server thread/INFO]: qSeren issued server command: /kill @e[type=zombie ]
-[23:00:43] [Server thread/INFO]: [qSeren: Killed 49 entities]
-[23:01:02] [Server thread/INFO]: qSeren issued server command: /loot give qSeren loot incendium:artifact/weapon/multiplex_crossbow
-[23:02:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2566ms or 51 ticks behind
-[23:02:42] [Server thread/INFO]: qSeren issued server command: /locate structure minecraft:trial_chambers
-[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: crazy_chambers:spawner/breeze_spawner
-[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: crazy_chambers:spawner/breeze_spawner
-[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: crazy_chambers:melee_spawner
-[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[23:02:42] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:south
-[23:02:42] [Server thread/INFO]: Locating element minecraft:trial_chambers took 251 ms
-[23:02:45] [Server thread/INFO]: qSeren issued server command: /tp @s -15120 ~ 592
-[23:02:45] [Server thread/INFO]: [qSeren: Teleported qSeren to -15119.500000, 66.539373, 592.500000]
-[23:02:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6249ms or 124 ticks behind
-[23:02:51] [Server thread/WARN]: iRagc moved too quickly! 24.78735770065032,-28.50000113248825,23.74829992345758
-[23:02:51] [Server thread/INFO]: qSeren issued server command: /gamemode spectator
-[23:02:51] [Server thread/INFO]: [qSeren: Set own game mode to Spectator Mode]
-[23:02:53] [Server thread/INFO]: qSeren issued server command: /gamemode spectator iragc
-[23:02:53] [Server thread/INFO]: [qSeren: Set iRagc's game mode to Spectator Mode]
-[23:02:56] [Server thread/INFO]: qSeren issued server command: /tp iRagc qSeren
-[23:02:56] [Server thread/INFO]: [qSeren: Teleported iRagc to qSeren]
-[23:03:17] [Server thread/INFO]: qSeren has made the advancement [Minecraft: Trial(s) Edition]
+[01:36:48] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[01:36:48] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
+[01:36:48] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[01:36:48] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/SkinsRestorer.jar'...
+[01:36:51] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/SkinsRestorer.jar' in 2212ms.
+[01:36:51] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
+[01:36:51] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
+ - SkinsRestorer (15.5.2)
+[01:36:56] [ServerMain/WARN]: resource-pack-id missing, using default of 6f59d313-4428-3f47-a0ea-0fb58f402849
+[01:36:56] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:36:56] [ServerMain/INFO]: Found new data pack file/1.21.x Withering Heights v1.0.zip, loading it automatically
+[01:36:56] [ServerMain/INFO]: Found new data pack file/Dungeons and Taverns v4.4.4 (1).zip, loading it automatically
+[01:36:56] [ServerMain/INFO]: Found new data pack file/Ender-Dragon-Fight-Remastered-5.0beta.4 (1).zip, loading it automatically
+[01:36:56] [ServerMain/INFO]: Found new data pack file/Explorify v1.6.2 f10-48.zip, loading it automatically
+[01:36:56] [ServerMain/INFO]: Found new data pack file/Incendium_1.21_UNSUPPORTED_PORT_v5.4.4 (1).zip, loading it automatically
+[01:36:56] [ServerMain/INFO]: Found new data pack file/Stellarity-3-0-5 (1).zip, loading it automatically
+[01:36:56] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[01:36:56] [ServerMain/INFO]: Found new data pack file/lukis-crazy-chambers-v1.0 (1).zip, loading it automatically
+[01:36:56] [ServerMain/INFO]: Found new data pack file/tectonic-datapack-2.4.2 (1).zip, loading it automatically
+[01:36:56] [ServerMain/INFO]: Found new data pack file/tool-trims-DP-v2-2-2a (2).zip, loading it automatically
+[01:36:56] [ServerMain/INFO]: Found new data pack paper, loading it automatically
+[01:36:57] [ServerMain/INFO]: No existing world data, creating new world
+[01:37:00] [ServerMain/INFO]: Loaded 1311 recipes
+[01:37:00] [ServerMain/ERROR]: Couldn't load advancements: [minecraft:wander_add_map, minecraft:give_quest_trader_trade]
+[01:37:00] [ServerMain/INFO]: Loaded 1631 advancements
+[01:37:00] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[01:37:00] [Server thread/INFO]: Loading properties
+[01:37:00] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[01:37:01] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[01:37:01] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[01:37:01] [Server thread/INFO]: Using 4 threads for Netty based IO
+[01:37:02] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[01:37:02] [Server thread/INFO]: Default game type: SURVIVAL
+[01:37:02] [Server thread/INFO]: Generating keypair
+[01:37:02] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:37:02] [Server thread/INFO]: Using epoll channel type
+[01:37:02] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[01:37:02] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[01:37:02] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.2
+[01:37:02] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[01:37:02] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.2
+[01:37:04] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[01:37:05] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.1.
+[01:37:06] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[01:37:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:37:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:37:06] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:37:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:37:06] [Server thread/INFO]: Preparing level "world"
+[01:37:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:37:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[01:37:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[01:37:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[01:37:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[01:37:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[01:37:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:37:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.2
+[01:37:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: ae257f6
+[01:37:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[01:37:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:37:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[01:37:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[01:37:21] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=203, y=48, z=159}
+[01:37:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:37:40] [Server thread/INFO]: Time elapsed: 8539 ms
+[01:37:40] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[01:37:47] [Server thread/INFO]: Time elapsed: 6824 ms
+[01:37:47] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[01:37:48] [Server thread/INFO]: Time elapsed: 1526 ms
+[01:37:48] [Server thread/INFO]: [spark] Starting background profiler...
+[01:37:48] [Server thread/INFO]: Done preparing level "world" (42.381s)
+[01:37:48] [Server thread/INFO]: Running delayed init tasks
+[01:37:48] [Server thread/INFO]: Done (61.457s)! For help, type "help"
+[01:37:48] [Server thread/INFO]: Timings Reset
+[01:40:09] [User Authenticator #0/INFO]: UUID of player qSeren is 60f425a3-b4ca-31c1-a532-8475c0b676c0
+[01:40:34] [Server thread/INFO]: qSeren joined the game
+[01:40:34] [Server thread/INFO]: qSeren[/100.110.74.102:57136] logged in with entity id 41 at ([world]6.5, 144.0, 4.5)
+[01:40:41] [Server thread/INFO]: qSeren issued server command: /gamemode creative
+[01:40:41] [Server thread/INFO]: [qSeren: Set own game mode to Creative Mode]
+[01:40:53] [Server thread/INFO]: qSeren issued server command: /locate structure minecraft:stronghold
+[01:40:55] [Server thread/INFO]: Locating element minecraft:stronghold took 1618 ms
+[01:40:57] [Server thread/INFO]: qSeren issued server command: /tp @s -912 ~ -1200
+[01:40:57] [Server thread/INFO]: [qSeren: Teleported qSeren to -911.500000, 162.231603, -1199.500000]
+[01:41:06] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-211, y=-58, z=-85}
+[01:41:06] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-158, y=-57, z=-42}
+[01:41:06] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-158, y=-57, z=-42}
+[01:41:07] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21.1-57-b483da4 (MC: 1.21.1) ---
+[01:41:07] [Paper Watchdog Thread/ERROR]: The server has not responded for 10 seconds! Creating thread dump
+[01:41:07] [Paper Watchdog Thread/ERROR]: ------------------------------
+[01:41:07] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[01:41:07] [Paper Watchdog Thread/ERROR]: [ChunkTaskScheduler] Chunk wait task info below: 
+[01:41:07] [Paper Watchdog Thread/ERROR]: [ChunkTaskScheduler] Chunk wait: [( -57,-75) in 'world']
+[01:41:07] [Paper Watchdog Thread/ERROR]: [ChunkTaskScheduler] Chunk holder: NewChunkHolder{world=world, chunkX=-57, chunkZ=-75, entityChunkFromDisk=false, lastChunkCompletion={chunk_class=net.minecraft.world.level.chunk.ProtoChunk,status=minecraft:initialize_light}, currentGenStatus=minecraft:initialize_light, requestedGenStatus=minecraft:full, generationTask=null, generationTaskStatus=null, priority=BLOCKING, priorityLocked=false, neighbourRequestedPriority=null, effective_priority=BLOCKING, oldTicketLevel=32, currentTicketLevel=32, totalNeighboursUsingThisChunk=1, fullNeighbourChunksLoadedBitset=0, currentChunkStatus=INACCESSIBLE, pendingChunkStatus=INACCESSIBLE, is_unload_safe=ticket_level, killed=false}
+[01:41:07] [Paper Watchdog Thread/ERROR]: Ticking entity: minecraft:player, entity class: net.minecraft.server.level.ServerPlayer
+[01:41:07] [Paper Watchdog Thread/ERROR]: Entity status: removed: false, valid: true, alive: true, is passenger: false
+[01:41:07] [Paper Watchdog Thread/ERROR]: Entity UUID: 60f425a3-b4ca-31c1-a532-8475c0b676c0
+[01:41:07] [Paper Watchdog Thread/ERROR]: Position: world: 'world' at location (-911.5, 162.2316025526028, -1199.5)
+[01:41:07] [Paper Watchdog Thread/ERROR]: Velocity: (0.0, 0.0, 0.0) (in blocks per tick)
+[01:41:07] [Paper Watchdog Thread/ERROR]: Entity AABB: AABB[-911.8000000119209, 162.2316025526028, -1199.800000011921] -> [-911.1999999880791, 164.03160250491908, -1199.199999988079]
+[01:41:07] [Paper Watchdog Thread/ERROR]: Total packets processed on the main thread for all players: 229
+[01:41:07] [Paper Watchdog Thread/ERROR]: ------------------------------
+[01:41:07] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[01:41:07] [Paper Watchdog Thread/ERROR]: 	PID: 42 | Suspended: false | Native: false | State: RUNNABLE
+[01:41:07] [Paper Watchdog Thread/ERROR]: 	Stack:
+[01:41:07] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.5/java.lang.Thread.yield0(Native Method)
+[01:41:07] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.5/java.lang.Thread.yield(Thread.java:445)
+[01:41:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.waitForTasks(BlockableEventLoop.java:145)
+[01:41:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:136)
+[01:41:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.managedBlock(ServerChunkCache.java:707)
+[01:41:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.syncLoad(ServerChunkCache.java:101)
+[01:41:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.getChunkFallback(ServerChunkCache.java:126)
+[01:41:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.getChunk(ServerChunkCache.java:235)
+[01:41:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.getChunk(Level.java:939)
+[01:41:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.getChunkAt(Level.java:928)
+[01:41:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.getFluidState(Level.java:1286)
+[01:41:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Entity.updateFluidOnEyes(Entity.java:1960)
+[01:41:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Entity.baseTick(Entity.java:883)
+[01:41:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.LivingEntity.baseTick(LivingEntity.java:442)
+[01:41:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Entity.tick(Entity.java:848)
+[01:41:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.LivingEntity.tick(LivingEntity.java:3132)
+[01:41:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.player.Player.tick(Player.java:288)
+[01:41:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerPlayer.doTick(ServerPlayer.java:835)
+[01:41:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.network.ServerGamePacketListenerImpl.tick(ServerGamePacketListenerImpl.java:346)
+[01:41:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.network.Connection.tick(Connection.java:638)
+[01:41:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.network.ServerConnectionListener.tick(ServerConnectionListener.java:242)
+[01:41:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1823)
+[01:41:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473)
+[01:41:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
+[01:41:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
+[01:41:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[01:41:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x00007cd2a4c811a8.run(Unknown Source)
+[01:41:07] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.5/java.lang.Thread.runWith(Thread.java:1596)
+[01:41:07] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.5/java.lang.Thread.run(Thread.java:1583)
+[01:41:07] [Paper Watchdog Thread/ERROR]: ------------------------------
+[01:41:07] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[01:41:07] [Paper Watchdog Thread/ERROR]: ------------------------------
+[01:41:07] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-211, y=-58, z=-85}
+[01:41:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10037ms or 200 ticks behind
+[01:41:30] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-158, y=-57, z=-42}
+[01:41:30] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-129, y=-58, z=-61}
+[01:41:30] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-127, y=-58, z=-61}
+[01:41:30] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-158, y=-57, z=-42}
+[01:41:30] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-158, y=-57, z=-42}
+[01:41:30] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-235, y=-58, z=-188}
+[01:41:30] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-158, y=-57, z=-42}
+[01:41:30] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-158, y=-57, z=-42}
+[01:41:30] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-161, y=-58, z=-83}
+[01:41:30] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-153, y=-58, z=-122}
+[01:41:30] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-153, y=-58, z=-122}
+[01:41:31] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-158, y=-57, z=-42}
+[01:41:31] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-211, y=-58, z=-85}
+[01:41:31] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-161, y=-58, z=-83}
+[01:41:31] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-161, y=-58, z=-83}
+[01:41:31] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-158, y=-57, z=-42}
+[01:41:31] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-211, y=-58, z=-85}
+[01:41:31] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-161, y=-58, z=-83}
+[01:41:31] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-235, y=-58, z=-188}
+[01:41:31] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-211, y=-58, z=-85}
+[01:41:31] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-158, y=-57, z=-42}
+[01:41:32] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-161, y=-58, z=-83}
+[01:41:32] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-161, y=-58, z=-83}
+[01:41:32] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-153, y=-58, z=-122}
+[01:41:32] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-235, y=-58, z=-188}
+[01:41:32] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-158, y=-57, z=-42}
+[01:41:41] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-153, y=-58, z=-122}
+[01:41:41] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-158, y=-57, z=-42}
+[01:41:42] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-161, y=-58, z=-83}
+[01:41:42] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-153, y=-58, z=-122}
+[01:41:42] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-161, y=-58, z=-83}
+[01:41:42] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-153, y=-58, z=-122}
+[01:41:42] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-136, y=-58, z=-70}
+[01:41:42] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-158, y=-57, z=-42}
+[01:41:42] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-153, y=-58, z=-122}
+[01:41:43] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-136, y=-58, z=-70}
+[01:41:43] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-211, y=-58, z=-85}
+[01:41:43] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-161, y=-58, z=-83}
+[01:41:49] [Server thread/INFO]: qSeren issued server command: /gamemode spectator
+[01:41:49] [Server thread/INFO]: [qSeren: Set own game mode to Spectator Mode]
+[01:41:50] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-158, y=-57, z=-42}
+[01:41:50] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-161, y=-58, z=-83}
+[01:41:54] [Server thread/INFO]: qSeren has made the advancement [Eye Spy]
+[01:42:18] [Server thread/INFO]: qSeren issued server command: /gamemode creative
+[01:42:18] [Server thread/INFO]: [qSeren: Set own game mode to Creative Mode]
+[01:42:49] [User Authenticator #1/INFO]: UUID of player iRagc is 67ea92e7-d0b5-38d9-9052-76eb288fcd52
+[01:42:52] [Server thread/INFO]: iRagc joined the game
+[01:42:52] [Server thread/INFO]: iRagc[/100.124.40.45:65060] logged in with entity id 1053 at ([world]0.5, 135.0, -5.5)
+[01:43:02] [Async Chat Thread - #0/INFO]: [Not Secure] <iRagc> porno buscar
+[01:43:13] [Server thread/INFO]: qSeren issued server command: /tp iRagc qSeren
+[01:43:13] [Server thread/INFO]: [qSeren: Teleported iRagc to qSeren]
+[01:43:13] [Server thread/INFO]: iRagc has made the advancement [Eye Spy]
+[01:43:16] [Server thread/INFO]: qSeren issued server command: /gamemode creative iRagc
+[01:43:16] [Server thread/INFO]: [qSeren: Set iRagc's game mode to Creative Mode]
+[01:43:22] [User Authenticator #1/INFO]: UUID of player lg_santiago_1 is fff5a079-dc60-3719-a578-b75765a10c2a
+[01:43:22] [Async Chat Thread - #0/INFO]: [Not Secure] <iRagc> tengo skin
+[01:43:22] [Async Chat Thread - #1/INFO]: [Not Secure] <iRagc> gg
+[01:43:35] [Server thread/INFO]: iRagc has completed the challenge [Cover Me in Debris]
+[01:43:41] [Server thread/INFO]: qSeren issued server command: /clear iRagc
+[01:43:42] [Async Chat Thread - #1/INFO]: [Not Secure] <iRagc> XD
+[01:43:42] [User Authenticator #1/INFO]: UUID of player Gatunixdd is 30c6f3b7-f46c-3424-a802-e7c599266de4
+[01:43:45] [Async Chat Thread - #1/INFO]: [Not Secure] <iRagc> no me quites creativo
+[01:43:50] [Server thread/INFO]: lg_santiago_1 joined the game
+[01:43:50] [Server thread/INFO]: lg_santiago_1[/100.122.4.58:51444] logged in with entity id 1417 at ([world]-9.5, 127.0, -9.5)
+[01:43:52] [Async Chat Thread - #1/INFO]: [Not Secure] <iRagc> siquieres hago los kits
+[01:43:54] [Server thread/INFO]: Gatunixdd joined the game
+[01:43:54] [Server thread/INFO]: Gatunixdd[/100.70.112.123:4815] logged in with entity id 1500 at ([world]3.5, 139.0, -3.5)
+[01:43:56] [Async Chat Thread - #1/INFO]: [Not Secure] <lg_santiago_1> xd
+[01:43:58] [Server thread/INFO]: qSeren issued server command: /tp @a qSeren
+[01:43:58] [Server thread/INFO]: [qSeren: Teleported 4 entities to qSeren]
+[01:43:58] [Server thread/INFO]: lg_santiago_1 has made the advancement [Eye Spy]
+[01:43:59] [Server thread/INFO]: Gatunixdd has made the advancement [Eye Spy]
+[01:44:03] [Server thread/INFO]: qSeren issued server command: /gamemode adventure @a
+[01:44:03] [Server thread/INFO]: [qSeren: Set own game mode to Adventure Mode]
+[01:44:03] [Server thread/INFO]: [qSeren: Set iRagc's game mode to Adventure Mode]
+[01:44:03] [Server thread/INFO]: [qSeren: Set lg_santiago_1's game mode to Adventure Mode]
+[01:44:03] [Server thread/INFO]: [qSeren: Set Gatunixdd's game mode to Adventure Mode]
+[01:44:05] [Server thread/INFO]: qSeren issued server command: /gamemode creative
+[01:44:05] [Server thread/INFO]: [qSeren: Set own game mode to Creative Mode]
+[01:44:06] [Async Chat Thread - #1/INFO]: [Not Secure] <iRagc> NOOO
+[01:44:07] [Server thread/INFO]: qSeren issued server command: /gamemode creative iRagc
+[01:44:07] [Server thread/INFO]: [qSeren: Set iRagc's game mode to Creative Mode]
+[01:44:08] [Async Chat Thread - #1/INFO]: [Not Secure] <Gatunixdd> HAY GENTE QUE ES MI HIJA Y LUEGO ESTA PANZONOX Y TEEROB
+[01:44:13] [Server thread/INFO]: Gatunixdd was slain by Vindicator
+[01:44:17] [User Authenticator #1/INFO]: UUID of player thenoxplayer is 75b751ed-9d4b-3eb0-b6e9-8ac93294d4e5
+[01:44:20] [Server thread/INFO]: qSeren has made the advancement [Monster Hunter]
+[01:44:22] [Server thread/INFO]: Gatunixdd lost connection: Disconnected
+[01:44:22] [Server thread/INFO]: Gatunixdd left the game
+[01:44:25] [Async Chat Thread - #1/INFO]: [Not Secure] <iRagc> qSeren hago kits?
+[01:44:28] [Async Chat Thread - #1/INFO]: [Not Secure] <iRagc> como el que me diste
+[01:44:29] [Server thread/INFO]: thenoxplayer joined the game
+[01:44:29] [Server thread/INFO]: thenoxplayer[/100.127.46.50:59258] logged in with entity id 1860 at ([world]-5.5, 130.0, -3.5)
+[01:44:35] [Async Chat Thread - #1/INFO]: [Not Secure] <thenoxplayer> HOLA
+[01:44:36] [Async Chat Thread - #1/INFO]: [Not Secure] <thenoxplayer> NO SOY POBRE
+[01:44:37] [Async Chat Thread - #1/INFO]: [Not Secure] <thenoxplayer> GRACIAS
+[01:44:38] [Async Chat Thread - #1/INFO]: [Not Secure] <thenoxplayer> DIOS
+[01:44:44] [Server thread/INFO]: qSeren issued server command: /tp @a qSeren
+[01:44:44] [Server thread/INFO]: [qSeren: Teleported 4 entities to qSeren]
+[01:44:44] [Server thread/INFO]: thenoxplayer has made the advancement [Eye Spy]
+[01:44:45] [Async Chat Thread - #1/INFO]: [Not Secure] <lg_santiago_1> xd
+[01:44:49] [User Authenticator #1/INFO]: UUID of player Gatunixdd is 30c6f3b7-f46c-3424-a802-e7c599266de4
+[01:44:52] [Server thread/INFO]: lg_santiago_1 was slain by Vindicator
+[01:44:55] [Server thread/INFO]: Gatunixdd joined the game
+[01:44:55] [Server thread/INFO]: Gatunixdd[/100.70.112.123:5021] logged in with entity id 2162 at ([world]-914.8730096372876, 3.0, -1196.2935315166344)
+[01:45:01] [Async Chat Thread - #0/INFO]: [Not Secure] <lg_santiago_1> bro
+[01:45:02] [Async Chat Thread - #0/INFO]: [Not Secure] <Gatunixdd> NA BUENO
+[01:45:03] [Server thread/INFO]: thenoxplayer was slain by Vindicator
+[01:45:07] [Async Chat Thread - #0/INFO]: [Not Secure] <lg_santiago_1> me mato un puto vindicator
+[01:45:07] [Async Chat Thread - #0/INFO]: [Not Secure] <Gatunixdd> C PING QUE TRAIGO
+[01:45:14] [Async Chat Thread - #0/INFO]: [Not Secure] <Gatunixdd> MAS GRANDE QUE LA VIEJA DE NOX
+[01:45:18] [Server thread/INFO]: qSeren issued server command: /tp @a qSeren
+[01:45:18] [Server thread/INFO]: [qSeren: Teleported 5 entities to qSeren]
+[01:45:19] [Async Chat Thread - #0/INFO]: [Not Secure] <thenoxplayer> tuputamadre
+[01:45:21] [Server thread/INFO]: qSeren issued server command: /spawnpoint @a
+[01:45:21] [Server thread/INFO]: [qSeren: Set spawn point to -911, 3, -1196 [0.0] in minecraft:overworld for 5 players]
+[01:45:22] [Async Chat Thread - #0/INFO]: [Not Secure] <Gatunixdd> JDKASLJDLSAJK
+[01:45:29] [Async Chat Thread - #0/INFO]: [Not Secure] <lg_santiago_1> tepea
+[01:45:33] [Server thread/INFO]: qSeren issued server command: /tp @a qSeren
+[01:45:33] [Server thread/INFO]: [qSeren: Teleported 5 entities to qSeren]
+[01:45:40] [Async Chat Thread - #0/INFO]: [Not Secure] <thenoxplayer> APURA
+[01:45:41] [Async Chat Thread - #0/INFO]: [Not Secure] <thenoxplayer> MIERDA
+[01:45:44] [Async Chat Thread - #0/INFO]: [Not Secure] <thenoxplayer> QUIERO VIOLAR
+[01:45:45] [Async Chat Thread - #0/INFO]: [Not Secure] <thenoxplayer> NEGRITOS
+[01:45:50] [Async Chat Thread - #0/INFO]: [Not Secure] <Gatunixdd> HAY GENTE QUE ES MI HIJA Y LUEGO ESTA NOX
+[01:45:51] [Async Chat Thread - #0/INFO]: [Not Secure] <Gatunixdd> HAY GENTE QUE ES MI HIJA Y LUEGO ESTA NOX
+[01:45:57] [Server thread/INFO]: qSeren issued server command: /gamemode adventure @a
+[01:45:57] [Server thread/INFO]: [qSeren: Set own game mode to Adventure Mode]
+[01:45:57] [Server thread/INFO]: [qSeren: Set iRagc's game mode to Adventure Mode]
+[01:45:57] [Server thread/INFO]: [qSeren: Set lg_santiago_1's game mode to Adventure Mode]
+[01:45:57] [Server thread/INFO]: [qSeren: Set Gatunixdd's game mode to Adventure Mode]
+[01:45:57] [Server thread/INFO]: [qSeren: Set thenoxplayer's game mode to Adventure Mode]
+[01:45:59] [Server thread/INFO]: qSeren issued server command: /tp @a qSeren
+[01:45:59] [Server thread/INFO]: [qSeren: Teleported 5 entities to qSeren]
+[01:46:05] [Server thread/INFO]: qSeren issued server command: /gamemode creative
+[01:46:05] [Server thread/INFO]: [qSeren: Set own game mode to Creative Mode]
+[01:46:07] [Server thread/INFO]: iRagc has made the advancement [Diamonds!]
+[01:46:07] [Server thread/INFO]: qSeren issued server command: /clear @a
+[01:46:07] [Server thread/INFO]: [qSeren: Removed 15 item(s) from 5 players]
+[01:46:12] [User Authenticator #2/INFO]: UUID of player TeeRobZti is 375e8eef-1b7d-320f-92ce-8498cff3acd8
+[01:46:18] [Server thread/INFO]: qSeren has made the advancement [Cover Me with Diamonds]
+[01:46:18] [Server thread/INFO]: TeeRobZti joined the game
+[01:46:18] [Server thread/INFO]: TeeRobZti[/100.127.109.47:53488] logged in with entity id 2536 at ([world]-3.5, 135.0, -1.5)
+[01:46:19] [Server thread/INFO]: thenoxplayer issued server command: /icanhasbukkit
+[01:46:22] [Async Chat Thread - #0/INFO]: [Not Secure] <Gatunixdd> na panzonox
+[01:46:24] [Server thread/INFO]: qSeren issued server command: /enchant qSeren
+[01:46:25] [Server thread/INFO]: qSeren issued server command: /enchant qSeren
+[01:46:31] [Server thread/INFO]: qSeren issued server command: /spawnpoint @a
+[01:46:31] [Server thread/INFO]: [qSeren: Set spawn point to -911, 3, -1205 [0.0] in minecraft:overworld for 6 players]
+[01:46:34] [Async Chat Thread - #2/INFO]: [Not Secure] <lg_santiago_1> gatuni
+[01:46:34] [Server thread/INFO]: iRagc lost connection: Disconnected
+[01:46:34] [Server thread/INFO]: iRagc left the game
+[01:46:34] [Server thread/INFO]: qSeren issued server command: /kill TeeRobZti
+[01:46:34] [Server thread/INFO]: TeeRobZti was killed
+[01:46:34] [Server thread/INFO]: [qSeren: Killed TeeRobZti]
+[01:46:36] [Server thread/INFO]: TeeRobZti has made the advancement [Eye Spy]
+[01:46:40] [Async Chat Thread - #2/INFO]: [Not Secure] <Gatunixdd> despues
+[01:46:40] [Server thread/INFO]: TeeRobZti issued server command: /
+[01:46:40] [Server thread/INFO]: TeeRobZti issued server command: /gamemode survival
+[01:46:40] [Server thread/INFO]: [TeeRobZti: Set own game mode to Survival Mode]
+[01:46:40] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:protection 4
+[01:46:40] [Server thread/INFO]: [qSeren: Applied enchantment Protection IV to qSeren's item]
+[01:46:41] [Server thread/INFO]: TeeRobZti issued server command: /
+[01:46:42] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:protection 4
+[01:46:42] [Server thread/INFO]: [qSeren: Applied enchantment Protection IV to qSeren's item]
+[01:46:42] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:protection 4
+[01:46:42] [Server thread/INFO]: [qSeren: Applied enchantment Protection IV to qSeren's item]
+[01:46:42] [Server thread/INFO]: TeeRobZti issued server command: /gamemode creative
+[01:46:42] [Server thread/INFO]: [TeeRobZti: Set own game mode to Creative Mode]
+[01:46:43] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:protection 4
+[01:46:43] [Server thread/INFO]: [qSeren: Applied enchantment Protection IV to qSeren's item]
