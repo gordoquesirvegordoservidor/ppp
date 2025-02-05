@@ -391,3 +391,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 40
 [20:59:03] [Server thread/INFO]: [qSeren: Applied enchantment Protection II to qSeren's item]
 [20:59:03] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:protection 2
 [20:59:03] [Server thread/INFO]: [qSeren: Applied enchantment Protection II to qSeren's item]
+[21:01:15] [Server thread/INFO]: qSeren has made the advancement [Isn't It Iron Pick]
+[21:02:34] [Server thread/INFO]: qSeren issued server command: /kill @e[type=item]
+[21:02:34] [Server thread/INFO]: [qSeren: Killed 28 entities]
+[21:05:12] [Server thread/INFO]: qSeren issued server command: /gamerule doMobSpawning true
+[21:05:12] [Server thread/INFO]: [qSeren: Gamerule doMobSpawning is now set to: true]
+[21:05:16] [Server thread/INFO]: qSeren issued server command: /difficulty hard
+[21:05:22] [Server thread/INFO]: qSeren issued server command: /setworldspawn
+[21:05:22] [Server thread/INFO]: [qSeren: Set the world spawn point to 48860, -39, 49809 [0.0]]
+[21:05:23] [Server thread/INFO]: qSeren issued server command: /setworldspawn
+[21:05:23] [Server thread/INFO]: [qSeren: Set the world spawn point to 48860, -39, 49809 [0.0]]
+[21:05:30] [Server thread/INFO]: qSeren issued server command: /spawnpoint @a
+[21:05:30] [Server thread/INFO]: [qSeren: Set spawn point to 48860, -39, 49809 [0.0] in minecraft:overworld for qSeren]
