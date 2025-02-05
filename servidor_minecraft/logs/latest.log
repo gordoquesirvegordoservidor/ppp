@@ -198,3 +198,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 40
 [18:55:59] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
 [18:56:02] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/2713, uuid='68a987ec-1930-40da-b5f9-4122ba37ff58', l='ServerLevel[world]', x=48861.70, y=-38.00, z=49783.70, cpos=[3053, 3111], tl=66, v=true] died: Guerrero Difunto was slain by qSeren
 [18:59:23] [Server thread/INFO]: Named entity Zombie['l2oGuerrero Difunto'/2149, uuid='030b3988-2ae3-4a0d-ba12-8866559f4f11', l='ServerLevel[world]', x=48860.30, y=-38.00, z=49791.30, cpos=[3053, 3111], tl=10507, v=true] died: l2oGuerrero Difunto was slain by qSeren
+[19:11:09] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[19:11:09] [Server thread/ERROR]: Not a number
+[19:11:15] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/4503, uuid='85c54064-1249-48e9-a802-a06a44d90067', l='ServerLevel[world]', x=48853.30, y=-37.75, z=49755.27, cpos=[3053, 3109], tl=120, v=true] died: Guerrero Difunto was slain by qSeren
+[19:11:57] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[19:11:57] [Server thread/ERROR]: Not a number
+[19:12:00] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/4612, uuid='449a2761-1595-4b4a-9975-f700cb897dcb', l='ServerLevel[world]', x=48867.20, y=-41.00, z=49804.70, cpos=[3054, 3112], tl=64, v=true] died: Guerrero Difunto was slain by qSeren
+[19:12:06] [Server thread/INFO]: Named entity Zombie['l2oGuerrero Difunto'/2426, uuid='a7a786c0-dc5f-449f-9fa1-a1dcb60590eb', l='ServerLevel[world]', x=48876.88, y=-31.00, z=49791.60, cpos=[3054, 3111], tl=22582, v=true] died: l2oGuerrero Difunto was slain by qSeren
+[19:12:58] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
+[19:12:58] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
+[19:12:58] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[19:12:58] [Server thread/ERROR]: Not a number
