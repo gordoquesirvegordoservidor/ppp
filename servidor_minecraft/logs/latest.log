@@ -193,3 +193,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 40
 [18:39:24] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/821, uuid='68ebb978-8e5c-4a61-9237-7ab4e7ba913d', l='ServerLevel[world]', x=48873.85, y=-33.00, z=49787.15, cpos=[3054, 3111], tl=455, v=true] died: Guerrero Difunto was slain by qSeren
 [18:42:19] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
 [18:42:22] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/1192, uuid='0f054978-a38d-4dee-9c38-4cbe8d478c53', l='ServerLevel[world]', x=48864.70, y=-37.00, z=49786.30, cpos=[3054, 3111], tl=53, v=true] died: Guerrero Difunto was slain by qSeren
+[18:42:36] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
+[18:42:39] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/1230, uuid='ee732ed4-23e1-4642-b684-44a7720506ad', l='ServerLevel[world]', x=48858.55, y=-38.00, z=49778.30, cpos=[3053, 3111], tl=56, v=true] died: Guerrero Difunto was slain by qSeren
