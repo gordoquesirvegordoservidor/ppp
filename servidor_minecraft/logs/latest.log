@@ -1,1006 +1,195 @@
-[01:36:48] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
-[01:36:48] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
-[01:36:48] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[01:36:48] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/SkinsRestorer.jar'...
-[01:36:51] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/SkinsRestorer.jar' in 2212ms.
-[01:36:51] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
-[01:36:51] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
+[18:32:38] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[18:32:38] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
+[18:32:38] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[18:32:38] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
+[18:32:38] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
  - SkinsRestorer (15.5.2)
-[01:36:56] [ServerMain/WARN]: resource-pack-id missing, using default of 6f59d313-4428-3f47-a0ea-0fb58f402849
-[01:36:56] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:36:56] [ServerMain/INFO]: Found new data pack file/1.21.x Withering Heights v1.0.zip, loading it automatically
-[01:36:56] [ServerMain/INFO]: Found new data pack file/Dungeons and Taverns v4.4.4 (1).zip, loading it automatically
-[01:36:56] [ServerMain/INFO]: Found new data pack file/Ender-Dragon-Fight-Remastered-5.0beta.4 (1).zip, loading it automatically
-[01:36:56] [ServerMain/INFO]: Found new data pack file/Explorify v1.6.2 f10-48.zip, loading it automatically
-[01:36:56] [ServerMain/INFO]: Found new data pack file/Incendium_1.21_UNSUPPORTED_PORT_v5.4.4 (1).zip, loading it automatically
-[01:36:56] [ServerMain/INFO]: Found new data pack file/Stellarity-3-0-5 (1).zip, loading it automatically
-[01:36:56] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
-[01:36:56] [ServerMain/INFO]: Found new data pack file/lukis-crazy-chambers-v1.0 (1).zip, loading it automatically
-[01:36:56] [ServerMain/INFO]: Found new data pack file/tectonic-datapack-2.4.2 (1).zip, loading it automatically
-[01:36:56] [ServerMain/INFO]: Found new data pack file/tool-trims-DP-v2-2-2a (2).zip, loading it automatically
-[01:36:56] [ServerMain/INFO]: Found new data pack paper, loading it automatically
-[01:36:57] [ServerMain/INFO]: No existing world data, creating new world
-[01:37:00] [ServerMain/INFO]: Loaded 1311 recipes
-[01:37:00] [ServerMain/ERROR]: Couldn't load advancements: [minecraft:wander_add_map, minecraft:give_quest_trader_trade]
-[01:37:00] [ServerMain/INFO]: Loaded 1631 advancements
-[01:37:00] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[01:37:00] [Server thread/INFO]: Loading properties
-[01:37:00] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
-[01:37:01] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[01:37:01] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[01:37:01] [Server thread/INFO]: Using 4 threads for Netty based IO
-[01:37:02] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[01:37:02] [Server thread/INFO]: Default game type: SURVIVAL
-[01:37:02] [Server thread/INFO]: Generating keypair
-[01:37:02] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:37:02] [Server thread/INFO]: Using epoll channel type
-[01:37:02] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[01:37:02] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[01:37:02] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.2
-[01:37:02] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[01:37:02] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.2
-[01:37:04] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[01:37:05] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.1.
-[01:37:06] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[01:37:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:37:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:37:06] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:37:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:37:06] [Server thread/INFO]: Preparing level "world"
-[01:37:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:37:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[01:37:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[01:37:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[01:37:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[01:37:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[01:37:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:37:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.2
-[01:37:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: ae257f6
-[01:37:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[01:37:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:37:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[01:37:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[01:37:21] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=203, y=48, z=159}
-[01:37:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:37:40] [Server thread/INFO]: Time elapsed: 8539 ms
-[01:37:40] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[01:37:47] [Server thread/INFO]: Time elapsed: 6824 ms
-[01:37:47] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[01:37:48] [Server thread/INFO]: Time elapsed: 1526 ms
-[01:37:48] [Server thread/INFO]: [spark] Starting background profiler...
-[01:37:48] [Server thread/INFO]: Done preparing level "world" (42.381s)
-[01:37:48] [Server thread/INFO]: Running delayed init tasks
-[01:37:48] [Server thread/INFO]: Done (61.457s)! For help, type "help"
-[01:37:48] [Server thread/INFO]: Timings Reset
-[01:40:09] [User Authenticator #0/INFO]: UUID of player qSeren is 60f425a3-b4ca-31c1-a532-8475c0b676c0
-[01:40:34] [Server thread/INFO]: qSeren joined the game
-[01:40:34] [Server thread/INFO]: qSeren[/100.110.74.102:57136] logged in with entity id 41 at ([world]6.5, 144.0, 4.5)
-[01:40:41] [Server thread/INFO]: qSeren issued server command: /gamemode creative
-[01:40:41] [Server thread/INFO]: [qSeren: Set own game mode to Creative Mode]
-[01:40:53] [Server thread/INFO]: qSeren issued server command: /locate structure minecraft:stronghold
-[01:40:55] [Server thread/INFO]: Locating element minecraft:stronghold took 1618 ms
-[01:40:57] [Server thread/INFO]: qSeren issued server command: /tp @s -912 ~ -1200
-[01:40:57] [Server thread/INFO]: [qSeren: Teleported qSeren to -911.500000, 162.231603, -1199.500000]
-[01:41:06] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-211, y=-58, z=-85}
-[01:41:06] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-158, y=-57, z=-42}
-[01:41:06] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-158, y=-57, z=-42}
-[01:41:07] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21.1-57-b483da4 (MC: 1.21.1) ---
-[01:41:07] [Paper Watchdog Thread/ERROR]: The server has not responded for 10 seconds! Creating thread dump
-[01:41:07] [Paper Watchdog Thread/ERROR]: ------------------------------
-[01:41:07] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
-[01:41:07] [Paper Watchdog Thread/ERROR]: [ChunkTaskScheduler] Chunk wait task info below: 
-[01:41:07] [Paper Watchdog Thread/ERROR]: [ChunkTaskScheduler] Chunk wait: [( -57,-75) in 'world']
-[01:41:07] [Paper Watchdog Thread/ERROR]: [ChunkTaskScheduler] Chunk holder: NewChunkHolder{world=world, chunkX=-57, chunkZ=-75, entityChunkFromDisk=false, lastChunkCompletion={chunk_class=net.minecraft.world.level.chunk.ProtoChunk,status=minecraft:initialize_light}, currentGenStatus=minecraft:initialize_light, requestedGenStatus=minecraft:full, generationTask=null, generationTaskStatus=null, priority=BLOCKING, priorityLocked=false, neighbourRequestedPriority=null, effective_priority=BLOCKING, oldTicketLevel=32, currentTicketLevel=32, totalNeighboursUsingThisChunk=1, fullNeighbourChunksLoadedBitset=0, currentChunkStatus=INACCESSIBLE, pendingChunkStatus=INACCESSIBLE, is_unload_safe=ticket_level, killed=false}
-[01:41:07] [Paper Watchdog Thread/ERROR]: Ticking entity: minecraft:player, entity class: net.minecraft.server.level.ServerPlayer
-[01:41:07] [Paper Watchdog Thread/ERROR]: Entity status: removed: false, valid: true, alive: true, is passenger: false
-[01:41:07] [Paper Watchdog Thread/ERROR]: Entity UUID: 60f425a3-b4ca-31c1-a532-8475c0b676c0
-[01:41:07] [Paper Watchdog Thread/ERROR]: Position: world: 'world' at location (-911.5, 162.2316025526028, -1199.5)
-[01:41:07] [Paper Watchdog Thread/ERROR]: Velocity: (0.0, 0.0, 0.0) (in blocks per tick)
-[01:41:07] [Paper Watchdog Thread/ERROR]: Entity AABB: AABB[-911.8000000119209, 162.2316025526028, -1199.800000011921] -> [-911.1999999880791, 164.03160250491908, -1199.199999988079]
-[01:41:07] [Paper Watchdog Thread/ERROR]: Total packets processed on the main thread for all players: 229
-[01:41:07] [Paper Watchdog Thread/ERROR]: ------------------------------
-[01:41:07] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
-[01:41:07] [Paper Watchdog Thread/ERROR]: 	PID: 42 | Suspended: false | Native: false | State: RUNNABLE
-[01:41:07] [Paper Watchdog Thread/ERROR]: 	Stack:
-[01:41:07] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.5/java.lang.Thread.yield0(Native Method)
-[01:41:07] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.5/java.lang.Thread.yield(Thread.java:445)
-[01:41:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.waitForTasks(BlockableEventLoop.java:145)
-[01:41:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:136)
-[01:41:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.managedBlock(ServerChunkCache.java:707)
-[01:41:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.syncLoad(ServerChunkCache.java:101)
-[01:41:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.getChunkFallback(ServerChunkCache.java:126)
-[01:41:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.getChunk(ServerChunkCache.java:235)
-[01:41:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.getChunk(Level.java:939)
-[01:41:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.getChunkAt(Level.java:928)
-[01:41:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.getFluidState(Level.java:1286)
-[01:41:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Entity.updateFluidOnEyes(Entity.java:1960)
-[01:41:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Entity.baseTick(Entity.java:883)
-[01:41:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.LivingEntity.baseTick(LivingEntity.java:442)
-[01:41:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Entity.tick(Entity.java:848)
-[01:41:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.LivingEntity.tick(LivingEntity.java:3132)
-[01:41:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.player.Player.tick(Player.java:288)
-[01:41:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerPlayer.doTick(ServerPlayer.java:835)
-[01:41:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.network.ServerGamePacketListenerImpl.tick(ServerGamePacketListenerImpl.java:346)
-[01:41:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.network.Connection.tick(Connection.java:638)
-[01:41:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.network.ServerConnectionListener.tick(ServerConnectionListener.java:242)
-[01:41:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1823)
-[01:41:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473)
-[01:41:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
-[01:41:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
-[01:41:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
-[01:41:07] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x00007cd2a4c811a8.run(Unknown Source)
-[01:41:07] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.5/java.lang.Thread.runWith(Thread.java:1596)
-[01:41:07] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.5/java.lang.Thread.run(Thread.java:1583)
-[01:41:07] [Paper Watchdog Thread/ERROR]: ------------------------------
-[01:41:07] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
-[01:41:07] [Paper Watchdog Thread/ERROR]: ------------------------------
-[01:41:07] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-211, y=-58, z=-85}
-[01:41:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10037ms or 200 ticks behind
-[01:41:30] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-158, y=-57, z=-42}
-[01:41:30] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-129, y=-58, z=-61}
-[01:41:30] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-127, y=-58, z=-61}
-[01:41:30] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-158, y=-57, z=-42}
-[01:41:30] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-158, y=-57, z=-42}
-[01:41:30] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-235, y=-58, z=-188}
-[01:41:30] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-158, y=-57, z=-42}
-[01:41:30] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-158, y=-57, z=-42}
-[01:41:30] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-161, y=-58, z=-83}
-[01:41:30] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-153, y=-58, z=-122}
-[01:41:30] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-153, y=-58, z=-122}
-[01:41:31] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-158, y=-57, z=-42}
-[01:41:31] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-211, y=-58, z=-85}
-[01:41:31] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-161, y=-58, z=-83}
-[01:41:31] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-161, y=-58, z=-83}
-[01:41:31] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-158, y=-57, z=-42}
-[01:41:31] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-211, y=-58, z=-85}
-[01:41:31] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-161, y=-58, z=-83}
-[01:41:31] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-235, y=-58, z=-188}
-[01:41:31] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-211, y=-58, z=-85}
-[01:41:31] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-158, y=-57, z=-42}
-[01:41:32] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-161, y=-58, z=-83}
-[01:41:32] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-161, y=-58, z=-83}
-[01:41:32] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-153, y=-58, z=-122}
-[01:41:32] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-235, y=-58, z=-188}
-[01:41:32] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-158, y=-57, z=-42}
-[01:41:41] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-153, y=-58, z=-122}
-[01:41:41] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-158, y=-57, z=-42}
-[01:41:42] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-161, y=-58, z=-83}
-[01:41:42] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-153, y=-58, z=-122}
-[01:41:42] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-161, y=-58, z=-83}
-[01:41:42] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-153, y=-58, z=-122}
-[01:41:42] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-136, y=-58, z=-70}
-[01:41:42] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-158, y=-57, z=-42}
-[01:41:42] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-153, y=-58, z=-122}
-[01:41:43] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-136, y=-58, z=-70}
-[01:41:43] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-211, y=-58, z=-85}
-[01:41:43] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-161, y=-58, z=-83}
-[01:41:49] [Server thread/INFO]: qSeren issued server command: /gamemode spectator
-[01:41:49] [Server thread/INFO]: [qSeren: Set own game mode to Spectator Mode]
-[01:41:50] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-158, y=-57, z=-42}
-[01:41:50] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-161, y=-58, z=-83}
-[01:41:54] [Server thread/INFO]: qSeren has made the advancement [Eye Spy]
-[01:42:18] [Server thread/INFO]: qSeren issued server command: /gamemode creative
-[01:42:18] [Server thread/INFO]: [qSeren: Set own game mode to Creative Mode]
-[01:42:49] [User Authenticator #1/INFO]: UUID of player iRagc is 67ea92e7-d0b5-38d9-9052-76eb288fcd52
-[01:42:52] [Server thread/INFO]: iRagc joined the game
-[01:42:52] [Server thread/INFO]: iRagc[/100.124.40.45:65060] logged in with entity id 1053 at ([world]0.5, 135.0, -5.5)
-[01:43:02] [Async Chat Thread - #0/INFO]: [Not Secure] <iRagc> porno buscar
-[01:43:13] [Server thread/INFO]: qSeren issued server command: /tp iRagc qSeren
-[01:43:13] [Server thread/INFO]: [qSeren: Teleported iRagc to qSeren]
-[01:43:13] [Server thread/INFO]: iRagc has made the advancement [Eye Spy]
-[01:43:16] [Server thread/INFO]: qSeren issued server command: /gamemode creative iRagc
-[01:43:16] [Server thread/INFO]: [qSeren: Set iRagc's game mode to Creative Mode]
-[01:43:22] [User Authenticator #1/INFO]: UUID of player lg_santiago_1 is fff5a079-dc60-3719-a578-b75765a10c2a
-[01:43:22] [Async Chat Thread - #0/INFO]: [Not Secure] <iRagc> tengo skin
-[01:43:22] [Async Chat Thread - #1/INFO]: [Not Secure] <iRagc> gg
-[01:43:35] [Server thread/INFO]: iRagc has completed the challenge [Cover Me in Debris]
-[01:43:41] [Server thread/INFO]: qSeren issued server command: /clear iRagc
-[01:43:42] [Async Chat Thread - #1/INFO]: [Not Secure] <iRagc> XD
-[01:43:42] [User Authenticator #1/INFO]: UUID of player Gatunixdd is 30c6f3b7-f46c-3424-a802-e7c599266de4
-[01:43:45] [Async Chat Thread - #1/INFO]: [Not Secure] <iRagc> no me quites creativo
-[01:43:50] [Server thread/INFO]: lg_santiago_1 joined the game
-[01:43:50] [Server thread/INFO]: lg_santiago_1[/100.122.4.58:51444] logged in with entity id 1417 at ([world]-9.5, 127.0, -9.5)
-[01:43:52] [Async Chat Thread - #1/INFO]: [Not Secure] <iRagc> siquieres hago los kits
-[01:43:54] [Server thread/INFO]: Gatunixdd joined the game
-[01:43:54] [Server thread/INFO]: Gatunixdd[/100.70.112.123:4815] logged in with entity id 1500 at ([world]3.5, 139.0, -3.5)
-[01:43:56] [Async Chat Thread - #1/INFO]: [Not Secure] <lg_santiago_1> xd
-[01:43:58] [Server thread/INFO]: qSeren issued server command: /tp @a qSeren
-[01:43:58] [Server thread/INFO]: [qSeren: Teleported 4 entities to qSeren]
-[01:43:58] [Server thread/INFO]: lg_santiago_1 has made the advancement [Eye Spy]
-[01:43:59] [Server thread/INFO]: Gatunixdd has made the advancement [Eye Spy]
-[01:44:03] [Server thread/INFO]: qSeren issued server command: /gamemode adventure @a
-[01:44:03] [Server thread/INFO]: [qSeren: Set own game mode to Adventure Mode]
-[01:44:03] [Server thread/INFO]: [qSeren: Set iRagc's game mode to Adventure Mode]
-[01:44:03] [Server thread/INFO]: [qSeren: Set lg_santiago_1's game mode to Adventure Mode]
-[01:44:03] [Server thread/INFO]: [qSeren: Set Gatunixdd's game mode to Adventure Mode]
-[01:44:05] [Server thread/INFO]: qSeren issued server command: /gamemode creative
-[01:44:05] [Server thread/INFO]: [qSeren: Set own game mode to Creative Mode]
-[01:44:06] [Async Chat Thread - #1/INFO]: [Not Secure] <iRagc> NOOO
-[01:44:07] [Server thread/INFO]: qSeren issued server command: /gamemode creative iRagc
-[01:44:07] [Server thread/INFO]: [qSeren: Set iRagc's game mode to Creative Mode]
-[01:44:08] [Async Chat Thread - #1/INFO]: [Not Secure] <Gatunixdd> HAY GENTE QUE ES MI HIJA Y LUEGO ESTA PANZONOX Y TEEROB
-[01:44:13] [Server thread/INFO]: Gatunixdd was slain by Vindicator
-[01:44:17] [User Authenticator #1/INFO]: UUID of player thenoxplayer is 75b751ed-9d4b-3eb0-b6e9-8ac93294d4e5
-[01:44:20] [Server thread/INFO]: qSeren has made the advancement [Monster Hunter]
-[01:44:22] [Server thread/INFO]: Gatunixdd lost connection: Disconnected
-[01:44:22] [Server thread/INFO]: Gatunixdd left the game
-[01:44:25] [Async Chat Thread - #1/INFO]: [Not Secure] <iRagc> qSeren hago kits?
-[01:44:28] [Async Chat Thread - #1/INFO]: [Not Secure] <iRagc> como el que me diste
-[01:44:29] [Server thread/INFO]: thenoxplayer joined the game
-[01:44:29] [Server thread/INFO]: thenoxplayer[/100.127.46.50:59258] logged in with entity id 1860 at ([world]-5.5, 130.0, -3.5)
-[01:44:35] [Async Chat Thread - #1/INFO]: [Not Secure] <thenoxplayer> HOLA
-[01:44:36] [Async Chat Thread - #1/INFO]: [Not Secure] <thenoxplayer> NO SOY POBRE
-[01:44:37] [Async Chat Thread - #1/INFO]: [Not Secure] <thenoxplayer> GRACIAS
-[01:44:38] [Async Chat Thread - #1/INFO]: [Not Secure] <thenoxplayer> DIOS
-[01:44:44] [Server thread/INFO]: qSeren issued server command: /tp @a qSeren
-[01:44:44] [Server thread/INFO]: [qSeren: Teleported 4 entities to qSeren]
-[01:44:44] [Server thread/INFO]: thenoxplayer has made the advancement [Eye Spy]
-[01:44:45] [Async Chat Thread - #1/INFO]: [Not Secure] <lg_santiago_1> xd
-[01:44:49] [User Authenticator #1/INFO]: UUID of player Gatunixdd is 30c6f3b7-f46c-3424-a802-e7c599266de4
-[01:44:52] [Server thread/INFO]: lg_santiago_1 was slain by Vindicator
-[01:44:55] [Server thread/INFO]: Gatunixdd joined the game
-[01:44:55] [Server thread/INFO]: Gatunixdd[/100.70.112.123:5021] logged in with entity id 2162 at ([world]-914.8730096372876, 3.0, -1196.2935315166344)
-[01:45:01] [Async Chat Thread - #0/INFO]: [Not Secure] <lg_santiago_1> bro
-[01:45:02] [Async Chat Thread - #0/INFO]: [Not Secure] <Gatunixdd> NA BUENO
-[01:45:03] [Server thread/INFO]: thenoxplayer was slain by Vindicator
-[01:45:07] [Async Chat Thread - #0/INFO]: [Not Secure] <lg_santiago_1> me mato un puto vindicator
-[01:45:07] [Async Chat Thread - #0/INFO]: [Not Secure] <Gatunixdd> C PING QUE TRAIGO
-[01:45:14] [Async Chat Thread - #0/INFO]: [Not Secure] <Gatunixdd> MAS GRANDE QUE LA VIEJA DE NOX
-[01:45:18] [Server thread/INFO]: qSeren issued server command: /tp @a qSeren
-[01:45:18] [Server thread/INFO]: [qSeren: Teleported 5 entities to qSeren]
-[01:45:19] [Async Chat Thread - #0/INFO]: [Not Secure] <thenoxplayer> tuputamadre
-[01:45:21] [Server thread/INFO]: qSeren issued server command: /spawnpoint @a
-[01:45:21] [Server thread/INFO]: [qSeren: Set spawn point to -911, 3, -1196 [0.0] in minecraft:overworld for 5 players]
-[01:45:22] [Async Chat Thread - #0/INFO]: [Not Secure] <Gatunixdd> JDKASLJDLSAJK
-[01:45:29] [Async Chat Thread - #0/INFO]: [Not Secure] <lg_santiago_1> tepea
-[01:45:33] [Server thread/INFO]: qSeren issued server command: /tp @a qSeren
-[01:45:33] [Server thread/INFO]: [qSeren: Teleported 5 entities to qSeren]
-[01:45:40] [Async Chat Thread - #0/INFO]: [Not Secure] <thenoxplayer> APURA
-[01:45:41] [Async Chat Thread - #0/INFO]: [Not Secure] <thenoxplayer> MIERDA
-[01:45:44] [Async Chat Thread - #0/INFO]: [Not Secure] <thenoxplayer> QUIERO VIOLAR
-[01:45:45] [Async Chat Thread - #0/INFO]: [Not Secure] <thenoxplayer> NEGRITOS
-[01:45:50] [Async Chat Thread - #0/INFO]: [Not Secure] <Gatunixdd> HAY GENTE QUE ES MI HIJA Y LUEGO ESTA NOX
-[01:45:51] [Async Chat Thread - #0/INFO]: [Not Secure] <Gatunixdd> HAY GENTE QUE ES MI HIJA Y LUEGO ESTA NOX
-[01:45:57] [Server thread/INFO]: qSeren issued server command: /gamemode adventure @a
-[01:45:57] [Server thread/INFO]: [qSeren: Set own game mode to Adventure Mode]
-[01:45:57] [Server thread/INFO]: [qSeren: Set iRagc's game mode to Adventure Mode]
-[01:45:57] [Server thread/INFO]: [qSeren: Set lg_santiago_1's game mode to Adventure Mode]
-[01:45:57] [Server thread/INFO]: [qSeren: Set Gatunixdd's game mode to Adventure Mode]
-[01:45:57] [Server thread/INFO]: [qSeren: Set thenoxplayer's game mode to Adventure Mode]
-[01:45:59] [Server thread/INFO]: qSeren issued server command: /tp @a qSeren
-[01:45:59] [Server thread/INFO]: [qSeren: Teleported 5 entities to qSeren]
-[01:46:05] [Server thread/INFO]: qSeren issued server command: /gamemode creative
-[01:46:05] [Server thread/INFO]: [qSeren: Set own game mode to Creative Mode]
-[01:46:07] [Server thread/INFO]: iRagc has made the advancement [Diamonds!]
-[01:46:07] [Server thread/INFO]: qSeren issued server command: /clear @a
-[01:46:07] [Server thread/INFO]: [qSeren: Removed 15 item(s) from 5 players]
-[01:46:12] [User Authenticator #2/INFO]: UUID of player TeeRobZti is 375e8eef-1b7d-320f-92ce-8498cff3acd8
-[01:46:18] [Server thread/INFO]: qSeren has made the advancement [Cover Me with Diamonds]
-[01:46:18] [Server thread/INFO]: TeeRobZti joined the game
-[01:46:18] [Server thread/INFO]: TeeRobZti[/100.127.109.47:53488] logged in with entity id 2536 at ([world]-3.5, 135.0, -1.5)
-[01:46:19] [Server thread/INFO]: thenoxplayer issued server command: /icanhasbukkit
-[01:46:22] [Async Chat Thread - #0/INFO]: [Not Secure] <Gatunixdd> na panzonox
-[01:46:24] [Server thread/INFO]: qSeren issued server command: /enchant qSeren
-[01:46:25] [Server thread/INFO]: qSeren issued server command: /enchant qSeren
-[01:46:31] [Server thread/INFO]: qSeren issued server command: /spawnpoint @a
-[01:46:31] [Server thread/INFO]: [qSeren: Set spawn point to -911, 3, -1205 [0.0] in minecraft:overworld for 6 players]
-[01:46:34] [Async Chat Thread - #2/INFO]: [Not Secure] <lg_santiago_1> gatuni
-[01:46:34] [Server thread/INFO]: iRagc lost connection: Disconnected
-[01:46:34] [Server thread/INFO]: iRagc left the game
-[01:46:34] [Server thread/INFO]: qSeren issued server command: /kill TeeRobZti
-[01:46:34] [Server thread/INFO]: TeeRobZti was killed
-[01:46:34] [Server thread/INFO]: [qSeren: Killed TeeRobZti]
-[01:46:36] [Server thread/INFO]: TeeRobZti has made the advancement [Eye Spy]
-[01:46:40] [Async Chat Thread - #2/INFO]: [Not Secure] <Gatunixdd> despues
-[01:46:40] [Server thread/INFO]: TeeRobZti issued server command: /
-[01:46:40] [Server thread/INFO]: TeeRobZti issued server command: /gamemode survival
-[01:46:40] [Server thread/INFO]: [TeeRobZti: Set own game mode to Survival Mode]
-[01:46:40] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:protection 4
-[01:46:40] [Server thread/INFO]: [qSeren: Applied enchantment Protection IV to qSeren's item]
-[01:46:41] [Server thread/INFO]: TeeRobZti issued server command: /
-[01:46:42] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:protection 4
-[01:46:42] [Server thread/INFO]: [qSeren: Applied enchantment Protection IV to qSeren's item]
-[01:46:42] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:protection 4
-[01:46:42] [Server thread/INFO]: [qSeren: Applied enchantment Protection IV to qSeren's item]
-[01:46:42] [Server thread/INFO]: TeeRobZti issued server command: /gamemode creative
-[01:46:42] [Server thread/INFO]: [TeeRobZti: Set own game mode to Creative Mode]
-[01:46:43] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:protection 4
-[01:46:43] [Server thread/INFO]: [qSeren: Applied enchantment Protection IV to qSeren's item]
-[01:46:47] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:unbreaking 3
-[01:46:47] [Server thread/INFO]: [qSeren: Applied enchantment Unbreaking III to qSeren's item]
-[01:46:47] [Async Chat Thread - #2/INFO]: [Not Secure] <Gatunixdd> afk
-[01:46:47] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:unbreaking 3
-[01:46:47] [Server thread/INFO]: [qSeren: Applied enchantment Unbreaking III to qSeren's item]
-[01:46:48] [Async Chat Thread - #2/INFO]: [Not Secure] <thenoxplayer> bro
-[01:46:48] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:unbreaking 3
-[01:46:48] [Server thread/INFO]: [qSeren: Applied enchantment Unbreaking III to qSeren's item]
-[01:46:48] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:unbreaking 3
-[01:46:48] [Server thread/INFO]: [qSeren: Applied enchantment Unbreaking III to qSeren's item]
-[01:46:49] [Async Chat Thread - #2/INFO]: [Not Secure] <thenoxplayer> pq el txt
-[01:46:51] [Async Chat Thread - #2/INFO]: [Not Secure] <thenoxplayer> es momo
-[01:46:51] [Server thread/INFO]: qSeren issued server command: /enchant qSeren mending
-[01:46:51] [Server thread/INFO]: [qSeren: Applied enchantment Mending to qSeren's item]
-[01:46:52] [Server thread/INFO]: qSeren issued server command: /enchant qSeren mending
-[01:46:52] [Server thread/INFO]: [qSeren: Applied enchantment Mending to qSeren's item]
-[01:46:52] [Server thread/INFO]: qSeren issued server command: /enchant qSeren mending
-[01:46:52] [Server thread/INFO]: [qSeren: Applied enchantment Mending to qSeren's item]
-[01:46:54] [Server thread/INFO]: qSeren issued server command: /enchant qSeren mending
-[01:46:54] [Server thread/INFO]: [qSeren: Applied enchantment Mending to qSeren's item]
-[01:46:54] [Async Chat Thread - #2/INFO]: [Not Secure] <thenoxplayer> garchandose al aire
-[01:46:56] [Async Chat Thread - #2/INFO]: [Not Secure] <Gatunixdd> XDDD
-[01:46:58] [Server thread/INFO]: qSeren issued server command: /enchant qSeren mending
-[01:46:58] [Server thread/INFO]: [qSeren: Applied enchantment Mending to qSeren's item]
-[01:46:59] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:unbreaking 3
-[01:46:59] [Server thread/INFO]: [qSeren: Applied enchantment Unbreaking III to qSeren's item]
-[01:47:00] [Async Chat Thread - #2/INFO]: [Not Secure] <thenoxplayer> C
-[01:47:01] [Async Chat Thread - #2/INFO]: [Not Secure] <thenoxplayer> MIERDON
-[01:47:02] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:sharpness 5
-[01:47:02] [Server thread/INFO]: [qSeren: Applied enchantment Sharpness V to qSeren's item]
-[01:47:02] [Async Chat Thread - #2/INFO]: [Not Secure] <thenoxplayer> DE TEEROB
-[01:47:23] [Async Chat Thread - #2/INFO]: [Not Secure] <thenoxplayer> el hijo y el padre gatuni y lg
-[01:47:23] [Async Chat Thread - #2/INFO]: [Not Secure] <Gatunixdd> BRO TeeRobZti HAZ QUE SE VEAN LAS SKINS EN TU ZERVER
-[01:47:34] [Async Chat Thread - #2/INFO]: [Not Secure] <Gatunixdd> tu vieja entonces
-[01:47:53] [Server thread/INFO]: qSeren issued server command: /enchant qSeren power 5
-[01:47:53] [Server thread/INFO]: [qSeren: Applied enchantment Power V to qSeren's item]
-[01:47:56] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:unbreaking 3
-[01:47:56] [Server thread/INFO]: [qSeren: Applied enchantment Unbreaking III to qSeren's item]
-[01:47:57] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:infinity
-[01:47:57] [Server thread/INFO]: [qSeren: Applied enchantment Infinity to qSeren's item]
-[01:48:04] [Server thread/INFO]: TeeRobZti has made the advancement [Cover Me with Diamonds]
-[01:48:11] [Async Chat Thread - #2/INFO]: [Not Secure] <Gatunixdd> ME DOXEAN
-[01:48:12] [Async Chat Thread - #2/INFO]: [Not Secure] <Gatunixdd> ME DOXEAN
-[01:48:13] [Async Chat Thread - #2/INFO]: [Not Secure] <Gatunixdd> ME DOXEAN
-[01:48:16] [Async Chat Thread - #2/INFO]: [Not Secure] <Gatunixdd> A :,V
-[01:48:20] [Async Chat Thread - #2/INFO]: [Not Secure] <lg_santiago_1> xd
-[01:48:31] [Server thread/INFO]: Gatunixdd was slain by Vex
-[01:48:33] [Async Chat Thread - #2/INFO]: [Not Secure] <lg_santiago_1> ayuda
-[01:48:35] [Server thread/INFO]: thenoxplayer was killed by Evoker using magic
-[01:48:37] [Async Chat Thread - #2/INFO]: [Not Secure] <Gatunixdd> PTM SEREN
-[01:48:38] [Async Chat Thread - #2/INFO]: [Not Secure] <thenoxplayer> xD
-[01:48:44] [User Authenticator #3/INFO]: UUID of player iRagc is 67ea92e7-d0b5-38d9-9052-76eb288fcd52
-[01:48:49] [Server thread/INFO]: iRagc joined the game
-[01:48:49] [Server thread/INFO]: iRagc[/100.124.40.45:49306] logged in with entity id 3118 at ([world]-913.7820194034164, 3.0, -1204.2283531606224)
-[01:48:52] [Async Chat Thread - #2/INFO]: [Not Secure] <TeeRobZti> mis hijos
-[01:49:02] [Async Chat Thread - #2/INFO]: [Not Secure] <lg_santiago_1> ayuda
-[01:49:04] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:riptide 3
-[01:49:04] [Server thread/INFO]: [qSeren: Applied enchantment Riptide III to qSeren's item]
-[01:49:06] [Async Chat Thread - #2/INFO]: [Not Secure] <Gatunixdd> BRO PANZON DE MIERDA DEJA LA ESPADA
-[01:49:06] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:unbreaking 3
-[01:49:06] [Server thread/INFO]: [qSeren: Applied enchantment Unbreaking III to qSeren's item]
-[01:49:08] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:mending
-[01:49:08] [Server thread/INFO]: [qSeren: Applied enchantment Mending to qSeren's item]
-[01:49:14] [Server thread/INFO]: iRagc was slain by Vex
-[01:49:16] [Server thread/INFO]: lg_santiago_1 was slain by Vex
-[01:49:19] [Async Chat Thread - #2/INFO]: [Not Secure] <Gatunixdd> XDDDDDDDD
-[01:49:20] [Server thread/INFO]: qSeren has reached the goal [Eye of Darkness]
-[01:49:21] [Async Chat Thread - #2/INFO]: [Not Secure] <lg_santiago_1> :VVVVVVVV
-[01:49:21] [Async Chat Thread - #2/INFO]: [Not Secure] <thenoxplayer> BRO Y MI KIT
-[01:49:25] [Async Chat Thread - #2/INFO]: [Not Secure] <thenoxplayer> 7revive
-[01:49:26] [Async Chat Thread - #2/INFO]: [Not Secure] <Gatunixdd> BRO NOX
-[01:49:26] [Async Chat Thread - #2/INFO]: [Not Secure] <thenoxplayer> 7revive
-[01:49:26] [Async Chat Thread - #2/INFO]: [Not Secure] <thenoxplayer> 7revive
-[01:49:26] [Server thread/INFO]: TeeRobZti has reached the goal [Eye of Darkness]
-[01:49:26] [Async Chat Thread - #2/INFO]: [Not Secure] <thenoxplayer> 7revive
-[01:49:27] [Async Chat Thread - #1/INFO]: [Not Secure] <thenoxplayer> 7revive
-[01:49:27] [Async Chat Thread - #1/INFO]: [Not Secure] <thenoxplayer> 7revive
-[01:49:28] [Async Chat Thread - #1/INFO]: [Not Secure] <Gatunixdd> NOX
-[01:49:29] [Async Chat Thread - #1/INFO]: [Not Secure] <Gatunixdd> NOX
-[01:49:29] [Async Chat Thread - #1/INFO]: [Not Secure] <Gatunixdd> NOX
-[01:49:29] [Async Chat Thread - #1/INFO]: [Not Secure] <Gatunixdd> NOX
-[01:49:30] [Async Chat Thread - #1/INFO]: [Not Secure] <thenoxplayer> q
-[01:49:32] [Async Chat Thread - #1/INFO]: [Not Secure] <Gatunixdd> SO
-[01:49:34] [Async Chat Thread - #1/INFO]: [Not Secure] <Gatunixdd> JSKLÑADJAKLSD
-[01:49:35] [Server thread/INFO]: qSeren issued server command: /kill @e[type=vex]
-[01:49:35] [Server thread/INFO]: [qSeren: Killed 15 entities]
-[01:49:36] [Async Chat Thread - #1/INFO]: [Not Secure] <thenoxplayer> matate
-[01:49:38] [Server thread/INFO]: qSeren issued server command: /kill @e[type=pillager]
-[01:49:38] [Server thread/INFO]: [qSeren: Killed 33 entities]
-[01:49:39] [Async Chat Thread - #1/INFO]: [Not Secure] <thenoxplayer> 7revive
-[01:49:39] [Async Chat Thread - #1/INFO]: [Not Secure] <thenoxplayer> 7revive
-[01:49:40] [Async Chat Thread - #1/INFO]: [Not Secure] <thenoxplayer> 7revive
-[01:49:40] [Async Chat Thread - #1/INFO]: [Not Secure] <thenoxplayer> 7revive
-[01:49:40] [Async Chat Thread - #1/INFO]: [Not Secure] <thenoxplayer> 7revive
-[01:49:40] [Server thread/INFO]: qSeren issued server command: /kill @e[type=evoker]
-[01:49:41] [Server thread/INFO]: [qSeren: Killed 43 entities]
-[01:49:41] [Async Chat Thread - #1/INFO]: [Not Secure] <thenoxplayer> 7revive
-[01:49:41] [Async Chat Thread - #1/INFO]: [Not Secure] <Gatunixdd> na mi hijo
-[01:49:45] [Async Chat Thread - #1/INFO]: [Not Secure] <thenoxplayer> 7revive
-[01:49:45] [Async Chat Thread - #1/INFO]: [Not Secure] <thenoxplayer> 7revive
-[01:49:45] [Async Chat Thread - #1/INFO]: [Not Secure] <thenoxplayer> 7revive
-[01:49:47] [Async Chat Thread - #1/INFO]: [Not Secure] <lg_santiago_1> revivan
-[01:49:47] [Server thread/INFO]: qSeren issued server command: /kill @e[type=minecraft:vindicator ]
-[01:49:47] [Server thread/INFO]: [qSeren: Killed 82 entities]
-[01:49:54] [Async Chat Thread - #1/INFO]: [Not Secure] <thenoxplayer> 7revive
-[01:49:54] [Async Chat Thread - #1/INFO]: [Not Secure] <thenoxplayer> 7revive
-[01:49:54] [Async Chat Thread - #1/INFO]: [Not Secure] <thenoxplayer> 7revive
-[01:49:55] [Async Chat Thread - #1/INFO]: [Not Secure] <thenoxplayer> 7revive
-[01:49:55] [Async Chat Thread - #1/INFO]: [Not Secure] <thenoxplayer> 7revive
-[01:49:57] [Server thread/INFO]: qSeren issued server command: /kill @e[type=minecraft:witch]
-[01:49:57] [Server thread/INFO]: [qSeren: Killed 30 entities]
-[01:50:00] [Async Chat Thread - #1/INFO]: [Not Secure] <thenoxplayer> 7revive
-[01:50:00] [Async Chat Thread - #1/INFO]: [Not Secure] <thenoxplayer> 7revive
-[01:50:00] [Async Chat Thread - #1/INFO]: [Not Secure] <thenoxplayer> 7revive
-[01:50:01] [Async Chat Thread - #1/INFO]: [Not Secure] <thenoxplayer> 7revive
-[01:50:01] [Async Chat Thread - #2/INFO]: [Not Secure] <thenoxplayer> 7revive
-[01:50:02] [Server thread/INFO]: qSeren issued server command: /tp @a qSeren
-[01:50:02] [Server thread/INFO]: [qSeren: Teleported 6 entities to qSeren]
-[01:50:04] [Server thread/INFO]: qSeren issued server command: /gamemode survival @a
-[01:50:04] [Server thread/INFO]: [qSeren: Set own game mode to Survival Mode]
-[01:50:04] [Server thread/INFO]: [qSeren: Set TeeRobZti's game mode to Survival Mode]
-[01:50:04] [Server thread/INFO]: [qSeren: Set Gatunixdd's game mode to Survival Mode]
-[01:50:04] [Server thread/INFO]: [qSeren: Set thenoxplayer's game mode to Survival Mode]
-[01:50:04] [Server thread/INFO]: [qSeren: Set iRagc's game mode to Survival Mode]
-[01:50:04] [Server thread/INFO]: [qSeren: Set lg_santiago_1's game mode to Survival Mode]
-[01:50:04] [Async Chat Thread - #1/INFO]: [Not Secure] <lg_santiago_1> revive
-[01:50:05] [Server thread/INFO]: qSeren issued server command: /gamemode creative
-[01:50:05] [Server thread/INFO]: [qSeren: Set own game mode to Creative Mode]
-[01:50:09] [Server thread/INFO]: qSeren issued server command: /gamemode adventure @a
-[01:50:09] [Server thread/INFO]: [qSeren: Set own game mode to Adventure Mode]
-[01:50:09] [Server thread/INFO]: [qSeren: Set TeeRobZti's game mode to Adventure Mode]
-[01:50:09] [Server thread/INFO]: [qSeren: Set Gatunixdd's game mode to Adventure Mode]
-[01:50:09] [Server thread/INFO]: [qSeren: Set thenoxplayer's game mode to Adventure Mode]
-[01:50:09] [Server thread/INFO]: [qSeren: Set iRagc's game mode to Adventure Mode]
-[01:50:09] [Server thread/INFO]: [qSeren: Set lg_santiago_1's game mode to Adventure Mode]
-[01:50:10] [Server thread/INFO]: TeeRobZti issued server command: /gamemode creative
-[01:50:10] [Server thread/INFO]: [TeeRobZti: Set own game mode to Creative Mode]
-[01:50:11] [Server thread/INFO]: qSeren issued server command: /gamemode creative
-[01:50:11] [Server thread/INFO]: [qSeren: Set own game mode to Creative Mode]
-[01:50:14] [Server thread/INFO]: Gatunixdd was slain by Vex
-[01:50:14] [Async Chat Thread - #2/INFO]: [Not Secure] <thenoxplayer> el vex
-[01:50:19] [Async Chat Thread - #2/INFO]: [Not Secure] <thenoxplayer> el vex
-[01:50:19] [Async Chat Thread - #2/INFO]: [Not Secure] <thenoxplayer> el vex
-[01:50:20] [Async Chat Thread - #2/INFO]: [Not Secure] <thenoxplayer> el vex
-[01:50:28] [Server thread/INFO]: qSeren issued server command: /kill @e[type=vex]
-[01:50:28] [Server thread/INFO]: [qSeren: Killed 2 entities]
-[01:50:31] [Server thread/INFO]: iRagc has made the advancement [Acquire Hardware]
-[01:50:32] [Server thread/INFO]: iRagc has made the advancement [Suit Up]
-[01:50:35] [Server thread/INFO]: iRagc has reached the goal [Eye of Darkness]
-[01:50:37] [Async Chat Thread - #2/INFO]: [Not Secure] <thenoxplayer> bro den kit
-[01:50:38] [Server thread/INFO]: TeeRobZti issued server command: /tp thenoxplayer
-[01:50:38] [Server thread/INFO]: [TeeRobZti: Teleported TeeRobZti to thenoxplayer]
-[01:50:57] [Server thread/INFO]: lg_santiago_1 has made the advancement [Cover Me with Diamonds]
-[01:50:58] [Server thread/INFO]: lg_santiago_1 has reached the goal [Eye of Darkness]
-[01:51:00] [Async Chat Thread - #2/INFO]: [Not Secure] <Gatunixdd> revivanme :,v
-[01:51:04] [Server thread/INFO]: thenoxplayer has made the advancement [Cover Me with Diamonds]
-[01:51:05] [Async Chat Thread - #2/INFO]: [Not Secure] <Gatunixdd> revivanme :,v
-[01:51:05] [Async Chat Thread - #2/INFO]: [Not Secure] <Gatunixdd> revivanme :,v
-[01:51:05] [Server thread/INFO]: TeeRobZti issued server command: /tp Gatunixdd TeeRobZti
-[01:51:05] [Server thread/INFO]: [TeeRobZti: Teleported Gatunixdd to TeeRobZti]
-[01:51:05] [Server thread/INFO]: thenoxplayer has reached the goal [Eye of Darkness]
-[01:51:08] [Server thread/INFO]: TeeRobZti issued server command: /gamemode survival Gatunixdd
-[01:51:08] [Server thread/INFO]: [TeeRobZti: Set Gatunixdd's game mode to Survival Mode]
-[01:51:16] [Server thread/INFO]: Gatunixdd has made the advancement [Cover Me with Diamonds]
-[01:51:17] [Server thread/INFO]: Gatunixdd has reached the goal [Eye of Darkness]
-[01:51:27] [Server thread/INFO]: iRagc has made the advancement [Cover Me with Diamonds]
-[01:51:35] [Async Chat Thread - #2/INFO]: [Not Secure] <Gatunixdd> no robe nada oe
-[01:51:38] [Async Chat Thread - #2/INFO]: [Not Secure] <Gatunixdd> ;,v
-[01:51:43] [Server thread/INFO]: qSeren has reached the goal [Strengthened by Fire]
-[01:51:43] [Server thread/INFO]: TeeRobZti issued server command: /gamemode adventure
-[01:51:43] [Server thread/INFO]: [TeeRobZti: Set own game mode to Adventure Mode]
-[01:51:44] [Server thread/INFO]: TeeRobZti issued server command: /gamemode survival
-[01:51:44] [Server thread/INFO]: [TeeRobZti: Set own game mode to Survival Mode]
-[01:51:47] [Server thread/INFO]: qSeren issued server command: /deop TeeRobZti
-[01:51:47] [Server thread/INFO]: [qSeren: Made TeeRobZti no longer a server operator]
-[01:51:48] [Server thread/WARN]: TeeRobZti moved wrongly!
-[01:52:01] [Async Chat Thread - #2/INFO]: [Not Secure] <thenoxplayer> y la lava
-[01:52:03] [Async Chat Thread - #2/INFO]: [Not Secure] <thenoxplayer> donde esta el uhc
-[01:52:06] [Server thread/INFO]: iRagc has reached the goal [Strengthened by Fire]
-[01:52:10] [Server thread/INFO]: lg_santiago_1 has reached the goal [Strengthened by Fire]
-[01:52:13] [Server thread/INFO]: TeeRobZti has reached the goal [Strengthened by Fire]
-[01:52:15] [Server thread/INFO]: Gatunixdd has reached the goal [Strengthened by Fire]
-[01:52:24] [Async Chat Thread - #2/INFO]: [Not Secure] <thenoxplayer> no
-[01:52:25] [Async Chat Thread - #2/INFO]: [Not Secure] <thenoxplayer> no es vanilla
-[01:52:27] [Server thread/INFO]: thenoxplayer has reached the goal [Strengthened by Fire]
-[01:52:37] [Async Chat Thread - #2/INFO]: [Not Secure] <thenoxplayer> mi pene en tu boca es custom rag
-[01:52:51] [Async Chat Thread - #2/INFO]: [Not Secure] <thenoxplayer> avisen pa empezar
-[01:53:04] [Async Chat Thread - #1/INFO]: [Not Secure] <Gatunixdd> ESPEREN OE
-[01:53:04] [Server thread/INFO]: lg_santiago_1 has made the advancement [Take Aim]
-[01:53:15] [Server thread/INFO]: thenoxplayer has made the advancement [Diamonds!]
-[01:53:15] [Server thread/INFO]: thenoxplayer has made the advancement [Acquire Hardware]
-[01:53:18] [Server thread/INFO]: thenoxplayer has made the advancement [Suit Up]
-[01:53:19] [Server thread/INFO]: qSeren issued server command: /scoreboard objectives add Vida health
-[01:53:19] [Server thread/INFO]: [qSeren: Created new objective [Vida]]
-[01:53:23] [Server thread/INFO]: qSeren issued server command: /scoreboard objectives setdisplay list Vida
-[01:53:23] [Server thread/INFO]: [qSeren: Set display slot list to show objective Vida]
-[01:53:31] [Server thread/INFO]: lg_santiago_1 has made the advancement [Not Today, Thank You]
-[01:53:33] [Server thread/INFO]: qSeren issued server command: /gamemode survival @a
-[01:53:33] [Server thread/INFO]: [qSeren: Set own game mode to Survival Mode]
-[01:53:33] [Server thread/INFO]: [qSeren: Set thenoxplayer's game mode to Survival Mode]
-[01:53:33] [Server thread/INFO]: [qSeren: Set iRagc's game mode to Survival Mode]
-[01:53:33] [Server thread/INFO]: [qSeren: Set lg_santiago_1's game mode to Survival Mode]
-[01:53:34] [Server thread/INFO]: qSeren issued server command: /gamemode creative
-[01:53:34] [Server thread/INFO]: [qSeren: Set own game mode to Creative Mode]
-[01:53:37] [Server thread/INFO]: iRagc has made the advancement [Monster Hunter]
-[01:53:45] [Server thread/INFO]: Gatunixdd has made the advancement [Not Today, Thank You]
-[01:53:46] [Server thread/INFO]: qSeren issued server command: /give @a diamond_pickaxe
-[01:53:46] [Server thread/INFO]: [qSeren: Gave 1 [Diamond Pickaxe] to 6]
-[01:53:49] [Server thread/INFO]: qSeren issued server command: /give @a iron_axe
-[01:53:49] [Server thread/INFO]: [qSeren: Gave 1 [Iron Axe] to 6]
-[01:54:02] [Async Chat Thread - #1/INFO]: [Not Secure] <Gatunixdd> no bro
-[01:54:10] [Server thread/INFO]: qSeren issued server command: /tp @a qSeren
-[01:54:10] [Server thread/INFO]: [qSeren: Teleported 6 entities to qSeren]
-[01:54:23] [Server thread/INFO]: qSeren issued server command: /tp @a qSeren
-[01:54:23] [Server thread/INFO]: [qSeren: Teleported 6 entities to qSeren]
-[01:54:30] [Async Chat Thread - #1/INFO]: [Not Secure] <Gatunixdd> COLOQUEN CARAJO
-[01:54:55] [Server thread/INFO]: qSeren has reached the goal [Journey's End]
-[01:54:55] [Server thread/INFO]: TeeRobZti has reached the goal [Journey's End]
-[01:54:55] [Server thread/INFO]: thenoxplayer has reached the goal [Journey's End]
-[01:54:55] [Server thread/INFO]: iRagc has reached the goal [Journey's End]
-[01:54:55] [Server thread/INFO]: lg_santiago_1 has reached the goal [Journey's End]
-[01:54:55] [Server thread/INFO]: Gatunixdd has reached the goal [Journey's End]
-[01:54:55] [Server thread/INFO]: lg_santiago_1 has made the advancement [The End?]
-[01:54:55] [Server thread/INFO]: TeeRobZti has made the advancement [The End?]
-[01:54:55] [Server thread/INFO]: iRagc has made the advancement [The End?]
-[01:54:56] [Server thread/INFO]: Gatunixdd has made the advancement [The End?]
-[01:54:58] [Async Chat Thread - #1/INFO]: [Not Secure] <thenoxplayer> QUE
-[01:54:59] [Async Chat Thread - #1/INFO]: [Not Secure] <Gatunixdd> ALV
-[01:54:59] [Server thread/INFO]: qSeren has made the advancement [The End?]
-[01:55:01] [Server thread/INFO]: thenoxplayer has made the advancement [The End?]
-[01:55:01] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[01:55:01] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
-[01:55:03] [Server thread/WARN]: qSeren moved too quickly! -11.678193450070566,2.254754139868254,2.606188300193917
-[01:55:08] [Async Chat Thread - #1/INFO]: [Not Secure] <thenoxplayer> q concah
-[01:55:08] [Async Chat Thread - #2/INFO]: [Not Secure] <Gatunixdd> NO lg_santiago_1 ESTO NO TE RECUERDA A ALGO??
-[01:55:15] [Server thread/INFO]: Gatunixdd has made the advancement [It's Rude to Stare!]
-[01:55:17] [Server thread/INFO]: Gatunixdd has made the advancement [Monster Hunter]
-[01:55:19] [Async Chat Thread - #2/INFO]: [Not Secure] <lg_santiago_1> se
-[01:55:20] [Async Chat Thread - #2/INFO]: [Not Secure] <Gatunixdd> TMR
-[01:55:23] [Server thread/INFO]: thenoxplayer has made the advancement [Ice Bucket Challenge]
-[01:55:32] [Async Chat Thread - #2/INFO]: [Not Secure] <lg_santiago_1> dragonic
-[01:55:37] [Async Chat Thread - #2/INFO]: [Not Secure] <Gatunixdd> DEJEN HABLARNOS
-[01:55:38] [Server thread/INFO]: TeeRobZti has made the advancement [Monster Hunter]
-[01:55:42] [Server thread/INFO]: lg_santiago_1 has made the advancement [It's Rude to Stare!]
-[01:55:43] [Async Chat Thread - #2/INFO]: [Not Secure] <iRagc> quien agarro el libro?
-[01:55:46] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> pongan los cristales
-[01:55:48] [Async Chat Thread - #2/INFO]: [Not Secure] <qSeren> XDD
-[01:55:59] [Server thread/INFO]: thenoxplayer has made the advancement [Monster Hunter]
-[01:56:13] [Server thread/INFO]: iRagc issued server command: /msg TeeRobZti tu tmb pediste que te enseñe el end no?
-[01:56:24] [Server thread/INFO]: TeeRobZti issued server command: /msg iRagc el me enseño todo xdd
-[01:56:37] [Server thread/INFO]: qSeren has made the advancement [Ice Bucket Challenge]
-[01:56:37] [Server thread/INFO]: lg_santiago_1 has reached the goal [Sacrificial Ritual]
-[01:56:37] [Server thread/INFO]: TeeRobZti has reached the goal [Sacrificial Ritual]
-[01:56:37] [Server thread/INFO]: iRagc has reached the goal [Sacrificial Ritual]
-[01:56:37] [Server thread/INFO]: Gatunixdd has reached the goal [Sacrificial Ritual]
-[01:56:37] [Server thread/INFO]: qSeren has reached the goal [Sacrificial Ritual]
-[01:56:37] [Server thread/INFO]: thenoxplayer has reached the goal [Sacrificial Ritual]
-[01:56:37] [Server thread/INFO]: iRagc issued server command: /msg TeeRobZti a, a mi tmb XD
-[01:57:03] [Server thread/INFO]: lg_santiago_1 has made the advancement [Final Showdown]
-[01:57:03] [Server thread/INFO]: TeeRobZti has made the advancement [Final Showdown]
-[01:57:03] [Server thread/INFO]: iRagc has made the advancement [Final Showdown]
-[01:57:03] [Server thread/INFO]: Gatunixdd has made the advancement [Final Showdown]
-[01:57:03] [Server thread/INFO]: qSeren has made the advancement [Final Showdown]
-[01:57:03] [Server thread/INFO]: thenoxplayer has made the advancement [Final Showdown]
-[01:57:08] [Server thread/INFO]: iRagc has made the advancement [It's Rude to Stare!]
-[01:57:09] [Async Chat Thread - #1/INFO]: [Not Secure] <Gatunixdd> QUE BONITO
-[01:57:35] [Server thread/INFO]: lg_santiago_1 has made the advancement [Monster Hunter]
-[01:57:44] [Server thread/INFO]: qSeren issued server command: /summon ghast
-[01:57:44] [Server thread/INFO]: [qSeren: Summoned new Ghast]
-[01:57:47] [Server thread/INFO]: qSeren issued server command: /summon ghast
-[01:57:47] [Server thread/INFO]: [qSeren: Summoned new Ghast]
-[01:57:51] [Server thread/INFO]: qSeren issued server command: /summon ghast
-[01:57:51] [Server thread/INFO]: [qSeren: Summoned new Ghast]
-[01:58:05] [Server thread/INFO]: qSeren issued server command: /summon ghast
-[01:58:05] [Server thread/INFO]: [qSeren: Summoned new Ghast]
-[01:58:08] [Server thread/INFO]: qSeren issued server command: /summon ghast
-[01:58:08] [Server thread/INFO]: [qSeren: Summoned new Ghast]
-[01:58:11] [Server thread/INFO]: qSeren issued server command: /summon ghast
-[01:58:11] [Server thread/INFO]: [qSeren: Summoned new Ghast]
-[01:58:14] [Server thread/INFO]: TeeRobZti has made the advancement [It's Rude to Stare!]
-[01:58:15] [Server thread/INFO]: [Not Secure] [Server] hola me va del culo
-[01:58:18] [Server thread/INFO]: [Not Secure] [Server] siendo el owner XDD
-[01:58:31] [Server thread/INFO]: thenoxplayer has made the advancement [Take Aim]
-[01:58:44] [Async Chat Thread - #3/INFO]: [Not Secure] <Gatunixdd> muy z
-[01:58:54] [Server thread/INFO]: lg_santiago_1 has made the advancement [Stone Age]
-[01:58:58] [Server thread/INFO]: qSeren lost connection: Timed out
-[01:58:58] [Server thread/INFO]: qSeren left the game
-[01:59:07] [Server thread/INFO]: Gatunixdd has made the advancement [Take Aim]
-[01:59:52] [Server thread/INFO]: Gatunixdd has made the advancement [This Block Moves!]
-[01:59:54] [Server thread/INFO]: lg_santiago_1 has made the advancement [This Block Moves!]
-[01:59:59] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[01:59:59] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[01:59:59] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[01:59:59] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[01:59:59] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[01:59:59] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[01:59:59] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[01:59:59] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[02:00:05] [Server thread/INFO]: thenoxplayer has made the advancement [It's Rude to Stare!]
-[02:00:28] [Server thread/INFO]: You whisper to TeeRobZti: te paso admin y si matan al dragon eliminas los portales
-[02:00:36] [Server thread/INFO]: TeeRobZti has reached the goal [Postmortal]
-[02:00:40] [Server thread/INFO]: You whisper to TeeRobZti: no dejes que se spoileen mucho
-[02:00:42] [Server thread/INFO]: Made TeeRobZti a server operator
-[02:00:52] [Async Chat Thread - #5/INFO]: [Not Secure] <TeeRobZti> ok
-[02:00:54] [Server thread/INFO]: You whisper to TeeRobZti: si te veo sacando cosas del creativo te hago mierda y te baneo
-[02:00:57] [Async Chat Thread - #5/INFO]: [Not Secure] <TeeRobZti> XD
-[02:01:09] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[02:01:09] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[02:01:09] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[02:01:09] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[02:01:09] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[02:01:09] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[02:01:09] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[02:01:09] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[02:01:15] [Server thread/INFO]: iRagc has made the advancement [Stone Age]
-[02:01:34] [Async Chat Thread - #5/INFO]: [Not Secure] <thenoxplayer> voy a hacer algo
-[02:01:42] [Async Chat Thread - #5/INFO]: [Not Secure] <thenoxplayer> ok
-[02:01:50] [Async Chat Thread - #5/INFO]: [Not Secure] <thenoxplayer> bro
-[02:01:52] [Server thread/INFO]: Named entity Zombie['End Zombie'/5184, uuid='2c2944aa-6035-4429-b565-944563837ee7', l='ServerLevel[world_the_end]', x=-18.86, y=55.00, z=-8.95, cpos=[-2, -1], tl=2261, v=true] died: End Zombie fell from a high place
-[02:02:18] [Server thread/INFO]: Named entity Skeleton['Warrior of Years Past'/6640, uuid='326e1cba-ed46-44cd-9bf7-1e06386fedfb', l='ServerLevel[world_the_end]', x=1.05, y=62.00, z=2.45, cpos=[0, 0], tl=169, v=true] died: Warrior of Years Past was slain by thenoxplayer
-[02:02:26] [Server thread/INFO]: Named entity Zombie['End Zombie'/5182, uuid='54f085a3-8b13-4809-9477-fe3218df24a1', l='ServerLevel[world_the_end]', x=10.65, y=60.00, z=4.37, cpos=[0, 0], tl=2930, v=true] died: End Zombie was slain by lg_santiago_1
-[02:02:29] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[02:02:29] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[02:02:29] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[02:02:29] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[02:02:29] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[02:02:29] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[02:02:29] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[02:02:29] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[02:02:41] [Server thread/INFO]: Named entity Zombie['End Zombie'/6875, uuid='acdda31e-2828-4b49-95ac-e3ca7bf8a2e7', l='ServerLevel[world_the_end]', x=39.61, y=53.00, z=-11.08, cpos=[2, -1], tl=232, v=true] died: End Zombie fell from a high place
-[02:02:45] [Server thread/INFO]: Named entity Zombie['End Zombie'/6332, uuid='b3da0c0d-efca-47a2-bcb1-cbc067101539', l='ServerLevel[world_the_end]', x=-30.38, y=55.00, z=6.85, cpos=[-2, 0], tl=1913, v=true] died: End Zombie fell from a high place
-[02:02:45] [Server thread/INFO]: TeeRobZti has made the advancement [Take Aim]
-[02:02:49] [Server thread/INFO]: iRagc has made the advancement [Take Aim]
-[02:02:59] [Async Chat Thread - #7/INFO]: [Not Secure] <thenoxplayer> cabeza
-[02:03:00] [Async Chat Thread - #7/INFO]: [Not Secure] <thenoxplayer> pa mas daño
-[02:03:06] [Server thread/INFO]: Named entity Zombie['End Zombie'/6877, uuid='30082c6f-f119-4ad2-bcec-6a5d3ef1fc8d', l='ServerLevel[world_the_end]', x=15.32, y=59.42, z=-5.50, cpos=[0, -1], tl=741, v=true] died: End Zombie was slain by thenoxplayer
-[02:03:15] [Server thread/INFO]: Named entity Zombie['End Zombie'/5185, uuid='7e391a73-2ad6-48b6-b6a8-2fdb79870777', l='ServerLevel[world_the_end]', x=7.94, y=53.00, z=-37.35, cpos=[0, -3], tl=3912, v=true] died: End Zombie fell from a high place
-[02:03:27] [Server thread/INFO]: Gatunixdd has made the advancement [Acquire Hardware]
-[02:03:31] [Async Chat Thread - #7/INFO]: [Not Secure] <thenoxplayer> bro
-[02:03:34] [Async Chat Thread - #8/INFO]: [Not Secure] <thenoxplayer> me sigue un semen
-[02:03:49] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[02:03:49] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[02:03:49] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[02:03:49] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[02:03:49] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[02:03:49] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[02:03:49] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[02:03:49] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[02:03:51] [Server thread/INFO]: Named entity Zombie['End Zombie'/7508, uuid='46b2ac6f-95ea-44ef-8e6c-48178f259dc4', l='ServerLevel[world_the_end]', x=-64.66, y=55.00, z=10.33, cpos=[-5, 0], tl=41, v=true] died: End Zombie was doomed to fall by Ender Dragon
-[02:03:59] [Server thread/INFO]: Gatunixdd has reached the goal [Postmortal]
-[02:04:02] [Server thread/INFO]: Named entity Zombie['End Zombie'/6876, uuid='ef050c61-6fbb-4926-bd4b-2de82b167c6e', l='ServerLevel[world_the_end]', x=22.48, y=59.00, z=-19.80, cpos=[1, -2], tl=1849, v=true] died: End Zombie fell from a high place
-[02:04:11] [Server thread/INFO]: Named entity Zombie['End Zombie'/7507, uuid='9fc006ee-fa17-4e1e-b7c6-d24fdf8860cc', l='ServerLevel[world_the_end]', x=-55.08, y=54.00, z=3.25, cpos=[-4, 0], tl=444, v=true] died: End Zombie fell from a high place
-[02:04:18] [Server thread/INFO]: Named entity Zombie['End Zombie'/6330, uuid='67d4fae1-b0c0-4374-8d4a-ff53a5bc042d', l='ServerLevel[world_the_end]', x=-19.20, y=55.00, z=-5.34, cpos=[-2, -1], tl=3781, v=true] died: End Zombie fell from a high place
-[02:04:25] [Server thread/INFO]: Named entity Zombie['End Zombie'/7510, uuid='10302211-9e4d-4c7c-bc4e-1d5ef46dc763', l='ServerLevel[world_the_end]', x=-53.91, y=54.00, z=4.08, cpos=[-4, 0], tl=721, v=true] died: End Zombie fell from a high place
-[02:04:42] [Server thread/INFO]: thenoxplayer has reached the goal [Postmortal]
-[02:04:43] [Server thread/INFO]: Named entity Zombie['End Zombie'/6878, uuid='ca8dda3b-e512-467d-af7b-a26b1035b253', l='ServerLevel[world_the_end]', x=7.31, y=60.00, z=-10.01, cpos=[0, -1], tl=2669, v=true] died: End Zombie was slain by lg_santiago_1
-[02:05:09] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[02:05:09] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[02:05:09] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[02:05:09] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[02:05:09] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[02:05:09] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[02:05:09] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[02:05:09] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[02:05:12] [Async Chat Thread - #9/INFO]: [Not Secure] <thenoxplayer> pq romid
-[02:05:14] [Async Chat Thread - #9/INFO]: [Not Secure] <thenoxplayer> los cristales
-[02:05:16] [Async Chat Thread - #9/INFO]: [Not Secure] <thenoxplayer> puedes er
-[02:05:19] [Async Chat Thread - #9/INFO]: [Not Secure] <thenoxplayer> ser
-[02:05:45] [Server thread/INFO]: thenoxplayer has made the advancement [This Block Moves!]
-[02:05:50] [Server thread/INFO]: Named entity Zombie['End Zombie'/9361, uuid='ec2be341-de8f-4458-ab46-fd0725487d20', l='ServerLevel[world_the_end]', x=13.91, y=53.00, z=-34.37, cpos=[0, -3], tl=814, v=true] died: End Zombie fell from a high place
-[02:06:01] [Server thread/INFO]: Named entity Zombie['End Zombie'/7509, uuid='a3be0412-00c2-42ee-bc75-4fdeef32c935', l='ServerLevel[world_the_end]', x=-46.38, y=55.00, z=5.32, cpos=[-3, 0], tl=2632, v=true] died: End Zombie fell from a high place
-[02:06:11] [Async Chat Thread - #9/INFO]: [Not Secure] <Gatunixdd> COMO QUE PRIMERA???
-[02:06:29] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[02:06:29] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[02:06:29] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[02:06:29] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[02:06:29] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[02:06:29] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[02:06:29] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[02:06:29] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[02:06:41] [Server thread/INFO]: Gatunixdd was doomed to fall by Ender Dragon
-[02:06:46] [Async Chat Thread - #9/INFO]: [Not Secure] <Gatunixdd> XDDDDDDDDDDDD
-[02:06:52] [Server thread/INFO]: Named entity Zombie['End Zombie'/9362, uuid='e87ebc83-deba-4bae-84b7-72c702aeaac0', l='ServerLevel[world_the_end]', x=20.54, y=57.00, z=-8.10, cpos=[1, -1], tl=2049, v=true] died: End Zombie fell from a high place
-[02:06:59] [Server thread/INFO]: Named entity Zombie['End Zombie'/10961, uuid='b24bc487-e8c3-4ee7-bdab-bf041be59655', l='ServerLevel[world_the_end]', x=0.23, y=54.00, z=26.04, cpos=[0, 1], tl=590, v=true] died: End Zombie fell from a high place
-[02:07:05] [Async Chat Thread - #9/INFO]: [Not Secure] <thenoxplayer> AYU
-[02:07:06] [Async Chat Thread - #9/INFO]: [Not Secure] <thenoxplayer> D
-[02:07:12] [Async Chat Thread - #9/INFO]: [Not Secure] <thenoxplayer> me persigue peru
-[02:07:12] [Async Chat Thread - #9/INFO]: [Not Secure] <Gatunixdd> C NOX MALCRIADAZO
-[02:07:14] [Server thread/INFO]: iRagc has made the advancement [Ice Bucket Challenge]
-[02:07:19] [Async Chat Thread - #9/INFO]: [Not Secure] <Gatunixdd> bro TeeRobZti reviveme bro, te amo bro
-[02:07:21] [Async Chat Thread - #10/INFO]: [Not Secure] <Gatunixdd> tJSADLJAS
-[02:07:39] [Server thread/INFO]: lg_santiago_1 has reached the goal [Postmortal]
-[02:07:49] [Server thread/INFO]: Named entity Zombie['End Zombie'/10960, uuid='908a6898-958b-4d78-98cf-80184f6c4ddd', l='ServerLevel[world_the_end]', x=-16.53, y=55.00, z=-5.54, cpos=[-2, -1], tl=1593, v=true] died: End Zombie was doomed to fall by iRagc
-[02:07:49] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[02:07:49] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[02:07:49] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[02:07:49] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[02:07:49] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[02:07:49] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[02:07:49] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[02:07:49] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[02:07:54] [Server thread/INFO]: Named entity Zombie['End Zombie'/12400, uuid='5fa5195c-bc3d-4c70-8d21-83a516ade670', l='ServerLevel[world_the_end]', x=-2.71, y=60.00, z=7.91, cpos=[-1, 0], tl=108, v=true] died: End Zombie was slain by TeeRobZti
-[02:07:55] [Server thread/INFO]: Named entity Zombie['End Zombie'/12399, uuid='3d138f64-4ed7-4dbe-b403-bbc761af771d', l='ServerLevel[world_the_end]', x=-8.52, y=60.00, z=-1.42, cpos=[-1, -1], tl=122, v=true] died: End Zombie was slain by lg_santiago_1
-[02:08:01] [Server thread/INFO]: Named entity Zombie['End Zombie'/12401, uuid='9aa5266f-1659-4eb3-ba15-c07666400755', l='ServerLevel[world_the_end]', x=-9.97, y=59.00, z=-9.43, cpos=[-1, -1], tl=230, v=true] died: End Zombie was slain by TeeRobZti
-[02:08:01] [Async Chat Thread - #10/INFO]: [Not Secure] <iRagc> ASD
-[02:08:07] [Server thread/INFO]: Named entity Zombie['End Zombie'/12398, uuid='d2c2bcb0-fa66-48fe-a3b2-1c355f7f571a', l='ServerLevel[world_the_end]', x=-0.85, y=60.00, z=-7.55, cpos=[-1, -1], tl=351, v=true] died: End Zombie was slain by TeeRobZti
-[02:08:13] [Async Chat Thread - #10/INFO]: [Not Secure] <Gatunixdd> SA CAGADA OE
-[02:08:16] [Async Chat Thread - #10/INFO]: [Not Secure] <thenoxplayer> esta parado como pinga
-[02:08:19] [Async Chat Thread - #10/INFO]: [Not Secure] <Gatunixdd> BRO REVIVAN :,V
-[02:08:27] [Async Chat Thread - #9/INFO]: [Not Secure] <Gatunixdd> BRO REVIVAN :,V
-[02:08:27] [Async Chat Thread - #9/INFO]: [Not Secure] <Gatunixdd> BRO REVIVAN :,V
-[02:08:27] [Async Chat Thread - #9/INFO]: [Not Secure] <Gatunixdd> BRO REVIVAN :,Vy
-[02:08:28] [User Authenticator #4/INFO]: UUID of player qSeren is 60f425a3-b4ca-31c1-a532-8475c0b676c0
-[02:08:28] [Async Chat Thread - #9/INFO]: [Not Secure] <Gatunixdd> BRO REVIVAN :,Vy
-[02:08:29] [Async Chat Thread - #9/INFO]: [Not Secure] <Gatunixdd> BRO REVIVAN :,Vy
-[02:08:29] [Async Chat Thread - #9/INFO]: [Not Secure] <thenoxplayer> LG
-[02:08:30] [Async Chat Thread - #9/INFO]: [Not Secure] <thenoxplayer> MIRA
-[02:08:31] [Async Chat Thread - #9/INFO]: [Not Secure] <Gatunixdd> BRO REVIVAN :,V
-[02:08:37] [Server thread/INFO]: Named entity Zombie['End Zombie'/10959, uuid='6d7e8e77-babe-4b7c-81eb-c7597bd09d1a', l='ServerLevel[world_the_end]', x=18.48, y=54.68, z=-24.90, cpos=[1, -2], tl=2566, v=true] died: End Zombie went up in flames
-[02:08:56] [Server thread/INFO]: qSeren joined the game
-[02:08:56] [Server thread/INFO]: qSeren[/100.110.74.102:57686] logged in with entity id 13096 at ([world_the_end]-25.998546549081933, 96.27085700182512, 38.39382640422156)
-[02:08:59] [Server thread/INFO]: TeeRobZti issued server command: /gamemode adventure
-[02:08:59] [Server thread/INFO]: [TeeRobZti: Set own game mode to Adventure Mode]
-[02:09:00] [Server thread/INFO]: TeeRobZti issued server command: /gamemode survival
-[02:09:00] [Server thread/INFO]: [TeeRobZti: Set own game mode to Survival Mode]
-[02:09:09] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[02:09:09] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[02:09:09] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[02:09:09] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[02:09:09] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[02:09:09] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[02:09:09] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:1
-[02:09:09] [Server thread/ERROR]: Unknown registry key in ResourceKey[minecraft:root / minecraft:mob_effect]: minecraft:28
-[02:09:13] [Server thread/INFO]: Named entity Zombie['End Zombie'/10962, uuid='ac14eaf1-09d6-4e37-b222-8a2d31e906e4', l='ServerLevel[world_the_end]', x=-1.10, y=55.00, z=-18.49, cpos=[-1, -2], tl=3287, v=true] died: End Zombie fell from a high place
-[02:09:16] [Server thread/INFO]: Named entity Zombie['End Zombie'/13193, uuid='9ae04f01-047c-4998-9650-b4895336e1df', l='ServerLevel[world_the_end]', x=-12.97, y=60.00, z=6.14, cpos=[-1, 0], tl=146, v=true] died: End Zombie was slain by thenoxplayer
-[02:09:18] [Server thread/INFO]: Named entity Zombie['End Zombie'/13194, uuid='ba108409-33d2-4c5d-941a-d45c463d4ccc', l='ServerLevel[world_the_end]', x=-9.63, y=60.00, z=6.19, cpos=[-1, 0], tl=182, v=true] died: End Zombie was slain by thenoxplayer
-[02:09:25] [Server thread/INFO]: qSeren issued server command: /give @a minecraft:totem_of_undying
-[02:09:25] [Server thread/INFO]: [qSeren: Gave 1 [Totem of Undying] to 6]
-[02:09:30] [Server thread/INFO]: Named entity Zombie['End Zombie'/13192, uuid='3052e6f6-dc25-4b4c-bfc0-ca6c054d905a', l='ServerLevel[world_the_end]', x=15.45, y=59.00, z=12.45, cpos=[0, 0], tl=412, v=true] died: End Zombie was shot by iRagc
-[02:09:33] [Server thread/INFO]: qSeren issued server command: /give @a minecraft:golden_apple 5
-[02:09:33] [Server thread/INFO]: [qSeren: Gave 5 [Golden Apple] to 6]
-[02:09:34] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> malcriadaza esa dragona
-[02:09:36] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> oigan
-[02:09:40] [Async Chat Thread - #11/INFO]: [Not Secure] <qSeren> ustedes ven la vida en 0?
-[02:09:43] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> si
-[02:09:44] [Async Chat Thread - #11/INFO]: [Not Secure] <TeeRobZti> si
-[02:09:45] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> esta
-[02:09:54] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> NONONONONOW
-[02:09:56] [Server thread/INFO]: Named entity Zombie['End Zombie'/13195, uuid='2f42d05f-36b7-4348-ac07-4ea176f3df2e', l='ServerLevel[world_the_end]', x=-10.33, y=61.00, z=1.06, cpos=[-1, 0], tl=932, v=true] died: End Zombie was slain by thenoxplayer
-[02:09:58] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> ;,V
-[02:10:02] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> ;'V
-[02:10:04] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> ;,V
-[02:10:06] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> GG
-[02:10:11] [Server thread/INFO]: lg_santiago_1 has completed the challenge [Free the End]
-[02:10:11] [Server thread/INFO]: TeeRobZti has completed the challenge [Free the End]
-[02:10:11] [Server thread/INFO]: iRagc has completed the challenge [Free the End]
-[02:10:11] [Server thread/INFO]: thenoxplayer has completed the challenge [Free the End]
-[02:10:11] [Server thread/INFO]: Gatunixdd has completed the challenge [Free the End]
-[02:10:11] [Server thread/INFO]: qSeren has completed the challenge [Free the End]
-[02:10:14] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> GG
-[02:10:23] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> ASI DE FACIL MUCHACHOS?
-[02:10:24] [Server thread/INFO]: qSeren has reached the goal [Dragonborn]
-[02:10:41] [Server thread/INFO]: thenoxplayer has reached the goal [An Introduction to Dark Magic]
-[02:10:42] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> BRO REVIVE ;'V
-[02:10:46] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> QUIERO VER ;'V
-[02:11:08] [Server thread/INFO]: qSeren issued server command: /clear @a
-[02:11:08] [Server thread/INFO]: [qSeren: Removed 1249 item(s) from 6 players]
-[02:11:08] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> YO MEURTO JDKLASJDS
-[02:11:11] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> *muerto
-[02:11:12] [Server thread/INFO]: qSeren issued server command: /gamemode creative @a
-[02:11:12] [Server thread/INFO]: [qSeren: Set TeeRobZti's game mode to Creative Mode]
-[02:11:12] [Server thread/INFO]: [qSeren: Set thenoxplayer's game mode to Creative Mode]
-[02:11:12] [Server thread/INFO]: [qSeren: Set iRagc's game mode to Creative Mode]
-[02:11:12] [Server thread/INFO]: [qSeren: Set lg_santiago_1's game mode to Creative Mode]
-[02:11:12] [Server thread/INFO]: [qSeren: Set Gatunixdd's game mode to Creative Mode]
-[02:11:14] [Server thread/INFO]: qSeren issued server command: /tp @a qSeren
-[02:11:14] [Server thread/INFO]: [qSeren: Teleported 6 entities to qSeren]
-[02:11:24] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> NA TNT
-[02:11:38] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> ;'v
-[02:11:41] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> :,b
-[02:11:43] [Server thread/INFO]: TeeRobZti issued server command: /setblock 1 1 11 tnt
-[02:11:43] [Server thread/INFO]: [TeeRobZti: Changed the block at 1, 1, 11]
-[02:11:44] [Server thread/INFO]: iRagc has reached the goal [Remote Getaway]
-[02:11:46] [Server thread/WARN]: thenoxplayer moved too quickly! 0.6411778668174795,6.359852825458361,17.899122572817056
-[02:11:53] [Server thread/INFO]: TeeRobZti has made the advancement [Spooky Scary Skeleton]
-[02:11:54] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> c TeeRobZti malcriadazo
-[02:11:58] [Server thread/INFO]: qSeren issued server command: /fill -21 53 17
-[02:12:02] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> XDDDDD
-[02:12:03] [Server thread/INFO]: lg_santiago_1 has made the advancement [Withering Heights]
-[02:12:03] [Server thread/INFO]: Gatunixdd has made the advancement [Withering Heights]
-[02:12:03] [Server thread/INFO]: qSeren has made the advancement [Withering Heights]
-[02:12:03] [Server thread/INFO]: TeeRobZti has made the advancement [Withering Heights]
-[02:12:03] [Server thread/INFO]: thenoxplayer has made the advancement [Withering Heights]
-[02:12:05] [Paper Common Worker #0/WARN]: Empty or non-existent pool: stellaris:village/villagers_jobless
-[02:12:05] [Paper Common Worker #0/WARN]: Empty or non-existent pool: stellaris:village/villagers_jobless
-[02:12:07] [Server thread/INFO]: TeeRobZti issued server command: /summon minecraft:ender_dragon
-[02:12:07] [Server thread/INFO]: [TeeRobZti: Summoned new Ender Dragon]
-[02:12:08] [Server thread/INFO]: TeeRobZti issued server command: /summon minecraft:ender_dragon
-[02:12:08] [Server thread/INFO]: [TeeRobZti: Summoned new Ender Dragon]
-[02:12:09] [Server thread/INFO]: TeeRobZti issued server command: /summon minecraft:ender_dragon
-[02:12:09] [Server thread/INFO]: [TeeRobZti: Summoned new Ender Dragon]
-[02:12:09] [Server thread/INFO]: TeeRobZti issued server command: /summon minecraft:ender_dragon
-[02:12:09] [Server thread/INFO]: [TeeRobZti: Summoned new Ender Dragon]
-[02:12:10] [Server thread/INFO]: TeeRobZti issued server command: /summon minecraft:ender_dragon
-[02:12:10] [Server thread/INFO]: [TeeRobZti: Summoned new Ender Dragon]
-[02:12:11] [Server thread/INFO]: TeeRobZti issued server command: /summon minecraft:ender_dragon
-[02:12:11] [Server thread/INFO]: [TeeRobZti: Summoned new Ender Dragon]
-[02:12:11] [Server thread/INFO]: TeeRobZti issued server command: /summon minecraft:ender_dragon
-[02:12:11] [Server thread/INFO]: [TeeRobZti: Summoned new Ender Dragon]
-[02:12:12] [Server thread/INFO]: TeeRobZti issued server command: /summon minecraft:ender_dragon
-[02:12:12] [Server thread/INFO]: [TeeRobZti: Summoned new Ender Dragon]
-[02:12:13] [Async Chat Thread - #11/INFO]: [Not Secure] <iRagc> qSeren tpeame bro
-[02:12:13] [Server thread/INFO]: TeeRobZti issued server command: /summon minecraft:ender_dragon
-[02:12:13] [Server thread/INFO]: [TeeRobZti: Summoned new Ender Dragon]
-[02:12:14] [Async Chat Thread - #11/INFO]: [Not Secure] <iRagc> xd
-[02:12:14] [Server thread/INFO]: TeeRobZti issued server command: /summon minecraft:ender_dragon
-[02:12:14] [Server thread/INFO]: [TeeRobZti: Summoned new Ender Dragon]
-[02:12:14] [Server thread/INFO]: TeeRobZti issued server command: /summon minecraft:ender_dragon
-[02:12:14] [Server thread/INFO]: [TeeRobZti: Summoned new Ender Dragon]
-[02:12:15] [Server thread/INFO]: TeeRobZti issued server command: /summon minecraft:ender_dragon
-[02:12:15] [Server thread/INFO]: [TeeRobZti: Summoned new Ender Dragon]
-[02:12:16] [Server thread/INFO]: TeeRobZti issued server command: /summon minecraft:ender_dragon
-[02:12:16] [Server thread/INFO]: [TeeRobZti: Summoned new Ender Dragon]
-[02:12:16] [Server thread/INFO]: qSeren issued server command: /kick TeeRobZti
-[02:12:16] [Server thread/INFO]: TeeRobZti lost connection: Kicked by an operator
-[02:12:16] [Server thread/INFO]: TeeRobZti left the game
-[02:12:16] [Server thread/INFO]: [qSeren: Kicked TeeRobZti: Kicked by an operator]
-[02:12:17] [Server thread/INFO]: lg_santiago_1 has made the advancement [Ice Bucket Challenge]
-[02:12:21] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> KÑDSAKÑLD
-[02:12:23] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> XDDDDDDD
-[02:12:25] [Server thread/INFO]: qSeren issued server command: /kill @e[type=wither ]
-[02:12:25] [Server thread/INFO]: [qSeren: Killed 11 entities]
-[02:12:26] [Server thread/INFO]: Gatunixdd has reached the goal [The Next Generation]
-[02:12:28] [User Authenticator #5/INFO]: UUID of player TeeRobZti is 375e8eef-1b7d-320f-92ce-8498cff3acd8
-[02:12:30] [Server thread/INFO]: qSeren issued server command: /kill @e[type=ender_dragon ]
-[02:12:30] [Async Chat Thread - #11/INFO]: [Not Secure] <iRagc> qSeren tpeame bro
-[02:12:32] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> c TeeRobZti malcriadazo
-[02:12:32] [Server thread/INFO]: TeeRobZti joined the game
-[02:12:32] [Server thread/INFO]: TeeRobZti[/100.127.109.47:53607] logged in with entity id 15184 at ([world_the_end]0.853997827644091, 63.61156738737512, -7.79629107627353)
-[02:12:34] [Server thread/INFO]: qSeren issued server command: /tp @a qSeren
-[02:12:34] [Server thread/INFO]: [qSeren: Teleported 6 entities to qSeren]
-[02:12:35] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> c TeeRobZti malcriadazo
-[02:12:35] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> c TeeRobZti malcriadazo
-[02:12:35] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> c TeeRobZti malcriadazoy
-[02:12:37] [Server thread/INFO]: qSeren issued server command: /gamemode survival @a
-[02:12:37] [Server thread/INFO]: [qSeren: Set thenoxplayer's game mode to Survival Mode]
-[02:12:37] [Server thread/INFO]: [qSeren: Set iRagc's game mode to Survival Mode]
-[02:12:37] [Server thread/INFO]: [qSeren: Set lg_santiago_1's game mode to Survival Mode]
-[02:12:37] [Server thread/INFO]: [qSeren: Set Gatunixdd's game mode to Survival Mode]
-[02:12:37] [Server thread/INFO]: [qSeren: Set own game mode to Survival Mode]
-[02:12:37] [Server thread/INFO]: [qSeren: Set TeeRobZti's game mode to Survival Mode]
-[02:12:38] [Server thread/INFO]: qSeren issued server command: /gamemode creative
-[02:12:38] [Server thread/INFO]: [qSeren: Set own game mode to Creative Mode]
-[02:12:39] [Server thread/INFO]: TeeRobZti issued server command: /gamemode creative
-[02:12:39] [Server thread/INFO]: [TeeRobZti: Set own game mode to Creative Mode]
-[02:12:41] [Server thread/INFO]: TeeRobZti issued server command: /gamemode survival
-[02:12:41] [Server thread/INFO]: [TeeRobZti: Set own game mode to Survival Mode]
-[02:12:47] [Server thread/INFO]: TeeRobZti has made the advancement [Stone Age]
-[02:12:50] [Server thread/INFO]: Gatunixdd was slain by Enderman
-[02:12:50] [Server thread/INFO]: qSeren issued server command: /fill -21 53 17 18 62 -17 air
-[02:12:50] [Server thread/INFO]: [qSeren: Successfully filled 7074 block(s)]
-[02:12:55] [Server thread/INFO]: thenoxplayer has made the advancement [Stone Age]
-[02:12:58] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> :'v
-[02:13:01] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> un mob arena
-[02:13:03] [Server thread/INFO]: TeeRobZti issued server command: //wand
-[02:13:04] [Server thread/INFO]: qSeren issued server command: /clear @a
-[02:13:04] [Server thread/INFO]: [qSeren: Removed 34 item(s) from 6 players]
-[02:13:15] [Server thread/INFO]: lg_santiago_1 has completed the challenge [To the Beginning]
-[02:13:21] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:protection 4
-[02:13:21] [Server thread/INFO]: [qSeren: Applied enchantment Protection IV to qSeren's item]
-[02:13:22] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:protection 4
-[02:13:22] [Server thread/INFO]: [qSeren: Applied enchantment Protection IV to qSeren's item]
-[02:13:22] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:protection 4
-[02:13:22] [Server thread/INFO]: [qSeren: Applied enchantment Protection IV to qSeren's item]
-[02:13:23] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:protection 4
-[02:13:23] [Server thread/INFO]: [qSeren: Applied enchantment Protection IV to qSeren's item]
-[02:13:26] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:unbreaking 3
-[02:13:26] [Server thread/INFO]: [qSeren: Applied enchantment Unbreaking III to qSeren's item]
-[02:13:26] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:unbreaking 3
-[02:13:26] [Server thread/INFO]: [qSeren: Applied enchantment Unbreaking III to qSeren's item]
-[02:13:27] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:unbreaking 3
-[02:13:27] [Server thread/INFO]: [qSeren: Applied enchantment Unbreaking III to qSeren's item]
-[02:13:27] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> no bro, iRagc es mios
-[02:13:27] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:unbreaking 3
-[02:13:27] [Server thread/INFO]: [qSeren: Applied enchantment Unbreaking III to qSeren's item]
-[02:13:28] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> no bro, iRagc es mios
-[02:13:28] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:unbreaking 3
-[02:13:28] [Server thread/INFO]: [qSeren: Applied enchantment Unbreaking III to qSeren's item]
-[02:13:29] [Server thread/INFO]: iRagc has completed the challenge [To the Beginning]
-[02:13:29] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> no bro, iRagc es mio
-[02:13:29] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> no bro, iRagc es mio
-[02:13:30] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> no bro, iRagc es mio
-[02:13:31] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:sharpness 5
-[02:13:31] [Server thread/INFO]: [qSeren: Applied enchantment Sharpness V to qSeren's item]
-[02:13:31] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> no bro, iRagc es mio
-[02:13:32] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> no bro, iRagc es mio
-[02:13:32] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> no bro, iRagc es mio
-[02:13:32] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> no bro, iRagc es mio
-[02:13:32] [Server thread/INFO]: qSeren issued server command: /enchant qSeren mending
-[02:13:32] [Server thread/INFO]: [qSeren: Applied enchantment Mending to qSeren's item]
-[02:13:33] [Server thread/INFO]: qSeren issued server command: /enchant qSeren mending
-[02:13:33] [Server thread/INFO]: [qSeren: Applied enchantment Mending to qSeren's item]
-[02:13:34] [Server thread/INFO]: qSeren issued server command: /enchant qSeren mending4
-[02:13:35] [Server thread/INFO]: qSeren issued server command: /enchant qSeren mending
-[02:13:35] [Server thread/INFO]: [qSeren: Applied enchantment Mending to qSeren's item]
-[02:13:36] [Server thread/INFO]: qSeren issued server command: /enchant qSeren mending
-[02:13:36] [Server thread/INFO]: [qSeren: Applied enchantment Mending to qSeren's item]
-[02:13:36] [Server thread/INFO]: qSeren issued server command: /enchant qSeren mending
-[02:13:36] [Server thread/INFO]: [qSeren: Applied enchantment Mending to qSeren's item]
-[02:13:39] [Server thread/INFO]: TeeRobZti issued server command: /gamemode creative
-[02:13:39] [Server thread/INFO]: [TeeRobZti: Set own game mode to Creative Mode]
-[02:13:42] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> iRagc vos y yo, pq yo no juego hace meses pvp xdxd
-[02:13:42] [Async Chat Thread - #11/INFO]: [Not Secure] <thenoxplayer> 7saturacion
-[02:13:43] [Async Chat Thread - #11/INFO]: [Not Secure] <thenoxplayer> 7saturacion
-[02:13:46] [Async Chat Thread - #11/INFO]: [Not Secure] <thenoxplayer> 7saturacion
-[02:13:48] [Server thread/INFO]: TeeRobZti issued server command: /tp qs
-[02:13:50] [Server thread/INFO]: TeeRobZti issued server command: /tp qSeren
-[02:13:50] [Server thread/INFO]: [TeeRobZti: Teleported TeeRobZti to qSeren]
-[02:13:54] [Async Chat Thread - #11/INFO]: [Not Secure] <iRagc> Gatunixdd no soy bueno XD
-[02:14:00] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> iRagc yo menos ahorita XDDDDDDDD
-[02:14:01] [Server thread/INFO]: TeeRobZti issued server command: /effect give @a minecraft:saturation infinite
-[02:14:01] [Server thread/INFO]: [TeeRobZti: Applied effect Saturation to 6 targets]
-[02:14:01] [Server thread/INFO]: qSeren issued server command: /loot give qSeren loot incendium:artifact/weapon/multiplex_crossbow
-[02:14:06] [Server thread/INFO]: qSeren issued server command: /loot give qSeren loot incendium:artifact/weapon/ragnarok
-[02:14:08] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> ando mas malo que el hambre
-[02:14:13] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> ya p conmigo
-[02:14:14] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> ya p conmigo
-[02:14:14] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> ya p conmigo
-[02:14:28] [Async Chat Thread - #11/INFO]: [Not Secure] <iRagc> pvp con Gatunixdd y lg_santiago_1
-[02:14:31] [Server thread/INFO]: TeeRobZti issued server command: /gamemode survival
-[02:14:31] [Server thread/INFO]: [TeeRobZti: Set own game mode to Survival Mode]
-[02:14:35] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> go uhc
-[02:14:36] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> go uhc
-[02:14:36] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> go uhc
-[02:14:37] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> go uhc
-[02:14:42] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> go uhc
-[02:14:42] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> go uhc
-[02:14:53] [Async Chat Thread - #11/INFO]: [Not Secure] <TeeRobZti> qSeren mono
-[02:15:02] [Server thread/INFO]: qSeren issued server command: /fill -21 53 17 18 62 -17 air
-[02:15:02] [Server thread/INFO]: [qSeren: Successfully filled 44 block(s)]
-[02:15:06] [Server thread/INFO]: lg_santiago_1 was slain by Enderman
-[02:15:07] [Async Chat Thread - #11/INFO]: [Not Secure] <TeeRobZti> El optifine sirve para txt o es para mejor rendimiento?
-[02:15:07] [Async Chat Thread - #11/INFO]: [Not Secure] <TeeRobZti> El optifine sirve para txt o es para mejor rendimiento?
-[02:15:11] [Server thread/INFO]: TeeRobZti issued server command: /gamemode creative
-[02:15:11] [Server thread/INFO]: [TeeRobZti: Set own game mode to Creative Mode]
-[02:15:14] [Server thread/INFO]: qSeren issued server command: /fill -21 53 17 18 62 -17 air
-[02:15:14] [Server thread/INFO]: [qSeren: Successfully filled 1 block(s)]
-[02:15:15] [Server thread/INFO]: iRagc was slain by Enderman
-[02:15:18] [Server thread/INFO]: TeeRobZti issued server command: /tp lg_santiago_1 TeeRobZti
-[02:15:18] [Server thread/INFO]: [TeeRobZti: Teleported lg_santiago_1 to TeeRobZti]
-[02:15:20] [Server thread/INFO]: qSeren issued server command: /kill @e[type=enderman ,
-[02:15:21] [Server thread/INFO]: TeeRobZti issued server command: /tp Gatunixdd te
-[02:15:24] [Server thread/INFO]: qSeren issued server command: /kill @e[type=enderman ]
-[02:15:24] [Server thread/INFO]: [qSeren: Killed 70 entities]
-[02:15:26] [Server thread/INFO]: TeeRobZti issued server command: /tp Gatunixdd TeeRobZti
-[02:15:26] [Server thread/INFO]: [TeeRobZti: Teleported Gatunixdd to TeeRobZti]
-[02:15:29] [Server thread/INFO]: TeeRobZti issued server command: /tp iRagc TeeRobZti
-[02:15:29] [Server thread/INFO]: [TeeRobZti: Teleported iRagc to TeeRobZti]
-[02:15:34] [Server thread/INFO]: TeeRobZti issued server command: /gamemode survival @a
-[02:15:34] [Server thread/INFO]: [TeeRobZti: Set qSeren's game mode to Survival Mode]
-[02:15:34] [Server thread/INFO]: [TeeRobZti: Set own game mode to Survival Mode]
-[02:15:34] [Server thread/INFO]: [TeeRobZti: Set Gatunixdd's game mode to Survival Mode]
-[02:15:34] [Server thread/INFO]: [TeeRobZti: Set lg_santiago_1's game mode to Survival Mode]
-[02:15:34] [Server thread/INFO]: [TeeRobZti: Set iRagc's game mode to Survival Mode]
-[02:15:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3091ms or 61 ticks behind
-[02:15:42] [Server thread/INFO]: qSeren issued server command: /gamemode creative
-[02:15:42] [Server thread/INFO]: [qSeren: Set own game mode to Creative Mode]
-[02:15:53] [Server thread/INFO]: TeeRobZti issued server command: /gamemode creative
-[02:15:53] [Server thread/INFO]: [TeeRobZti: Set own game mode to Creative Mode]
-[02:15:57] [Server thread/INFO]: qSeren has made the advancement [Stone Age]
-[02:15:58] [Server thread/INFO]: TeeRobZti issued server command: /tp i
-[02:16:01] [Server thread/INFO]: TeeRobZti issued server command: /tp iRagc
-[02:16:01] [Server thread/INFO]: [TeeRobZti: Teleported TeeRobZti to iRagc]
-[02:16:01] [Server thread/INFO]: TeeRobZti issued server command: /gamemode survival
-[02:16:01] [Server thread/INFO]: [TeeRobZti: Set own game mode to Survival Mode]
-[02:16:03] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> UHC
-[02:16:04] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> UHC
-[02:16:04] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> UHC
-[02:16:04] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> UHC
-[02:16:04] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> UHC
-[02:16:14] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> bro uhc
-[02:16:16] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> ;,v
-[02:16:31] [Async Chat Thread - #11/INFO]: [Not Secure] <thenoxplayer> haganme /clear
-[02:16:39] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> ./ban-ip thenoxplayer
-[02:16:42] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> ./ban-ip thenoxplayer
-[02:16:42] [Server thread/INFO]: TeeRobZti issued server command: /clear thenoxplayer
-[02:16:42] [Server thread/INFO]: [TeeRobZti: Removed 2 item(s) from player thenoxplayer]
-[02:16:44] [Async Chat Thread - #11/INFO]: [Not Secure] <thenoxplayer> haganme /clear
-[02:16:44] [Async Chat Thread - #11/INFO]: [Not Secure] <thenoxplayer> haganme /clear
-[02:16:44] [Server thread/INFO]: qSeren issued server command: /clear @a
-[02:16:44] [Server thread/INFO]: [qSeren: Removed 620 item(s) from 6 players]
-[02:16:45] [Async Chat Thread - #11/INFO]: [Not Secure] <thenoxplayer> haganme /clear
-[02:16:50] [Async Chat Thread - #11/INFO]: [Not Secure] <thenoxplayer> grax
-[02:16:52] [Async Chat Thread - #11/INFO]: [Not Secure] <Gatunixdd> NA ME QUITARON LA CARNE DE ENDERMAN
-[02:16:54] [Server thread/INFO]: qSeren issued server command: /tp iRagc
-[02:16:54] [Server thread/INFO]: [qSeren: Teleported qSeren to iRagc]
-[02:17:04] [Server thread/INFO]: TeeRobZti issued server command: /gamemode creative
-[02:17:04] [Server thread/INFO]: [TeeRobZti: Set own game mode to Creative Mode]
+[18:32:43] [ServerMain/WARN]: resource-pack-id missing, using default of c780744b-11e2-313e-a93e-571904683bda
+[18:32:44] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:32:44] [ServerMain/INFO]: Found new data pack file/Cavernous-r-v2-2-1.zip, loading it automatically
+[18:32:44] [ServerMain/INFO]: Found new data pack file/Geophilic v3.2 f15-61.zip, loading it automatically
+[18:32:44] [ServerMain/INFO]: Found new data pack file/Physical_Falling_Trees_DP_Not-Stained_v2-1_1-21-4.zip, loading it automatically
+[18:32:44] [ServerMain/INFO]: Found new data pack file/Ships 3.0.3.zip, loading it automatically
+[18:32:44] [ServerMain/INFO]: Found new data pack file/towns-and-towers-1-13-3.zip, loading it automatically
+[18:32:48] [Worker-Main-1/ERROR]: Couldn't load tag physics_of_falling_trees:air_for_leaves as it is missing following references: minecraft:resin_clump (from file/Physical_Falling_Trees_DP_Not-Stained_v2-1_1-21-4.zip)
+[18:32:48] [Worker-Main-1/ERROR]: Couldn't load tag physics_of_falling_trees:air as it is missing following references: minecraft:resin_clump (from file/Physical_Falling_Trees_DP_Not-Stained_v2-1_1-21-4.zip)
+[18:32:48] [Worker-Main-1/ERROR]: Couldn't load tag physics_of_falling_trees:logs as it is missing following references: minecraft:creaking_heart (from file/Physical_Falling_Trees_DP_Not-Stained_v2-1_1-21-4.zip)
+[18:32:48] [Worker-Main-1/ERROR]: Couldn't load tag physics_of_falling_trees:base as it is missing following references: #physics_of_falling_trees:logs (from file/Physical_Falling_Trees_DP_Not-Stained_v2-1_1-21-4.zip)
+[18:32:48] [Worker-Main-1/ERROR]: Couldn't load tag physics_of_falling_trees:air_transforms as it is missing following references: #physics_of_falling_trees:air (from file/Physical_Falling_Trees_DP_Not-Stained_v2-1_1-21-4.zip)
+[18:32:48] [Worker-Main-1/ERROR]: Couldn't load tag physics_of_falling_trees:tree as it is missing following references: #physics_of_falling_trees:logs (from file/Physical_Falling_Trees_DP_Not-Stained_v2-1_1-21-4.zip)
+[18:32:49] [ServerMain/INFO]: Loaded 1330 recipes
+[18:32:49] [ServerMain/ERROR]: Failed to load function witherking:abilities/laserbeam/main_tick
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 9: Incorrect argument for command at position 46: ... ..80 run <--[HERE]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 9: Incorrect argument for command at position 46: ... ..80 run <--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:97) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[18:32:49] [ServerMain/ERROR]: Failed to load function physics_of_falling_trees:tree/search_tree/pre
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 4: Unknown block type 'minecraft:creaking_heart' at position 93: ...ock ~ ~ ~ <--[HERE]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 4: Unknown block type 'minecraft:creaking_heart' at position 93: ...ock ~ ~ ~ <--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:97) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[18:32:49] [ServerMain/ERROR]: Failed to load function physics_of_falling_trees:tree/search_tree/main_blocks
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown block type 'minecraft:creaking_heart' at position 138: ...ock ~ ~ ~ <--[HERE]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown block type 'minecraft:creaking_heart' at position 138: ...ock ~ ~ ~ <--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:97) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[18:32:49] [ServerMain/ERROR]: Failed to load function physics_of_falling_trees:tree/search_tree/horizontal/main_blocks
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown block type 'minecraft:creaking_heart' at position 91: ...ock ~ ~ ~ <--[HERE]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown block type 'minecraft:creaking_heart' at position 91: ...ock ~ ~ ~ <--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:97) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[18:32:49] [ServerMain/ERROR]: Failed to load function physics_of_falling_trees:tree/transform_blocks/block_state/active
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown block type 'minecraft:creaking_heart' at position 23: ...ock ~ ~ ~ <--[HERE]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown block type 'minecraft:creaking_heart' at position 23: ...ock ~ ~ ~ <--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:97) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[18:32:49] [ServerMain/ERROR]: Failed to load function physics_of_falling_trees:tree/transform_blocks/block_state/natural
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown block type 'minecraft:creaking_heart' at position 23: ...ock ~ ~ ~ <--[HERE]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown block type 'minecraft:creaking_heart' at position 23: ...ock ~ ~ ~ <--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:97) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[18:32:49] [ServerMain/ERROR]: Failed to load function physics_of_falling_trees:tree/transform_blocks/get_biome_parameters/main
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 40: Can't find element 'minecraft:pale_garden' of type 'minecraft:worldgen/biome' at position 44: ...ale_garden<--[HERE]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 40: Can't find element 'minecraft:pale_garden' of type 'minecraft:worldgen/biome' at position 44: ...ale_garden<--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:97) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[18:32:50] [ServerMain/ERROR]: Couldn't load advancements: [minecraft:wander_add_map, minecraft:give_quest_trader_trade]
+[18:32:50] [ServerMain/INFO]: Loaded 1707 advancements
+[18:32:50] [ServerMain/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: physics_of_falling_trees:air, physics_of_falling_trees:air_for_leaves, physics_of_falling_trees:air_transforms, physics_of_falling_trees:base, physics_of_falling_trees:logs, physics_of_falling_trees:tree
+[18:32:50] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[18:32:50] [Server thread/INFO]: Loading properties
+[18:32:50] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[18:32:51] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[18:32:51] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:32:51] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:32:52] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[18:32:52] [Server thread/INFO]: Default game type: SURVIVAL
+[18:32:52] [Server thread/INFO]: Generating keypair
+[18:32:52] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:32:52] [Server thread/INFO]: Using epoll channel type
+[18:32:52] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[18:32:52] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[18:32:52] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.2
+[18:32:52] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:32:52] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.2
+[18:32:53] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[18:32:54] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.1.
+[18:32:55] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[18:32:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:32:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:32:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:32:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:32:55] [Server thread/INFO]: Preparing level "world"
+[18:32:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[18:32:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[18:32:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[18:32:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[18:32:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[18:32:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[18:32:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[18:32:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.2
+[18:32:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: ae257f6
+[18:32:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[18:32:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[18:32:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[18:32:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[18:33:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:33:17] [Server thread/INFO]: Time elapsed: 438 ms
+[18:33:17] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[18:33:19] [Server thread/INFO]: Time elapsed: 2337 ms
+[18:33:19] [Server thread/INFO]: Preparing start region for dimension midwut:main
+[18:33:19] [Server thread/INFO]: Time elapsed: 0 ms
+[18:33:19] [Server thread/INFO]: Preparing start region for dimension cavernous:the_myst
+[18:33:38] [Server thread/INFO]: Time elapsed: 18359 ms
+[18:33:38] [Server thread/INFO]: [spark] Starting background profiler...
+[18:33:38] [Server thread/INFO]: Done preparing level "world" (43.239s)
+[18:33:38] [Server thread/INFO]: Running delayed init tasks
+[18:33:38] [Server thread/INFO]: Done (61.580s)! For help, type "help"
+[18:33:38] [Server thread/INFO]: Timings Reset
+[18:33:53] [User Authenticator #0/INFO]: UUID of player qSeren is 60f425a3-b4ca-31c1-a532-8475c0b676c0
+[18:34:31] [Server thread/INFO]: qSeren joined the game
+[18:34:31] [Server thread/INFO]: qSeren[/100.110.74.102:63280] logged in with entity id 187 at ([world]48860.647664524535, -39.0, 49800.73536646673)
+[18:34:31] [Server thread/INFO]: qSeren has made the advancement [Delving in]
+[18:34:31] [Server thread/INFO]: qSeren has made the advancement [Breaking ground]
+[18:35:52] [Server thread/INFO]: qSeren issued server command: /scoreboard players set .global geyser.msg.acknowledged 1
+[18:35:52] [Server thread/INFO]: [qSeren: Set [geyser.msg.acknowledged] for .global to 1]
+[18:36:34] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[18:36:34] [Server thread/ERROR]: Tried to load invalid item: 'No component with type: 'null'; No component with type: 'null' missed input: {Enchantments:[{id:"minecraft:protection",lvl:2s}]}'
+[18:36:34] [Server thread/ERROR]: Tried to load invalid item: 'No component with type: 'null'; No component with type: 'null' missed input: {Enchantments:[{id:"minecraft:protection",lvl:2s}]}'
+[18:36:34] [Server thread/ERROR]: Tried to load invalid item: 'No component with type: 'null'; No component with type: 'null' missed input: {Enchantments:[{id:"minecraft:protection",lvl:2s}]}'
+[18:36:34] [Server thread/ERROR]: Tried to load invalid item: 'No component with type: 'null'; No component with type: 'null' missed input: {Enchantments:[{id:"minecraft:protection",lvl:2s}]}'
+[18:36:34] [Server thread/ERROR]: Tried to load invalid item: 'No component with type: 'null'; No component with type: 'null' missed input: {Enchantments:[{id:"minecraft:sharpness",lvl:3s}]}'
+[18:36:37] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/534, uuid='60e25baa-8bfe-42fd-b67b-28e3a027b21d', l='ServerLevel[world]', x=48861.70, y=-38.00, z=49782.43, cpos=[3053, 3111], tl=57, v=true] died: Guerrero Difunto was slain by qSeren
+[18:37:26] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[18:37:32] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/630, uuid='aaac36c1-e3cb-4138-8bd3-7420fda9ede9', l='ServerLevel[world]', x=48860.64, y=-37.00, z=49790.79, cpos=[3053, 3111], tl=118, v=true] died: Guerrero Difunto was slain by qSeren
+[18:37:35] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[18:37:37] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/647, uuid='0c2e2230-b242-4498-8de2-e862c3bb1fdb', l='ServerLevel[world]', x=48861.18, y=-38.00, z=49777.09, cpos=[3053, 3111], tl=43, v=true] died: Guerrero Difunto was slain by qSeren
+[18:37:55] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[18:37:59] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/685, uuid='89479149-e428-44b1-883b-d9548ad2362e', l='ServerLevel[world]', x=48861.85, y=-38.00, z=49783.85, cpos=[3053, 3111], tl=79, v=true] died: Guerrero Difunto was slain by qSeren
+[18:38:48] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[18:38:52] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/790, uuid='561d38e0-1df3-465d-9c63-cddd0dafd931', l='ServerLevel[world]', x=48859.76, y=-39.00, z=49773.15, cpos=[3053, 3110], tl=85, v=true] died: Guerrero Difunto was slain by qSeren
+[18:39:01] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[18:39:03] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[18:39:07] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[18:39:11] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/826, uuid='ccf8f71a-276c-4b46-aa54-83a26e5065c2', l='ServerLevel[world]', x=48866.70, y=-38.00, z=49794.30, cpos=[3054, 3112], tl=157, v=true] died: Guerrero Difunto was slain by qSeren
+[18:39:12] [Server thread/INFO]: qSeren has made the advancement [Acquire Hardware]
+[18:39:15] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/840, uuid='e9d3af62-8a55-49cb-a629-d716380f4347', l='ServerLevel[world]', x=48863.70, y=-38.00, z=49792.30, cpos=[3053, 3112], tl=162, v=true] died: Guerrero Difunto was slain by qSeren
+[18:39:24] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/821, uuid='68ebb978-8e5c-4a61-9237-7ab4e7ba913d', l='ServerLevel[world]', x=48873.85, y=-33.00, z=49787.15, cpos=[3054, 3111], tl=455, v=true] died: Guerrero Difunto was slain by qSeren
+[18:42:19] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
+[18:42:22] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/1192, uuid='0f054978-a38d-4dee-9c38-4cbe8d478c53', l='ServerLevel[world]', x=48864.70, y=-37.00, z=49786.30, cpos=[3054, 3111], tl=53, v=true] died: Guerrero Difunto was slain by qSeren
