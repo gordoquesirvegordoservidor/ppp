@@ -224,3 +224,170 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 40
 [20:45:43] [Server thread/INFO]: [qSeren: Killed 27 entities]
 [20:48:47] [Server thread/INFO]: qSeren issued server command: /kill @e[type=item]
 [20:48:47] [Server thread/INFO]: [qSeren: Killed 134 entities]
+[20:50:38] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:50:38] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:50:38] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:50:38] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:50:38] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:50:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:50:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:50:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:50:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:50:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:50:48] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:50:48] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:50:49] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:50:51] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:50:51] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:50:51] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:50:52] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:50:53] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:50:53] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:50:53] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:50:54] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:50:55] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:50:56] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:50:56] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:50:56] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:50:57] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:50:57] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:50:58] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:50:59] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:50:59] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:51:00] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:51:01] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:51:02] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:51:02] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:32] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:32] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:32] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:32] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:33] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:33] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:33] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:33] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:33] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:33] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:34] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:34] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:34] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:35] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:35] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:35] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:35] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:35] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:35] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:36] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:36] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:36] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:36] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:36] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:36] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:36] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:37] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:37] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:37] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:37] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:37] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:37] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:38] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:38] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:38] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:38] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:40] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:40] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:40] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:40] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:40] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:40] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:41] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:41] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:41] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:41] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:41] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:41] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:42] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:42] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:42] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:44] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:44] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:44] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:45] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:45] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:45] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:45] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:45] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:52:52] [Server thread/INFO]: qSeren issued server command: /kill @e[type=zombie]
+[20:52:52] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/3058, uuid='685708c4-195f-4cef-a19c-5fab8efadc71', l='ServerLevel[world]', x=48893.84, y=-44.94, z=49705.79, cpos=[3055, 3106], tl=2288, v=true] died: Guerrero Difunto was killed
+[20:52:52] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/3013, uuid='1f2c2134-b1f1-4a48-904c-b6ac366eb9bb', l='ServerLevel[world]', x=48876.30, y=-42.00, z=49702.92, cpos=[3054, 3106], tl=2664, v=true] died: Guerrero Difunto was killed
+[20:52:52] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/3245, uuid='701a8e1f-3f48-4c1d-a38b-19c24e757719', l='ServerLevel[world]', x=48872.59, y=-43.13, z=49703.64, cpos=[3054, 3106], tl=367, v=true] died: Guerrero Difunto was killed
+[20:52:52] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/3327, uuid='baef7542-71ef-42f8-8088-9fecea5d7f54', l='ServerLevel[world]', x=48878.26, y=-40.94, z=49707.88, cpos=[3054, 3106], tl=148, v=true] died: Guerrero Difunto was killed
+[20:52:52] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/3240, uuid='be62aad4-422f-4daa-8263-0164e871a908', l='ServerLevel[world]', x=48871.34, y=-42.00, z=49701.60, cpos=[3054, 3106], tl=384, v=true] died: Guerrero Difunto was killed
+[20:52:52] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/3236, uuid='0e912b48-273a-411e-93dd-2070aa690f1b', l='ServerLevel[world]', x=48873.00, y=-41.83, z=49702.29, cpos=[3054, 3106], tl=399, v=true] died: Guerrero Difunto was killed
+[20:52:52] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/3242, uuid='9578e0a2-c77b-474d-b098-f8d51704a446', l='ServerLevel[world]', x=48876.77, y=-42.00, z=49701.73, cpos=[3054, 3106], tl=383, v=true] died: Guerrero Difunto was killed
+[20:52:52] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/3061, uuid='dc73b8cd-78ea-4e39-82ab-76383a30afdd', l='ServerLevel[world]', x=48858.38, y=-39.00, z=49709.20, cpos=[3053, 3106], tl=2252, v=true] died: Guerrero Difunto was killed
+[20:52:52] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/3026, uuid='e51855c9-7e48-4a18-9bef-964d737c369c', l='ServerLevel[world]', x=48873.49, y=-40.25, z=49700.30, cpos=[3054, 3106], tl=2472, v=true] died: Guerrero Difunto was killed
+[20:52:52] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/3011, uuid='3d11ea5c-99cd-4375-9f44-2db02b6b4f8a', l='ServerLevel[world]', x=48893.25, y=-44.00, z=49702.53, cpos=[3055, 3106], tl=2669, v=true] died: Guerrero Difunto was killed
+[20:52:52] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/3043, uuid='1540ab24-2880-4768-b23c-83cbd72c6aa7', l='ServerLevel[world]', x=48856.14, y=-40.00, z=49704.89, cpos=[3053, 3106], tl=2375, v=true] died: Guerrero Difunto was killed
+[20:52:52] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/3235, uuid='df60e3f3-a505-4bd1-8ade-e00606e15de5', l='ServerLevel[world]', x=48875.23, y=-39.00, z=49699.51, cpos=[3054, 3106], tl=402, v=true] died: Guerrero Difunto was killed
+[20:52:52] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/3017, uuid='73716151-0de0-497c-ada3-4748610aa8fb', l='ServerLevel[world]', x=48870.12, y=-42.00, z=49702.07, cpos=[3054, 3106], tl=2652, v=true] died: Guerrero Difunto was killed
+[20:52:52] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/3045, uuid='3d8be21b-3bc0-4d35-9444-5b346cc25952', l='ServerLevel[world]', x=48855.96, y=-41.00, z=49705.63, cpos=[3053, 3106], tl=2359, v=true] died: Guerrero Difunto was killed
+[20:52:52] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/3072, uuid='bf833d9f-d7c1-4310-8d0d-c2a2e6ecab1d', l='ServerLevel[world]', x=48875.55, y=-41.00, z=49707.25, cpos=[3054, 3106], tl=2203, v=true] died: Guerrero Difunto was killed
+[20:52:52] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/3029, uuid='8800238f-7a0b-4430-bdc8-4b3629ce8631', l='ServerLevel[world]', x=48874.62, y=-42.00, z=49707.44, cpos=[3054, 3106], tl=2455, v=true] died: Guerrero Difunto was killed
+[20:52:52] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/3008, uuid='5754d988-bedf-4503-9131-4594c5e4dfa7', l='ServerLevel[world]', x=48855.30, y=-40.58, z=49705.29, cpos=[3053, 3106], tl=2673, v=true] died: Guerrero Difunto was killed
+[20:52:52] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/3255, uuid='07ba8d69-a90a-4127-8816-3d917494a26b', l='ServerLevel[world]', x=48878.64, y=-41.00, z=49708.70, cpos=[3054, 3106], tl=331, v=true] died: Guerrero Difunto was killed
+[20:52:52] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/3267, uuid='5dd8c035-03ac-4d32-802d-a8b645a6385a', l='ServerLevel[world]', x=48879.61, y=-43.00, z=49706.38, cpos=[3054, 3106], tl=306, v=true] died: Guerrero Difunto was killed
+[20:52:52] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/3248, uuid='6975d5dc-81b5-41c8-ac6d-f20043c002e1', l='ServerLevel[world]', x=48870.66, y=-42.00, z=49701.26, cpos=[3054, 3106], tl=358, v=true] died: Guerrero Difunto was killed
+[20:52:52] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/3038, uuid='ebd4d0f7-bb5a-4477-8b38-493dcc7f72bc', l='ServerLevel[world]', x=48894.52, y=-42.00, z=49709.27, cpos=[3055, 3106], tl=2398, v=true] died: Guerrero Difunto was killed
+[20:52:52] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/3333, uuid='2b40271e-c889-4f73-bd0d-7180547b063b', l='ServerLevel[world]', x=48886.17, y=-43.94, z=49705.76, cpos=[3055, 3106], tl=137, v=true] died: Guerrero Difunto was killed
+[20:52:52] [Server thread/INFO]: [qSeren: Killed 44 entities]
+[20:53:02] [Server thread/INFO]: qSeren issued server command: /kill @e[type=bogged]
+[20:53:02] [Server thread/INFO]: Named entity Bogged['Guerrero Difunto'/3281, uuid='9461b556-3e5c-4f05-86eb-de02940d2a67', l='ServerLevel[world]', x=48877.98, y=-42.00, z=49705.68, cpos=[3054, 3106], tl=483, v=true] died: Guerrero Difunto was killed
+[20:53:02] [Server thread/INFO]: Named entity Bogged['Guerrero Difunto'/3264, uuid='3f01da94-158a-423d-9d03-7626505f48da', l='ServerLevel[world]', x=48875.98, y=-42.00, z=49702.81, cpos=[3054, 3106], tl=522, v=true] died: Guerrero Difunto was killed
+[20:53:02] [Server thread/INFO]: Named entity Bogged['Guerrero Difunto'/3254, uuid='ca59afb8-583d-4baa-a684-f85cb3cfb1e9', l='ServerLevel[world]', x=48900.37, y=-42.00, z=49698.68, cpos=[3056, 3106], tl=546, v=true] died: Guerrero Difunto was killed
+[20:53:02] [Server thread/INFO]: Named entity Bogged['Guerrero Difunto'/3309, uuid='4f1cae5e-059e-4841-9517-463ee3d38d16', l='ServerLevel[world]', x=48875.52, y=-40.00, z=49708.27, cpos=[3054, 3106], tl=420, v=true] died: Guerrero Difunto was killed
+[20:53:02] [Server thread/INFO]: Named entity Bogged['Guerrero Difunto'/3274, uuid='9e630d2e-f224-458a-a672-26ad07226907', l='ServerLevel[world]', x=48867.97, y=-43.00, z=49704.45, cpos=[3054, 3106], tl=497, v=true] died: Guerrero Difunto was killed
+[20:53:02] [Server thread/INFO]: Named entity Bogged['Guerrero Difunto'/3247, uuid='03e17b04-35c5-4072-9913-7326388dc167', l='ServerLevel[world]', x=48874.14, y=-39.00, z=49699.48, cpos=[3054, 3106], tl=569, v=true] died: Guerrero Difunto was killed
+[20:53:02] [Server thread/INFO]: Named entity Bogged['Guerrero Difunto'/3310, uuid='8d3972cd-8079-41de-ada2-67b72aebff12', l='ServerLevel[world]', x=48875.32, y=-42.00, z=49702.25, cpos=[3054, 3106], tl=417, v=true] died: Guerrero Difunto was killed
+[20:53:02] [Server thread/INFO]: Named entity Bogged['Guerrero Difunto'/3269, uuid='38c58b3c-7789-4c6a-98f2-06e1a69959f1', l='ServerLevel[world]', x=48872.29, y=-43.00, z=49705.10, cpos=[3054, 3106], tl=515, v=true] died: Guerrero Difunto was killed
+[20:53:02] [Server thread/INFO]: [qSeren: Killed 8 entities]
+[20:53:09] [Server thread/INFO]: qSeren issued server command: /kill @e[type=item]
+[20:53:09] [Server thread/INFO]: [qSeren: Killed 41 entities]
+[20:53:49] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:53:49] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:53:49] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:53:49] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:53:50] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:53:50] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:53:50] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:53:50] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:53:55] [Server thread/INFO]: qSeren issued server command: /kill @e[type=zombie]
+[20:53:55] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/3485, uuid='a4654fca-66cb-4462-a947-9e373fe16562', l='ServerLevel[world]', x=48858.48, y=-39.00, z=49708.97, cpos=[3053, 3106], tl=123, v=true] died: Guerrero Difunto was killed
+[20:53:55] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/3492, uuid='b8f6e280-64a4-4a93-a874-80d679b305ab', l='ServerLevel[world]', x=48865.27, y=-42.00, z=49707.70, cpos=[3054, 3106], tl=101, v=true] died: Guerrero Difunto was killed
+[20:53:55] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/3491, uuid='1992bb63-04ba-4628-a6dc-6418f5dea978', l='ServerLevel[world]', x=48860.76, y=-39.44, z=49708.22, cpos=[3053, 3106], tl=101, v=true] died: Guerrero Difunto was killed
+[20:53:55] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/3489, uuid='dacf0ba8-0e77-456d-b53b-c3cfb43f94f9', l='ServerLevel[world]', x=48858.28, y=-38.69, z=49701.60, cpos=[3053, 3106], tl=116, v=true] died: Guerrero Difunto was killed
+[20:53:55] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/3486, uuid='e2b20feb-7642-4ea7-b3a1-d7243ae71104', l='ServerLevel[world]', x=48860.03, y=-40.00, z=49707.49, cpos=[3053, 3106], tl=119, v=true] died: Guerrero Difunto was killed
+[20:53:55] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/3483, uuid='a730affc-7838-4d2d-9d30-d694d8422ee7', l='ServerLevel[world]', x=48868.58, y=-43.00, z=49703.53, cpos=[3054, 3106], tl=127, v=true] died: Guerrero Difunto was killed
+[20:53:55] [Server thread/INFO]: [qSeren: Killed 15 entities]
+[20:53:57] [Server thread/INFO]: qSeren issued server command: /kill @e[type=item]
+[20:53:57] [Server thread/INFO]: [qSeren: Killed 11 entities]
+[20:55:37] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:55:49] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/3696, uuid='14540481-8bc8-4cab-9db7-feaf8608801c', l='ServerLevel[world]', x=48899.30, y=-40.44, z=49695.15, cpos=[3056, 3105], tl=237, v=true] died: Guerrero Difunto was slain by qSeren
+[20:58:51] [Server thread/INFO]: qSeren has made the advancement [Suit Up]
+[20:59:01] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:protection 2
+[20:59:01] [Server thread/INFO]: [qSeren: Applied enchantment Protection II to qSeren's item]
+[20:59:02] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:protection 2
+[20:59:02] [Server thread/INFO]: [qSeren: Applied enchantment Protection II to qSeren's item]
+[20:59:03] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:protection 2
+[20:59:03] [Server thread/INFO]: [qSeren: Applied enchantment Protection II to qSeren's item]
+[20:59:03] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:protection 2
+[20:59:03] [Server thread/INFO]: [qSeren: Applied enchantment Protection II to qSeren's item]
