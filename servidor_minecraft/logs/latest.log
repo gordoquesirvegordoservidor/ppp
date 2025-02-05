@@ -169,3 +169,58 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 40
 [20:37:50] [Server thread/INFO]: [qSeren: Set own game mode to Survival Mode]
 [20:37:53] [Server thread/INFO]: qSeren issued server command: /gamemode creative
 [20:37:53] [Server thread/INFO]: [qSeren: Set own game mode to Creative Mode]
+[20:43:36] [Server thread/WARN]: qSeren moved too quickly! -1.2755587944338913,0.6840000271797209,20.269625586377515
+[20:45:09] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
+[20:45:09] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
+[20:45:09] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:45:09] [Server thread/ERROR]: Not a number
+[20:45:09] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
+[20:45:09] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
+[20:45:09] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:45:09] [Server thread/ERROR]: Not a number
+[20:45:10] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
+[20:45:10] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
+[20:45:10] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:45:10] [Server thread/ERROR]: Not a number
+[20:45:11] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
+[20:45:11] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
+[20:45:11] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:45:11] [Server thread/ERROR]: Not a number
+[20:45:11] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
+[20:45:11] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
+[20:45:11] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:45:11] [Server thread/ERROR]: Not a number
+[20:45:12] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
+[20:45:12] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
+[20:45:12] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:45:12] [Server thread/ERROR]: Not a number
+[20:45:12] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
+[20:45:12] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
+[20:45:12] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:45:12] [Server thread/ERROR]: Not a number
+[20:45:12] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
+[20:45:12] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
+[20:45:12] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:45:12] [Server thread/ERROR]: Not a number
+[20:45:12] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
+[20:45:12] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
+[20:45:12] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:45:12] [Server thread/ERROR]: Not a number
+[20:45:13] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
+[20:45:13] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
+[20:45:13] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:45:13] [Server thread/ERROR]: Not a number
+[20:45:19] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/2106, uuid='183b11e6-11fa-4dbe-8dc9-5dda395f0987', l='ServerLevel[world]', x=48864.70, y=-36.94, z=49766.26, cpos=[3054, 3110], tl=145, v=true] died: Guerrero Difunto was slain by qSeren
+[20:45:22] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/2107, uuid='fc89be78-be63-4fca-92e4-7512145a4046', l='ServerLevel[world]', x=48865.68, y=-35.00, z=49770.70, cpos=[3054, 3110], tl=208, v=true] died: Guerrero Difunto was slain by qSeren
+[20:45:26] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/2110, uuid='72103183-0504-4dea-9d1d-fb2bb6ac9ded', l='ServerLevel[world]', x=48865.70, y=-37.00, z=49756.62, cpos=[3054, 3109], tl=276, v=true] died: Guerrero Difunto was slain by qSeren
+[20:45:31] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/2114, uuid='ee230b26-61fa-42f5-82bc-1fb69de7d9d6', l='ServerLevel[world]', x=48864.70, y=-38.00, z=49749.30, cpos=[3054, 3109], tl=382, v=true] died: Guerrero Difunto was slain by qSeren
+[20:45:36] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/2116, uuid='41ef72ef-e034-48c8-a6ab-5e894002257a', l='ServerLevel[world]', x=48866.85, y=-34.00, z=49754.15, cpos=[3054, 3109], tl=465, v=true] died: Guerrero Difunto was slain by qSeren
+[20:45:43] [Server thread/INFO]: qSeren issued server command: /kill @e[type=zombie]
+[20:45:43] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/2094, uuid='85b91b68-5b5e-49d2-996e-7f18c8e5392c', l='ServerLevel[world]', x=48858.73, y=-37.94, z=49776.21, cpos=[3053, 3111], tl=669, v=true] died: Guerrero Difunto was killed
+[20:45:43] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/2086, uuid='795042d2-638a-4bdb-964d-b855d52659e9', l='ServerLevel[world]', x=48863.75, y=-38.00, z=49795.19, cpos=[3053, 3112], tl=690, v=true] died: Guerrero Difunto was killed
+[20:45:43] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/2104, uuid='27574300-0c09-48d1-97a0-21fb59cd47c7', l='ServerLevel[world]', x=48850.59, y=-37.00, z=49763.80, cpos=[3053, 3110], tl=636, v=true] died: Guerrero Difunto was killed
+[20:45:43] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/2090, uuid='08274cb9-104a-4588-a591-56cca8559183', l='ServerLevel[world]', x=48858.50, y=-38.00, z=49778.30, cpos=[3053, 3111], tl=680, v=true] died: Guerrero Difunto was killed
+[20:45:43] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/2100, uuid='73d65c23-4471-4696-b5a0-1878fa81b127', l='ServerLevel[world]', x=48858.51, y=-36.75, z=49783.89, cpos=[3053, 3111], tl=645, v=true] died: Guerrero Difunto was killed
+[20:45:43] [Server thread/INFO]: [qSeren: Killed 27 entities]
+[20:48:47] [Server thread/INFO]: qSeren issued server command: /kill @e[type=item]
+[20:48:47] [Server thread/INFO]: [qSeren: Killed 134 entities]
