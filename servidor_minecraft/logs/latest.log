@@ -1,24 +1,19 @@
-[18:32:38] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
-[18:32:38] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
-[18:32:38] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[18:32:38] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
-[18:32:38] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
+[20:29:05] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[20:29:05] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
+[20:29:05] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[20:29:06] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
+[20:29:06] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
  - SkinsRestorer (15.5.2)
-[18:32:43] [ServerMain/WARN]: resource-pack-id missing, using default of c780744b-11e2-313e-a93e-571904683bda
-[18:32:44] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:32:44] [ServerMain/INFO]: Found new data pack file/Cavernous-r-v2-2-1.zip, loading it automatically
-[18:32:44] [ServerMain/INFO]: Found new data pack file/Geophilic v3.2 f15-61.zip, loading it automatically
-[18:32:44] [ServerMain/INFO]: Found new data pack file/Physical_Falling_Trees_DP_Not-Stained_v2-1_1-21-4.zip, loading it automatically
-[18:32:44] [ServerMain/INFO]: Found new data pack file/Ships 3.0.3.zip, loading it automatically
-[18:32:44] [ServerMain/INFO]: Found new data pack file/towns-and-towers-1-13-3.zip, loading it automatically
-[18:32:48] [Worker-Main-1/ERROR]: Couldn't load tag physics_of_falling_trees:air_for_leaves as it is missing following references: minecraft:resin_clump (from file/Physical_Falling_Trees_DP_Not-Stained_v2-1_1-21-4.zip)
-[18:32:48] [Worker-Main-1/ERROR]: Couldn't load tag physics_of_falling_trees:air as it is missing following references: minecraft:resin_clump (from file/Physical_Falling_Trees_DP_Not-Stained_v2-1_1-21-4.zip)
-[18:32:48] [Worker-Main-1/ERROR]: Couldn't load tag physics_of_falling_trees:logs as it is missing following references: minecraft:creaking_heart (from file/Physical_Falling_Trees_DP_Not-Stained_v2-1_1-21-4.zip)
-[18:32:48] [Worker-Main-1/ERROR]: Couldn't load tag physics_of_falling_trees:base as it is missing following references: #physics_of_falling_trees:logs (from file/Physical_Falling_Trees_DP_Not-Stained_v2-1_1-21-4.zip)
-[18:32:48] [Worker-Main-1/ERROR]: Couldn't load tag physics_of_falling_trees:air_transforms as it is missing following references: #physics_of_falling_trees:air (from file/Physical_Falling_Trees_DP_Not-Stained_v2-1_1-21-4.zip)
-[18:32:48] [Worker-Main-1/ERROR]: Couldn't load tag physics_of_falling_trees:tree as it is missing following references: #physics_of_falling_trees:logs (from file/Physical_Falling_Trees_DP_Not-Stained_v2-1_1-21-4.zip)
-[18:32:49] [ServerMain/INFO]: Loaded 1330 recipes
-[18:32:49] [ServerMain/ERROR]: Failed to load function witherking:abilities/laserbeam/main_tick
+[20:29:10] [ServerMain/WARN]: resource-pack-id missing, using default of c780744b-11e2-313e-a93e-571904683bda
+[20:29:10] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:29:14] [Worker-Main-1/ERROR]: Couldn't load tag physics_of_falling_trees:air_for_leaves as it is missing following references: minecraft:resin_clump (from file/Physical_Falling_Trees_DP_Not-Stained_v2-1_1-21-4.zip)
+[20:29:14] [Worker-Main-1/ERROR]: Couldn't load tag physics_of_falling_trees:air as it is missing following references: minecraft:resin_clump (from file/Physical_Falling_Trees_DP_Not-Stained_v2-1_1-21-4.zip)
+[20:29:14] [Worker-Main-1/ERROR]: Couldn't load tag physics_of_falling_trees:logs as it is missing following references: minecraft:creaking_heart (from file/Physical_Falling_Trees_DP_Not-Stained_v2-1_1-21-4.zip)
+[20:29:14] [Worker-Main-1/ERROR]: Couldn't load tag physics_of_falling_trees:base as it is missing following references: #physics_of_falling_trees:logs (from file/Physical_Falling_Trees_DP_Not-Stained_v2-1_1-21-4.zip)
+[20:29:14] [Worker-Main-1/ERROR]: Couldn't load tag physics_of_falling_trees:air_transforms as it is missing following references: #physics_of_falling_trees:air (from file/Physical_Falling_Trees_DP_Not-Stained_v2-1_1-21-4.zip)
+[20:29:14] [Worker-Main-1/ERROR]: Couldn't load tag physics_of_falling_trees:tree as it is missing following references: #physics_of_falling_trees:logs (from file/Physical_Falling_Trees_DP_Not-Stained_v2-1_1-21-4.zip)
+[20:29:15] [ServerMain/INFO]: Loaded 1330 recipes
+[20:29:15] [ServerMain/ERROR]: Failed to load function witherking:abilities/laserbeam/main_tick
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 9: Incorrect argument for command at position 46: ... ..80 run <--[HERE]
 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -31,7 +26,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 9:
 	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:97) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 3 more
-[18:32:49] [ServerMain/ERROR]: Failed to load function physics_of_falling_trees:tree/search_tree/pre
+[20:29:15] [ServerMain/ERROR]: Failed to load function physics_of_falling_trees:tree/search_tree/pre
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 4: Unknown block type 'minecraft:creaking_heart' at position 93: ...ock ~ ~ ~ <--[HERE]
 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -44,7 +39,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 4:
 	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:97) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 3 more
-[18:32:49] [ServerMain/ERROR]: Failed to load function physics_of_falling_trees:tree/search_tree/main_blocks
+[20:29:15] [ServerMain/ERROR]: Failed to load function physics_of_falling_trees:tree/search_tree/main_blocks
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown block type 'minecraft:creaking_heart' at position 138: ...ock ~ ~ ~ <--[HERE]
 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -57,7 +52,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:97) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 3 more
-[18:32:49] [ServerMain/ERROR]: Failed to load function physics_of_falling_trees:tree/search_tree/horizontal/main_blocks
+[20:29:15] [ServerMain/ERROR]: Failed to load function physics_of_falling_trees:tree/search_tree/horizontal/main_blocks
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown block type 'minecraft:creaking_heart' at position 91: ...ock ~ ~ ~ <--[HERE]
 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -70,7 +65,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:97) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 3 more
-[18:32:49] [ServerMain/ERROR]: Failed to load function physics_of_falling_trees:tree/transform_blocks/block_state/active
+[20:29:15] [ServerMain/ERROR]: Failed to load function physics_of_falling_trees:tree/transform_blocks/block_state/active
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown block type 'minecraft:creaking_heart' at position 23: ...ock ~ ~ ~ <--[HERE]
 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -83,7 +78,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:97) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 3 more
-[18:32:49] [ServerMain/ERROR]: Failed to load function physics_of_falling_trees:tree/transform_blocks/block_state/natural
+[20:29:15] [ServerMain/ERROR]: Failed to load function physics_of_falling_trees:tree/transform_blocks/block_state/natural
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown block type 'minecraft:creaking_heart' at position 23: ...ock ~ ~ ~ <--[HERE]
 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -96,7 +91,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:97) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 3 more
-[18:32:49] [ServerMain/ERROR]: Failed to load function physics_of_falling_trees:tree/transform_blocks/get_biome_parameters/main
+[20:29:15] [ServerMain/ERROR]: Failed to load function physics_of_falling_trees:tree/transform_blocks/get_biome_parameters/main
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 40: Can't find element 'minecraft:pale_garden' of type 'minecraft:worldgen/biome' at position 44: ...ale_garden<--[HERE]
 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -109,103 +104,68 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 40
 	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:97) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 3 more
-[18:32:50] [ServerMain/ERROR]: Couldn't load advancements: [minecraft:wander_add_map, minecraft:give_quest_trader_trade]
-[18:32:50] [ServerMain/INFO]: Loaded 1707 advancements
-[18:32:50] [ServerMain/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: physics_of_falling_trees:air, physics_of_falling_trees:air_for_leaves, physics_of_falling_trees:air_transforms, physics_of_falling_trees:base, physics_of_falling_trees:logs, physics_of_falling_trees:tree
-[18:32:50] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[18:32:50] [Server thread/INFO]: Loading properties
-[18:32:50] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
-[18:32:51] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[18:32:51] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[18:32:51] [Server thread/INFO]: Using 4 threads for Netty based IO
-[18:32:52] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[18:32:52] [Server thread/INFO]: Default game type: SURVIVAL
-[18:32:52] [Server thread/INFO]: Generating keypair
-[18:32:52] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:32:52] [Server thread/INFO]: Using epoll channel type
-[18:32:52] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[18:32:52] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[18:32:52] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.2
-[18:32:52] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:32:52] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.2
-[18:32:53] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[18:32:54] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.1.
-[18:32:55] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[18:32:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:32:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:32:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:32:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:32:55] [Server thread/INFO]: Preparing level "world"
-[18:32:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[18:32:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[18:32:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[18:32:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[18:32:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[18:32:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[18:32:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[18:32:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.2
-[18:32:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: ae257f6
-[18:32:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[18:32:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[18:32:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[18:32:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[18:33:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:33:17] [Server thread/INFO]: Time elapsed: 438 ms
-[18:33:17] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[18:33:19] [Server thread/INFO]: Time elapsed: 2337 ms
-[18:33:19] [Server thread/INFO]: Preparing start region for dimension midwut:main
-[18:33:19] [Server thread/INFO]: Time elapsed: 0 ms
-[18:33:19] [Server thread/INFO]: Preparing start region for dimension cavernous:the_myst
-[18:33:38] [Server thread/INFO]: Time elapsed: 18359 ms
-[18:33:38] [Server thread/INFO]: [spark] Starting background profiler...
-[18:33:38] [Server thread/INFO]: Done preparing level "world" (43.239s)
-[18:33:38] [Server thread/INFO]: Running delayed init tasks
-[18:33:38] [Server thread/INFO]: Done (61.580s)! For help, type "help"
-[18:33:38] [Server thread/INFO]: Timings Reset
-[18:33:53] [User Authenticator #0/INFO]: UUID of player qSeren is 60f425a3-b4ca-31c1-a532-8475c0b676c0
-[18:34:31] [Server thread/INFO]: qSeren joined the game
-[18:34:31] [Server thread/INFO]: qSeren[/100.110.74.102:63280] logged in with entity id 187 at ([world]48860.647664524535, -39.0, 49800.73536646673)
-[18:34:31] [Server thread/INFO]: qSeren has made the advancement [Delving in]
-[18:34:31] [Server thread/INFO]: qSeren has made the advancement [Breaking ground]
-[18:35:52] [Server thread/INFO]: qSeren issued server command: /scoreboard players set .global geyser.msg.acknowledged 1
-[18:35:52] [Server thread/INFO]: [qSeren: Set [geyser.msg.acknowledged] for .global to 1]
-[18:36:34] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[18:36:34] [Server thread/ERROR]: Tried to load invalid item: 'No component with type: 'null'; No component with type: 'null' missed input: {Enchantments:[{id:"minecraft:protection",lvl:2s}]}'
-[18:36:34] [Server thread/ERROR]: Tried to load invalid item: 'No component with type: 'null'; No component with type: 'null' missed input: {Enchantments:[{id:"minecraft:protection",lvl:2s}]}'
-[18:36:34] [Server thread/ERROR]: Tried to load invalid item: 'No component with type: 'null'; No component with type: 'null' missed input: {Enchantments:[{id:"minecraft:protection",lvl:2s}]}'
-[18:36:34] [Server thread/ERROR]: Tried to load invalid item: 'No component with type: 'null'; No component with type: 'null' missed input: {Enchantments:[{id:"minecraft:protection",lvl:2s}]}'
-[18:36:34] [Server thread/ERROR]: Tried to load invalid item: 'No component with type: 'null'; No component with type: 'null' missed input: {Enchantments:[{id:"minecraft:sharpness",lvl:3s}]}'
-[18:36:37] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/534, uuid='60e25baa-8bfe-42fd-b67b-28e3a027b21d', l='ServerLevel[world]', x=48861.70, y=-38.00, z=49782.43, cpos=[3053, 3111], tl=57, v=true] died: Guerrero Difunto was slain by qSeren
-[18:37:26] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[18:37:32] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/630, uuid='aaac36c1-e3cb-4138-8bd3-7420fda9ede9', l='ServerLevel[world]', x=48860.64, y=-37.00, z=49790.79, cpos=[3053, 3111], tl=118, v=true] died: Guerrero Difunto was slain by qSeren
-[18:37:35] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[18:37:37] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/647, uuid='0c2e2230-b242-4498-8de2-e862c3bb1fdb', l='ServerLevel[world]', x=48861.18, y=-38.00, z=49777.09, cpos=[3053, 3111], tl=43, v=true] died: Guerrero Difunto was slain by qSeren
-[18:37:55] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[18:37:59] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/685, uuid='89479149-e428-44b1-883b-d9548ad2362e', l='ServerLevel[world]', x=48861.85, y=-38.00, z=49783.85, cpos=[3053, 3111], tl=79, v=true] died: Guerrero Difunto was slain by qSeren
-[18:38:48] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[18:38:52] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/790, uuid='561d38e0-1df3-465d-9c63-cddd0dafd931', l='ServerLevel[world]', x=48859.76, y=-39.00, z=49773.15, cpos=[3053, 3110], tl=85, v=true] died: Guerrero Difunto was slain by qSeren
-[18:39:01] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[18:39:03] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[18:39:07] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[18:39:11] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/826, uuid='ccf8f71a-276c-4b46-aa54-83a26e5065c2', l='ServerLevel[world]', x=48866.70, y=-38.00, z=49794.30, cpos=[3054, 3112], tl=157, v=true] died: Guerrero Difunto was slain by qSeren
-[18:39:12] [Server thread/INFO]: qSeren has made the advancement [Acquire Hardware]
-[18:39:15] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/840, uuid='e9d3af62-8a55-49cb-a629-d716380f4347', l='ServerLevel[world]', x=48863.70, y=-38.00, z=49792.30, cpos=[3053, 3112], tl=162, v=true] died: Guerrero Difunto was slain by qSeren
-[18:39:24] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/821, uuid='68ebb978-8e5c-4a61-9237-7ab4e7ba913d', l='ServerLevel[world]', x=48873.85, y=-33.00, z=49787.15, cpos=[3054, 3111], tl=455, v=true] died: Guerrero Difunto was slain by qSeren
-[18:42:19] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
-[18:42:22] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/1192, uuid='0f054978-a38d-4dee-9c38-4cbe8d478c53', l='ServerLevel[world]', x=48864.70, y=-37.00, z=49786.30, cpos=[3054, 3111], tl=53, v=true] died: Guerrero Difunto was slain by qSeren
-[18:42:36] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
-[18:42:39] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/1230, uuid='ee732ed4-23e1-4642-b684-44a7720506ad', l='ServerLevel[world]', x=48858.55, y=-38.00, z=49778.30, cpos=[3053, 3111], tl=56, v=true] died: Guerrero Difunto was slain by qSeren
-[18:55:59] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
-[18:56:02] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/2713, uuid='68a987ec-1930-40da-b5f9-4122ba37ff58', l='ServerLevel[world]', x=48861.70, y=-38.00, z=49783.70, cpos=[3053, 3111], tl=66, v=true] died: Guerrero Difunto was slain by qSeren
-[18:59:23] [Server thread/INFO]: Named entity Zombie['l2oGuerrero Difunto'/2149, uuid='030b3988-2ae3-4a0d-ba12-8866559f4f11', l='ServerLevel[world]', x=48860.30, y=-38.00, z=49791.30, cpos=[3053, 3111], tl=10507, v=true] died: l2oGuerrero Difunto was slain by qSeren
-[19:11:09] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[19:11:09] [Server thread/ERROR]: Not a number
-[19:11:15] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/4503, uuid='85c54064-1249-48e9-a802-a06a44d90067', l='ServerLevel[world]', x=48853.30, y=-37.75, z=49755.27, cpos=[3053, 3109], tl=120, v=true] died: Guerrero Difunto was slain by qSeren
-[19:11:57] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[19:11:57] [Server thread/ERROR]: Not a number
-[19:12:00] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/4612, uuid='449a2761-1595-4b4a-9975-f700cb897dcb', l='ServerLevel[world]', x=48867.20, y=-41.00, z=49804.70, cpos=[3054, 3112], tl=64, v=true] died: Guerrero Difunto was slain by qSeren
-[19:12:06] [Server thread/INFO]: Named entity Zombie['l2oGuerrero Difunto'/2426, uuid='a7a786c0-dc5f-449f-9fa1-a1dcb60590eb', l='ServerLevel[world]', x=48876.88, y=-31.00, z=49791.60, cpos=[3054, 3111], tl=22582, v=true] died: l2oGuerrero Difunto was slain by qSeren
-[19:12:58] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
-[19:12:58] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
-[19:12:58] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[19:12:58] [Server thread/ERROR]: Not a number
+[20:29:15] [ServerMain/ERROR]: Couldn't load advancements: [minecraft:wander_add_map, minecraft:give_quest_trader_trade]
+[20:29:15] [ServerMain/INFO]: Loaded 1707 advancements
+[20:29:15] [ServerMain/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: physics_of_falling_trees:air, physics_of_falling_trees:air_for_leaves, physics_of_falling_trees:air_transforms, physics_of_falling_trees:base, physics_of_falling_trees:logs, physics_of_falling_trees:tree
+[20:29:16] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[20:29:16] [Server thread/INFO]: Loading properties
+[20:29:16] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[20:29:16] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[20:29:16] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:29:16] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:29:17] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[20:29:17] [Server thread/INFO]: Default game type: SURVIVAL
+[20:29:17] [Server thread/INFO]: Generating keypair
+[20:29:17] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:29:17] [Server thread/INFO]: Using epoll channel type
+[20:29:17] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[20:29:17] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[20:29:17] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.2
+[20:29:17] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:29:17] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.2
+[20:29:19] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[20:29:20] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.1.
+[20:29:21] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[20:29:21] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:29:21] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:29:21] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:29:21] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:29:21] [Server thread/INFO]: Preparing level "world"
+[20:29:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[20:29:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[20:29:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[20:29:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[20:29:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[20:29:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[20:29:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[20:29:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.2
+[20:29:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: ae257f6
+[20:29:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[20:29:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[20:29:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[20:29:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[20:29:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:29:24] [Server thread/INFO]: Time elapsed: 795 ms
+[20:29:24] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[20:29:24] [Server thread/INFO]: Time elapsed: 454 ms
+[20:29:24] [Server thread/INFO]: Preparing start region for dimension midwut:main
+[20:29:24] [Server thread/INFO]: Time elapsed: 91 ms
+[20:29:24] [Server thread/INFO]: Preparing start region for dimension cavernous:the_myst
+[20:29:25] [Server thread/INFO]: Time elapsed: 412 ms
+[20:29:25] [Server thread/INFO]: [spark] Starting background profiler...
+[20:29:25] [Server thread/INFO]: Done preparing level "world" (3.607s)
+[20:29:25] [Server thread/INFO]: Running delayed init tasks
+[20:29:25] [Server thread/INFO]: Done (21.015s)! For help, type "help"
+[20:29:25] [Server thread/INFO]: Timings Reset
+[20:29:47] [User Authenticator #0/INFO]: UUID of player qSeren is 60f425a3-b4ca-31c1-a532-8475c0b676c0
+[20:31:57] [Server thread/INFO]: qSeren joined the game
+[20:31:57] [Server thread/INFO]: qSeren[/100.110.74.102:60911] logged in with entity id 144 at ([world]48858.36541021758, -35.51737997991366, 49813.20925639338)
+[20:37:37] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
+[20:37:37] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
+[20:37:37] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:37:37] [Server thread/ERROR]: Not a number
+[20:37:42] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/1099, uuid='18be5087-e190-48a1-9032-fda7c1ea8f50', l='ServerLevel[world]', x=48918.24, y=-46.00, z=49711.23, cpos=[3057, 3106], tl=101, v=true] died: Guerrero Difunto was slain by qSeren
+[20:37:50] [Server thread/INFO]: qSeren issued server command: /gamemode survival
+[20:37:50] [Server thread/INFO]: [qSeren: Set own game mode to Survival Mode]
+[20:37:53] [Server thread/INFO]: qSeren issued server command: /gamemode creative
+[20:37:53] [Server thread/INFO]: [qSeren: Set own game mode to Creative Mode]
