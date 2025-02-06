@@ -1,19 +1,36 @@
-[20:29:05] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
-[20:29:05] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
-[20:29:05] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[20:29:06] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
-[20:29:06] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
- - SkinsRestorer (15.5.2)
-[20:29:10] [ServerMain/WARN]: resource-pack-id missing, using default of c780744b-11e2-313e-a93e-571904683bda
-[20:29:10] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20:29:14] [Worker-Main-1/ERROR]: Couldn't load tag physics_of_falling_trees:air_for_leaves as it is missing following references: minecraft:resin_clump (from file/Physical_Falling_Trees_DP_Not-Stained_v2-1_1-21-4.zip)
-[20:29:14] [Worker-Main-1/ERROR]: Couldn't load tag physics_of_falling_trees:air as it is missing following references: minecraft:resin_clump (from file/Physical_Falling_Trees_DP_Not-Stained_v2-1_1-21-4.zip)
-[20:29:14] [Worker-Main-1/ERROR]: Couldn't load tag physics_of_falling_trees:logs as it is missing following references: minecraft:creaking_heart (from file/Physical_Falling_Trees_DP_Not-Stained_v2-1_1-21-4.zip)
-[20:29:14] [Worker-Main-1/ERROR]: Couldn't load tag physics_of_falling_trees:base as it is missing following references: #physics_of_falling_trees:logs (from file/Physical_Falling_Trees_DP_Not-Stained_v2-1_1-21-4.zip)
-[20:29:14] [Worker-Main-1/ERROR]: Couldn't load tag physics_of_falling_trees:air_transforms as it is missing following references: #physics_of_falling_trees:air (from file/Physical_Falling_Trees_DP_Not-Stained_v2-1_1-21-4.zip)
-[20:29:14] [Worker-Main-1/ERROR]: Couldn't load tag physics_of_falling_trees:tree as it is missing following references: #physics_of_falling_trees:logs (from file/Physical_Falling_Trees_DP_Not-Stained_v2-1_1-21-4.zip)
-[20:29:15] [ServerMain/INFO]: Loaded 1330 recipes
-[20:29:15] [ServerMain/ERROR]: Failed to load function witherking:abilities/laserbeam/main_tick
+[00:09:13] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[00:09:13] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
+[00:09:13] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[00:09:13] [ServerMain/INFO]: [PluginInitializerManager] Initialized 3 plugins
+[00:09:13] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (3):
+ - ImageFrame (1.7.10.0), SkinsRestorer (15.5.2), voicechat (2.5.26)
+[00:09:18] [ServerMain/WARN]: resource-pack-id missing, using default of c780744b-11e2-313e-a93e-571904683bda
+[00:09:18] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:09:18] [ServerMain/INFO]: Found non-pack entry './world/datapacks/Loot Tables.rar', ignoring
+[00:09:18] [ServerMain/INFO]: Found new data pack file/'Nether Weather' (v1.1.1) by iNkoR_the_2nd (1.21).zip, loading it automatically
+[00:09:18] [ServerMain/INFO]: Found new data pack file/Cavernous-r-v2-2-1.zip, loading it automatically
+[00:09:18] [ServerMain/INFO]: Found new data pack file/Dungeons and Taverns v4.4.4.zip, loading it automatically
+[00:09:18] [ServerMain/INFO]: Found new data pack file/Ender-Dragon-Fight-Remastered-5.0beta.4 (1).zip, loading it automatically
+[00:09:18] [ServerMain/INFO]: Found new data pack file/Explorify v1.6.2 f10-48.zip, loading it automatically
+[00:09:18] [ServerMain/INFO]: Found new data pack file/Geophilic v3.2 f15-61.zip, loading it automatically
+[00:09:18] [ServerMain/INFO]: Found new data pack file/HopoBetterMineshaft-[1.21.1-1.21.3]-1.2.8.zip, loading it automatically
+[00:09:18] [ServerMain/INFO]: Found new data pack file/HopoBetterRuinedPortals-[1.21.1-1.21.3]-1.4.4.zip, loading it automatically
+[00:09:18] [ServerMain/INFO]: Found new data pack file/HopoBetterUnderwaterRuins-[1.21.1-1.21.3]-1.2.1.zip, loading it automatically
+[00:09:18] [ServerMain/INFO]: Found new data pack file/Incendium_1.21_UNSUPPORTED_PORT_v5.4.4 (1).zip, loading it automatically
+[00:09:18] [ServerMain/INFO]: Found new data pack file/PK_Racks_V.3.1.0_MC_1.21.zip, loading it automatically
+[00:09:18] [ServerMain/INFO]: Found new data pack file/Ships 3.0.3.zip, loading it automatically
+[00:09:18] [ServerMain/INFO]: Found new data pack file/Stellarity-3-0-5.zip, loading it automatically
+[00:09:18] [ServerMain/INFO]: Found new data pack file/Structory_1.21_v1.3.9.zip, loading it automatically
+[00:09:18] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[00:09:18] [ServerMain/INFO]: Found new data pack file/lukis-crazy-chambers-v1.0.zip, loading it automatically
+[00:09:18] [ServerMain/INFO]: Found new data pack file/pandemonium-bosses-v1-1-1.zip, loading it automatically
+[00:09:18] [ServerMain/INFO]: Found new data pack file/tectonic-datapack-2.4.2 (1).zip, loading it automatically
+[00:09:18] [ServerMain/INFO]: Found new data pack file/tidal_1.3.4.zip, loading it automatically
+[00:09:18] [ServerMain/INFO]: Found new data pack file/towns-and-towers-1-13-3.zip, loading it automatically
+[00:09:18] [ServerMain/INFO]: Found new data pack paper, loading it automatically
+[00:09:20] [ServerMain/INFO]: No existing world data, creating new world
+[00:09:23] [ServerMain/INFO]: Loaded 1329 recipes
+[00:09:23] [ServerMain/ERROR]: Failed to load function witherking:abilities/laserbeam/main_tick
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 9: Incorrect argument for command at position 46: ... ..80 run <--[HERE]
 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -26,380 +43,1467 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 9:
 	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:97) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 3 more
-[20:29:15] [ServerMain/ERROR]: Failed to load function physics_of_falling_trees:tree/search_tree/pre
-java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 4: Unknown block type 'minecraft:creaking_heart' at position 93: ...ock ~ ~ ~ <--[HERE]
-	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 4: Unknown block type 'minecraft:creaking_heart' at position 93: ...ock ~ ~ ~ <--[HERE]
-	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:97) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	... 3 more
-[20:29:15] [ServerMain/ERROR]: Failed to load function physics_of_falling_trees:tree/search_tree/main_blocks
-java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown block type 'minecraft:creaking_heart' at position 138: ...ock ~ ~ ~ <--[HERE]
-	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown block type 'minecraft:creaking_heart' at position 138: ...ock ~ ~ ~ <--[HERE]
-	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:97) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	... 3 more
-[20:29:15] [ServerMain/ERROR]: Failed to load function physics_of_falling_trees:tree/search_tree/horizontal/main_blocks
-java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown block type 'minecraft:creaking_heart' at position 91: ...ock ~ ~ ~ <--[HERE]
-	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown block type 'minecraft:creaking_heart' at position 91: ...ock ~ ~ ~ <--[HERE]
-	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:97) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	... 3 more
-[20:29:15] [ServerMain/ERROR]: Failed to load function physics_of_falling_trees:tree/transform_blocks/block_state/active
-java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown block type 'minecraft:creaking_heart' at position 23: ...ock ~ ~ ~ <--[HERE]
-	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown block type 'minecraft:creaking_heart' at position 23: ...ock ~ ~ ~ <--[HERE]
-	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:97) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	... 3 more
-[20:29:15] [ServerMain/ERROR]: Failed to load function physics_of_falling_trees:tree/transform_blocks/block_state/natural
-java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown block type 'minecraft:creaking_heart' at position 23: ...ock ~ ~ ~ <--[HERE]
-	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown block type 'minecraft:creaking_heart' at position 23: ...ock ~ ~ ~ <--[HERE]
-	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:97) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	... 3 more
-[20:29:15] [ServerMain/ERROR]: Failed to load function physics_of_falling_trees:tree/transform_blocks/get_biome_parameters/main
-java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 40: Can't find element 'minecraft:pale_garden' of type 'minecraft:worldgen/biome' at position 44: ...ale_garden<--[HERE]
-	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 40: Can't find element 'minecraft:pale_garden' of type 'minecraft:worldgen/biome' at position 44: ...ale_garden<--[HERE]
-	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:97) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	... 3 more
-[20:29:15] [ServerMain/ERROR]: Couldn't load advancements: [minecraft:wander_add_map, minecraft:give_quest_trader_trade]
-[20:29:15] [ServerMain/INFO]: Loaded 1707 advancements
-[20:29:15] [ServerMain/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: physics_of_falling_trees:air, physics_of_falling_trees:air_for_leaves, physics_of_falling_trees:air_transforms, physics_of_falling_trees:base, physics_of_falling_trees:logs, physics_of_falling_trees:tree
-[20:29:16] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[20:29:16] [Server thread/INFO]: Loading properties
-[20:29:16] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
-[20:29:16] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[20:29:16] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[20:29:16] [Server thread/INFO]: Using 4 threads for Netty based IO
-[20:29:17] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[20:29:17] [Server thread/INFO]: Default game type: SURVIVAL
-[20:29:17] [Server thread/INFO]: Generating keypair
-[20:29:17] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:29:17] [Server thread/INFO]: Using epoll channel type
-[20:29:17] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[20:29:17] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[20:29:17] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.2
-[20:29:17] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[20:29:17] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.2
-[20:29:19] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[20:29:20] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.1.
-[20:29:21] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[20:29:21] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:29:21] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:29:21] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:29:21] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:29:21] [Server thread/INFO]: Preparing level "world"
-[20:29:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[20:29:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[20:29:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[20:29:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[20:29:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[20:29:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[20:29:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[20:29:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.2
-[20:29:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: ae257f6
-[20:29:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[20:29:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[20:29:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[20:29:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[20:29:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:29:24] [Server thread/INFO]: Time elapsed: 795 ms
-[20:29:24] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[20:29:24] [Server thread/INFO]: Time elapsed: 454 ms
-[20:29:24] [Server thread/INFO]: Preparing start region for dimension midwut:main
-[20:29:24] [Server thread/INFO]: Time elapsed: 91 ms
-[20:29:24] [Server thread/INFO]: Preparing start region for dimension cavernous:the_myst
-[20:29:25] [Server thread/INFO]: Time elapsed: 412 ms
-[20:29:25] [Server thread/INFO]: [spark] Starting background profiler...
-[20:29:25] [Server thread/INFO]: Done preparing level "world" (3.607s)
-[20:29:25] [Server thread/INFO]: Running delayed init tasks
-[20:29:25] [Server thread/INFO]: Done (21.015s)! For help, type "help"
-[20:29:25] [Server thread/INFO]: Timings Reset
-[20:29:47] [User Authenticator #0/INFO]: UUID of player qSeren is 60f425a3-b4ca-31c1-a532-8475c0b676c0
-[20:31:57] [Server thread/INFO]: qSeren joined the game
-[20:31:57] [Server thread/INFO]: qSeren[/100.110.74.102:60911] logged in with entity id 144 at ([world]48858.36541021758, -35.51737997991366, 49813.20925639338)
-[20:37:37] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
-[20:37:37] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
-[20:37:37] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:37:37] [Server thread/ERROR]: Not a number
-[20:37:42] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/1099, uuid='18be5087-e190-48a1-9032-fda7c1ea8f50', l='ServerLevel[world]', x=48918.24, y=-46.00, z=49711.23, cpos=[3057, 3106], tl=101, v=true] died: Guerrero Difunto was slain by qSeren
-[20:37:50] [Server thread/INFO]: qSeren issued server command: /gamemode survival
-[20:37:50] [Server thread/INFO]: [qSeren: Set own game mode to Survival Mode]
-[20:37:53] [Server thread/INFO]: qSeren issued server command: /gamemode creative
-[20:37:53] [Server thread/INFO]: [qSeren: Set own game mode to Creative Mode]
-[20:43:36] [Server thread/WARN]: qSeren moved too quickly! -1.2755587944338913,0.6840000271797209,20.269625586377515
-[20:45:09] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
-[20:45:09] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
-[20:45:09] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:45:09] [Server thread/ERROR]: Not a number
-[20:45:09] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
-[20:45:09] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
-[20:45:09] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:45:09] [Server thread/ERROR]: Not a number
-[20:45:10] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
-[20:45:10] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
-[20:45:10] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:45:10] [Server thread/ERROR]: Not a number
-[20:45:11] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
-[20:45:11] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
-[20:45:11] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:45:11] [Server thread/ERROR]: Not a number
-[20:45:11] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
-[20:45:11] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
-[20:45:11] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:45:11] [Server thread/ERROR]: Not a number
-[20:45:12] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
-[20:45:12] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
-[20:45:12] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:45:12] [Server thread/ERROR]: Not a number
-[20:45:12] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
-[20:45:12] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
-[20:45:12] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:45:12] [Server thread/ERROR]: Not a number
-[20:45:12] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
-[20:45:12] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
-[20:45:12] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:45:12] [Server thread/ERROR]: Not a number
-[20:45:12] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
-[20:45:12] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
-[20:45:12] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:45:12] [Server thread/ERROR]: Not a number
-[20:45:13] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
-[20:45:13] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
-[20:45:13] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:45:13] [Server thread/ERROR]: Not a number
-[20:45:19] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/2106, uuid='183b11e6-11fa-4dbe-8dc9-5dda395f0987', l='ServerLevel[world]', x=48864.70, y=-36.94, z=49766.26, cpos=[3054, 3110], tl=145, v=true] died: Guerrero Difunto was slain by qSeren
-[20:45:22] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/2107, uuid='fc89be78-be63-4fca-92e4-7512145a4046', l='ServerLevel[world]', x=48865.68, y=-35.00, z=49770.70, cpos=[3054, 3110], tl=208, v=true] died: Guerrero Difunto was slain by qSeren
-[20:45:26] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/2110, uuid='72103183-0504-4dea-9d1d-fb2bb6ac9ded', l='ServerLevel[world]', x=48865.70, y=-37.00, z=49756.62, cpos=[3054, 3109], tl=276, v=true] died: Guerrero Difunto was slain by qSeren
-[20:45:31] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/2114, uuid='ee230b26-61fa-42f5-82bc-1fb69de7d9d6', l='ServerLevel[world]', x=48864.70, y=-38.00, z=49749.30, cpos=[3054, 3109], tl=382, v=true] died: Guerrero Difunto was slain by qSeren
-[20:45:36] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/2116, uuid='41ef72ef-e034-48c8-a6ab-5e894002257a', l='ServerLevel[world]', x=48866.85, y=-34.00, z=49754.15, cpos=[3054, 3109], tl=465, v=true] died: Guerrero Difunto was slain by qSeren
-[20:45:43] [Server thread/INFO]: qSeren issued server command: /kill @e[type=zombie]
-[20:45:43] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/2094, uuid='85b91b68-5b5e-49d2-996e-7f18c8e5392c', l='ServerLevel[world]', x=48858.73, y=-37.94, z=49776.21, cpos=[3053, 3111], tl=669, v=true] died: Guerrero Difunto was killed
-[20:45:43] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/2086, uuid='795042d2-638a-4bdb-964d-b855d52659e9', l='ServerLevel[world]', x=48863.75, y=-38.00, z=49795.19, cpos=[3053, 3112], tl=690, v=true] died: Guerrero Difunto was killed
-[20:45:43] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/2104, uuid='27574300-0c09-48d1-97a0-21fb59cd47c7', l='ServerLevel[world]', x=48850.59, y=-37.00, z=49763.80, cpos=[3053, 3110], tl=636, v=true] died: Guerrero Difunto was killed
-[20:45:43] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/2090, uuid='08274cb9-104a-4588-a591-56cca8559183', l='ServerLevel[world]', x=48858.50, y=-38.00, z=49778.30, cpos=[3053, 3111], tl=680, v=true] died: Guerrero Difunto was killed
-[20:45:43] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/2100, uuid='73d65c23-4471-4696-b5a0-1878fa81b127', l='ServerLevel[world]', x=48858.51, y=-36.75, z=49783.89, cpos=[3053, 3111], tl=645, v=true] died: Guerrero Difunto was killed
-[20:45:43] [Server thread/INFO]: [qSeren: Killed 27 entities]
-[20:48:47] [Server thread/INFO]: qSeren issued server command: /kill @e[type=item]
-[20:48:47] [Server thread/INFO]: [qSeren: Killed 134 entities]
-[20:50:38] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:50:38] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:50:38] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:50:38] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:50:38] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:50:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:50:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:50:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:50:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:50:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:50:48] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:50:48] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:50:49] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:50:51] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:50:51] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:50:51] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:50:52] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:50:53] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:50:53] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:50:53] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:50:54] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:50:55] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:50:56] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:50:56] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:50:56] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:50:57] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:50:57] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:50:58] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:50:59] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:50:59] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:51:00] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:51:01] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:51:02] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:51:02] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:32] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:32] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:32] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:32] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:33] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:33] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:33] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:33] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:33] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:33] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:34] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:34] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:34] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:35] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:35] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:35] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:35] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:35] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:35] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:36] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:36] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:36] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:36] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:36] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:36] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:36] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:37] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:37] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:37] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:37] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:37] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:37] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:38] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:38] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:38] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:38] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:40] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:40] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:40] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:40] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:40] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:40] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:41] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:41] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:41] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:41] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:41] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:41] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:42] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:42] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:42] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:44] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:44] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:44] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:45] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:45] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:45] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:45] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:45] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:52:52] [Server thread/INFO]: qSeren issued server command: /kill @e[type=zombie]
-[20:52:52] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/3058, uuid='685708c4-195f-4cef-a19c-5fab8efadc71', l='ServerLevel[world]', x=48893.84, y=-44.94, z=49705.79, cpos=[3055, 3106], tl=2288, v=true] died: Guerrero Difunto was killed
-[20:52:52] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/3013, uuid='1f2c2134-b1f1-4a48-904c-b6ac366eb9bb', l='ServerLevel[world]', x=48876.30, y=-42.00, z=49702.92, cpos=[3054, 3106], tl=2664, v=true] died: Guerrero Difunto was killed
-[20:52:52] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/3245, uuid='701a8e1f-3f48-4c1d-a38b-19c24e757719', l='ServerLevel[world]', x=48872.59, y=-43.13, z=49703.64, cpos=[3054, 3106], tl=367, v=true] died: Guerrero Difunto was killed
-[20:52:52] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/3327, uuid='baef7542-71ef-42f8-8088-9fecea5d7f54', l='ServerLevel[world]', x=48878.26, y=-40.94, z=49707.88, cpos=[3054, 3106], tl=148, v=true] died: Guerrero Difunto was killed
-[20:52:52] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/3240, uuid='be62aad4-422f-4daa-8263-0164e871a908', l='ServerLevel[world]', x=48871.34, y=-42.00, z=49701.60, cpos=[3054, 3106], tl=384, v=true] died: Guerrero Difunto was killed
-[20:52:52] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/3236, uuid='0e912b48-273a-411e-93dd-2070aa690f1b', l='ServerLevel[world]', x=48873.00, y=-41.83, z=49702.29, cpos=[3054, 3106], tl=399, v=true] died: Guerrero Difunto was killed
-[20:52:52] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/3242, uuid='9578e0a2-c77b-474d-b098-f8d51704a446', l='ServerLevel[world]', x=48876.77, y=-42.00, z=49701.73, cpos=[3054, 3106], tl=383, v=true] died: Guerrero Difunto was killed
-[20:52:52] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/3061, uuid='dc73b8cd-78ea-4e39-82ab-76383a30afdd', l='ServerLevel[world]', x=48858.38, y=-39.00, z=49709.20, cpos=[3053, 3106], tl=2252, v=true] died: Guerrero Difunto was killed
-[20:52:52] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/3026, uuid='e51855c9-7e48-4a18-9bef-964d737c369c', l='ServerLevel[world]', x=48873.49, y=-40.25, z=49700.30, cpos=[3054, 3106], tl=2472, v=true] died: Guerrero Difunto was killed
-[20:52:52] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/3011, uuid='3d11ea5c-99cd-4375-9f44-2db02b6b4f8a', l='ServerLevel[world]', x=48893.25, y=-44.00, z=49702.53, cpos=[3055, 3106], tl=2669, v=true] died: Guerrero Difunto was killed
-[20:52:52] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/3043, uuid='1540ab24-2880-4768-b23c-83cbd72c6aa7', l='ServerLevel[world]', x=48856.14, y=-40.00, z=49704.89, cpos=[3053, 3106], tl=2375, v=true] died: Guerrero Difunto was killed
-[20:52:52] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/3235, uuid='df60e3f3-a505-4bd1-8ade-e00606e15de5', l='ServerLevel[world]', x=48875.23, y=-39.00, z=49699.51, cpos=[3054, 3106], tl=402, v=true] died: Guerrero Difunto was killed
-[20:52:52] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/3017, uuid='73716151-0de0-497c-ada3-4748610aa8fb', l='ServerLevel[world]', x=48870.12, y=-42.00, z=49702.07, cpos=[3054, 3106], tl=2652, v=true] died: Guerrero Difunto was killed
-[20:52:52] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/3045, uuid='3d8be21b-3bc0-4d35-9444-5b346cc25952', l='ServerLevel[world]', x=48855.96, y=-41.00, z=49705.63, cpos=[3053, 3106], tl=2359, v=true] died: Guerrero Difunto was killed
-[20:52:52] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/3072, uuid='bf833d9f-d7c1-4310-8d0d-c2a2e6ecab1d', l='ServerLevel[world]', x=48875.55, y=-41.00, z=49707.25, cpos=[3054, 3106], tl=2203, v=true] died: Guerrero Difunto was killed
-[20:52:52] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/3029, uuid='8800238f-7a0b-4430-bdc8-4b3629ce8631', l='ServerLevel[world]', x=48874.62, y=-42.00, z=49707.44, cpos=[3054, 3106], tl=2455, v=true] died: Guerrero Difunto was killed
-[20:52:52] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/3008, uuid='5754d988-bedf-4503-9131-4594c5e4dfa7', l='ServerLevel[world]', x=48855.30, y=-40.58, z=49705.29, cpos=[3053, 3106], tl=2673, v=true] died: Guerrero Difunto was killed
-[20:52:52] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/3255, uuid='07ba8d69-a90a-4127-8816-3d917494a26b', l='ServerLevel[world]', x=48878.64, y=-41.00, z=49708.70, cpos=[3054, 3106], tl=331, v=true] died: Guerrero Difunto was killed
-[20:52:52] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/3267, uuid='5dd8c035-03ac-4d32-802d-a8b645a6385a', l='ServerLevel[world]', x=48879.61, y=-43.00, z=49706.38, cpos=[3054, 3106], tl=306, v=true] died: Guerrero Difunto was killed
-[20:52:52] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/3248, uuid='6975d5dc-81b5-41c8-ac6d-f20043c002e1', l='ServerLevel[world]', x=48870.66, y=-42.00, z=49701.26, cpos=[3054, 3106], tl=358, v=true] died: Guerrero Difunto was killed
-[20:52:52] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/3038, uuid='ebd4d0f7-bb5a-4477-8b38-493dcc7f72bc', l='ServerLevel[world]', x=48894.52, y=-42.00, z=49709.27, cpos=[3055, 3106], tl=2398, v=true] died: Guerrero Difunto was killed
-[20:52:52] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/3333, uuid='2b40271e-c889-4f73-bd0d-7180547b063b', l='ServerLevel[world]', x=48886.17, y=-43.94, z=49705.76, cpos=[3055, 3106], tl=137, v=true] died: Guerrero Difunto was killed
-[20:52:52] [Server thread/INFO]: [qSeren: Killed 44 entities]
-[20:53:02] [Server thread/INFO]: qSeren issued server command: /kill @e[type=bogged]
-[20:53:02] [Server thread/INFO]: Named entity Bogged['Guerrero Difunto'/3281, uuid='9461b556-3e5c-4f05-86eb-de02940d2a67', l='ServerLevel[world]', x=48877.98, y=-42.00, z=49705.68, cpos=[3054, 3106], tl=483, v=true] died: Guerrero Difunto was killed
-[20:53:02] [Server thread/INFO]: Named entity Bogged['Guerrero Difunto'/3264, uuid='3f01da94-158a-423d-9d03-7626505f48da', l='ServerLevel[world]', x=48875.98, y=-42.00, z=49702.81, cpos=[3054, 3106], tl=522, v=true] died: Guerrero Difunto was killed
-[20:53:02] [Server thread/INFO]: Named entity Bogged['Guerrero Difunto'/3254, uuid='ca59afb8-583d-4baa-a684-f85cb3cfb1e9', l='ServerLevel[world]', x=48900.37, y=-42.00, z=49698.68, cpos=[3056, 3106], tl=546, v=true] died: Guerrero Difunto was killed
-[20:53:02] [Server thread/INFO]: Named entity Bogged['Guerrero Difunto'/3309, uuid='4f1cae5e-059e-4841-9517-463ee3d38d16', l='ServerLevel[world]', x=48875.52, y=-40.00, z=49708.27, cpos=[3054, 3106], tl=420, v=true] died: Guerrero Difunto was killed
-[20:53:02] [Server thread/INFO]: Named entity Bogged['Guerrero Difunto'/3274, uuid='9e630d2e-f224-458a-a672-26ad07226907', l='ServerLevel[world]', x=48867.97, y=-43.00, z=49704.45, cpos=[3054, 3106], tl=497, v=true] died: Guerrero Difunto was killed
-[20:53:02] [Server thread/INFO]: Named entity Bogged['Guerrero Difunto'/3247, uuid='03e17b04-35c5-4072-9913-7326388dc167', l='ServerLevel[world]', x=48874.14, y=-39.00, z=49699.48, cpos=[3054, 3106], tl=569, v=true] died: Guerrero Difunto was killed
-[20:53:02] [Server thread/INFO]: Named entity Bogged['Guerrero Difunto'/3310, uuid='8d3972cd-8079-41de-ada2-67b72aebff12', l='ServerLevel[world]', x=48875.32, y=-42.00, z=49702.25, cpos=[3054, 3106], tl=417, v=true] died: Guerrero Difunto was killed
-[20:53:02] [Server thread/INFO]: Named entity Bogged['Guerrero Difunto'/3269, uuid='38c58b3c-7789-4c6a-98f2-06e1a69959f1', l='ServerLevel[world]', x=48872.29, y=-43.00, z=49705.10, cpos=[3054, 3106], tl=515, v=true] died: Guerrero Difunto was killed
-[20:53:02] [Server thread/INFO]: [qSeren: Killed 8 entities]
-[20:53:09] [Server thread/INFO]: qSeren issued server command: /kill @e[type=item]
-[20:53:09] [Server thread/INFO]: [qSeren: Killed 41 entities]
-[20:53:49] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:53:49] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:53:49] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:53:49] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:53:50] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:53:50] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:53:50] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:53:50] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:53:55] [Server thread/INFO]: qSeren issued server command: /kill @e[type=zombie]
-[20:53:55] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/3485, uuid='a4654fca-66cb-4462-a947-9e373fe16562', l='ServerLevel[world]', x=48858.48, y=-39.00, z=49708.97, cpos=[3053, 3106], tl=123, v=true] died: Guerrero Difunto was killed
-[20:53:55] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/3492, uuid='b8f6e280-64a4-4a93-a874-80d679b305ab', l='ServerLevel[world]', x=48865.27, y=-42.00, z=49707.70, cpos=[3054, 3106], tl=101, v=true] died: Guerrero Difunto was killed
-[20:53:55] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/3491, uuid='1992bb63-04ba-4628-a6dc-6418f5dea978', l='ServerLevel[world]', x=48860.76, y=-39.44, z=49708.22, cpos=[3053, 3106], tl=101, v=true] died: Guerrero Difunto was killed
-[20:53:55] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/3489, uuid='dacf0ba8-0e77-456d-b53b-c3cfb43f94f9', l='ServerLevel[world]', x=48858.28, y=-38.69, z=49701.60, cpos=[3053, 3106], tl=116, v=true] died: Guerrero Difunto was killed
-[20:53:55] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/3486, uuid='e2b20feb-7642-4ea7-b3a1-d7243ae71104', l='ServerLevel[world]', x=48860.03, y=-40.00, z=49707.49, cpos=[3053, 3106], tl=119, v=true] died: Guerrero Difunto was killed
-[20:53:55] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/3483, uuid='a730affc-7838-4d2d-9d30-d694d8422ee7', l='ServerLevel[world]', x=48868.58, y=-43.00, z=49703.53, cpos=[3054, 3106], tl=127, v=true] died: Guerrero Difunto was killed
-[20:53:55] [Server thread/INFO]: [qSeren: Killed 15 entities]
-[20:53:57] [Server thread/INFO]: qSeren issued server command: /kill @e[type=item]
-[20:53:57] [Server thread/INFO]: [qSeren: Killed 11 entities]
-[20:55:37] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
-[20:55:49] [Server thread/INFO]: Named entity Zombie['Guerrero Difunto'/3696, uuid='14540481-8bc8-4cab-9db7-feaf8608801c', l='ServerLevel[world]', x=48899.30, y=-40.44, z=49695.15, cpos=[3056, 3105], tl=237, v=true] died: Guerrero Difunto was slain by qSeren
-[20:58:51] [Server thread/INFO]: qSeren has made the advancement [Suit Up]
-[20:59:01] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:protection 2
-[20:59:01] [Server thread/INFO]: [qSeren: Applied enchantment Protection II to qSeren's item]
-[20:59:02] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:protection 2
-[20:59:02] [Server thread/INFO]: [qSeren: Applied enchantment Protection II to qSeren's item]
-[20:59:03] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:protection 2
-[20:59:03] [Server thread/INFO]: [qSeren: Applied enchantment Protection II to qSeren's item]
-[20:59:03] [Server thread/INFO]: qSeren issued server command: /enchant qSeren minecraft:protection 2
-[20:59:03] [Server thread/INFO]: [qSeren: Applied enchantment Protection II to qSeren's item]
-[21:01:15] [Server thread/INFO]: qSeren has made the advancement [Isn't It Iron Pick]
-[21:02:34] [Server thread/INFO]: qSeren issued server command: /kill @e[type=item]
-[21:02:34] [Server thread/INFO]: [qSeren: Killed 28 entities]
-[21:05:12] [Server thread/INFO]: qSeren issued server command: /gamerule doMobSpawning true
-[21:05:12] [Server thread/INFO]: [qSeren: Gamerule doMobSpawning is now set to: true]
-[21:05:16] [Server thread/INFO]: qSeren issued server command: /difficulty hard
-[21:05:22] [Server thread/INFO]: qSeren issued server command: /setworldspawn
-[21:05:22] [Server thread/INFO]: [qSeren: Set the world spawn point to 48860, -39, 49809 [0.0]]
-[21:05:23] [Server thread/INFO]: qSeren issued server command: /setworldspawn
-[21:05:23] [Server thread/INFO]: [qSeren: Set the world spawn point to 48860, -39, 49809 [0.0]]
-[21:05:30] [Server thread/INFO]: qSeren issued server command: /spawnpoint @a
-[21:05:30] [Server thread/INFO]: [qSeren: Set spawn point to 48860, -39, 49809 [0.0] in minecraft:overworld for qSeren]
+[00:09:23] [ServerMain/ERROR]: Couldn't load advancements: [minecraft:wander_add_map, minecraft:give_quest_trader_trade]
+[00:09:23] [ServerMain/INFO]: Loaded 1701 advancements
+[00:09:23] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[00:09:23] [Server thread/INFO]: Loading properties
+[00:09:23] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[00:09:24] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[00:09:24] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:09:24] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:09:25] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[00:09:25] [Server thread/INFO]: Default game type: SURVIVAL
+[00:09:25] [Server thread/INFO]: Generating keypair
+[00:09:25] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:09:25] [Server thread/INFO]: Using epoll channel type
+[00:09:26] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[00:09:26] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[00:09:26] [Server thread/INFO]: [ImageFrame] Loading server plugin ImageFrame v1.7.10.0
+[00:09:26] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.26
+[00:09:26] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.2
+[00:09:26] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:09:26] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.2
+[00:09:27] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[00:09:28] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.1.
+[00:09:29] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[00:09:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:09:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:09:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:09:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:09:29] [Server thread/INFO]: Preparing level "world"
+[00:09:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[00:09:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[00:09:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[00:09:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[00:09:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[00:09:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[00:09:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[00:09:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.2
+[00:09:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: ae257f6
+[00:09:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[00:09:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[00:09:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[00:09:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[00:09:41] [Paper Common Worker #0/WARN]: Empty height range: [-20 absolute-5 above bottom]
+[00:09:42] [Paper Common Worker #0/WARN]: Empty height range: [-20 absolute-5 above bottom]
+[00:09:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:10:03] [Server thread/INFO]: Time elapsed: 8015 ms
+[00:10:03] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[00:10:04] [Server thread/INFO]: Time elapsed: 1559 ms
+[00:10:04] [Server thread/INFO]: Preparing start region for dimension cavernous:the_myst
+[00:10:21] [Server thread/INFO]: Time elapsed: 16884 ms
+[00:10:21] [Server thread/INFO]: [ImageFrame] Enabling ImageFrame v1.7.10.0
+[00:10:22] [Server thread/INFO]: [ImageFrame] ImageFrame has been Enabled!
+[00:10:22] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.26
+[00:10:22] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.21.1-R0.1
+[00:10:22] [Server thread/INFO]: [voicechat] Compatibility version 18
+[00:10:22] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
+[00:10:22] [Server thread/INFO]: [spark] Starting background profiler...
+[00:10:22] [Server thread/INFO]: Done preparing level "world" (53.449s)
+[00:10:22] [Server thread/INFO]: Running delayed init tasks
+[00:10:22] [Server thread/INFO]: Done (70.450s)! For help, type "help"
+[00:10:22] [Server thread/INFO]: Timings Reset
+[00:10:22] [Server thread/INFO]: [voicechat] Loading plugins
+[00:10:22] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
+[00:10:22] [Server thread/INFO]: [voicechat] Initializing plugins
+[00:10:22] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
+[00:10:22] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[00:10:23] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at 100.85.3.76:24454
+[00:10:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2857ms or 57 ticks behind
+[00:10:25] [Craft Scheduler Thread - 7 - ImageFrame/INFO]: [ImageFrame] Data loading completed! Loaded 1 ImageMaps!
+[00:10:34] [User Authenticator #0/INFO]: UUID of player lg_santiago_1 is fff5a079-dc60-3719-a578-b75765a10c2a
+[00:10:40] [Server thread/INFO]: lg_santiago_1 joined the game
+[00:10:40] [Server thread/INFO]: lg_santiago_1[/100.122.4.58:57916] logged in with entity id 46 at ([world]-22.5, 96.0, 90.5)
+[00:10:40] [Server thread/INFO]: [voicechat] Received secret request of lg_santiago_1 (18)
+[00:10:40] [Server thread/INFO]: [voicechat] Sent secret to lg_santiago_1
+[00:10:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player fff5a079-dc60-3719-a578-b75765a10c2a
+[00:10:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player fff5a079-dc60-3719-a578-b75765a10c2a
+[00:10:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player lg_santiago_1 (fff5a079-dc60-3719-a578-b75765a10c2a) successfully connected to voice chat
+[00:10:45] [User Authenticator #0/INFO]: UUID of player qSeren is 60f425a3-b4ca-31c1-a532-8475c0b676c0
+[00:10:46] [User Authenticator #0/INFO]: UUID of player wolftho is f2a8b90a-419e-3129-9a21-c5acf9c4bff1
+[00:11:01] [Server thread/INFO]: qSeren joined the game
+[00:11:01] [Server thread/INFO]: qSeren[/100.110.74.102:55235] logged in with entity id 90 at ([world]-27.5, 91.0, 86.5)
+[00:11:01] [Server thread/INFO]: [voicechat] Received secret request of qSeren (18)
+[00:11:01] [Server thread/INFO]: [voicechat] Sent secret to qSeren
+[00:11:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 60f425a3-b4ca-31c1-a532-8475c0b676c0
+[00:11:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 60f425a3-b4ca-31c1-a532-8475c0b676c0
+[00:11:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player qSeren (60f425a3-b4ca-31c1-a532-8475c0b676c0) successfully connected to voice chat
+[00:11:04] [Server thread/INFO]: wolftho joined the game
+[00:11:04] [Server thread/INFO]: wolftho[/100.124.35.104:58864] logged in with entity id 99 at ([world]-23.5, 83.0, 73.5)
+[00:11:04] [Server thread/INFO]: [voicechat] Received secret request of wolftho (18)
+[00:11:04] [Server thread/INFO]: [voicechat] Sent secret to wolftho
+[00:11:05] [Server thread/INFO]: qSeren issued server command: /scoreboard players set .global geyser.msg.acknowledged 1
+[00:11:05] [Server thread/INFO]: [qSeren: Set [geyser.msg.acknowledged] for .global to 1]
+[00:11:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player f2a8b90a-419e-3129-9a21-c5acf9c4bff1
+[00:11:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player f2a8b90a-419e-3129-9a21-c5acf9c4bff1
+[00:11:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player wolftho (f2a8b90a-419e-3129-9a21-c5acf9c4bff1) successfully connected to voice chat
+[00:11:12] [User Authenticator #0/INFO]: UUID of player thenoxplayer is 75b751ed-9d4b-3eb0-b6e9-8ac93294d4e5
+[00:11:13] [User Authenticator #0/INFO]: UUID of player Gatunixdd is 30c6f3b7-f46c-3424-a802-e7c599266de4
+[00:11:18] [Server thread/INFO]: qSeren issued server command: /team add momo
+[00:11:18] [Server thread/INFO]: [qSeren: Created team [momo]]
+[00:11:20] [Server thread/INFO]: qSeren issued server command: /tp @a qSeren
+[00:11:20] [Server thread/INFO]: [qSeren: Teleported 3 entities to qSeren]
+[00:11:21] [User Authenticator #0/INFO]: UUID of player zukinnyk is f436c09f-b583-3206-b07b-f3d68aca2d97
+[00:11:22] [Server thread/INFO]: thenoxplayer joined the game
+[00:11:22] [Server thread/INFO]: thenoxplayer[/100.127.46.50:64965] logged in with entity id 266 at ([world]-27.5, 85.0, 76.5)
+[00:11:22] [Server thread/INFO]: [voicechat] Received secret request of thenoxplayer (18)
+[00:11:22] [Server thread/INFO]: [voicechat] Sent secret to thenoxplayer
+[00:11:22] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 75b751ed-9d4b-3eb0-b6e9-8ac93294d4e5
+[00:11:23] [Server thread/INFO]: Gatunixdd joined the game
+[00:11:23] [Server thread/INFO]: Gatunixdd[/100.70.112.123:5012] logged in with entity id 268 at ([world]-32.5, 86.0, 78.5)
+[00:11:23] [Server thread/INFO]: [voicechat] Received secret request of Gatunixdd (18)
+[00:11:23] [Server thread/INFO]: [voicechat] Sent secret to Gatunixdd
+[00:11:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 75b751ed-9d4b-3eb0-b6e9-8ac93294d4e5
+[00:11:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player thenoxplayer (75b751ed-9d4b-3eb0-b6e9-8ac93294d4e5) successfully connected to voice chat
+[00:11:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 30c6f3b7-f46c-3424-a802-e7c599266de4
+[00:11:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 30c6f3b7-f46c-3424-a802-e7c599266de4
+[00:11:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Gatunixdd (30c6f3b7-f46c-3424-a802-e7c599266de4) successfully connected to voice chat
+[00:11:28] [Server thread/INFO]: qSeren issued server command: /team modify momo friendlyFire
+[00:11:29] [Server thread/INFO]: qSeren issued server command: /team modify momo friendlyFire false
+[00:11:29] [Server thread/INFO]: [qSeren: Disabled friendly fire for team [momo]]
+[00:11:31] [Server thread/INFO]: qSeren issued server command: /tp @a qSeren
+[00:11:31] [Server thread/INFO]: [qSeren: Teleported 5 entities to qSeren]
+[00:11:32] [Async Chat Thread - #0/INFO]: [Not Secure] <wolftho> quien team
+[00:11:33] [Server thread/INFO]: zukinnyk joined the game
+[00:11:33] [Server thread/INFO]: zukinnyk[/100.90.55.48:59560] logged in with entity id 322 at ([world]-39.5, 78.0, 76.5)
+[00:11:33] [Server thread/INFO]: [voicechat] Received secret request of zukinnyk (18)
+[00:11:33] [Server thread/INFO]: [voicechat] Sent secret to zukinnyk
+[00:11:34] [Async Chat Thread - #0/INFO]: [Not Secure] <wolftho> causita
+[00:11:34] [Async Chat Thread - #1/INFO]: [Not Secure] <Gatunixdd> MI HIJO PANZON PLAYER
+[00:11:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player f436c09f-b583-3206-b07b-f3d68aca2d97
+[00:11:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player f436c09f-b583-3206-b07b-f3d68aca2d97
+[00:11:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player zukinnyk (f436c09f-b583-3206-b07b-f3d68aca2d97) successfully connected to voice chat
+[00:11:38] [Async Chat Thread - #0/INFO]: [Not Secure] <wolftho> quien team
+[00:11:38] [Async Chat Thread - #0/INFO]: [Not Secure] <wolftho> quien team
+[00:11:39] [Async Chat Thread - #1/INFO]: [Not Secure] <wolftho> quien team
+[00:11:40] [Server thread/INFO]: qSeren issued server command: /team join @a
+[00:11:42] [Async Chat Thread - #1/INFO]: [Not Secure] <Gatunixdd> lg_santiago_1 adoptamos al wolftho?
+[00:11:42] [Server thread/INFO]: qSeren issued server command: /team join momo @a
+[00:11:42] [Server thread/INFO]: [qSeren: Added 6 members to team [momo]]
+[00:11:44] [User Authenticator #0/INFO]: UUID of player iRagc is 67ea92e7-d0b5-38d9-9052-76eb288fcd52
+[00:11:44] [Server thread/INFO]: qSeren issued server command: /tp @a qSeren
+[00:11:44] [Server thread/INFO]: [qSeren: Teleported 6 entities to qSeren]
+[00:11:47] [Server thread/INFO]: qSeren issued server command: /tp @a qSeren
+[00:11:47] [Server thread/INFO]: [qSeren: Teleported 6 entities to qSeren]
+[00:11:47] [Async Chat Thread - #1/INFO]: [Not Secure] <wolftho> amigo
+[00:11:48] [Server thread/INFO]: iRagc joined the game
+[00:11:48] [Server thread/INFO]: iRagc[/100.124.40.45:57760] logged in with entity id 532 at ([world]-23.5, 92.0, 82.5)
+[00:11:48] [Async Chat Thread - #1/INFO]: [Not Secure] <wolftho> el nox
+[00:11:49] [Server thread/INFO]: [voicechat] Received secret request of iRagc (18)
+[00:11:49] [Server thread/INFO]: [voicechat] Sent secret to iRagc
+[00:11:52] [Server thread/INFO]: wolftho was doomed to fall by thenoxplayer
+[00:11:55] [Server thread/INFO]: qSeren issued server command: /tp @a qSeren
+[00:11:55] [Server thread/INFO]: [qSeren: Teleported 7 entities to qSeren]
+[00:11:56] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 67ea92e7-d0b5-38d9-9052-76eb288fcd52
+[00:11:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 67ea92e7-d0b5-38d9-9052-76eb288fcd52
+[00:11:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player iRagc (67ea92e7-d0b5-38d9-9052-76eb288fcd52) successfully connected to voice chat
+[00:11:57] [Async Chat Thread - #0/INFO]: [Not Secure] <Gatunixdd> XCDDDDDDDD
+[00:11:59] [Server thread/INFO]: qSeren issued server command: /gamemode creative
+[00:11:59] [Server thread/INFO]: [qSeren: Set own game mode to Creative Mode]
+[00:12:15] [Server thread/INFO]: qSeren issued server command: /tp wolftho qSeren
+[00:12:15] [Server thread/INFO]: [qSeren: Teleported wolftho to qSeren]
+[00:12:22] [Server thread/INFO]: qSeren issued server command: /give @a egg 64
+[00:12:22] [Server thread/INFO]: [qSeren: Gave 64 [Egg] to 7]
+[00:12:22] [Async Chat Thread - #0/INFO]: [Not Secure] <wolftho> y yo porque webon
+[00:12:23] [Server thread/INFO]: qSeren issued server command: /tp thenoxplayer
+[00:12:23] [Server thread/INFO]: [qSeren: Teleported qSeren to thenoxplayer]
+[00:12:23] [Async Chat Thread - #0/INFO]: [Not Secure] <wolftho> XD
+[00:12:29] [Async Chat Thread - #0/INFO]: [Not Secure] <wolftho> nisiquiera hice nada
+[00:12:30] [Async Chat Thread - #0/INFO]: [Not Secure] <wolftho> lol
+[00:12:37] [Server thread/INFO]: qSeren issued server command: /clear @a
+[00:12:37] [Server thread/INFO]: [qSeren: Removed 108 item(s) from 7 players]
+[00:12:40] [Async Chat Thread - #0/INFO]: [Not Secure] <wolftho> nisiquiera avance
+[00:12:44] [Async Chat Thread - #0/INFO]: [Not Secure] <Gatunixdd> XDDDDDDDDDDDDDDDDDDDDD
+[00:12:44] [Server thread/INFO]: qSeren issued server command: /kill @e[type=chicken]
+[00:12:44] [Server thread/INFO]: [qSeren: Killed 75 entities]
+[00:12:48] [Server thread/INFO]: qSeren issued server command: /gamemode survival
+[00:12:48] [Server thread/INFO]: [qSeren: Set own game mode to Survival Mode]
+[00:12:50] [Async Chat Thread - #0/INFO]: [Not Secure] <thenoxplayer> wolf
+[00:12:53] [Async Chat Thread - #0/INFO]: [Not Secure] <thenoxplayer> desensordecete
+[00:12:58] [Async Chat Thread - #0/INFO]: [Not Secure] <wolftho> aya
+[00:13:00] [Server thread/INFO]: qSeren issued server command: /team join momo @a
+[00:13:00] [Server thread/INFO]: [qSeren: Added 7 members to team [momo]]
+[00:13:33] [Async Chat Thread - #0/INFO]: [Not Secure] <Gatunixdd> lg_santiago_1 voice
+[00:13:34] [Async Chat Thread - #0/INFO]: [Not Secure] <lg_santiago_1> gatuni
+[00:14:00] [Server thread/INFO]: zukinnyk has made the advancement [Stone Age]
+[00:14:01] [Async Chat Thread - #0/INFO]: [Not Secure] <wolftho> no carga
+[00:14:03] [Async Chat Thread - #0/INFO]: [Not Secure] <wolftho> XD
+[00:14:05] [User Authenticator #1/INFO]: UUID of player TeeRobZti is 375e8eef-1b7d-320f-92ce-8498cff3acd8
+[00:14:17] [Server thread/INFO]: TeeRobZti joined the game
+[00:14:17] [Server thread/INFO]: TeeRobZti[/100.127.109.47:49855] logged in with entity id 2001 at ([world]-22.5, 92.0, 81.5)
+[00:14:18] [Server thread/INFO]: [voicechat] Received secret request of TeeRobZti (18)
+[00:14:18] [Server thread/INFO]: [voicechat] Sent secret to TeeRobZti
+[00:14:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 375e8eef-1b7d-320f-92ce-8498cff3acd8
+[00:14:20] [Server thread/INFO]: iRagc has made the advancement [Stone Age]
+[00:14:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 375e8eef-1b7d-320f-92ce-8498cff3acd8
+[00:14:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player TeeRobZti (375e8eef-1b7d-320f-92ce-8498cff3acd8) successfully connected to voice chat
+[00:14:23] [Server thread/INFO]: TeeRobZti issued server command: /tp qseren
+[00:14:24] [Async Chat Thread - #1/INFO]: [Not Secure] <TeeRobZti> NA
+[00:14:25] [Server thread/INFO]: qSeren issued server command: /msg thenoxplayer vc
+[00:14:26] [Async Chat Thread - #0/INFO]: [Not Secure] <TeeRobZti> NO TENGO OP
+[00:14:31] [Server thread/INFO]: iRagc has made the advancement [Getting an Upgrade]
+[00:14:31] [Async Chat Thread - #0/INFO]: [Not Secure] <TeeRobZti> asd
+[00:14:32] [Async Chat Thread - #0/INFO]: [Not Secure] <TeeRobZti> asd
+[00:14:32] [Async Chat Thread - #0/INFO]: [Not Secure] <wolftho> que bien
+[00:14:32] [Async Chat Thread - #0/INFO]: [Not Secure] <TeeRobZti> asd
+[00:14:33] [Async Chat Thread - #0/INFO]: [Not Secure] <TeeRobZti> ads
+[00:14:33] [Async Chat Thread - #0/INFO]: [Not Secure] <TeeRobZti> sad
+[00:14:34] [Async Chat Thread - #0/INFO]: [Not Secure] <TeeRobZti> asd
+[00:14:35] [Async Chat Thread - #0/INFO]: [Not Secure] <TeeRobZti> asd
+[00:14:35] [Async Chat Thread - #0/INFO]: [Not Secure] <TeeRobZti> asd
+[00:14:40] [Server thread/INFO]: thenoxplayer has made the advancement [Stone Age]
+[00:14:45] [Server thread/INFO]: Gatunixdd has made the advancement [Stone Age]
+[00:14:46] [Server thread/INFO]: thenoxplayer has made the advancement [Getting an Upgrade]
+[00:14:47] [Async Chat Thread - #0/INFO]: [Not Secure] <thenoxplayer> teerob
+[00:14:48] [Async Chat Thread - #0/INFO]: [Not Secure] <thenoxplayer> vc
+[00:14:52] [Async Chat Thread - #0/INFO]: [Not Secure] <TeeRobZti> qSeren podes tepearme a nox?
+[00:15:02] [Async Chat Thread - #0/INFO]: [Not Secure] <wolftho> oe
+[00:15:02] [Async Chat Thread - #0/INFO]: [Not Secure] <wolftho> team
+[00:15:03] [Server thread/INFO]: zukinnyk has made the advancement [Getting an Upgrade]
+[00:15:07] [Server thread/INFO]: qSeren has made the advancement [Stone Age]
+[00:15:21] [Server thread/INFO]: qSeren has made the advancement [Getting an Upgrade]
+[00:15:22] [Server thread/INFO]: Gatunixdd has made the advancement [Getting an Upgrade]
+[00:15:29] [Server thread/INFO]: TeeRobZti lost connection: Disconnected
+[00:15:29] [Server thread/INFO]: [voicechat] Disconnecting client TeeRobZti
+[00:15:29] [Server thread/INFO]: TeeRobZti left the game
+[00:15:44] [User Authenticator #2/INFO]: UUID of player TeeRobZti is 375e8eef-1b7d-320f-92ce-8498cff3acd8
+[00:15:54] [Server thread/INFO]: TeeRobZti joined the game
+[00:15:54] [Server thread/INFO]: TeeRobZti[/100.127.109.47:49896] logged in with entity id 3046 at ([world]-16.34493939396221, 87.0, 90.69999998807907)
+[00:15:54] [Server thread/INFO]: [voicechat] Received secret request of TeeRobZti (18)
+[00:15:54] [Server thread/INFO]: [voicechat] Sent secret to TeeRobZti
+[00:15:55] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 375e8eef-1b7d-320f-92ce-8498cff3acd8
+[00:15:56] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 375e8eef-1b7d-320f-92ce-8498cff3acd8
+[00:15:56] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player TeeRobZti (375e8eef-1b7d-320f-92ce-8498cff3acd8) successfully connected to voice chat
+[00:16:03] [Server thread/INFO]: wolftho has made the advancement [Stone Age]
+[00:16:11] [Server thread/INFO]: wolftho has made the advancement [Getting an Upgrade]
+[00:16:11] [Server thread/INFO]: qSeren issued server command: /worldborder set 1000
+[00:16:11] [Server thread/INFO]: [qSeren: Set the world border to 1000.0 block(s) wide]
+[00:16:36] [Paper Common Worker #0/WARN]: Ignoring unknown attribute 'porting_lib:step_height_addition'
+[00:16:36] [Paper Common Worker #0/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[00:16:36] [Paper Common Worker #0/WARN]: Ignoring unknown attribute 'porting_lib:step_height_addition'
+[00:16:36] [Paper Common Worker #0/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[00:16:48] [Server thread/INFO]: Gatunixdd has made the advancement [Breaking ground]
+[00:16:56] [Async Chat Thread - #2/INFO]: [Not Secure] <Gatunixdd> COMO EXTRAÑABA ESTAS MINAS :,V
+[00:18:17] [Server thread/INFO]: TeeRobZti has made the advancement [Stone Age]
+[00:18:20] [Server thread/INFO]: qSeren issued server command: /worldborder set 2000
+[00:18:20] [Server thread/INFO]: [qSeren: Set the world border to 2000.0 block(s) wide]
+[00:18:24] [Server thread/INFO]: zukinnyk has made the advancement [Poison Swamp Enjoyer Rejoice]
+[00:18:26] [Server thread/INFO]: lg_santiago_1 has made the advancement [Stone Age]
+[00:18:38] [Server thread/INFO]: lg_santiago_1 has made the advancement [Getting an Upgrade]
+[00:18:41] [Server thread/INFO]: wolftho has made the advancement [Breaking ground]
+[00:18:47] [Server thread/INFO]: qSeren has made the advancement [Isn't It Iron Pick]
+[00:19:03] [Server thread/INFO]: TeeRobZti has made the advancement [Getting an Upgrade]
+[00:19:15] [Server thread/INFO]: lg_santiago_1 has made the advancement [Breaking ground]
+[00:19:33] [Server thread/INFO]: lg_santiago_1 has made the advancement [Monster Hunter]
+[00:20:16] [Server thread/INFO]: wolftho has made the advancement [Acquire Hardware]
+[00:20:24] [Server thread/INFO]: wolftho was blown up by Creeper
+[00:20:28] [Async Chat Thread - #5/INFO]: [Not Secure] <wolftho> XD
+[00:20:30] [Async Chat Thread - #5/INFO]: [Not Secure] <iRagc> primera muerte
+[00:20:34] [Server thread/INFO]: qSeren issued server command: /scoreboard objectives add muertes
+[00:20:38] [Server thread/INFO]: qSeren issued server command: /scoreboard objectives add muertes deathCount
+[00:20:38] [Server thread/INFO]: [qSeren: Created new objective [muertes]]
+[00:20:45] [Server thread/INFO]: qSeren issued server command: /scoreboard objectives setdisplay sidebar muertes
+[00:20:45] [Server thread/INFO]: [qSeren: Set display slot sidebar to show objective muertes]
+[00:20:46] [Server thread/INFO]: iRagc has made the advancement [Acquire Hardware]
+[00:20:57] [Server thread/INFO]: qSeren issued server command: /scoreboard players set wolftho 1
+[00:21:01] [Paper Common Worker #0/WARN]: Ignoring unknown attribute 'porting_lib:step_height_addition'
+[00:21:01] [Paper Common Worker #0/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[00:21:01] [Paper Common Worker #0/WARN]: Ignoring unknown attribute 'porting_lib:step_height_addition'
+[00:21:01] [Paper Common Worker #0/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[00:21:09] [Server thread/INFO]: qSeren issued server command: /scoreboard players set wolftho muertes 1
+[00:21:09] [Server thread/INFO]: [qSeren: Set [muertes] for wolftho to 1]
+[00:21:16] [Server thread/INFO]: thenoxplayer has made the advancement [Breaking ground]
+[00:21:17] [Server thread/INFO]: iRagc has made the advancement [Isn't It Iron Pick]
+[00:21:18] [Server thread/INFO]: zukinnyk has made the advancement [Breaking ground]
+[00:21:21] [Server thread/INFO]: TeeRobZti has made the advancement [Breaking ground]
+[00:21:42] [Async Chat Thread - #6/INFO]: [Not Secure] <Gatunixdd> c wolftho speedrunner
+[00:21:47] [Server thread/INFO]: lg_santiago_1 has made the advancement [Safe Haven]
+[00:22:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2510ms or 50 ticks behind
+[00:22:03] [Server thread/INFO]: iRagc has made the advancement [Monster Hunter]
+[00:22:11] [Server thread/INFO]: qSeren has made the advancement [Sweet Dreams]
+[00:22:17] [Server thread/INFO]: wolftho has made the advancement [Monster Hunter]
+[00:22:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2508ms or 50 ticks behind
+[00:22:25] [Server thread/INFO]: Gatunixdd has made the advancement [Acquire Hardware]
+[00:22:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2859ms or 57 ticks behind
+[00:22:40] [Server thread/INFO]: Gatunixdd has made the advancement [Isn't It Iron Pick]
+[00:22:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3661ms or 73 ticks behind
+[00:23:08] [Server thread/INFO]: qSeren has made the advancement [Acquire Hardware]
+[00:23:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3636ms or 72 ticks behind
+[00:23:18] [Server thread/INFO]: wolftho was slain by Spider
+[00:23:32] [Async Chat Thread - #8/INFO]: [Not Secure] <Gatunixdd> NA C SPEEDRUN
+[00:23:37] [Async Chat Thread - #8/INFO]: [Not Secure] <iRagc> wolf quiere record
+[00:23:52] [Paper Common Worker #0/WARN]: Ignoring unknown attribute 'porting_lib:step_height_addition'
+[00:23:52] [Paper Common Worker #0/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[00:23:52] [Paper Common Worker #0/WARN]: Ignoring unknown attribute 'porting_lib:step_height_addition'
+[00:23:52] [Paper Common Worker #0/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[00:24:14] [Server thread/INFO]: TeeRobZti was shot by Skeleton
+[00:24:17] [Server thread/INFO]: iRagc has made the advancement [Sweet Dreams]
+[00:24:20] [Server thread/INFO]: Gatunixdd has made the advancement [Suit Up]
+[00:24:45] [Server thread/INFO]: zukinnyk has made the advancement [Monster Hunter]
+[00:25:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2508ms or 50 ticks behind
+[00:25:19] [Server thread/INFO]: thenoxplayer has made the advancement [Acquire Hardware]
+[00:25:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5111ms or 102 ticks behind
+[00:25:47] [Async Chat Thread - #10/INFO]: [Not Secure] <TeeRobZti> 7dlc
+[00:25:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3061ms or 61 ticks behind
+[00:25:59] [Server thread/INFO]: zukinnyk issued server command: /dlc
+[00:26:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4059ms or 81 ticks behind
+[00:26:10] [Server thread/INFO]: qSeren has made the advancement [The Parrots and the Bats]
+[00:26:18] [Server thread/INFO]: qSeren has made the advancement [Monster Hunter]
+[00:26:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4351ms or 87 ticks behind
+[00:26:28] [Server thread/INFO]: lg_santiago_1 has made the advancement [Acquire Hardware]
+[00:26:37] [Server thread/INFO]: thenoxplayer has made the advancement [Isn't It Iron Pick]
+[00:26:38] [Server thread/INFO]: lg_santiago_1 has made the advancement [Isn't It Iron Pick]
+[00:26:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4679ms or 93 ticks behind
+[00:27:02] [Server thread/INFO]: thenoxplayer has made the advancement [Monster Hunter]
+[00:27:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5148ms or 102 ticks behind
+[00:27:19] [Server thread/INFO]: qSeren issued server command: /gamerule doMobSpawning
+[00:27:23] [Server thread/INFO]: qSeren issued server command: /difficulty hard
+[00:27:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6121ms or 122 ticks behind
+[00:27:34] [Async Chat Thread - #12/INFO]: [Not Secure] <TeeRobZti> 7juntartodos
+[00:27:46] [Server thread/INFO]: TeeRobZti has made the advancement [Delving in]
+[00:27:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6315ms or 126 ticks behind
+[00:28:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6312ms or 126 ticks behind
+[00:28:22] [Async Chat Thread - #12/INFO]: [Not Secure] <thenoxplayer> procuren no irse a la mierda
+[00:28:26] [Async Chat Thread - #12/INFO]: [Not Secure] <thenoxplayer> para hacer las bases relativamente cerca
+[00:28:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6714ms or 134 ticks behind
+[00:28:34] [Async Chat Thread - #12/INFO]: [Not Secure] <Gatunixdd> NA C SPEEDRUN
+[00:28:35] [Async Chat Thread - #12/INFO]: [Not Secure] <Gatunixdd> puto
+[00:28:48] [Async Chat Thread - #12/INFO]: [Not Secure] <wolftho> gg diamante
+[00:28:51] [Async Chat Thread - #12/INFO]: [Not Secure] <TeeRobZti> x2
+[00:28:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7317ms or 146 ticks behind
+[00:28:58] [Async Chat Thread - #12/INFO]: [Not Secure] <TeeRobZti> pero no hay madera
+[00:28:58] [Async Chat Thread - #12/INFO]: [Not Secure] <TeeRobZti> gg
+[00:29:01] [Server thread/INFO]: wolftho has made the advancement [Isn't It Iron Pick]
+[00:29:08] [Async Chat Thread - #12/INFO]: [Not Secure] <qSeren> esto es mio eh
+[00:29:09] [Server thread/INFO]: Gatunixdd has made the advancement [Hint: Water?]
+[00:29:09] [Server thread/INFO]: Gatunixdd has made the advancement [Cavernous: Ancient Secrets]
+[00:29:14] [Async Chat Thread - #12/INFO]: [Not Secure] <Gatunixdd> NAAAAAAAAAAAAAAAAAAA
+[00:29:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6402ms or 128 ticks behind
+[00:29:16] [Server thread/INFO]: wolftho has made the advancement [Sweet Dreams]
+[00:29:18] [Server thread/INFO]: Gatunixdd has made the advancement [Delving in]
+[00:29:26] [Server thread/INFO]: TeeRobZti issued server command: /msg qSeren -2.804 -31 126.595
+[00:29:33] [Server thread/INFO]: TeeRobZti lost connection: Disconnected
+[00:29:33] [Server thread/INFO]: [voicechat] Disconnecting client TeeRobZti
+[00:29:33] [Server thread/INFO]: TeeRobZti left the game
+[00:29:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7323ms or 146 ticks behind
+[00:29:46] [Server thread/INFO]: wolftho has made the advancement [Delving in]
+[00:29:48] [Server thread/INFO]: iRagc has made the advancement [Not Today, Thank You]
+[00:29:48] [Async Chat Thread - #13/INFO]: [Not Secure] <qSeren> mnopx
+[00:29:49] [Async Chat Thread - #12/INFO]: [Not Secure] <qSeren> vc
+[00:29:49] [Async Chat Thread - #12/INFO]: [Not Secure] <qSeren> nox
+[00:29:51] [Async Chat Thread - #12/INFO]: [Not Secure] <thenoxplayer> q
+[00:29:51] [Async Chat Thread - #12/INFO]: [Not Secure] <qSeren> vc abierto
+[00:29:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6584ms or 131 ticks behind
+[00:30:00] [Server thread/INFO]: wolftho has made the advancement [Cavernous: Ancient Secrets]
+[00:30:09] [Async Chat Thread - #12/INFO]: [Not Secure] <wolftho> QUE MIERDA
+[00:30:09] [Server thread/INFO]: Gatunixdd has made the advancement [Diamonds!]
+[00:30:12] [Async Chat Thread - #13/INFO]: [Not Secure] <Gatunixdd> Z
+[00:30:15] [Server thread/INFO]: thenoxplayer has made the advancement [Suit Up]
+[00:30:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4493ms or 89 ticks behind
+[00:30:33] [Async Chat Thread - #13/INFO]: [Not Secure] <lg_santiago_1> si
+[00:30:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4586ms or 91 ticks behind
+[00:30:48] [Server thread/INFO]: qSeren issued server command: /scoreboard objectives add vida health
+[00:30:48] [Server thread/INFO]: [qSeren: Created new objective [vida]]
+[00:30:51] [Server thread/INFO]: qSeren issued server command: /scoreboard objectives setdisplay list vida
+[00:30:51] [Server thread/INFO]: [qSeren: Set display slot list to show objective vida]
+[00:30:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3779ms or 75 ticks behind
+[00:30:57] [Server thread/INFO]: wolftho has made the advancement [Suit Up]
+[00:31:00] [Async Chat Thread - #13/INFO]: [Not Secure] <thenoxplayer> haganse daño pa actualizar la vida
+[00:31:00] [Server thread/INFO]: Gatunixdd has made the advancement [Spelunkage]
+[00:31:12] [Async Chat Thread - #13/INFO]: [Not Secure] <wolftho> god
+[00:31:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3929ms or 78 ticks behind
+[00:31:33] [Server thread/INFO]: zukinnyk has made the advancement [Acquire Hardware]
+[00:31:35] [Async Chat Thread - #13/INFO]: [Not Secure] <wolftho> porque hay un hongo gigante en una cueva
+[00:31:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7486ms or 149 ticks behind
+[00:31:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6016ms or 120 ticks behind
+[00:32:03] [Server thread/INFO]: zukinnyk has made the advancement [Suit Up]
+[00:32:07] [Async Chat Thread - #12/INFO]: [Not Secure] <wolftho> LO DEL DIAMANTE ERA JODA PERO YA ENCONTRE
+[00:32:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4517ms or 90 ticks behind
+[00:32:28] [Server thread/INFO]: wolftho has made the advancement [Diamonds!]
+[00:32:35] [Async Chat Thread - #12/INFO]: [Not Secure] <Gatunixdd> bien hijito
+[00:32:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3050ms or 61 ticks behind
+[00:32:42] [Async Chat Thread - #12/INFO]: [Not Secure] <wolftho> calla mierduni
+[00:32:48] [Async Chat Thread - #13/INFO]: [Not Secure] <Gatunixdd> 2 muertes bro
+[00:32:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7740ms or 154 ticks behind
+[00:32:59] [Async Chat Thread - #13/INFO]: [Not Secure] <wolftho> andaba calentado
+[00:33:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10668ms or 213 ticks behind
+[00:33:46] [Server thread/INFO]: Villager Villager['Villager'/6826, uuid='f3e97ea8-c972-46b6-a66f-18ff686e40d8', l='ServerLevel[world]', x=538.30, y=-5.95, z=-318.25, cpos=[33, -20], tl=11414, v=true] died, message: 'Villager drowned'
+[00:33:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8357ms or 167 ticks behind
+[00:34:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7639ms or 152 ticks behind
+[00:34:20] [User Authenticator #3/INFO]: UUID of player AdrianoLC is c2ab7376-aed7-376e-8039-b4a37e24f8b1
+[00:34:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6075ms or 121 ticks behind
+[00:34:35] [Server thread/INFO]: Villager Villager['Villager'/6825, uuid='da3234b4-3c82-4fac-b96f-d1b8d1d07213', l='ServerLevel[world]', x=538.30, y=-5.95, z=-319.11, cpos=[33, -20], tl=12092, v=true] died, message: 'Villager drowned'
+[00:34:42] [Server thread/INFO]: AdrianoLC joined the game
+[00:34:42] [Server thread/INFO]: AdrianoLC[/100.112.194.104:59395] logged in with entity id 21437 at ([world]-28.5, 81.0, 85.5)
+[00:34:42] [Server thread/INFO]: [voicechat] Received secret request of AdrianoLC (18)
+[00:34:42] [Server thread/INFO]: [voicechat] Sent secret to AdrianoLC
+[00:34:44] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player c2ab7376-aed7-376e-8039-b4a37e24f8b1
+[00:34:45] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player c2ab7376-aed7-376e-8039-b4a37e24f8b1
+[00:34:45] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player AdrianoLC (c2ab7376-aed7-376e-8039-b4a37e24f8b1) successfully connected to voice chat
+[00:34:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7346ms or 146 ticks behind
+[00:35:12] [Async Chat Thread - #14/INFO]: [Not Secure] <qSeren> 2 1
+[00:35:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8041ms or 160 ticks behind
+[00:35:18] [Server thread/INFO]: qSeren issued server command: /scoreboard objectives remove muertes
+[00:35:18] [Server thread/INFO]: [qSeren: Removed objective [muertes]]
+[00:35:20] [Server thread/WARN]: Oak Boat (vehicle of iRagc) moved wrongly! 0.46053039751451486
+[00:35:20] [Server thread/WARN]: Oak Boat (vehicle of iRagc) moved wrongly! 0.46053039751451486
+[00:35:23] [Server thread/INFO]: qSeren issued server command: /scoreboard objectives add Muertes deathCount
+[00:35:23] [Server thread/INFO]: [qSeren: Created new objective [Muertes]]
+[00:35:24] [Async Chat Thread - #14/INFO]: [Not Secure] <thenoxplayer> grasonlc
+[00:35:38] [Server thread/INFO]: qSeren issued server command: /scoreboard objectives setdisplay sidebar muertes
+[00:35:44] [Server thread/INFO]: qSeren issued server command: /scoreboard objectives setdisplay sidebar Muertes
+[00:35:44] [Server thread/INFO]: [qSeren: Set display slot sidebar to show objective Muertes]
+[00:35:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12924ms or 258 ticks behind
+[00:35:47] [Server thread/INFO]: Gatunixdd has made the advancement [Cover Me with Diamonds]
+[00:35:51] [Async Chat Thread - #14/INFO]: [Not Secure] <Gatunixdd> YIYI ZZZZZ
+[00:35:53] [Server thread/INFO]: qSeren issued server command: /scoreboard players set wolftho muertes 2
+[00:35:57] [Server thread/INFO]: qSeren issued server command: /scoreboard players set wolftho Muertes 2
+[00:35:57] [Server thread/INFO]: [qSeren: Set [Muertes] for wolftho to 2]
+[00:35:59] [Async Chat Thread - #14/INFO]: [Not Secure] <thenoxplayer> bro flexea en un smp
+[00:36:04] [Async Chat Thread - #15/INFO]: [Not Secure] <Gatunixdd> Z
+[00:36:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7119ms or 142 ticks behind
+[00:36:07] [Server thread/INFO]: wolftho has made the advancement [Cover Me with Diamonds]
+[00:36:09] [Async Chat Thread - #15/INFO]: [Not Secure] <Gatunixdd> mas facil que la mama de torre
+[00:36:13] [Async Chat Thread - #15/INFO]: [Not Secure] <Gatunixdd> bien hijito wolftho
+[00:36:14] [Async Chat Thread - #15/INFO]: [Not Secure] <thenoxplayer> gordos exploracion
+[00:36:17] [Async Chat Thread - #15/INFO]: [Not Secure] <wolftho> calla mierduni
+[00:36:18] [Async Chat Thread - #15/INFO]: [Not Secure] <wolftho> calla mierduni
+[00:36:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6240ms or 124 ticks behind
+[00:36:30] [Async Chat Thread - #14/INFO]: [Not Secure] <Gatunixdd> nox, gordo puto
+[00:36:32] [Async Chat Thread - #14/INFO]: [Not Secure] <thenoxplayer> TeerobZti
+[00:36:44] [Server thread/INFO]: AdrianoLC issued server command: /msg qSeren TeeRobZti
+[00:36:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5247ms or 104 ticks behind
+[00:36:51] [Server thread/INFO]: AdrianoLC has made the advancement [Stone Age]
+[00:36:54] [Async Chat Thread - #15/INFO]: [Not Secure] <thenoxplayer> TeeRobZti
+[00:36:55] [Paper Common Worker #0/WARN]: Empty or non-existent pool: kaisyn:village/sparse_jungle_polynesian/villager_village_chief
+[00:36:56] [Async Chat Thread - #14/INFO]: [Not Secure] <zukinnyk> TeeRobZti
+[00:36:57] [Server thread/INFO]: qSeren issued server command: /scoreboard players set TeeRobZti
+[00:36:59] [Server thread/INFO]: qSeren issued server command: /scoreboard players set TeeRobZti 1
+[00:37:04] [Server thread/INFO]: qSeren issued server command: /scoreboard players set TeeRobZti Muertes 1
+[00:37:04] [Server thread/INFO]: [qSeren: Set [Muertes] for TeeRobZti to 1]
+[00:37:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4929ms or 98 ticks behind
+[00:37:14] [Server thread/INFO]: qSeren issued server command: /msg AdrianoLC 542 73 -353
+[00:37:14] [Server thread/INFO]: iRagc has made the advancement [Suit Up]
+[00:37:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4986ms or 99 ticks behind
+[00:37:35] [Async Chat Thread - #14/INFO]: [Not Secure] <thenoxplayer> adri
+[00:37:36] [Async Chat Thread - #15/INFO]: [Not Secure] <thenoxplayer> metete a vc
+[00:37:44] [Async Chat Thread - #15/INFO]: [Not Secure] <thenoxplayer> metete a vc
+[00:37:45] [Async Chat Thread - #15/INFO]: [Not Secure] <thenoxplayer> metete a vc
+[00:37:45] [Async Chat Thread - #15/INFO]: [Not Secure] <thenoxplayer> metete a vc
+[00:37:46] [Async Chat Thread - #15/INFO]: [Not Secure] <thenoxplayer> adri
+[00:37:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4672ms or 93 ticks behind
+[00:37:51] [Server thread/INFO]: lg_santiago_1 has made the advancement [Cavernous: Ancient Secrets]
+[00:38:06] [Server thread/INFO]: lg_santiago_1 has made the advancement [Delving in]
+[00:38:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4071ms or 81 ticks behind
+[00:38:20] [Server thread/INFO]: zukinnyk has made the advancement [Not Today, Thank You]
+[00:38:24] [Server thread/INFO]: iRagc has made the advancement [Breaking ground]
+[00:38:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3489ms or 69 ticks behind
+[00:38:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4406ms or 88 ticks behind
+[00:39:01] [Paper Common Worker #0/WARN]: Skipping Entity with id 
+[00:39:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4506ms or 90 ticks behind
+[00:39:09] [Paper Common Worker #0/WARN]: Skipping Entity with id 
+[00:39:09] [Server thread/INFO]: lg_santiago_1 has made the advancement [Hint: Water?]
+[00:39:16] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-16, y=-54, z=1646}
+[00:39:21] [Paper Common Worker #0/WARN]: Skipping Entity with id 
+[00:39:21] [Paper Common Worker #0/WARN]: Skipping Entity with id 
+[00:39:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3902ms or 78 ticks behind
+[00:39:24] [Paper Common Worker #0/WARN]: Skipping Entity with id 
+[00:39:28] [Paper Common Worker #0/WARN]: Skipping Entity with id 
+[00:39:28] [Paper Common Worker #0/WARN]: Skipping Entity with id 
+[00:39:29] [Async Chat Thread - #16/INFO]: [Not Secure] <Gatunixdd> pq el agua se pone roja? al tocar deepslate
+[00:39:31] [Paper Common Worker #0/WARN]: Skipping Entity with id 
+[00:39:31] [Paper Common Worker #0/WARN]: Skipping Entity with id 
+[00:39:35] [Async Chat Thread - #17/INFO]: [Not Secure] <thenoxplayer> fijate el logro
+[00:39:39] [Server thread/INFO]: iRagc has made the advancement [Cavernous: Ancient Secrets]
+[00:39:41] [Async Chat Thread - #17/INFO]: [Not Secure] <thenoxplayer> es un bioma
+[00:39:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4809ms or 96 ticks behind
+[00:39:45] [Async Chat Thread - #16/INFO]: [Not Secure] <thenoxplayer> creo
+[00:39:48] [Paper Common Worker #0/WARN]: Skipping Entity with id 
+[00:39:48] [Paper Common Worker #0/WARN]: Skipping Entity with id 
+[00:39:55] [Server thread/INFO]: iRagc has made the advancement [Delving in]
+[00:40:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8057ms or 161 ticks behind
+[00:40:06] [Server thread/INFO]: AdrianoLC has made the advancement [Safe Haven]
+[00:40:12] [Server thread/INFO]: AdrianoLC has made the advancement [Getting an Upgrade]
+[00:40:17] [Async Chat Thread - #16/INFO]: [Not Secure] <iRagc> asd
+[00:40:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8331ms or 166 ticks behind
+[00:40:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9628ms or 192 ticks behind
+[00:41:08] [Paper Common Worker #0/WARN]: Ignoring unknown attribute 'porting_lib:step_height_addition'
+[00:41:08] [Paper Common Worker #0/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[00:41:08] [Paper Common Worker #0/WARN]: Ignoring unknown attribute 'porting_lib:step_height_addition'
+[00:41:08] [Paper Common Worker #0/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[00:41:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10815ms or 216 ticks behind
+[00:41:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11303ms or 226 ticks behind
+[00:42:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10718ms or 214 ticks behind
+[00:42:14] [Server thread/INFO]: Gatunixdd has made the advancement [Monster Hunter]
+[00:42:19] [Paper Common Worker #0/WARN]: Empty or non-existent pool: ships:secondary
+[00:42:27] [Async Chat Thread - #18/INFO]: [Not Secure] <wolftho> bien hecho hijito gatuni
+[00:42:35] [Async Chat Thread - #18/INFO]: [Not Secure] <Gatunixdd> z
+[00:42:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9148ms or 182 ticks behind
+[00:42:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8143ms or 162 ticks behind
+[00:43:06] [Server thread/INFO]: iRagc has made the advancement [Diamonds!]
+[00:43:14] [Async Chat Thread - #18/INFO]: [Not Secure] <Gatunixdd> bien hijito
+[00:43:18] [Async Chat Thread - #18/INFO]: [Not Secure] <Gatunixdd> asd
+[00:43:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8403ms or 168 ticks behind
+[00:43:25] [Server thread/INFO]: lg_santiago_1 lost connection: Disconnected
+[00:43:25] [Server thread/INFO]: [voicechat] Disconnecting client lg_santiago_1
+[00:43:25] [Server thread/INFO]: lg_santiago_1 left the game
+[00:43:38] [User Authenticator #4/INFO]: UUID of player lg_santiago_1 is fff5a079-dc60-3719-a578-b75765a10c2a
+[00:43:39] [Paper Common Worker #0/WARN]: Ignoring unknown attribute 'porting_lib:step_height_addition'
+[00:43:39] [Paper Common Worker #0/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[00:43:39] [Paper Common Worker #0/WARN]: Ignoring unknown attribute 'porting_lib:step_height_addition'
+[00:43:39] [Paper Common Worker #0/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[00:43:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9234ms or 184 ticks behind
+[00:43:48] [Server thread/INFO]: lg_santiago_1 joined the game
+[00:43:48] [Server thread/INFO]: lg_santiago_1[/100.122.4.58:58042] logged in with entity id 33489 at ([world]104.23536850293597, 14.0, -90.10585535463566)
+[00:43:49] [Server thread/INFO]: [voicechat] Received secret request of lg_santiago_1 (18)
+[00:43:49] [Server thread/INFO]: [voicechat] Sent secret to lg_santiago_1
+[00:43:49] [Server thread/INFO]: thenoxplayer has made the advancement [Ice Bucket Challenge]
+[00:43:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player fff5a079-dc60-3719-a578-b75765a10c2a
+[00:43:53] [Server thread/INFO]: Villager Villager['Nitwit'/8049, uuid='33558a82-2007-487f-99aa-bf9a78dd38f3', l='ServerLevel[world]', x=527.70, y=72.05, z=-364.30, cpos=[32, -23], tl=18541, v=true] died, message: 'Nitwit drowned'
+[00:43:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player fff5a079-dc60-3719-a578-b75765a10c2a
+[00:43:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player lg_santiago_1 (fff5a079-dc60-3719-a578-b75765a10c2a) successfully connected to voice chat
+[00:44:03] [Server thread/INFO]: Gatunixdd has made the advancement [Ice Bucket Challenge]
+[00:44:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7200ms or 144 ticks behind
+[00:44:10] [Async Chat Thread - #18/INFO]: [Not Secure] <wolftho> bien hecho hijito gatuni
+[00:44:19] [Server thread/INFO]: lg_santiago_1 lost connection: Timed out
+[00:44:19] [Server thread/INFO]: [voicechat] Disconnecting client lg_santiago_1
+[00:44:19] [Server thread/INFO]: lg_santiago_1 left the game
+[00:44:23] [Async Chat Thread - #19/INFO]: [Not Secure] <Gatunixdd> uh wolftho cuando te vea te voy a meter la espada en el culo
+[00:44:25] [User Authenticator #4/INFO]: UUID of player lg_santiago_1 is fff5a079-dc60-3719-a578-b75765a10c2a
+[00:44:28] [Async Chat Thread - #18/INFO]: [Not Secure] <wolftho> XD
+[00:44:29] [Server thread/INFO]: thenoxplayer has made the advancement [Not Today, Thank You]
+[00:44:30] [Server thread/INFO]: lg_santiago_1 joined the game
+[00:44:30] [Server thread/INFO]: lg_santiago_1[/100.122.4.58:58052] logged in with entity id 35246 at ([world]101.63080314800088, 14.0, -89.69999998807907)
+[00:44:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7374ms or 147 ticks behind
+[00:44:31] [Server thread/INFO]: [voicechat] Received secret request of lg_santiago_1 (18)
+[00:44:31] [Server thread/INFO]: [voicechat] Sent secret to lg_santiago_1
+[00:44:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player fff5a079-dc60-3719-a578-b75765a10c2a
+[00:44:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player fff5a079-dc60-3719-a578-b75765a10c2a
+[00:44:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player lg_santiago_1 (fff5a079-dc60-3719-a578-b75765a10c2a) successfully connected to voice chat
+[00:44:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10608ms or 212 ticks behind
+[00:45:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10894ms or 217 ticks behind
+[00:45:45] [Server thread/INFO]: wolftho has made the advancement [Ice Bucket Challenge]
+[00:45:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9120ms or 182 ticks behind
+[00:46:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11101ms or 222 ticks behind
+[00:46:19] [Server thread/INFO]: lg_santiago_1 has made the advancement [Suit Up]
+[00:46:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14286ms or 285 ticks behind
+[00:46:47] [Server thread/INFO]: thenoxplayer has made the advancement [A Major Trial Of Strengh]
+[00:46:54] [Server thread/INFO]: thenoxplayer has made the advancement [Delving in]
+[00:47:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14485ms or 289 ticks behind
+[00:47:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10637ms or 212 ticks behind
+[00:48:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12774ms or 255 ticks behind
+[00:48:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12464ms or 249 ticks behind
+[00:48:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 30c6f3b7-f46c-3424-a802-e7c599266de4 timed out
+[00:48:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Gatunixdd
+[00:48:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Gatunixdd
+[00:48:35] [Server thread/INFO]: Gatunixdd tried to swim in lava
+[00:48:37] [Async Chat Thread - #20/INFO]: [Not Secure] <thenoxplayer> XD
+[00:48:38] [Async Chat Thread - #20/INFO]: [Not Secure] <AdrianoLC> XD
+[00:48:39] [Async Chat Thread - #20/INFO]: [Not Secure] <wolftho> ESE GATUNI
+[00:48:41] [Async Chat Thread - #20/INFO]: [Not Secure] <wolftho> XDDDDDDDDDDDD
+[00:48:42] [Async Chat Thread - #20/INFO]: [Not Secure] <thenoxplayer> quemaron tus cosas?
+[00:48:45] [Async Chat Thread - #20/INFO]: [Not Secure] <wolftho> ESE MI HIJO
+[00:48:46] [Async Chat Thread - #20/INFO]: [Not Secure] <AdrianoLC> POR RUSHEAR
+[00:48:47] [Async Chat Thread - #20/INFO]: [Not Secure] <AdrianoLC> POR RUSHEAR
+[00:48:49] [Async Chat Thread - #20/INFO]: [Not Secure] <AdrianoLC> joda
+[00:48:50] [Async Chat Thread - #21/INFO]: [Not Secure] <AdrianoLC> todo bien
+[00:48:53] [Server thread/INFO]: Gatunixdd lost connection: Timed out
+[00:48:53] [Server thread/INFO]: [voicechat] Disconnecting client Gatunixdd
+[00:48:53] [Server thread/INFO]: Gatunixdd left the game
+[00:48:57] [Async Chat Thread - #21/INFO]: [Not Secure] <wolftho> no amigo
+[00:48:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11918ms or 238 ticks behind
+[00:49:00] [Async Chat Thread - #20/INFO]: [Not Secure] <wolftho> rageo
+[00:49:06] [Async Chat Thread - #20/INFO]: [Not Secure] <AdrianoLC> XDDDD
+[00:49:08] [Async Chat Thread - #20/INFO]: [Not Secure] <AdrianoLC> no vuelve nunca
+[00:49:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8461ms or 169 ticks behind
+[00:49:24] [User Authenticator #5/INFO]: UUID of player Gatunixdd is 30c6f3b7-f46c-3424-a802-e7c599266de4
+[00:49:33] [Server thread/INFO]: Gatunixdd joined the game
+[00:49:33] [Server thread/INFO]: Gatunixdd[/100.70.112.123:5209] logged in with entity id 56584 at ([world]-8.510352597617016, -56.98475024414063, -443.8457973532666)
+[00:49:33] [Server thread/INFO]: [voicechat] Received secret request of Gatunixdd (18)
+[00:49:33] [Server thread/INFO]: [voicechat] Sent secret to Gatunixdd
+[00:49:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 30c6f3b7-f46c-3424-a802-e7c599266de4
+[00:49:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 30c6f3b7-f46c-3424-a802-e7c599266de4
+[00:49:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Gatunixdd (30c6f3b7-f46c-3424-a802-e7c599266de4) successfully connected to voice chat
+[00:49:38] [Async Chat Thread - #20/INFO]: [Not Secure] <Gatunixdd> QUE
+[00:49:44] [Server thread/INFO]: thenoxplayer issued server command: /msg qSeren 996 -14 914
+[00:49:45] [Async Chat Thread - #21/INFO]: [Not Secure] <wolftho> encontre un enchant custom
+[00:49:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8113ms or 162 ticks behind
+[00:49:51] [Async Chat Thread - #21/INFO]: [Not Secure] <thenoxplayer> yo tengo soaring 3
+[00:49:51] [Server thread/INFO]: qSeren issued server command: /team join momo @a
+[00:49:51] [Server thread/INFO]: [qSeren: Added 8 members to team [momo]]
+[00:49:51] [Async Chat Thread - #21/INFO]: [Not Secure] <thenoxplayer> xD
+[00:49:53] [Async Chat Thread - #21/INFO]: [Not Secure] <Gatunixdd> weon me acabo de conectar
+[00:49:53] [Async Chat Thread - #20/INFO]: [Not Secure] <AdrianoLC> imposible...
+[00:50:01] [Async Chat Thread - #20/INFO]: [Not Secure] <thenoxplayer> y fisura 4
+[00:50:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10740ms or 214 ticks behind
+[00:50:13] [Server thread/INFO]: wolftho has made the advancement [Enchanter]
+[00:50:20] [Async Chat Thread - #20/INFO]: [Not Secure] <qSeren> PD para todos
+[00:50:24] [Async Chat Thread - #20/INFO]: [Not Secure] <qSeren> si matan un phantom y les tira elytra
+[00:50:26] [Async Chat Thread - #20/INFO]: [Not Secure] <qSeren> es ilegal el item
+[00:50:27] [Server thread/INFO]: thenoxplayer issued server command: /msg AdrianoLC 996 -14 914
+[00:50:32] [Server thread/INFO]: thenoxplayer issued server command: /msg zukinnyk 996 -14 914
+[00:50:35] [Server thread/INFO]: AdrianoLC has made the advancement [Monster Hunter]
+[00:50:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9562ms or 191 ticks behind
+[00:50:45] [Async Chat Thread - #20/INFO]: [Not Secure] <wolftho> duerman pe
+[00:50:47] [Async Chat Thread - #20/INFO]: [Not Secure] <wolftho> porfa
+[00:50:48] [Async Chat Thread - #21/INFO]: [Not Secure] <wolftho> causita
+[00:50:49] [Async Chat Thread - #21/INFO]: [Not Secure] <wolftho> s
+[00:50:54] [Server thread/INFO]: zukinnyk has made the advancement [Isn't It Iron Pick]
+[00:51:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10606ms or 212 ticks behind
+[00:51:31] [Server thread/INFO]: wolftho has made the advancement [Not Today, Thank You]
+[00:51:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15121ms or 302 ticks behind
+[00:51:56] [Server thread/INFO]: AdrianoLC has made the advancement [Sweet Dreams]
+[00:52:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16292ms or 325 ticks behind
+[00:52:07] [Server thread/INFO]: qSeren has made the advancement [Not Today, Thank You]
+[00:52:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12031ms or 240 ticks behind
+[00:53:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15266ms or 305 ticks behind
+[00:53:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17162ms or 343 ticks behind
+[00:53:54] [Server thread/INFO]: AdrianoLC has made the advancement [Isn't It Iron Pick]
+[00:53:56] [Server thread/INFO]: wolftho has made the advancement [A Major Trial Of Strengh]
+[00:54:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21454ms or 429 ticks behind
+[00:54:12] [Server thread/INFO]: wolftho has made the advancement [Hint: Water?]
+[00:54:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21540ms or 430 ticks behind
+[00:54:58] [Async Chat Thread - #22/INFO]: [Not Secure] <wolftho> las entidades andan re lag
+[00:55:00] [Async Chat Thread - #23/INFO]: [Not Secure] <thenoxplayer> si
+[00:55:03] [Async Chat Thread - #23/INFO]: [Not Secure] <thenoxplayer> es por los chunks
+[00:55:05] [Server thread/INFO]: wolftho has completed the challenge [Blowback]
+[00:55:06] [Async Chat Thread - #23/INFO]: [Not Secure] <thenoxplayer> tranqui
+[00:55:08] [Paper Common Worker #0/WARN]: Empty or non-existent pool: ships:secondary
+[00:55:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23247ms or 464 ticks behind
+[00:55:35] [Server thread/INFO]: Villager Villager['Villager'/79795, uuid='0d07b9ae-0df5-44e6-bcf5-a94d24fc33bb', l='ServerLevel[world]', x=1194.63, y=64.56, z=159.28, cpos=[74, 9], tl=191, v=true] died, message: 'Villager suffocated in a wall'
+[00:55:35] [Server thread/INFO]: lg_santiago_1 lost connection: Timed out
+[00:55:35] [Server thread/INFO]: [voicechat] Disconnecting client lg_santiago_1
+[00:55:35] [Server thread/INFO]: lg_santiago_1 left the game
+[00:55:49] [User Authenticator #6/INFO]: UUID of player lg_santiago_1 is fff5a079-dc60-3719-a578-b75765a10c2a
+[00:55:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15496ms or 309 ticks behind
+[00:55:55] [Server thread/INFO]: lg_santiago_1 joined the game
+[00:55:55] [Server thread/INFO]: lg_santiago_1[/100.122.4.58:58284] logged in with entity id 83436 at ([world]162.06135896843102, 20.0, -74.79125835772126)
+[00:55:55] [Server thread/INFO]: [voicechat] Received secret request of lg_santiago_1 (18)
+[00:55:55] [Server thread/INFO]: [voicechat] Sent secret to lg_santiago_1
+[00:55:56] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player fff5a079-dc60-3719-a578-b75765a10c2a
+[00:55:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player fff5a079-dc60-3719-a578-b75765a10c2a
+[00:55:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player lg_santiago_1 (fff5a079-dc60-3719-a578-b75765a10c2a) successfully connected to voice chat
+[00:56:21] [Server thread/INFO]: iRagc has made the advancement [Hint: Water?]
+[00:56:21] [Server thread/INFO]: thenoxplayer issued server command: /msg zukinnyk 996 -14 914
+[00:56:24] [Server thread/INFO]: thenoxplayer issued server command: /msg AdrianoLC 996 -14 914
+[00:56:28] [Server thread/INFO]: thenoxplayer issued server command: /msg qSeren 996 -14 914
+[00:56:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19734ms or 394 ticks behind
+[00:56:30] [Server thread/INFO]: qSeren has made the advancement [A Major Trial Of Strengh]
+[00:56:34] [Server thread/INFO]: qSeren has made the advancement [Sneak 100]
+[00:56:37] [Server thread/INFO]: qSeren has made the advancement [Breaking ground]
+[00:56:40] [Server thread/INFO]: lg_santiago_1 lost connection: Timed out
+[00:56:40] [Server thread/INFO]: [voicechat] Disconnecting client lg_santiago_1
+[00:56:40] [Server thread/INFO]: lg_santiago_1 left the game
+[00:56:42] [Server thread/INFO]: qSeren has made the advancement [Delving in]
+[00:56:53] [User Authenticator #7/INFO]: UUID of player lg_santiago_1 is fff5a079-dc60-3719-a578-b75765a10c2a
+[00:56:58] [Server thread/INFO]: lg_santiago_1 joined the game
+[00:56:58] [Server thread/INFO]: lg_santiago_1[/100.122.4.58:58313] logged in with entity id 87255 at ([world]164.59290825520134, 27.62316455461589, -101.69999998807907)
+[00:56:58] [Server thread/INFO]: [voicechat] Received secret request of lg_santiago_1 (18)
+[00:56:58] [Server thread/INFO]: [voicechat] Sent secret to lg_santiago_1
+[00:56:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player fff5a079-dc60-3719-a578-b75765a10c2a
+[00:57:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player fff5a079-dc60-3719-a578-b75765a10c2a
+[00:57:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player lg_santiago_1 (fff5a079-dc60-3719-a578-b75765a10c2a) successfully connected to voice chat
+[00:57:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19038ms or 380 ticks behind
+[00:57:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17621ms or 352 ticks behind
+[00:58:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16391ms or 327 ticks behind
+[00:58:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15652ms or 313 ticks behind
+[00:58:53] [Server thread/INFO]: qSeren has reached the goal [Eye of Darkness]
+[00:59:01] [Server thread/INFO]: Command execution stopped due to limit (executed 65536 commands)
+[00:59:01] [Server thread/INFO]: Command execution stopped due to limit (executed 65536 commands)
+[00:59:02] [Server thread/INFO]: iRagc has made the advancement [Cover Me with Diamonds]
+[00:59:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14936ms or 298 ticks behind
+[00:59:09] [Server thread/INFO]: AdrianoLC has made the advancement [A Major Trial Of Strengh]
+[00:59:11] [Server thread/INFO]: Gatunixdd has made the advancement [Discover the Monolith]
+[00:59:15] [Server thread/INFO]: AdrianoLC has made the advancement [Sneak 100]
+[00:59:25] [Server thread/INFO]: AdrianoLC has made the advancement [Breaking ground]
+[00:59:25] [Server thread/INFO]: AdrianoLC has made the advancement [Delving in]
+[00:59:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14821ms or 296 ticks behind
+[00:59:37] [Server thread/INFO]: wolftho has made the advancement [Under Lock and Key]
+[00:59:59] [User Authenticator #8/INFO]: UUID of player SimonAbadXD is fa4f7c7f-97ce-3b01-8842-a006a2536ea7
+[01:00:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13315ms or 266 ticks behind
+[01:00:25] [Server thread/INFO]: AdrianoLC has made the advancement [Acquire Hardware]
+[01:00:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11600ms or 232 ticks behind
+[01:00:33] [Server thread/INFO]: AdrianoLC has made the advancement [Suit Up]
+[01:00:37] [Server thread/WARN]: qSeren moved wrongly!
+[01:00:53] [Server thread/INFO]: iRagc lost connection: Disconnected
+[01:00:53] [Server thread/INFO]: [voicechat] Disconnecting client iRagc
+[01:00:53] [Server thread/INFO]: iRagc left the game
+[01:00:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11689ms or 233 ticks behind
+[01:01:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10092ms or 201 ticks behind
+[01:01:33] [Server thread/INFO]: SimonAbadXD joined the game
+[01:01:33] [Server thread/INFO]: SimonAbadXD[/100.123.173.102:58917] logged in with entity id 95742 at ([world]-26.5, 90.0, 82.5)
+[01:01:40] [Async Chat Thread - #26/INFO]: [Not Secure] <SimonAbadXD> holaaaaa
+[01:01:44] [Async Chat Thread - #27/INFO]: [Not Secure] <SimonAbadXD> nseflkfejlsifsljodasensehnfsjhfkshfjksdfjksdfjkdsf
+[01:01:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9226ms or 184 ticks behind
+[01:01:48] [Async Chat Thread - #27/INFO]: [Not Secure] <wolftho> y este random?
+[01:01:55] [Async Chat Thread - #27/INFO]: [Not Secure] <SimonAbadXD> tu vieja
+[01:02:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7412ms or 148 ticks behind
+[01:02:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6388ms or 127 ticks behind
+[01:02:40] [Async Chat Thread - #27/INFO]: [Not Secure] <wolftho> seriamente
+[01:02:44] [Async Chat Thread - #27/INFO]: [Not Secure] <wolftho> quien es este tipo
+[01:02:44] [Async Chat Thread - #27/INFO]: [Not Secure] <wolftho> XD
+[01:02:48] [Async Chat Thread - #26/INFO]: [Not Secure] <thenoxplayer> el hermanito de seren
+[01:02:51] [Async Chat Thread - #26/INFO]: [Not Secure] <wolftho> aya
+[01:02:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6494ms or 129 ticks behind
+[01:02:59] [Server thread/INFO]: Gatunixdd has made the advancement [Discover the Citadel]
+[01:03:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8583ms or 171 ticks behind
+[01:03:22] [Server thread/INFO]: SimonAbadXD has made the advancement [Monster Hunter]
+[01:03:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9664ms or 193 ticks behind
+[01:03:45] [Server thread/INFO]: Gatunixdd has made the advancement [The Prison]
+[01:03:47] [Server thread/INFO]: Gatunixdd has made the advancement [Hint: Pipes]
+[01:03:52] [Server thread/INFO]: Gatunixdd has made the advancement [Sweet Dreams]
+[01:04:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6272ms or 125 ticks behind
+[01:04:09] [Server thread/INFO]: zukinnyk has made the advancement [A Major Trial Of Strengh]
+[01:04:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5440ms or 108 ticks behind
+[01:04:23] [Server thread/INFO]: Gatunixdd has made the advancement [The Gate]
+[01:04:26] [Server thread/INFO]: zukinnyk has made the advancement [Delving in]
+[01:04:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4499ms or 89 ticks behind
+[01:04:44] [Server thread/INFO]: SimonAbadXD has made the advancement [Stone Age]
+[01:04:58] [Server thread/INFO]: SimonAbadXD has made the advancement [Getting an Upgrade]
+[01:05:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4489ms or 89 ticks behind
+[01:05:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4723ms or 94 ticks behind
+[01:05:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3930ms or 78 ticks behind
+[01:05:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3673ms or 73 ticks behind
+[01:06:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2526ms or 50 ticks behind
+[01:06:23] [Server thread/INFO]: Gatunixdd has made the advancement ["Draining"]
+[01:06:44] [Async Chat Thread - #28/INFO]: [Not Secure] <wolftho> eu
+[01:06:46] [Async Chat Thread - #28/INFO]: [Not Secure] <thenoxplayer> q
+[01:06:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2504ms or 50 ticks behind
+[01:06:49] [Async Chat Thread - #28/INFO]: [Not Secure] <wolftho> puedo reclamar una aldea?
+[01:06:50] [Async Chat Thread - #28/INFO]: [Not Secure] <wolftho> osea
+[01:06:51] [Server thread/INFO]: thenoxplayer issued server command: /msg qSeren 996 -14 914
+[01:06:54] [Async Chat Thread - #29/INFO]: [Not Secure] <thenoxplayer> obvio
+[01:06:54] [Async Chat Thread - #29/INFO]: [Not Secure] <wolftho> que no maten a los aldeanos asi
+[01:06:57] [Async Chat Thread - #29/INFO]: [Not Secure] <wolftho> aya
+[01:07:05] [Async Chat Thread - #29/INFO]: [Not Secure] <wolftho> muchas gracias hijo mio
+[01:07:10] [Async Chat Thread - #29/INFO]: [Not Secure] <thenoxplayer> matate
+[01:07:14] [Async Chat Thread - #29/INFO]: [Not Secure] <wolftho> XD
+[01:07:26] [Server thread/INFO]: qSeren issued server command: /worldborder set 3000
+[01:07:26] [Server thread/INFO]: [qSeren: Set the world border to 3000.0 block(s) wide]
+[01:07:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2502ms or 50 ticks behind
+[01:07:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
+[01:08:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2501ms or 50 ticks behind
+[01:08:11] [Server thread/INFO]: zukinnyk was shot by Skeleton
+[01:08:16] [Server thread/INFO]: AdrianoLC has made the advancement [Not Today, Thank You]
+[01:08:16] [Async Chat Thread - #30/INFO]: [Not Secure] <wolftho> c zuki
+[01:08:28] [Server thread/INFO]: qSeren has made the advancement [Suit Up]
+[01:08:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4302ms or 86 ticks behind
+[01:08:45] [Server thread/INFO]: SimonAbadXD has made the advancement [A Major Trial Of Strengh]
+[01:08:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5465ms or 109 ticks behind
+[01:09:00] [Async Chat Thread - #30/INFO]: [Not Secure] <wolftho> esas trial son god
+[01:09:04] [Async Chat Thread - #30/INFO]: [Not Secure] <SimonAbadXD> che
+[01:09:10] [Async Chat Thread - #30/INFO]: [Not Secure] <thenoxplayer> ei
+[01:09:11] [Async Chat Thread - #30/INFO]: [Not Secure] <thenoxplayer> eu
+[01:09:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8352ms or 167 ticks behind
+[01:09:16] [Async Chat Thread - #30/INFO]: [Not Secure] <SimonAbadXD> encontre un lugar que va re profundo
+[01:09:19] [Async Chat Thread - #30/INFO]: [Not Secure] <thenoxplayer> metete
+[01:09:21] [Async Chat Thread - #30/INFO]: [Not Secure] <wolftho> son trials xd
+[01:09:22] [Async Chat Thread - #30/INFO]: [Not Secure] <thenoxplayer> pero si estas equipado
+[01:09:23] [Async Chat Thread - #30/INFO]: [Not Secure] <thenoxplayer> porque es dificil
+[01:09:25] [Async Chat Thread - #30/INFO]: [Not Secure] <thenoxplayer> son como trials
+[01:09:28] [Async Chat Thread - #30/INFO]: [Not Secure] <thenoxplayer> te ubicas?
+[01:09:29] [Async Chat Thread - #31/INFO]: [Not Secure] <wolftho> son trials
+[01:09:31] [Async Chat Thread - #31/INFO]: [Not Secure] <wolftho> lol
+[01:09:33] [Server thread/INFO]: SimonAbadXD has made the advancement [Breaking ground]
+[01:09:38] [Server thread/INFO]: SimonAbadXD has made the advancement [Delving in]
+[01:09:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11892ms or 237 ticks behind
+[01:09:42] [Server thread/INFO]: SimonAbadXD has made the advancement [Hint: Water?]
+[01:09:42] [Server thread/INFO]: SimonAbadXD has made the advancement [Cavernous: Ancient Secrets]
+[01:10:04] [Async Chat Thread - #31/INFO]: [Not Secure] <SimonAbadXD> que mierda acaba de pasar
+[01:10:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10141ms or 202 ticks behind
+[01:10:19] [Async Chat Thread - #31/INFO]: [Not Secure] <SimonAbadXD> 89 63 -626
+[01:10:22] [Server thread/INFO]: SimonAbadXD has made the advancement [Sneak 100]
+[01:10:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12313ms or 246 ticks behind
+[01:11:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12305ms or 246 ticks behind
+[01:11:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11707ms or 234 ticks behind
+[01:11:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11657ms or 233 ticks behind
+[01:12:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13055ms or 261 ticks behind
+[01:12:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12452ms or 249 ticks behind
+[01:13:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13314ms or 266 ticks behind
+[01:13:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12984ms or 259 ticks behind
+[01:14:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15778ms or 315 ticks behind
+[01:14:30] [Async Chat Thread - #32/INFO]: [Not Secure] <SimonAbadXD> si quieren exclavos
+[01:14:39] [Async Chat Thread - #32/INFO]: [Not Secure] <thenoxplayer> agarren a wolf
+[01:14:41] [Server thread/INFO]: wolftho has made the advancement [Bewitched]
+[01:14:44] [Async Chat Thread - #32/INFO]: [Not Secure] <Gatunixdd> wolftho
+[01:14:45] [Async Chat Thread - #32/INFO]: [Not Secure] <SimonAbadXD> 253 106 -808
+[01:14:46] [User Authenticator #9/INFO]: UUID of player iRagc is 67ea92e7-d0b5-38d9-9052-76eb288fcd52
+[01:14:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16922ms or 338 ticks behind
+[01:14:48] [Async Chat Thread - #32/INFO]: [Not Secure] <wolftho> WACHIN
+[01:14:49] [Async Chat Thread - #32/INFO]: [Not Secure] <Gatunixdd> 20 diamantes por 4 horas
+[01:14:50] [Server thread/INFO]: iRagc joined the game
+[01:14:50] [Server thread/INFO]: iRagc[/100.124.40.45:54698] logged in with entity id 147227 at ([world]-454.9063028440423, -40.0, -697.7872821056135)
+[01:14:51] [Async Chat Thread - #32/INFO]: [Not Secure] <wolftho> ESAS SON MIS CORDS
+[01:14:51] [Server thread/INFO]: [voicechat] Received secret request of iRagc (18)
+[01:14:51] [Server thread/INFO]: [voicechat] Sent secret to iRagc
+[01:14:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 67ea92e7-d0b5-38d9-9052-76eb288fcd52
+[01:14:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 67ea92e7-d0b5-38d9-9052-76eb288fcd52
+[01:14:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player iRagc (67ea92e7-d0b5-38d9-9052-76eb288fcd52) successfully connected to voice chat
+[01:14:57] [Async Chat Thread - #32/INFO]: [Not Secure] <Gatunixdd> necesito que aplanees una montaña
+[01:15:18] [Server thread/INFO]: iRagc has made the advancement [Hint: Dreadroot]
+[01:15:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19512ms or 390 ticks behind
+[01:15:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22598ms or 451 ticks behind
+[01:16:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17312ms or 346 ticks behind
+[01:16:42] [Async Chat Thread - #34/INFO]: [Not Secure] <Gatunixdd> thenoxplayer wolftho al rato su glubtastic?
+[01:16:52] [Async Chat Thread - #34/INFO]: [Not Secure] <wolftho> ño
+[01:16:54] [Async Chat Thread - #34/INFO]: [Not Secure] <thenoxplayer> no
+[01:17:01] [Async Chat Thread - #34/INFO]: [Not Secure] <Gatunixdd> na, panzones
+[01:17:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16970ms or 339 ticks behind
+[01:17:14] [Server thread/INFO]: AdrianoLC issued server command: /msg qSeren lobi y link van a jugar?
+[01:17:19] [Server thread/INFO]: SimonAbadXD has made the advancement [Safe Haven]
+[01:17:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18462ms or 369 ticks behind
+[01:17:46] [Async Chat Thread - #35/INFO]: [Not Secure] <wolftho> amigo
+[01:17:52] [Async Chat Thread - #34/INFO]: [Not Secure] <wolftho> me dieron efecto de veneno
+[01:17:53] [Async Chat Thread - #34/INFO]: [Not Secure] <Gatunixdd> noches p chamos
+[01:17:54] [Server thread/INFO]: Gatunixdd lost connection: Disconnected
+[01:17:54] [Server thread/INFO]: [voicechat] Disconnecting client Gatunixdd
+[01:17:54] [Server thread/INFO]: Gatunixdd left the game
+[01:17:59] [Async Chat Thread - #34/INFO]: [Not Secure] <wolftho> y ese efecto de veneno duro media hora XD
+[01:18:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15944ms or 318 ticks behind
+[01:18:27] [Async Chat Thread - #34/INFO]: [Not Secure] <wolftho> c gorduni se pone a jugar left xd
+[01:18:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15716ms or 314 ticks behind
+[01:19:07] [Server thread/INFO]: qSeren has made the advancement [Take Aim]
+[01:19:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15135ms or 302 ticks behind
+[01:19:28] [Async Chat Thread - #36/INFO]: [Not Secure] <wolftho> puedo hacer una granja de experiencia con alleys?
+[01:19:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15009ms or 300 ticks behind
+[01:19:55] [Async Chat Thread - #36/INFO]: [Not Secure] <wolftho> si o no
+[01:20:00] [Async Chat Thread - #36/INFO]: [Not Secure] <iRagc> no
+[01:20:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12861ms or 257 ticks behind
+[01:20:15] [Async Chat Thread - #36/INFO]: [Not Secure] <AdrianoLC> asdad
+[01:20:23] [Server thread/INFO]: zukinnyk was slain by Vindicator
+[01:20:23] [Server thread/INFO]: qSeren has made the advancement [Diamonds!]
+[01:20:34] [Async Chat Thread - #36/INFO]: [Not Secure] <lg_santiago_1> no hablo
+[01:20:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20089ms or 401 ticks behind
+[01:21:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21668ms or 433 ticks behind
+[01:21:28] [Server thread/INFO]: wolftho has made the advancement [Poison Swamp Enjoyer Rejoice]
+[01:21:42] [User Authenticator #10/INFO]: UUID of player TeeRobZti is 375e8eef-1b7d-320f-92ce-8498cff3acd8
+[01:21:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18012ms or 360 ticks behind
+[01:21:55] [Server thread/INFO]: TeeRobZti joined the game
+[01:21:55] [Server thread/INFO]: TeeRobZti[/100.127.109.47:61414] logged in with entity id 168237 at ([world]-2.804093831930464, -31.0, 126.59472422663221)
+[01:21:56] [Server thread/INFO]: [voicechat] Received secret request of TeeRobZti (18)
+[01:21:56] [Server thread/INFO]: [voicechat] Sent secret to TeeRobZti
+[01:21:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 375e8eef-1b7d-320f-92ce-8498cff3acd8
+[01:21:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 375e8eef-1b7d-320f-92ce-8498cff3acd8
+[01:21:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player TeeRobZti (375e8eef-1b7d-320f-92ce-8498cff3acd8) successfully connected to voice chat
+[01:22:04] [Async Chat Thread - #38/INFO]: [Not Secure] <TeeRobZti> NA
+[01:22:06] [Async Chat Thread - #38/INFO]: [Not Secure] <TeeRobZti> QUE HACE AdrianoLC
+[01:22:09] [Server thread/INFO]: SimonAbadXD has made the advancement [Acquire Hardware]
+[01:22:17] [Async Chat Thread - #38/INFO]: [Not Secure] <TeeRobZti> qSeren
+[01:22:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14507ms or 290 ticks behind
+[01:22:22] [Async Chat Thread - #38/INFO]: [Not Secure] <qSeren> q
+[01:22:22] [Async Chat Thread - #38/INFO]: [Not Secure] <TeeRobZti> Lobi me dijo de que puede ser que hoy no entre
+[01:22:22] [Async Chat Thread - #38/INFO]: [Not Secure] <AdrianoLC> naa que hace este
+[01:22:24] [Async Chat Thread - #38/INFO]: [Not Secure] <TeeRobZti> pero si va a jugar
+[01:22:27] [Server thread/INFO]: iRagc issued server command: /msg qSeren quien es simon?
+[01:22:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19258ms or 385 ticks behind
+[01:23:24] [Async Chat Thread - #40/INFO]: [Not Secure] <iRagc> estan giveando a teerob en el vc
+[01:23:25] [Async Chat Thread - #40/INFO]: [Not Secure] <iRagc> gg
+[01:23:28] [Async Chat Thread - #40/INFO]: [Not Secure] <TeeRobZti> ?
+[01:23:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23824ms or 476 ticks behind
+[01:23:34] [Async Chat Thread - #40/INFO]: [Not Secure] <qSeren> mentiroso de mierd
+[01:23:36] [Async Chat Thread - #39/INFO]: [Not Secure] <wolftho> no le den op a esa cagada
+[01:23:42] [Async Chat Thread - #40/INFO]: [Not Secure] <wolftho> luego va a andar tepeandose a todos
+[01:24:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22035ms or 440 ticks behind
+[01:24:37] [Async Chat Thread - #40/INFO]: [Not Secure] <TeeRobZti> 7give TeeRobZti minecraft:oak_planks 4
+[01:24:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19404ms or 388 ticks behind
+[01:24:49] [Async Chat Thread - #40/INFO]: [Not Secure] <qSeren> 7ban TeeRobZti
+[01:24:52] [Async Chat Thread - #40/INFO]: [Not Secure] <TeeRobZti> NA
+[01:24:55] [Server thread/INFO]: qSeren issued server command: /deop qSeren
+[01:24:55] [Server thread/INFO]: [qSeren: Made qSeren no longer a server operator]
+[01:24:58] [Async Chat Thread - #40/INFO]: [Not Secure] <wolftho> ahi el server se le quita el lag
+[01:25:00] [Async Chat Thread - #40/INFO]: [Not Secure] <qSeren> voy a ser exacto
+[01:25:03] [Async Chat Thread - #40/INFO]: [Not Secure] <wolftho> por la enorme panza de teerob
+[01:25:04] [Async Chat Thread - #40/INFO]: [Not Secure] <qSeren> yo no tengo op
+[01:25:06] [Async Chat Thread - #40/INFO]: [Not Secure] <qSeren> uso solo la consola
+[01:25:08] [Async Chat Thread - #40/INFO]: [Not Secure] <wolftho> GG EZ
+[01:25:09] [Async Chat Thread - #40/INFO]: [Not Secure] <wolftho> GANAMOS
+[01:25:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22268ms or 445 ticks behind
+[01:25:28] [Async Chat Thread - #40/INFO]: [Not Secure] <iRagc> PAPA PITUFO PRENDIO
+[01:25:31] [Async Chat Thread - #40/INFO]: [Not Secure] <TeeRobZti> gg
+[01:25:40] [Server thread/INFO]: TeeRobZti issued server command: /msg thenoxplayer -8.314 32 94.326
+[01:25:50] [Server thread/INFO]: TeeRobZti issued server command: /msg thenoxplayer -8.314 32 94.326
+[01:25:51] [Server thread/INFO]: TeeRobZti issued server command: /msg thenoxplayer -8.314 32 94.326
+[01:25:52] [Server thread/INFO]: TeeRobZti issued server command: /msg thenoxplayer -8.314 32 94.326
+[01:25:53] [Server thread/INFO]: TeeRobZti issued server command: /msg thenoxplayer -8.314 32 94.326
+[01:25:57] [Async Chat Thread - #39/INFO]: [Not Secure] <thenoxplayer> como que 8k
+[01:25:59] [Async Chat Thread - #39/INFO]: [Not Secure] <thenoxplayer> pedazo de mono
+[01:25:59] [Async Chat Thread - #39/INFO]: [Not Secure] <wolftho> eu encontre una tipo dungeon
+[01:26:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24769ms or 495 ticks behind
+[01:26:07] [Async Chat Thread - #39/INFO]: [Not Secure] <wolftho> en el bioma de manglar
+[01:26:08] [Async Chat Thread - #40/INFO]: [Not Secure] <TeeRobZti> mono
+[01:26:09] [Async Chat Thread - #40/INFO]: [Not Secure] <SimonAbadXD> HOSTIA UN MOJON
+[01:26:11] [Async Chat Thread - #40/INFO]: [Not Secure] <TeeRobZti> son las exactas
+[01:26:13] [Async Chat Thread - #40/INFO]: [Not Secure] <TeeRobZti> no 8mil
+[01:26:14] [Async Chat Thread - #40/INFO]: [Not Secure] <TeeRobZti> TONTO
+[01:26:17] [Async Chat Thread - #40/INFO]: [Not Secure] <thenoxplayer> ya no te ayudo
+[01:26:22] [Async Chat Thread - #40/INFO]: [Not Secure] <TeeRobZti> che
+[01:26:23] [Async Chat Thread - #40/INFO]: [Not Secure] <TeeRobZti> dale
+[01:26:25] [Async Chat Thread - #40/INFO]: [Not Secure] <wolftho> 89 431
+[01:26:25] [Async Chat Thread - #40/INFO]: [Not Secure] <TeeRobZti> ;(
+[01:26:27] [Paper Common Worker #0/WARN]: Empty or non-existent pool: kaisyn:village/sparse_jungle_polynesian/villager_village_chief
+[01:26:28] [Async Chat Thread - #40/INFO]: [Not Secure] <wolftho> ahi las cords
+[01:26:39] [Async Chat Thread - #39/INFO]: [Not Secure] <wolftho> me da paja nadar ahi
+[01:26:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22414ms or 448 ticks behind
+[01:26:44] [Async Chat Thread - #39/INFO]: [Not Secure] <wolftho> andar*
+[01:26:47] [Server thread/INFO]: lg_santiago_1 has made the advancement [Discover the Monolith]
+[01:27:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21284ms or 425 ticks behind
+[01:27:18] [Server thread/INFO]: qSeren has made the advancement [Poison Swamp Enjoyer Rejoice]
+[01:27:51] [Async Chat Thread - #41/INFO]: [Not Secure] <TeeRobZti> 7help TeeRobZti thenoxplayer
+[01:27:51] [Async Chat Thread - #42/INFO]: [Not Secure] <TeeRobZti> 7help TeeRobZti thenoxplayer
+[01:27:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20592ms or 411 ticks behind
+[01:27:52] [Async Chat Thread - #42/INFO]: [Not Secure] <TeeRobZti> 7help TeeRobZti thenoxplayer
+[01:27:53] [Async Chat Thread - #42/INFO]: [Not Secure] <TeeRobZti> 7help TeeRobZti thenoxplayer
+[01:27:53] [Async Chat Thread - #42/INFO]: [Not Secure] <TeeRobZti> 7help TeeRobZti thenoxplayer
+[01:28:11] [Server thread/INFO]: SimonAbadXD has made the advancement [Isn't It Iron Pick]
+[01:28:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19783ms or 395 ticks behind
+[01:29:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19838ms or 396 ticks behind
+[01:29:14] [Server thread/INFO]: lg_santiago_1 has made the advancement [Discover the Citadel]
+[01:29:35] [Server thread/INFO]: AdrianoLC issued server command: /msg thenoxplayer
+[01:29:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22342ms or 446 ticks behind
+[01:29:44] [Server thread/INFO]: AdrianoLC issued server command: /msg thenoxplayer 542 74 -343
+[01:29:48] [Server thread/INFO]: AdrianoLC issued server command: /msg qSeren 542 74 -343
+[01:29:49] [Server thread/INFO]: SimonAbadXD lost connection: Disconnected
+[01:29:49] [Server thread/INFO]: [voicechat] Disconnecting client SimonAbadXD
+[01:29:49] [Server thread/INFO]: SimonAbadXD left the game
+[01:29:53] [Server thread/INFO]: AdrianoLC issued server command: /msg zukinnyk 542 74 -343
+[01:30:06] [Paper Common Worker #0/WARN]: Ignoring unknown attribute 'porting_lib:step_height_addition'
+[01:30:06] [Paper Common Worker #0/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[01:30:06] [Paper Common Worker #0/WARN]: Ignoring unknown attribute 'porting_lib:step_height_addition'
+[01:30:06] [Paper Common Worker #0/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[01:30:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20387ms or 407 ticks behind
+[01:30:22] [Server thread/INFO]: qSeren lost connection: Disconnected
+[01:30:22] [Server thread/INFO]: [voicechat] Disconnecting client qSeren
+[01:30:22] [Server thread/INFO]: qSeren left the game
+[01:30:24] [Server thread/INFO]: lg_santiago_1 has made the advancement [Diamonds!]
+[01:30:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12156ms or 243 ticks behind
+[01:30:55] [Server thread/INFO]: lg_santiago_1 lost connection: Timed out
+[01:30:55] [Server thread/INFO]: [voicechat] Disconnecting client lg_santiago_1
+[01:30:55] [Server thread/INFO]: lg_santiago_1 left the game
+[01:31:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7172ms or 143 ticks behind
+[01:31:11] [User Authenticator #11/INFO]: UUID of player lg_santiago_1 is fff5a079-dc60-3719-a578-b75765a10c2a
+[01:31:17] [Server thread/INFO]: lg_santiago_1 joined the game
+[01:31:17] [Server thread/INFO]: lg_santiago_1[/100.122.4.58:59524] logged in with entity id 191738 at ([world]37.88147255154313, -43.0, -350.7481123654151)
+[01:31:17] [Server thread/INFO]: [voicechat] Received secret request of lg_santiago_1 (18)
+[01:31:17] [Server thread/INFO]: [voicechat] Sent secret to lg_santiago_1
+[01:31:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player fff5a079-dc60-3719-a578-b75765a10c2a
+[01:31:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player fff5a079-dc60-3719-a578-b75765a10c2a
+[01:31:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player lg_santiago_1 (fff5a079-dc60-3719-a578-b75765a10c2a) successfully connected to voice chat
+[01:31:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4708ms or 94 ticks behind
+[01:31:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6204ms or 124 ticks behind
+[01:32:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5606ms or 112 ticks behind
+[01:32:15] [Server thread/WARN]: Camel (vehicle of zukinnyk) moved wrongly! 0.27271298954011713
+[01:32:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6094ms or 121 ticks behind
+[01:32:28] [Server thread/INFO]: thenoxplayer issued server command: /msg zukinnyk 542 74 -343
+[01:32:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4668ms or 93 ticks behind
+[01:33:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3930ms or 78 ticks behind
+[01:33:13] [Server thread/INFO]: wolftho was slain by Iron Golem
+[01:33:15] [Async Chat Thread - #46/INFO]: [Not Secure] <AdrianoLC> XD
+[01:33:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3528ms or 70 ticks behind
+[01:33:29] [Async Chat Thread - #46/INFO]: [Not Secure] <wolftho> lo que no sabe es que puse spawn al lado
+[01:33:30] [Async Chat Thread - #46/INFO]: [Not Secure] <wolftho> gg ez
+[01:33:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2910ms or 58 ticks behind
+[01:33:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2699ms or 53 ticks behind
+[01:34:03] [Async Chat Thread - #45/INFO]: [Not Secure] <wolftho> chau wachines
+[01:34:06] [Async Chat Thread - #45/INFO]: [Not Secure] <wolftho> no mueran
+[01:34:13] [Async Chat Thread - #45/INFO]: [Not Secure] <AdrianoLC> ez
+[01:34:14] [Async Chat Thread - #45/INFO]: [Not Secure] <AdrianoLC> chau
+[01:34:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2538ms or 50 ticks behind
+[01:34:19] [Async Chat Thread - #45/INFO]: [Not Secure] <wolftho> el que muera es cabrazo
+[01:34:28] [Server thread/INFO]: wolftho lost connection: Disconnected
+[01:34:28] [Server thread/INFO]: [voicechat] Disconnecting client wolftho
+[01:34:28] [Server thread/INFO]: wolftho left the game
+[01:34:32] [Server thread/INFO]: lg_santiago_1 issued server command: /msg iRagc 36 -364
+[01:34:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2646ms or 52 ticks behind
+[01:34:46] [Server thread/INFO]: Command execution stopped due to limit (executed 65536 commands)
+[01:35:07] [Server thread/INFO]: iRagc has made the advancement [Safe Haven]
+[01:35:11] [Server thread/INFO]: lg_santiago_1 has made the advancement [Hint: Pipes]
+[01:35:13] [Server thread/INFO]: lg_santiago_1 has made the advancement [The Gate]
+[01:36:30] [Server thread/INFO]: zukinnyk has made the advancement [Sweet Dreams]
+[01:36:50] [Server thread/INFO]: TeeRobZti was doomed to fall by Zombie
+[01:36:59] [Async Chat Thread - #47/INFO]: [Not Secure] <AdrianoLC> re malo
+[01:37:04] [Async Chat Thread - #47/INFO]: [Not Secure] <iRagc> asd
+[01:37:28] [Server thread/INFO]: thenoxplayer has made the advancement [A Seedy Place]
+[01:38:30] [Server thread/INFO]: thenoxplayer has made the advancement [The Parrots and the Bats]
+[01:40:01] [Server thread/INFO]: AdrianoLC has made the advancement [It's Rude to Stare!]
+[01:40:01] [Server thread/INFO]: zukinnyk has made the advancement [It's Rude to Stare!]
+[01:40:07] [Server thread/INFO]: thenoxplayer has made the advancement [It's Rude to Stare!]
+[01:40:24] [Server thread/INFO]: TeeRobZti has made the advancement [Acquire Hardware]
+[01:40:29] [Server thread/INFO]: TeeRobZti has made the advancement [Isn't It Iron Pick]
+[01:40:33] [Server thread/INFO]: TeeRobZti has made the advancement [Diamonds!]
+[01:40:49] [Server thread/INFO]: lg_santiago_1 issued server command: /msg iRagc 64 -321
+[01:41:48] [Server thread/INFO]: TeeRobZti has made the advancement [Suit Up]
+[01:42:53] [User Authenticator #12/INFO]: UUID of player Gatunixdd is 30c6f3b7-f46c-3424-a802-e7c599266de4
+[01:42:59] [Server thread/INFO]: iRagc has made the advancement [Discover the Citadel]
+[01:43:02] [Server thread/INFO]: Gatunixdd joined the game
+[01:43:02] [Server thread/INFO]: Gatunixdd[/100.70.112.123:5717] logged in with entity id 200992 at ([world]43.30000001192093, -15.0, -259.28937361522384)
+[01:43:03] [Server thread/INFO]: [voicechat] Received secret request of Gatunixdd (18)
+[01:43:03] [Server thread/INFO]: [voicechat] Sent secret to Gatunixdd
+[01:43:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 30c6f3b7-f46c-3424-a802-e7c599266de4
+[01:43:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 30c6f3b7-f46c-3424-a802-e7c599266de4
+[01:43:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Gatunixdd (30c6f3b7-f46c-3424-a802-e7c599266de4) successfully connected to voice chat
+[01:43:09] [Async Chat Thread - #51/INFO]: [Not Secure] <Gatunixdd> volvi
+[01:43:43] [Server thread/INFO]: lg_santiago_1 has made the advancement [Cover Me with Diamonds]
+[01:44:19] [Server thread/INFO]: iRagc has made the advancement [Hint: Pipes]
+[01:44:20] [Server thread/INFO]: TeeRobZti has made the advancement [Geology Rocks!]
+[01:44:21] [Server thread/INFO]: iRagc has made the advancement [The Gate]
+[01:44:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2515ms or 50 ticks behind
+[01:44:59] [Server thread/INFO]: zukinnyk has made the advancement [Safe Haven]
+[01:45:11] [Server thread/INFO]: iRagc has made the advancement [The Prison]
+[01:45:18] [Async Chat Thread - #53/INFO]: [Not Secure] <Gatunixdd> PAPA PITUFO EN DIRECTO ENTREN CARAJO
+[01:45:22] [Server thread/INFO]: lg_santiago_1 has made the advancement [The Prison]
+[01:45:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2502ms or 50 ticks behind
+[01:45:39] [Server thread/INFO]: iRagc has made the advancement ["Draining"]
+[01:45:42] [Server thread/INFO]: lg_santiago_1 has made the advancement ["Draining"]
+[01:45:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2512ms or 50 ticks behind
+[01:45:58] [Async Chat Thread - #54/INFO]: [Not Secure] <Gatunixdd> PAPA PITUFO EN DIRECTO ENTREN CARAJO
+[01:45:58] [Async Chat Thread - #53/INFO]: [Not Secure] <Gatunixdd> PAPA PITUFO EN DIRECTO ENTREN CARAJO
+[01:45:58] [Async Chat Thread - #53/INFO]: [Not Secure] <Gatunixdd> PAPA PITUFO EN DIRECTO ENTREN CARAJO
+[01:45:59] [Async Chat Thread - #53/INFO]: [Not Secure] <Gatunixdd> PAPA PITUFO EN DIRECTO ENTREN CARAJO
+[01:46:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2613ms or 52 ticks behind
+[01:46:23] [Async Chat Thread - #54/INFO]: [Not Secure] <Gatunixdd> lg_santiago_1
+[01:46:26] [Server thread/INFO]: TeeRobZti has made the advancement [Monster Hunter]
+[01:46:29] [Async Chat Thread - #53/INFO]: [Not Secure] <Gatunixdd> estan donde yo ya estuve xD
+[01:46:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4414ms or 88 ticks behind
+[01:46:36] [Paper Common Worker #0/WARN]: Skipping Entity with id 
+[01:46:36] [Paper Common Worker #0/WARN]: Skipping Entity with id 
+[01:46:46] [Paper Common Worker #0/WARN]: Skipping Entity with id 
+[01:46:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5229ms or 104 ticks behind
+[01:46:49] [Paper Common Worker #0/WARN]: Skipping Entity with id 
+[01:47:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5167ms or 103 ticks behind
+[01:47:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2521ms or 50 ticks behind
+[01:47:31] [Server thread/INFO]: Gatunixdd fell from a high place
+[01:47:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2543ms or 50 ticks behind
+[01:48:56] [Server thread/INFO]: TeeRobZti issued server command: /msg thenoxplayer tonto
+[01:49:03] [Server thread/INFO]: thenoxplayer issued server command: /msg TeeRobZti ok
+[01:49:09] [Server thread/INFO]: TeeRobZti issued server command: /msg thenoxplayer gordo ofendido
+[01:49:13] [Server thread/INFO]: thenoxplayer issued server command: /msg TeeRobZti ok
+[01:49:15] [Server thread/INFO]: TeeRobZti issued server command: /msg thenoxplayer gordo ofendido
+[01:49:16] [Server thread/INFO]: TeeRobZti issued server command: /msg thenoxplayer gordo ofendido
+[01:49:16] [Server thread/INFO]: TeeRobZti issued server command: /msg thenoxplayer gordo ofendido
+[01:49:17] [Server thread/INFO]: TeeRobZti issued server command: /msg thenoxplayer gordo ofendido
+[01:49:17] [Server thread/INFO]: TeeRobZti issued server command: /msg thenoxplayer gordo ofendido
+[01:49:18] [Server thread/INFO]: thenoxplayer issued server command: /msg TeeRobZti ok
+[01:49:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2502ms or 50 ticks behind
+[01:49:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3682ms or 73 ticks behind
+[01:50:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4193ms or 83 ticks behind
+[01:50:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4071ms or 81 ticks behind
+[01:50:22] [Async Chat Thread - #57/INFO]: [Not Secure] <thenoxplayer> travestiz
+[01:50:38] [Async Chat Thread - #57/INFO]: [Not Secure] <TeeRobZti> travezti
+[01:50:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2509ms or 50 ticks behind
+[01:50:40] [Async Chat Thread - #57/INFO]: [Not Secure] <thenoxplayer> teerobzti = travzti
+[01:50:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2566ms or 51 ticks behind
+[01:51:04] [Server thread/WARN]: AdrianoLC moved too quickly! 2.8933596078200026,-3.327587080270561,14.453300052736267
+[01:51:25] [Async Chat Thread - #58/INFO]: [Not Secure] <zukinnyk> TeeRavZti
+[01:51:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2508ms or 50 ticks behind
+[01:52:20] [Async Chat Thread - #58/INFO]: [Not Secure] <Gatunixdd> PAPA PITUFO EN DIRECTO ENTREN CARAJO
+[01:52:21] [Async Chat Thread - #58/INFO]: [Not Secure] <Gatunixdd> PAPA PITUFO EN DIRECTO ENTREN CARAJO
+[01:52:21] [Async Chat Thread - #58/INFO]: [Not Secure] <Gatunixdd> PAPA PITUFO EN DIRECTO ENTREN CARAJO
+[01:52:21] [Async Chat Thread - #58/INFO]: [Not Secure] <Gatunixdd> PAPA PITUFO EN DIRECTO ENTREN CARAJO
+[01:52:26] [Async Chat Thread - #58/INFO]: [Not Secure] <zukinnyk> que le pasa
+[01:52:31] [Async Chat Thread - #58/INFO]: [Not Secure] <TeeRobZti> nada
+[01:52:36] [Async Chat Thread - #57/INFO]: [Not Secure] <TeeRobZti> pero papa pitufo es papa pitufo.
+[01:52:39] [Async Chat Thread - #57/INFO]: [Not Secure] <Gatunixdd> aja
+[01:52:42] [Async Chat Thread - #57/INFO]: [Not Secure] <AdrianoLC> ban
+[01:52:42] [Server thread/INFO]: AdrianoLC lost connection: Timed out
+[01:52:42] [Server thread/INFO]: [voicechat] Disconnecting client AdrianoLC
+[01:52:42] [Server thread/INFO]: AdrianoLC left the game
+[01:52:43] [Async Chat Thread - #57/INFO]: [Not Secure] <Gatunixdd> entren a su directo chamos
+[01:53:00] [User Authenticator #13/INFO]: UUID of player AdrianoLC is c2ab7376-aed7-376e-8039-b4a37e24f8b1
+[01:53:09] [Server thread/INFO]: AdrianoLC joined the game
+[01:53:09] [Server thread/INFO]: AdrianoLC[/100.112.194.104:60924] logged in with entity id 211441 at ([world]1326.0226247410196, 92.9152008638929, -1482.1974782124037)
+[01:53:09] [Server thread/INFO]: [voicechat] Received secret request of AdrianoLC (18)
+[01:53:09] [Server thread/INFO]: [voicechat] Sent secret to AdrianoLC
+[01:53:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player c2ab7376-aed7-376e-8039-b4a37e24f8b1
+[01:53:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player c2ab7376-aed7-376e-8039-b4a37e24f8b1
+[01:53:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player AdrianoLC (c2ab7376-aed7-376e-8039-b4a37e24f8b1) successfully connected to voice chat
+[01:53:14] [Async Chat Thread - #57/INFO]: [Not Secure] <thenoxplayer> mi hijo
+[01:53:15] [Async Chat Thread - #57/INFO]: [Not Secure] <AdrianoLC> na
+[01:53:42] [Paper Common Worker #0/WARN]: Skipping Entity with id 
+[01:53:42] [Server thread/INFO]: [Not Secure] [Server] hola chicos
+[01:53:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2506ms or 50 ticks behind
+[01:53:45] [Async Chat Thread - #57/INFO]: [Not Secure] <thenoxplayer> hola
+[01:53:45] [Async Chat Thread - #58/INFO]: [Not Secure] <TeeRobZti> na
+[01:53:46] [Async Chat Thread - #58/INFO]: [Not Secure] <TeeRobZti> na
+[01:53:46] [Async Chat Thread - #58/INFO]: [Not Secure] <TeeRobZti> na
+[01:53:46] [Paper Common Worker #0/WARN]: Skipping Entity with id 
+[01:53:46] [Paper Common Worker #0/WARN]: Skipping Entity with id 
+[01:53:47] [Async Chat Thread - #58/INFO]: [Not Secure] <TeeRobZti> na
+[01:53:47] [Async Chat Thread - #58/INFO]: [Not Secure] <TeeRobZti> na
+[01:53:48] [Async Chat Thread - #57/INFO]: [Not Secure] <Gatunixdd> hola bro
+[01:53:49] [Async Chat Thread - #57/INFO]: [Not Secure] <TeeRobZti> me acosa
+[01:53:50] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-16, y=-54, z=1646}
+[01:53:51] [Async Chat Thread - #57/INFO]: [Not Secure] <TeeRobZti> quieen sos
+[01:53:52] [Paper Common Worker #0/WARN]: Skipping Entity with id 
+[01:53:54] [Paper Common Worker #0/WARN]: Skipping Entity with id 
+[01:53:54] [Paper Common Worker #0/WARN]: Skipping Entity with id 
+[01:53:57] [Paper Common Worker #0/WARN]: Skipping Entity with id 
+[01:54:08] [User Authenticator #14/INFO]: UUID of player qSeren is 60f425a3-b4ca-31c1-a532-8475c0b676c0
+[01:54:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2503ms or 50 ticks behind
+[01:54:12] [Async Chat Thread - #57/INFO]: [Not Secure] <Gatunixdd> seren
+[01:54:19] [Server thread/INFO]: qSeren joined the game
+[01:54:19] [Server thread/INFO]: qSeren[/100.110.74.102:56904] logged in with entity id 212903 at ([world]126.69716597131598, 75.0, 320.69999998807907)
+[01:54:19] [Server thread/INFO]: [voicechat] Received secret request of qSeren (18)
+[01:54:19] [Server thread/INFO]: [voicechat] Sent secret to qSeren
+[01:54:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 60f425a3-b4ca-31c1-a532-8475c0b676c0
+[01:54:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 60f425a3-b4ca-31c1-a532-8475c0b676c0
+[01:54:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player qSeren (60f425a3-b4ca-31c1-a532-8475c0b676c0) successfully connected to voice chat
+[01:54:22] [Async Chat Thread - #57/INFO]: [Not Secure] <TeeRobZti> NA
+[01:54:23] [Server thread/INFO]: TeeRobZti issued server command: /
+[01:54:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2849ms or 56 ticks behind
+[01:54:27] [Async Chat Thread - #57/INFO]: [Not Secure] <Gatunixdd> seren
+[01:54:28] [Async Chat Thread - #57/INFO]: [Not Secure] <Gatunixdd> seren
+[01:54:29] [Async Chat Thread - #57/INFO]: [Not Secure] <Gatunixdd> seren
+[01:54:34] [Async Chat Thread - #57/INFO]: [Not Secure] <qSeren> s
+[01:54:41] [Async Chat Thread - #57/INFO]: [Not Secure] <Gatunixdd> se permiten granjas?
+[01:54:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5563ms or 111 ticks behind
+[01:55:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4481ms or 89 ticks behind
+[01:55:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4729ms or 94 ticks behind
+[01:55:31] [Server thread/INFO]: lg_santiago_1 has made the advancement [A Major Trial Of Strengh]
+[01:55:33] [Server thread/INFO]: Gatunixdd has made the advancement [A Major Trial Of Strengh]
+[01:55:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5591ms or 111 ticks behind
+[01:56:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5967ms or 119 ticks behind
+[01:56:20] [Server thread/INFO]: iRagc has made the advancement [A Major Trial Of Strengh]
+[01:56:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4548ms or 90 ticks behind
+[01:56:30] [Server thread/INFO]: thenoxplayer has made the advancement [Night Sky Stalkers]
+[01:56:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4170ms or 83 ticks behind
+[01:56:48] [Async Chat Thread - #59/INFO]: [Not Secure] <TeeRobZti> 7cords pls
+[01:56:53] [Server thread/INFO]: TeeRobZti issued server command: /cords
+[01:57:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3457ms or 69 ticks behind
+[01:57:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2889ms or 57 ticks behind
+[01:57:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2695ms or 53 ticks behind
+[01:57:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2578ms or 51 ticks behind
+[01:58:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
+[01:58:26] [Server thread/INFO]: Villager Villager['Fisherman'/213449, uuid='7f869f2f-4de8-467e-9623-470ef838f29b', l='ServerLevel[world]', x=1298.44, y=89.00, z=-968.30, cpos=[81, -61], tl=7227, v=true] died, message: 'Fisherman was slain by Zombie'
+[01:58:34] [Server thread/INFO]: Gatunixdd has made the advancement [Not Today, Thank You]
+[01:58:39] [Server thread/INFO]: lg_santiago_1 has made the advancement [Not Today, Thank You]
+[01:58:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2501ms or 50 ticks behind
+[01:59:18] [Server thread/INFO]: Unknown or incomplete command, see below for error
+/title @a subtitle ["Voy a hacer cambios en el server"]<--[HERE]
+[01:59:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2502ms or 50 ticks behind
+[01:59:28] [Server thread/INFO]: Made qSeren a server operator
+[01:59:35] [Server thread/INFO]: qSeren issued server command: /title @a subtitle ["Voy a hacer cambios en el server"]
+[01:59:35] [Server thread/INFO]: [qSeren: Showing new subtitle for 8 players]
+[01:59:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2528ms or 50 ticks behind
+[02:00:01] [Server thread/INFO]: qSeren issued server command: /title @a title ["",{"text":"Encierrense","italic":true,"bold":true,"color":"dark_red"}]
+[02:00:01] [Server thread/INFO]: [qSeren: Showing new title for 8 players]
+[02:00:05] [Async Chat Thread - #61/INFO]: [Not Secure] <AdrianoLC> espera
+[02:00:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2508ms or 50 ticks behind
+[02:00:42] [Server thread/INFO]: qSeren issued server command: /title @a subtitle [""]
+[02:00:42] [Server thread/INFO]: [qSeren: Showing new subtitle for 8 players]
+[02:00:43] [Server thread/INFO]: qSeren issued server command: /title @a title ["",{"text":"Todos listos?","color":"dark_red","bold":true,"italic":true}]
+[02:00:43] [Server thread/INFO]: [qSeren: Showing new title for 8 players]
+[02:00:48] [Async Chat Thread - #61/INFO]: [Not Secure] <zukinnyk> como
+[02:00:52] [Async Chat Thread - #61/INFO]: [Not Secure] <thenoxplayer> amigo parece q van a violar a alguien
+[02:00:55] [Async Chat Thread - #61/INFO]: [Not Secure] <AdrianoLC> XDD
+[02:00:58] [Async Chat Thread - #61/INFO]: [Not Secure] <AdrianoLC> apaga
+[02:00:59] [Async Chat Thread - #61/INFO]: [Not Secure] <AdrianoLC> cierra
+[02:01:00] [Async Chat Thread - #61/INFO]: [Not Secure] <AdrianoLC> quita
+[02:01:01] [Async Chat Thread - #61/INFO]: [Not Secure] <AdrianoLC> saca
+[02:01:02] [Async Chat Thread - #61/INFO]: [Not Secure] <AdrianoLC> pene
+[02:01:40] [Async Chat Thread - #61/INFO]: [Not Secure] <Gatunixdd> PAPA PITUFO EN DIRECTO ENTREN CARAJO
+[02:01:40] [Async Chat Thread - #61/INFO]: [Not Secure] <Gatunixdd> PAPA PITUFO EN DIRECTO ENTREN CARAJO
+[02:01:40] [Async Chat Thread - #61/INFO]: [Not Secure] <Gatunixdd> PAPA PITUFO EN DIRECTO ENTREN CARAJO
+[02:01:41] [Async Chat Thread - #61/INFO]: [Not Secure] <Gatunixdd> PAPA PITUFO EN DIRECTO ENTREN CARAJO
+[02:01:41] [Async Chat Thread - #61/INFO]: [Not Secure] <Gatunixdd> PAPA PITUFO EN DIRECTO ENTREN CARAJO
+[02:02:16] [Async Chat Thread - #61/INFO]: [Not Secure] <iRagc> van a cerrar o no
+[02:02:43] [Server thread/INFO]: qSeren issued server command: /gamerule playersSleepingPercentage 50
+[02:02:43] [Server thread/INFO]: [qSeren: Gamerule playersSleepingPercentage is now set to: 50]
+[02:02:48] [Async Chat Thread - #61/INFO]: [Not Secure] <Gatunixdd> GO CAMBIO GO CAMBIO
+[02:03:36] [Async Chat Thread - #61/INFO]: [Not Secure] <Gatunixdd> bro f1 lg_santiago_1
+[02:03:42] [Async Chat Thread - #61/INFO]: [Not Secure] <iRagc> xd
+[02:04:07] [Async Chat Thread - #61/INFO]: [Not Secure] <Gatunixdd> XDDDDDD
+[02:04:19] [Async Chat Thread - #61/INFO]: [Not Secure] <Gatunixdd> aca hay nieve
+[02:04:21] [Async Chat Thread - #61/INFO]: [Not Secure] <Gatunixdd> mono
+[02:04:27] [Server thread/INFO]: TeeRobZti has made the advancement [Safe Haven]
+[02:04:33] [Async Chat Thread - #61/INFO]: [Not Secure] <Gatunixdd> MONAZO
+[02:06:02] [Server thread/INFO]: iRagc has reached the goal [Eye of Darkness]
+[02:06:19] [Server thread/INFO]: TeeRobZti has made the advancement [Ice Bucket Challenge]
+[02:07:30] [Server thread/INFO]: Gatunixdd has made the advancement [Under Lock and Key]
+[02:07:40] [Server thread/INFO]: lg_santiago_1 has made the advancement [Under Lock and Key]
+[02:07:42] [Server thread/INFO]: lg_santiago_1 has reached the goal [Eye of Darkness]
+[02:07:48] [Server thread/INFO]: iRagc has made the advancement [Under Lock and Key]
+[02:07:55] [Server thread/INFO]: AdrianoLC has made the advancement [Take Aim]
+[02:08:34] [Server thread/INFO]: qSeren has made the advancement [A Seedy Place]
+[02:08:49] [Server thread/INFO]: thenoxplayer lost connection: Timed out
+[02:08:49] [Server thread/INFO]: [voicechat] Disconnecting client thenoxplayer
+[02:08:49] [Server thread/INFO]: thenoxplayer left the game
+[02:08:56] [Async Chat Thread - #63/INFO]: [Not Secure] <TeeRobZti> come with me
+[02:08:59] [Async Chat Thread - #63/INFO]: [Not Secure] <TeeRobZti> jeil meri
+[02:09:05] [Server thread/INFO]: lg_santiago_1 fell from a high place
+[02:09:21] [User Authenticator #15/INFO]: UUID of player thenoxplayer is 75b751ed-9d4b-3eb0-b6e9-8ac93294d4e5
+[02:09:40] [Server thread/INFO]: thenoxplayer joined the game
+[02:09:40] [Server thread/INFO]: thenoxplayer[/100.127.46.50:50812] logged in with entity id 224597 at ([world]360.7737460604025, 92.0, -797.600763911375)
+[02:09:41] [Server thread/INFO]: [voicechat] Received secret request of thenoxplayer (18)
+[02:09:41] [Server thread/INFO]: [voicechat] Sent secret to thenoxplayer
+[02:09:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 75b751ed-9d4b-3eb0-b6e9-8ac93294d4e5
+[02:09:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 75b751ed-9d4b-3eb0-b6e9-8ac93294d4e5
+[02:09:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player thenoxplayer (75b751ed-9d4b-3eb0-b6e9-8ac93294d4e5) successfully connected to voice chat
+[02:10:15] [Async Chat Thread - #65/INFO]: [Not Secure] <thenoxplayer> asd
+[02:10:15] [Server thread/INFO]: thenoxplayer lost connection: Timed out
+[02:10:15] [Server thread/INFO]: [voicechat] Disconnecting client thenoxplayer
+[02:10:15] [Server thread/INFO]: thenoxplayer left the game
+[02:10:25] [User Authenticator #16/INFO]: UUID of player thenoxplayer is 75b751ed-9d4b-3eb0-b6e9-8ac93294d4e5
+[02:10:35] [Server thread/INFO]: thenoxplayer joined the game
+[02:10:35] [Server thread/INFO]: thenoxplayer[/100.127.46.50:50859] logged in with entity id 225129 at ([world]360.7737460604025, 92.0, -797.600763911375)
+[02:10:35] [Server thread/INFO]: [voicechat] Received secret request of thenoxplayer (18)
+[02:10:35] [Server thread/INFO]: [voicechat] Sent secret to thenoxplayer
+[02:10:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 75b751ed-9d4b-3eb0-b6e9-8ac93294d4e5
+[02:10:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 75b751ed-9d4b-3eb0-b6e9-8ac93294d4e5
+[02:10:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player thenoxplayer (75b751ed-9d4b-3eb0-b6e9-8ac93294d4e5) successfully connected to voice chat
+[02:10:37] [Async Chat Thread - #65/INFO]: [Not Secure] <thenoxplayer> asd
+[02:10:38] [Async Chat Thread - #65/INFO]: [Not Secure] <thenoxplayer> ahi
+[02:11:26] [Server thread/INFO]: TeeRobZti has made the advancement [Sweet Dreams]
+[02:12:06] [Async Chat Thread - #67/INFO]: [Not Secure] <TeeRobZti> COME
+[02:12:07] [Async Chat Thread - #67/INFO]: [Not Secure] <TeeRobZti> WITH
+[02:12:08] [Async Chat Thread - #67/INFO]: [Not Secure] <TeeRobZti> ME
+[02:12:10] [Async Chat Thread - #67/INFO]: [Not Secure] <TeeRobZti> HAIL AMRY
+[02:12:11] [Async Chat Thread - #68/INFO]: [Not Secure] <TeeRobZti> BOR
+[02:12:12] [Async Chat Thread - #67/INFO]: [Not Secure] <TeeRobZti> MAY
+[02:12:14] [Async Chat Thread - #67/INFO]: [Not Secure] <TeeRobZti> MARY
+[02:12:35] [Async Chat Thread - #67/INFO]: [Not Secure] <thenoxplayer> 7sleep
+[02:12:37] [Async Chat Thread - #67/INFO]: [Not Secure] <thenoxplayer> necesitamos 4
+[02:12:38] [Server thread/INFO]: thenoxplayer has made the advancement [Sweet Dreams]
+[02:12:41] [Async Chat Thread - #67/INFO]: [Not Secure] <TeeRobZti> 7follar tu vieja
+[02:12:50] [Async Chat Thread - #67/INFO]: [Not Secure] <zukinnyk> ch!fuck @everyone
+[02:12:53] [Async Chat Thread - #67/INFO]: [Not Secure] <TeeRobZti> XD
+[02:12:55] [Async Chat Thread - #68/INFO]: [Not Secure] <thenoxplayer> bro usa nekotina
+[02:12:59] [Async Chat Thread - #68/INFO]: [Not Secure] <TeeRobZti> q dice
+[02:12:59] [Async Chat Thread - #68/INFO]: [Not Secure] <thenoxplayer> o otro bot
+[02:13:00] [Async Chat Thread - #68/INFO]: [Not Secure] <thenoxplayer> del estilo
+[02:13:07] [Async Chat Thread - #67/INFO]: [Not Secure] <TeeRobZti> ese es chocolat
+[02:13:08] [Async Chat Thread - #67/INFO]: [Not Secure] <TeeRobZti> mono
+[02:13:12] [Async Chat Thread - #67/INFO]: [Not Secure] <thenoxplayer> no uso esos bots
+[02:13:20] [Async Chat Thread - #67/INFO]: [Not Secure] <TeeRobZti> chocolat ya no existe
+[02:13:21] [Async Chat Thread - #67/INFO]: [Not Secure] <TeeRobZti> ....
+[02:13:23] [Async Chat Thread - #67/INFO]: [Not Secure] <AdrianoLC> ez
+[02:13:59] [Async Chat Thread - #67/INFO]: [Not Secure] <Gatunixdd> nox
+[02:14:01] [Async Chat Thread - #67/INFO]: [Not Secure] <thenoxplayer> q
+[02:14:26] [Async Chat Thread - #67/INFO]: [Not Secure] <Gatunixdd> so
+[02:14:29] [Async Chat Thread - #67/INFO]: [Not Secure] <thenoxplayer> matate
+[02:14:38] [Async Chat Thread - #67/INFO]: [Not Secure] <Gatunixdd> mi hijito
+[02:15:31] [Server thread/INFO]: TeeRobZti has made the advancement [A Seedy Place]
+[02:16:16] [Server thread/INFO]: zukinnyk has made the advancement [A Seedy Place]
+[02:16:29] [Server thread/INFO]: Gatunixdd has made the advancement [Hint: Skull]
+[02:17:58] [Server thread/INFO]: AdrianoLC has made the advancement [Diamonds!]
+[02:18:08] [Server thread/INFO]: qSeren lost connection: Disconnected
+[02:18:08] [Server thread/INFO]: [voicechat] Disconnecting client qSeren
+[02:18:08] [Server thread/INFO]: qSeren left the game
+[02:20:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 375e8eef-1b7d-320f-92ce-8498cff3acd8 timed out
+[02:20:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player TeeRobZti
+[02:20:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to TeeRobZti
+[02:21:07] [Server thread/INFO]: TeeRobZti lost connection: Timed out
+[02:21:07] [Server thread/INFO]: [voicechat] Disconnecting client TeeRobZti
+[02:21:07] [Server thread/INFO]: TeeRobZti left the game
+[02:21:19] [User Authenticator #17/INFO]: UUID of player TeeRobZti is 375e8eef-1b7d-320f-92ce-8498cff3acd8
+[02:21:35] [Server thread/INFO]: TeeRobZti joined the game
+[02:21:35] [Server thread/INFO]: TeeRobZti[/100.127.109.47:61750] logged in with entity id 230734 at ([world]505.5525171375049, 72.0, -295.69999998807907)
+[02:21:36] [Server thread/INFO]: [voicechat] Received secret request of TeeRobZti (18)
+[02:21:36] [Server thread/INFO]: [voicechat] Sent secret to TeeRobZti
+[02:21:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 375e8eef-1b7d-320f-92ce-8498cff3acd8
+[02:21:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 375e8eef-1b7d-320f-92ce-8498cff3acd8
+[02:21:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player TeeRobZti (375e8eef-1b7d-320f-92ce-8498cff3acd8) successfully connected to voice chat
+[02:21:40] [Async Chat Thread - #69/INFO]: [Not Secure] <TeeRobZti> lag total
+[02:21:50] [Async Chat Thread - #69/INFO]: [Not Secure] <TeeRobZti> tel your frends wi can be diferen
+[02:21:58] [Server thread/INFO]: TeeRobZti issued server command: /msg thenoxplayer Como va tu brazo
+[02:22:14] [Server thread/INFO]: iRagc fell from a high place
+[02:22:35] [Async Chat Thread - #69/INFO]: [Not Secure] <Gatunixdd> monazo mi hijo
+[02:22:42] [Async Chat Thread - #69/INFO]: [Not Secure] <TeeRobZti> c lg
+[02:22:43] [Async Chat Thread - #69/INFO]: [Not Secure] <TeeRobZti> malazo
+[02:22:48] [Async Chat Thread - #69/INFO]: [Not Secure] <TeeRobZti> lo voy a cagar a piñas
+[02:22:49] [Async Chat Thread - #69/INFO]: [Not Secure] <Gatunixdd> REAL
+[02:22:54] [Async Chat Thread - #69/INFO]: [Not Secure] <Gatunixdd> TeeRobZti te lo rgalo
+[02:22:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player c2ab7376-aed7-376e-8039-b4a37e24f8b1 timed out
+[02:22:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player AdrianoLC
+[02:22:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to AdrianoLC
+[02:23:06] [User Authenticator #18/INFO]: UUID of player qSeren is 60f425a3-b4ca-31c1-a532-8475c0b676c0
+[02:23:17] [Async Chat Thread - #69/INFO]: [Not Secure] <AdrianoLC> na
+[02:23:20] [Async Chat Thread - #69/INFO]: [Not Secure] <zukinnyk> sodio
+[02:23:20] [Server thread/INFO]: iRagc has made the advancement [Hint: The Priest]
+[02:23:23] [Server thread/INFO]: qSeren joined the game
+[02:23:23] [Server thread/INFO]: qSeren[/100.110.74.102:58716] logged in with entity id 231533 at ([world]516.1714757929653, 74.0, -321.1698058321788)
+[02:23:23] [Server thread/INFO]: [voicechat] Received secret request of qSeren (18)
+[02:23:23] [Server thread/INFO]: [voicechat] Sent secret to qSeren
+[02:23:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 60f425a3-b4ca-31c1-a532-8475c0b676c0
+[02:23:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 60f425a3-b4ca-31c1-a532-8475c0b676c0
+[02:23:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player qSeren (60f425a3-b4ca-31c1-a532-8475c0b676c0) successfully connected to voice chat
+[02:23:49] [Server thread/INFO]: AdrianoLC lost connection: Timed out
+[02:23:49] [Server thread/INFO]: [voicechat] Disconnecting client AdrianoLC
+[02:23:49] [Server thread/INFO]: AdrianoLC left the game
+[02:25:01] [Async Chat Thread - #71/INFO]: [Not Secure] <TeeRobZti> hola
+[02:25:23] [Async Chat Thread - #71/INFO]: [Not Secure] <TeeRobZti> z
+[02:25:24] [Async Chat Thread - #71/INFO]: [Not Secure] <qSeren> Gatunixdd no te moriste
+[02:25:28] [Async Chat Thread - #71/INFO]: [Not Secure] <Gatunixdd> si mano
+[02:25:31] [Async Chat Thread - #71/INFO]: [Not Secure] <Gatunixdd> me mori hace ratos
+[02:25:32] [Async Chat Thread - #71/INFO]: [Not Secure] <TeeRobZti> ZZZ
+[02:25:32] [Async Chat Thread - #71/INFO]: [Not Secure] <TeeRobZti> Z
+[02:25:32] [Async Chat Thread - #72/INFO]: [Not Secure] <TeeRobZti> Z
+[02:25:33] [Async Chat Thread - #72/INFO]: [Not Secure] <TeeRobZti> Z
+[02:25:33] [Async Chat Thread - #72/INFO]: [Not Secure] <TeeRobZti> Z
+[02:25:33] [Async Chat Thread - #72/INFO]: [Not Secure] <TeeRobZti> Z
+[02:25:33] [Async Chat Thread - #72/INFO]: [Not Secure] <TeeRobZti> ZZ
+[02:25:34] [Async Chat Thread - #72/INFO]: [Not Secure] <Gatunixdd> y perdi todo xD
+[02:25:35] [Async Chat Thread - #72/INFO]: [Not Secure] <qSeren> te saco la muerte por el lag?
+[02:25:39] [Async Chat Thread - #72/INFO]: [Not Secure] <Gatunixdd> si p xD
+[02:25:49] [Async Chat Thread - #72/INFO]: [Not Secure] <Gatunixdd> tenia lag, sali y cuando volvi me mori
+[02:27:14] [Server thread/INFO]: Command execution stopped due to limit (executed 65536 commands)
+[02:27:30] [Async Chat Thread - #73/INFO]: [Not Secure] <qSeren> no encuentro tu muerte asi que no puedo sacar tus coords
+[02:27:31] [Async Chat Thread - #73/INFO]: [Not Secure] <qSeren> perdonam
+[02:27:35] [Async Chat Thread - #74/INFO]: [Not Secure] <Gatunixdd> dale ntp p
+[02:27:35] [Async Chat Thread - #74/INFO]: [Not Secure] <qSeren> te molesta empezar de nuevo?
+[02:27:43] [Async Chat Thread - #74/INFO]: [Not Secure] <qSeren> o te doy una recompensa por ello no hay problema
+[02:27:46] [Async Chat Thread - #74/INFO]: [Not Secure] <Gatunixdd> nono, ya consegui muchas de las cosas
+[02:27:54] [Server thread/INFO]: qSeren issued server command: /scoreboard players set Gatunixdd Muertes 1
+[02:27:54] [Server thread/INFO]: [qSeren: Set [Muertes] for Gatunixdd to 1]
+[02:27:55] [Async Chat Thread - #74/INFO]: [Not Secure] <qSeren> listo
+[02:27:59] [Async Chat Thread - #74/INFO]: [Not Secure] <Gatunixdd> namas eran el hierro xd, eso era lo importante p
+[02:28:42] [Server thread/INFO]: lg_santiago_1 has made the advancement [Hint: The Priest]
+[02:30:29] [Async Chat Thread - #75/INFO]: [Not Secure] <Gatunixdd> asd
+[02:30:59] [Async Chat Thread - #75/INFO]: [Not Secure] <Gatunixdd> se me oye?
+[02:31:16] [Async Chat Thread - #75/INFO]: [Not Secure] <Gatunixdd> ah yA
+[02:31:18] [Async Chat Thread - #75/INFO]: [Not Secure] <Gatunixdd> suban aca
+[02:31:25] [Async Chat Thread - #75/INFO]: [Not Secure] <TeeRobZti> q puto temazo que es mo money mo problems bro
+[02:33:02] [Server thread/INFO]: lg_santiago_1 has made the advancement [Hint: Skull]
+[02:33:09] [User Authenticator #19/INFO]: UUID of player AdrianoLC is c2ab7376-aed7-376e-8039-b4a37e24f8b1
+[02:33:18] [Server thread/INFO]: AdrianoLC joined the game
+[02:33:18] [Server thread/INFO]: AdrianoLC[/100.112.194.104:61152] logged in with entity id 235956 at ([world]542.5018604741234, 75.0, -344.0194373259771)
+[02:33:18] [Server thread/INFO]: [voicechat] Received secret request of AdrianoLC (18)
+[02:33:18] [Server thread/INFO]: [voicechat] Sent secret to AdrianoLC
+[02:33:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player c2ab7376-aed7-376e-8039-b4a37e24f8b1
+[02:33:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player c2ab7376-aed7-376e-8039-b4a37e24f8b1
+[02:33:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player AdrianoLC (c2ab7376-aed7-376e-8039-b4a37e24f8b1) successfully connected to voice chat
+[02:33:25] [Server thread/INFO]: Gatunixdd has made the advancement [Sneak 100]
+[02:33:27] [Async Chat Thread - #77/INFO]: [Not Secure] <TeeRobZti> gg la panza suprema
+[02:33:28] [Async Chat Thread - #77/INFO]: [Not Secure] <TeeRobZti> NA
+[02:33:30] [Async Chat Thread - #77/INFO]: [Not Secure] <TeeRobZti> GORDO WARDEN
+[02:33:44] [Async Chat Thread - #77/INFO]: [Not Secure] <Gatunixdd> WEON DE DONDE HAY WARDEN EN EL MARXDDDDDDDDDDDD
+[02:33:53] [Async Chat Thread - #77/INFO]: [Not Secure] <qSeren> no hay
+[02:33:55] [Async Chat Thread - #77/INFO]: [Not Secure] <qSeren> las shrine tienen
+[02:33:58] [Async Chat Thread - #77/INFO]: [Not Secure] <qSeren> sculk sensor
+[02:34:01] [Async Chat Thread - #77/INFO]: [Not Secure] <qSeren> las mini trials esas
+[02:34:04] [Async Chat Thread - #77/INFO]: [Not Secure] <Gatunixdd> ah
+[02:34:25] [Async Chat Thread - #77/INFO]: [Not Secure] <zukinnyk> bueno me voy chauuuuu
+[02:34:26] [Server thread/INFO]: zukinnyk lost connection: Disconnected
+[02:34:26] [Server thread/INFO]: [voicechat] Disconnecting client zukinnyk
+[02:34:26] [Server thread/INFO]: zukinnyk left the game
+[02:34:41] [Async Chat Thread - #77/INFO]: [Not Secure] <TeeRobZti> chau
+[02:34:46] [Async Chat Thread - #77/INFO]: [Not Secure] <qSeren> XDDD
+[02:34:49] [Async Chat Thread - #77/INFO]: [Not Secure] <TeeRobZti> XD
+[02:38:25] [Server thread/INFO]: lg_santiago_1 lost connection: Timed out
+[02:38:25] [Server thread/INFO]: [voicechat] Disconnecting client lg_santiago_1
+[02:38:25] [Server thread/INFO]: lg_santiago_1 left the game
+[02:38:41] [User Authenticator #20/INFO]: UUID of player lg_santiago_1 is fff5a079-dc60-3719-a578-b75765a10c2a
+[02:38:51] [Server thread/INFO]: lg_santiago_1 joined the game
+[02:38:51] [Server thread/INFO]: lg_santiago_1[/100.122.4.58:59818] logged in with entity id 240364 at ([world]-698.2436205452395, 94.0, -758.289925200847)
+[02:38:52] [Server thread/INFO]: [voicechat] Received secret request of lg_santiago_1 (18)
+[02:38:52] [Server thread/INFO]: [voicechat] Sent secret to lg_santiago_1
+[02:38:55] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player fff5a079-dc60-3719-a578-b75765a10c2a
+[02:38:56] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player fff5a079-dc60-3719-a578-b75765a10c2a
+[02:38:56] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player lg_santiago_1 (fff5a079-dc60-3719-a578-b75765a10c2a) successfully connected to voice chat
+[02:39:20] [Server thread/INFO]: qSeren has made the advancement [What a Deal!]
+[02:39:37] [Server thread/INFO]: lg_santiago_1 lost connection: Disconnected
+[02:39:37] [Server thread/INFO]: [voicechat] Disconnecting client lg_santiago_1
+[02:39:37] [Server thread/INFO]: lg_santiago_1 left the game
+[02:39:59] [Server thread/INFO]: TeeRobZti issued server command: /msg thenoxplayer Como va tu brazo
+[02:40:00] [Server thread/INFO]: TeeRobZti issued server command: /msg thenoxplayer Como va tu brazo
+[02:40:01] [Server thread/INFO]: TeeRobZti issued server command: /msg thenoxplayer Como va tu brazo
+[02:40:04] [Server thread/INFO]: thenoxplayer issued server command: /msg TeeRobZti bien
+[02:40:12] [Server thread/INFO]: TeeRobZti issued server command: /msg thenoxplayer mejor que antes?
+[02:40:18] [Server thread/INFO]: thenoxplayer issued server command: /msg TeeRobZti si, ya no pica
+[02:40:26] [Server thread/INFO]: TeeRobZti issued server command: /msg thenoxplayer que ansiedad me da escuchar eso XD
+[02:41:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2517ms or 50 ticks behind
+[02:42:25] [Server thread/INFO]: Villager Villager['Mason'/372, uuid='2eb6a1d3-4711-4027-8bf8-619b7808b218', l='ServerLevel[world]', x=144.35, y=-20.00, z=89.50, cpos=[9, 5], tl=88370, v=true] died, message: 'Mason hit the ground too hard'
+[02:45:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2503ms or 50 ticks behind
+[02:46:12] [Async Chat Thread - #81/INFO]: [Not Secure] <iRagc> que mrd
+[02:46:19] [Async Chat Thread - #81/INFO]: [Not Secure] <Gatunixdd> 1500 apenas es borde??
+[02:46:23] [Async Chat Thread - #81/INFO]: [Not Secure] <qSeren> si
+[02:46:26] [Async Chat Thread - #81/INFO]: [Not Secure] <qSeren> mañana se abre mas el borde
+[02:46:30] [Async Chat Thread - #81/INFO]: [Not Secure] <qSeren> es para limitar la exploracion dia a dia
+[02:46:35] [Async Chat Thread - #81/INFO]: [Not Secure] <Gatunixdd> ah ya
+[02:46:38] [Async Chat Thread - #81/INFO]: [Not Secure] <qSeren> mañana a 3000
+[02:46:42] [Async Chat Thread - #81/INFO]: [Not Secure] <qSeren> pero yo voy subiendo de 500 en 500
+[02:46:49] [Server thread/INFO]: thenoxplayer was blown up by Creeper
+[02:46:54] [Async Chat Thread - #81/INFO]: [Not Secure] <Gatunixdd> C NOX
+[02:47:00] [Server thread/INFO]: TeeRobZti has made the advancement [Not Today, Thank You]
+[02:47:39] [Server thread/INFO]: iRagc lost connection: Disconnected
+[02:47:39] [Server thread/INFO]: [voicechat] Disconnecting client iRagc
+[02:47:39] [Server thread/INFO]: iRagc left the game
+[02:47:40] [Server thread/INFO]: Gatunixdd lost connection: Disconnected
+[02:47:40] [Server thread/INFO]: [voicechat] Disconnecting client Gatunixdd
+[02:47:40] [Server thread/INFO]: Gatunixdd left the game
+[02:48:29] [Server thread/INFO]: qSeren has made the advancement [Safe Haven]
+[02:53:58] [Server thread/INFO]: thenoxplayer issued server command: /msg TeeRobZti quedamos asi wachin
+[02:55:02] [Server thread/INFO]: thenoxplayer issued server command: /msg TeeRobZti quedamos asi wachin
+[02:59:03] [Server thread/INFO]: qSeren issued server command: /team join momo @a
+[02:59:03] [Server thread/INFO]: [qSeren: Added 4 members to team [momo]]
+[03:01:01] [User Authenticator #21/INFO]: UUID of player lg_santiago_1 is fff5a079-dc60-3719-a578-b75765a10c2a
+[03:01:06] [Server thread/INFO]: lg_santiago_1 joined the game
+[03:01:06] [Server thread/INFO]: lg_santiago_1[/100.122.4.58:59870] logged in with entity id 252204 at ([world]-669.5153958961462, 84.0, -863.6854963209981)
+[03:01:07] [Server thread/INFO]: [voicechat] Received secret request of lg_santiago_1 (18)
+[03:01:07] [Server thread/INFO]: [voicechat] Sent secret to lg_santiago_1
+[03:01:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player fff5a079-dc60-3719-a578-b75765a10c2a
+[03:01:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player fff5a079-dc60-3719-a578-b75765a10c2a
+[03:01:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player lg_santiago_1 (fff5a079-dc60-3719-a578-b75765a10c2a) successfully connected to voice chat
+[03:01:16] [Async Chat Thread - #87/INFO]: [Not Secure] <qSeren> santiago
+[03:01:27] [Async Chat Thread - #88/INFO]: [Not Secure] <lg_santiago_1> ?
+[03:01:33] [Async Chat Thread - #88/INFO]: [Not Secure] <qSeren> eres tu?
+[03:01:36] [Async Chat Thread - #88/INFO]: [Not Secure] <lg_santiago_1> si
+[03:01:49] [Async Chat Thread - #88/INFO]: [Not Secure] <qSeren> no seras gordomm?
+[03:01:56] [Async Chat Thread - #88/INFO]: [Not Secure] <lg_santiago_1> ?
+[03:02:00] [Async Chat Thread - #88/INFO]: [Not Secure] <qSeren> gordomm_23?
+[03:02:08] [Async Chat Thread - #88/INFO]: [Not Secure] <lg_santiago_1> no se quien es
+[03:02:16] [Async Chat Thread - #88/INFO]: [Not Secure] <thenoxplayer> lg
+[03:02:18] [Async Chat Thread - #88/INFO]: [Not Secure] <thenoxplayer> de donde sos
+[03:02:18] [Async Chat Thread - #88/INFO]: [Not Secure] <qSeren> gordomm_123*
+[03:02:26] [Async Chat Thread - #88/INFO]: [Not Secure] <lg_santiago_1> guatemala
+[03:02:40] [Async Chat Thread - #88/INFO]: [Not Secure] <thenoxplayer> entra a vc
+[03:02:44] [Async Chat Thread - #87/INFO]: [Not Secure] <lg_santiago_1> voy
+[03:04:11] [Server thread/WARN]: lg_santiago_1 moved too quickly! 5.443292658565781,-4.043535620147509,-9.464379729564598
+[03:04:19] [Server thread/INFO]: lg_santiago_1 lost connection: Disconnected
+[03:04:19] [Server thread/INFO]: [voicechat] Disconnecting client lg_santiago_1
+[03:04:19] [Server thread/INFO]: lg_santiago_1 left the game
+[03:07:17] [Server thread/INFO]: Villager Villager['Farmer'/184985, uuid='9015703f-54fb-4f6a-a15c-ef2168376040', l='ServerLevel[world]', x=526.60, y=71.00, z=-368.04, cpos=[32, -24], tl=140830, v=true] died, message: 'Farmer was slain by Zombie'
+[03:07:26] [Server thread/INFO]: Villager Villager['Villager'/185116, uuid='011a2b98-c97f-40ae-9ba9-47ae0325e05e', l='ServerLevel[world]', x=531.38, y=71.56, z=-364.32, cpos=[33, -23], tl=140461, v=true] died, message: 'Villager was slain by Zombie'
+[03:07:34] [Server thread/INFO]: Villager Villager['Villager'/251431, uuid='d075c335-3475-4c30-a4a2-c2f3a989ac16', l='ServerLevel[world]', x=528.69, y=71.56, z=-364.24, cpos=[33, -23], tl=10467, v=true] died, message: 'Villager was slain by Zombie Villager'
+[03:08:29] [Async Chat Thread - #89/INFO]: [Not Secure] <qSeren> s
+[03:16:22] [Server thread/INFO]: qSeren has made the advancement [Cover Me with Diamonds]
+[03:21:18] [Async Chat Thread - #91/INFO]: [Not Secure] <qSeren> escriper
+[03:25:04] [Server thread/INFO]: TeeRobZti issued server command: /team leave
+[03:28:14] [Server thread/INFO]: thenoxplayer has made the advancement [Diamonds!]
+[03:28:19] [Async Chat Thread - #93/INFO]: [Not Secure] <qSeren> voy a cerrar
+[03:28:21] [Async Chat Thread - #93/INFO]: [Not Secure] <qSeren> se encierran?
+[03:30:00] [Server thread/INFO]: qSeren issued server command: /stop
+[03:30:00] [Server thread/INFO]: [qSeren: Stopping the server]
+[03:30:01] [Server thread/INFO]: Stopping server
+[03:30:01] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.2
+[03:30:01] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.26
+[03:30:01] [Server thread/INFO]: [ImageFrame] Disabling ImageFrame v1.7.10.0
+[03:30:01] [Server thread/INFO]: [ImageFrame] ImageFrame has been Disabled!
+[03:30:01] [Server thread/INFO]: Saving players
+[03:30:01] [Server thread/INFO]: TeeRobZti lost connection: Server closed
+[03:30:01] [Server thread/INFO]: TeeRobZti left the game
+[03:30:01] [Server thread/INFO]: qSeren lost connection: Server closed
+[03:30:01] [Server thread/INFO]: qSeren left the game
+[03:30:01] [Server thread/INFO]: AdrianoLC lost connection: Server closed
+[03:30:01] [Server thread/INFO]: AdrianoLC left the game
+[03:30:01] [Server thread/INFO]: thenoxplayer lost connection: Server closed
+[03:30:01] [Server thread/INFO]: thenoxplayer left the game
+[03:30:01] [Server thread/INFO]: Saving worlds
+[03:30:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:30:01] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[03:30:01] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[03:30:01] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[03:30:01] [Server thread/INFO]: [ChunkHolderManager] Saved 38 block chunks, 684 entity chunks, 1 poi chunks in world 'world' in 0.18s
+[03:30:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[03:30:01] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[03:30:01] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[03:30:01] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[03:30:01] [Server thread/INFO]: [ChunkHolderManager] Saved 790 block chunks, 6 entity chunks, 0 poi chunks in world 'world_the_end' in 0.22s
+[03:30:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_cavernous_the_myst]'/cavernous:the_myst
+[03:30:01] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_cavernous_the_myst'
+[03:30:01] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_cavernous_the_myst'
+[03:30:01] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_cavernous_the_myst'
+[03:30:02] [Server thread/INFO]: [ChunkHolderManager] Saved 804 block chunks, 2 entity chunks, 0 poi chunks in world 'world_cavernous_the_myst' in 0.25s
+[03:30:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:30:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:30:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (the_myst): All chunks are saved
+[03:30:02] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
